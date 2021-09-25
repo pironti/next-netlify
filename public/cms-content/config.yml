@@ -45,7 +45,7 @@ collections:
     files:
       - name: "tags"
         label: "Tags"
-        file: "meta/tags.yml"
+        file: "src/cms/meta/tags.yml"
         description: "Lista de tags"
         fields:
           - name: tags
@@ -62,7 +62,7 @@ collections:
                 widget: "string"
       - name: "categorias"
         label: "Categorias"
-        file: "meta/categorias.yml"
+        file: "src/cms/meta/categorias.yml"
         description: "Lista de categorias"
         fields:
           - name: categorias
@@ -79,7 +79,7 @@ collections:
                 widget: "string"
   - name: "posts"
     label: "Posts"
-    folder: "cms/content/posts/"
+    folder: "src/cms/content/posts/"
     extension: "mdx"
     format: "frontmatter"
     create: true
