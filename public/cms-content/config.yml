@@ -1,0 +1,140 @@
+backend:
+  name: github
+  repo: pironti/next-netlify
+  branch: main
+  api_root: https://api.github.com
+  site_domain: location.hostname
+  base_url: https://api.netlify.com
+media_folder: public/images
+public_folder: /images
+collections:
+  - name: "config"
+    label: "Config"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "general"
+        label: "Site Config"
+        file: "config.json"
+        description: "Configurações gerais do site"
+        fields:
+          - label: "URL"
+            name: "base_url"
+            widget: "string"
+            hint: "Não insira a barra final do URL"
+          - label: "Título do site"
+            name: "site_title"
+            widget: "string"
+          - label: "Descrição do site"
+            name: "site_description"
+            widget: "string"
+          - label: "Palavras chaves"
+            name: "site_keywords"
+            widget: "list"
+            summary: "{{fields.keyword.keyword}}"
+            field:
+              label: Keyword
+              name: keyword
+              widget: "string"
+  - name: "meta"
+    label: "Meta"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "tags"
+        label: "Tags"
+        file: "meta/tags.yml"
+        description: "Lista de tags"
+        fields:
+          - name: tags
+            label: Tags
+            label_singular: "Tag"
+            widget: list
+            fields:
+              - label: "Slug"
+                name: "slug"
+                widget: "string"
+                hint: "Exemplo: tag-1"
+              - label: "Nome de exibição"
+                name: "name"
+                widget: "string"
+      - name: "categorias"
+        label: "Categorias"
+        file: "meta/categorias.yml"
+        description: "Lista de categorias"
+        fields:
+          - name: categorias
+            label: Categorias
+            label_singular: "Categoria"
+            widget: list
+            fields:
+              - label: "Slug"
+                name: "slug"
+                widget: "string"
+                hint: "Exemplo: categoria-1"
+              - label: "Nome de exibição"
+                name: "name"
+                widget: "string"
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts/"
+    extension: "mdx"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: slug
+    summary: "{{titulo}}"
+    fields:
+      - label: "Título"
+        name: "titulo"
+        widget: "string"
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+      - label: Categoria
+        name: "categoria"
+        widget: relation
+        collection: "meta"
+        file: "categorias"
+        searchFields:
+          - "categorias.*.name"
+        displayFields:
+          - "categorias.*.name"
+        valueField: "categorias.*.slug"
+      - label: Tags
+        label_singular: "Tag"
+        name: "tags"
+        widget: list
+        summary: "{{fields.tag}}"
+        field:
+          label: Tag
+          name: tag
+          widget: relation
+          collection: "meta"
+          file: "tags"
+          searchFields:
+            - "tags.*.name"
+          displayFields:
+            - "tags.*.name"
+          valueField: "tags.*.slug"
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: true
+        media_library:
+          config:
+            multiple: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Meta summary"
+        name: "meta_summary"
+        widget: "string"
+      - label: "Data de publicação"
+        name: "date"
+        widget: "datetime"
+        format: "DD/MM/YYYY"
+        dateFormat: "DD/MM/YYYY"
+        timeFormat: false
