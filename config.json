@@ -1,5 +1,8 @@
 {
   "base_url": "1231",
   "site_title": "123",
-  "site_description": "123"
+  "site_description": "123",
+  "site_keywords": [
+    "123"
+  ]
 }
