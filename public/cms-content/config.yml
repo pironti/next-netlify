@@ -79,7 +79,7 @@ collections:
                 widget: "string"
   - name: "posts"
     label: "Posts"
-    folder: "content/posts/"
+    folder: "cms/content/posts/"
     extension: "mdx"
     format: "frontmatter"
     create: true
