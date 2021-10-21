@@ -9,7 +9,7 @@ function NossaSede() {
             <img src="/images/home/nossaSede.png" className="mx-auto shadow-md"/>
           </div>
           <div className="flex flex-col pr-8 pl-8 pb-8 md:p-16">
-            <p className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
+            <p className="text-3xl font-black text-gray-900 sm:text-4xl">
               Consórcio Embracon Matriz
             </p>
             <p className="text-xl text-gray-500 mt-10">
@@ -21,7 +21,7 @@ function NossaSede() {
                 <div>
                 <button
               type="button"
-              className="font-semibold px-7 py-3 border border-transparent rounded-md shadow-sm bg-red-600 text-white shadow-md mt-6"
+              className="font-normal px-7 py-3 border border-transparent rounded-md bg-red-600 text-white shadow-md mt-6"
             >
               Veja como chegar
             </button>

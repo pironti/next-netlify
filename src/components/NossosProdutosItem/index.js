@@ -21,14 +21,14 @@ function NossosProdutosItem({produto}) {
             <div className="mx-auto md:mx-auto md:px-0 px-3 text-center md:text-left md:mt-0 mt-4 md:md-0 mb-4">
               <button
                 type="button"
-                className="font-semibold px-7 py-3 border-2 border-red-600 rounded-md shadow-sm bg-white text-red-600 shadow-md md:mt-6 md:mr-4"
+                className="px-7 py-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md md:mt-6 md:mr-4"
               >
                 Conheça mais
               </button>
               &nbsp;
               <button
                 type="button"
-                className="font-semibold md:mx-auto px-7 mx-auto py-3 border-2 border-red-600 border-transparent rounded-md shadow-sm bg-red-600 text-white shadow-md mt-6"
+                className="md:mx-auto px-7 mx-auto py-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md mt-6"
               >
                 Faça uma simulação
               </button>
