@@ -1,6 +1,6 @@
 function BannerPrincipal() {
   return (
-    <div className="relative ">
+    <div className="relative">
       <div className="absolute inset-x-0 bottom-0 h-1/2"></div>
       <div className="max-w-7xl mx-auto ">
         <div className="relative sm:overflow-hidden">

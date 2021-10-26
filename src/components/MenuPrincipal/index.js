@@ -7,8 +7,8 @@ function MenuPrincipal() {
             <a href="#">
               <span className="sr-only">Workflow</span>
               <img
-                className="h-8 w-auto sm:h-10"
-                src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                className="w-auto"
+                src="/images/logo.svg"
                 alt=""
               />
             </a>
@@ -42,42 +42,51 @@ function MenuPrincipal() {
               href="#"
               className="text-base font-medium text-gray-500 hover:text-gray-900"
             >
-              Product
+              A Embracon
             </a>
 
             <a
               href="#"
               className="text-base font-medium text-gray-500 hover:text-gray-900"
             >
-              Features
+              Consórcio
             </a>
 
             <a
               href="#"
               className="text-base font-medium text-gray-500 hover:text-gray-900"
             >
-              Marketplace
+              Entenda o Consórcio
             </a>
 
             <a
               href="#"
               className="text-base font-medium text-gray-500 hover:text-gray-900"
             >
-              Company
+              Blog
+            </a>
+            <a
+              href="#"
+              className="text-base font-medium text-gray-500 hover:text-gray-900"
+            >
+              Fale Conosco
             </a>
           </nav>
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
               href="#"
-              className="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900"
+              className="p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md"
             >
-              Sign in
-            </a>
+              <img
+                className="w-auto" src="/images/barcode.svg" alt=""
+              />
+              2ª via boleto
+            </a> &nbsp;&nbsp;
             <a
               href="#"
-              className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700"
+              className="p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md "
             >
-              Sign up
+              Clientes
             </a>
           </div>
         </div>

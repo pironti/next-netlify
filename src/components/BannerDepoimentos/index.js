@@ -6,7 +6,7 @@ function BannerDepoimento() {
       <div className="bg-red-600 rounded-l-lg w-1/2">
           <h1 className="text-4xl font-bold text-white ml-16 mt-16 mr-8">Eu sou cliente Embracon!</h1>
           <p className="text-2xl text-white ml-16 mt-16 mr-16 mb-24">
-          Veja o que os nossos clientes estão falando sobre a experiência de contar com a Embracon.
+            Veja o que os nossos clientes estão falando sobre a experiência de contar com a Embracon.
           </p>
         </div>
 

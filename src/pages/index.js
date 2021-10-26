@@ -6,15 +6,18 @@ import BannerPrincipal from "../components/BannerPrincipal";
 import BannerParceiros from "../components/BannerParceiros";
 import VoceSabia from "../components/VoceSabia";
 import BannerDepoimento from "../components/BannerDepoimentos";
+import BannerBotoesSimulacoes from "../components/BannerBotoesSimulacoes"
 
+//<BannerDepoimento />
 function Home() {
   return (
     <>
       <Template>
-        <BannerPrincipal />
+        <BannerPrincipal /> 
+        <BannerBotoesSimulacoes />
         <NossaSede />
         <BannerSimulacao />
-        <BannerDepoimento />
+        
         <NossosProdutos />
         <BannerParceiros />
         <VoceSabia />
