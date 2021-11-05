@@ -72,19 +72,19 @@ function MenuPrincipal() {
               Fale Conosco
             </a>
           </nav>
-          <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
+          <div className="flex items-center justify-end md:flex-1 lg:w-0 flex">
             <a
               href="#"
-              className="p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md"
+              className="invisible md:visible p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md w-auto flex space-x-4 mr-4"
             >
               <img
-                className="w-auto" src="/images/barcode.svg" alt=""
-              />
+                className="" src="/images/barcode.svg" alt=""
+              /> &nbsp;
               2ª via boleto
-            </a> &nbsp;&nbsp;
+            </a> 
             <a
               href="#"
-              className="p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md "
+              className="invisible md:visible p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md "
             >
               Clientes
             </a>

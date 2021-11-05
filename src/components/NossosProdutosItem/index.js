@@ -1,6 +1,6 @@
 function NossosProdutosItem({produto}) {
   return (
-    <div className="p-2 pr-8 pl-8 ">
+    <div className="md:p-2 pr-8 pl-8 ">
       <div className="relative bg-white max-w-7xl rounded-lg mx-auto md:p-0 p-3 p-6 mt-8"> 
         <div className="h-56 sm:h-72 md:absolute md:right-0 md:h-full md:w-1/2 rounded-lg">
           <img

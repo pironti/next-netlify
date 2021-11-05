@@ -30,9 +30,11 @@ function BannerBotoesSimulacoes() {
 
       <div className="flex flex-row items-center pt-12">
         
-        {produtos.map((produto, index) => (
-          <SimulacaoItem key={index} produto={produto}></SimulacaoItem>
-        ))}
+        {
+          produtos.map((produto, index) => (
+            <SimulacaoItem key={index} produto={produto}></SimulacaoItem>
+          ))
+        }
 
       </div>
     </ContainerBase>

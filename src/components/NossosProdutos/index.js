@@ -28,13 +28,13 @@ const nossosProdutos = [
   }
 ];
 
-function NossosProdutos() {
+function NossosProdutos({titulo}) {
   
   return (
     <>
-      <div className=".nossos-produtos-title mx-auto mb-8 mt-8 md:pt-8 text-center pr-8 pl-8">
+      <div className=".nossos-produtos-title mx-auto md:mb-4 mt-8 md:pt-8 text-center pr-8 pl-8">
         <p className="font-extrabold text-4xl md:text-4xl ">
-          Conheça nossos produtos
+          {titulo}
         </p>
       </div>
       {nossosProdutos.map((produto, index) => (
