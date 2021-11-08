@@ -30,3 +30,11 @@
     height: 500px;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 19.79%, #030303 100%), url("/images/home/bannerPrincipalBg.png");
 }
+
+.wrapper{
+	display: flex;
+	overflow-x: auto;
+}
+.wrapper::-webkit-scrollbar{
+	width:0;
+}

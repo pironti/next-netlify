@@ -27,8 +27,7 @@ const produtos = [
 function BannerBotoesSimulacoes() {
   return (
     <ContainerBase>
-
-      <div className="flex flex-row items-center pt-12">
+      <div className="flex flex-row items-center pt-4 overflow-x-auto z-40">
         
         {
           produtos.map((produto, index) => (

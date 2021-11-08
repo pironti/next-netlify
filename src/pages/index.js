@@ -8,13 +8,13 @@ import VoceSabia from "../components/VoceSabia";
 import BannerDepoimento from "../components/BannerDepoimentos";
 import BannerBotoesSimulacoes from "../components/BannerBotoesSimulacoes"
 
-//<BannerDepoimento />
+//<<BannerBotoesSimulacoes /> />
 function Home() {
   return (
     <>
       <Template>
         <BannerPrincipal /> 
-        <BannerBotoesSimulacoes />
+        
         <NossaSede />
         <BannerSimulacao />
         <NossosProdutos titulo="Conheça nossos produtos"/>
