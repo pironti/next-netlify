@@ -5,8 +5,7 @@ backend:
   api_root: https://api.github.com
   site_domain: location.hostname
   base_url: https://api.netlify.com
-media_folder: public/images/blog
-public_folder: /images
+media_folder: public/cms-content/media
 publish_mode: editorial_workflow
 collections:
   - name: "config"
