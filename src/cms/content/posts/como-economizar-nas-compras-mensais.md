@@ -4,7 +4,7 @@ slug: como-economizar-nas-compras-mensais
 categoria: Finanças Pessoais
 tags:
   - tag-1
-thumbnail: /images/como-economizar-nas-compras-mensais.jpg
+thumbnail: /images/3-dicas-para-fazer-uma-festa-de-50-anos.jpg
 meta_summary: meta
 date: 09/11/2021
 ---
