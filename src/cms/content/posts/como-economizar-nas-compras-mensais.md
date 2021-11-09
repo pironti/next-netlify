@@ -4,7 +4,7 @@ slug: como-economizar-nas-compras-mensais
 categoria: Finanças Pessoais
 tags:
   - tag-1
-thumbnail: /images/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas.jpg
+thumbnail: /public/cms-content/media/3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica.jpg
 meta_summary: meta
 date: 09/11/2021
 ---
