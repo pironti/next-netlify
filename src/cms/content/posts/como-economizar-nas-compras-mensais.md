@@ -3,9 +3,9 @@ titulo: Como economizar nas compras mensais?
 slug: como-economizar-nas-compras-mensais
 categoria: Finanças Pessoais
 tags:
-    - tag-1
-thumbnail: /images/blog/como-economizar-nas-compras-mensais.jpg
-meta_summary: 
+  - tag-1
+thumbnail: /images/como-economizar-nas-compras-mensais.jpg
+meta_summary: meta
 date: 09/11/2021
 ---
 Cada brasileiro possui um tipo de rotina diferente na [hora de fazer as compras para casa](https://www.embracon.com.br/blog/10-importantes-dicas-para-economizar-nas-compras-de-casa). Alguns preferem ir semanalmente ao mercado, enquanto outros compram de acordo com a necessidade: se alguma coisa acaba, repõe imediatamente, sem a necessidade de transportar carrinhos pelo supermercado.
