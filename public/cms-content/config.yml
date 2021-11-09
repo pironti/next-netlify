@@ -1,11 +1,11 @@
 backend:
   name: github
   repo: pironti/next-netlify
-  branch: main
+  branch: dev
   api_root: https://api.github.com
   site_domain: location.hostname
   base_url: https://api.netlify.com
-media_folder: public/images
+media_folder: public/images/blog
 public_folder: /images
 publish_mode: editorial_workflow
 collections:
@@ -81,7 +81,7 @@ collections:
   - name: "posts"
     label: "Posts"
     folder: "src/cms/content/posts/"
-    extension: "mdx"
+    extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
