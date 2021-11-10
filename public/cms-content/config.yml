@@ -5,8 +5,12 @@ backend:
   api_root: https://api.github.com
   site_domain: location.hostname
   base_url: https://api.netlify.com
-media_folder: public/cms-content/media
+media_folder: public/static/cms-content
 publish_mode: editorial_workflow
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 collections:
   - name: "config"
     label: "Config"
@@ -80,6 +84,7 @@ collections:
   - name: "posts"
     label: "Posts"
     folder: "src/cms/content/posts/"
+    search: true
     extension: "md"
     format: "frontmatter"
     create: true
