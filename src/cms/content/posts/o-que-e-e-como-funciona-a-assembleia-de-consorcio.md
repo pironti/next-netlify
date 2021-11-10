@@ -4,7 +4,7 @@ slug: o-que-e-e-como-funciona-a-assembleia-de-consorcio
 categoria: assembleias
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-a-assembleia-de-consorcio.jpg
+thumbnail: /public/static/cms-content/o-que-e-e-como-funciona-a-assembleia-de-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

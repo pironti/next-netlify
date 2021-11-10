@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - casa-nova
  - consorcio
-thumbnail: /public/cms-content/media/como-conquistar-a-estabilidade-da-casa-propria.png
+thumbnail: /public/static/cms-content/como-conquistar-a-estabilidade-da-casa-propria.png
 meta_summary: 
 date: 07/10/2021
 ---

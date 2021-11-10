@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/4-dicas-na-hora-de-comprar-passagens-aereas.jpg
+thumbnail: /public/static/cms-content/4-dicas-na-hora-de-comprar-passagens-aereas.jpg
 meta_summary: 
 date: 01/10/2021
 ---

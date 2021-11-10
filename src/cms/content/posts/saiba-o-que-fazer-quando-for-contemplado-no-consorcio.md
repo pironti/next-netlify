@@ -4,7 +4,7 @@ slug: saiba-o-que-fazer-quando-for-contemplado-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/saiba-o-que-fazer-quando-for-contemplado-no-consorcio.jpg
+thumbnail: /public/static/cms-content/saiba-o-que-fazer-quando-for-contemplado-no-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

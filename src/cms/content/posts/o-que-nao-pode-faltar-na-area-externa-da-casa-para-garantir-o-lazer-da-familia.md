@@ -4,7 +4,7 @@ slug: o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-fam
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia.jpg
+thumbnail: /public/static/cms-content/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia.jpg
 meta_summary: 
 date: 05/10/2021
 ---

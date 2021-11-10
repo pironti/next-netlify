@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-x-financiamento
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/como-funciona-a-oferta-e-o-desempate-do-lance-no-consorcio.jpg
+thumbnail: /public/static/cms-content/como-funciona-a-oferta-e-o-desempate-do-lance-no-consorcio.jpg
 meta_summary: 
 date: 30/10/2021
 ---

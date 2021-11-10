@@ -4,7 +4,7 @@ slug: passo-a-passo-para-um-consorcio-seguro
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/passo-a-passo-para-um-consorcio-seguro.jpg
+thumbnail: /public/static/cms-content/passo-a-passo-para-um-consorcio-seguro.jpg
 meta_summary: 
 date: 27/09/2021
 ---

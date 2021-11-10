@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - dicas-de-carro
  - dicas-de-economia
-thumbnail: /public/cms-content/media/usando-meu-carro-como-meio-de-fazer-uma-renda-extra.jpg
+thumbnail: /public/static/cms-content/usando-meu-carro-como-meio-de-fazer-uma-renda-extra.jpg
 meta_summary: 
 date: 24/09/2021
 ---

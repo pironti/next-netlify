@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/cms-content/media/planejar-aposentadoria-com-consorcio.jpg
+thumbnail: /public/static/cms-content/planejar-aposentadoria-com-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

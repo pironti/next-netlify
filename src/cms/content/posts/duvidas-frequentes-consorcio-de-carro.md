@@ -4,7 +4,7 @@ slug: duvidas-frequentes-consorcio-de-carro
 categoria: consorcio
 tags:
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/duvidas-frequentes-consorcio-de-carro.jpg
+thumbnail: /public/static/cms-content/duvidas-frequentes-consorcio-de-carro.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/entenda-quais-sao-as-vantagens-de-aprender-mandarim.jpeg
+thumbnail: /public/static/cms-content/entenda-quais-sao-as-vantagens-de-aprender-mandarim.jpeg
 meta_summary: 
 date: 07/10/2021
 ---

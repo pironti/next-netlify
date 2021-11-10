@@ -4,7 +4,7 @@ slug: saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio.jpeg
+thumbnail: /public/static/cms-content/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

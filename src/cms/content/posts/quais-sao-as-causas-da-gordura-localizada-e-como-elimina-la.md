@@ -6,7 +6,7 @@ tags:
  - consorcio-de-plastica
  - consorcio-de-estetica
  - dieta
-thumbnail: /public/cms-content/media/quais-sao-as-causas-da-gordura-localizada-e-como-elimina-la.jpg
+thumbnail: /public/static/cms-content/quais-sao-as-causas-da-gordura-localizada-e-como-elimina-la.jpg
 meta_summary: 
 date: 01/10/2021
 ---

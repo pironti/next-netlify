@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/como-fazer-um-consorcio.jpeg
+thumbnail: /public/static/cms-content/como-fazer-um-consorcio.jpeg
 meta_summary: 
 date: 29/09/2021
 ---

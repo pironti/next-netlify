@@ -12,7 +12,7 @@ tags:
  - educacao-financeira
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/o-que-e-autofinanciamento.jpg
+thumbnail: /public/static/cms-content/o-que-e-autofinanciamento.jpg
 meta_summary: 
 date: 30/09/2021
 ---

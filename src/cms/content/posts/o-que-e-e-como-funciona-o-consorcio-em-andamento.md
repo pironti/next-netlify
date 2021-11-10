@@ -4,7 +4,7 @@ slug: o-que-e-e-como-funciona-o-consorcio-em-andamento
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-o-consorcio-em-andamento.png
+thumbnail: /public/static/cms-content/o-que-e-e-como-funciona-o-consorcio-em-andamento.png
 meta_summary: 
 date: 29/09/2021
 ---

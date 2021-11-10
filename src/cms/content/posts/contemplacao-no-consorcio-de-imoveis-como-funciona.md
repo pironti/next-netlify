@@ -4,7 +4,7 @@ slug: contemplacao-no-consorcio-de-imoveis-como-funciona
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/contemplacao-no-consorcio-de-imoveis-como-funciona.jpg
+thumbnail: /public/static/cms-content/contemplacao-no-consorcio-de-imoveis-como-funciona.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -4,7 +4,7 @@ slug: perfil-de-investidor-conheca-os-tipos-e-saiba-qual-e-o-seu
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/perfil-de-investidor-conheca-os-tipos-e-saiba-qual-e-o-seu.jpg
+thumbnail: /public/static/cms-content/perfil-de-investidor-conheca-os-tipos-e-saiba-qual-e-o-seu.jpg
 meta_summary: 
 date: 04/10/2021
 ---

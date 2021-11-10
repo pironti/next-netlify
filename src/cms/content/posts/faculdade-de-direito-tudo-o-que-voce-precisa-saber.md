@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/faculdade-de-direito-tudo-o-que-voce-precisa-saber.jpeg
+thumbnail: /public/static/cms-content/faculdade-de-direito-tudo-o-que-voce-precisa-saber.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

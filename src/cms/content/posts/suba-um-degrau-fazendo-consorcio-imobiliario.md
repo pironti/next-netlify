@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - casa-nova
-thumbnail: /public/cms-content/media/suba-um-degrau-fazendo-consorcio-imobiliario.jpg
+thumbnail: /public/static/cms-content/suba-um-degrau-fazendo-consorcio-imobiliario.jpg
 meta_summary: 
 date: 24/09/2021
 ---

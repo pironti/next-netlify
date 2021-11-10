@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - tendencia-em-decoracao
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/5-tendencias-de-decoracao-de-festa-de-quinze-anos.jpg
+thumbnail: /public/static/cms-content/5-tendencias-de-decoracao-de-festa-de-quinze-anos.jpg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/cms-content/media/e-possivel-pagar-tributos-do-veiculo-com-o-saldo-excedente-do-consorcio.jpeg
+thumbnail: /public/static/cms-content/e-possivel-pagar-tributos-do-veiculo-com-o-saldo-excedente-do-consorcio.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

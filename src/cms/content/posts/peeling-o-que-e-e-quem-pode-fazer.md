@@ -6,7 +6,7 @@ tags:
  - dicas-de-estetica
  - estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/peeling-o-que-e-e-quem-pode-fazer.jpg
+thumbnail: /public/static/cms-content/peeling-o-que-e-e-quem-pode-fazer.jpg
 meta_summary: 
 date: 05/10/2021
 ---

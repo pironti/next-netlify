@@ -4,7 +4,7 @@ slug: como-investir-ganhando-pouco
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/cms-content/media/como-investir-ganhando-pouco.jpg
+thumbnail: /public/static/cms-content/como-investir-ganhando-pouco.jpg
 meta_summary: 
 date: 27/09/2021
 ---

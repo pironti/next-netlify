@@ -4,7 +4,7 @@ slug: guia-de-como-transferir-veiculo
 categoria: carros
 tags:
  - dicas-de-carro
-thumbnail: /public/cms-content/media/guia-de-como-transferir-veiculo.jpg
+thumbnail: /public/static/cms-content/guia-de-como-transferir-veiculo.jpg
 meta_summary: 
 date: 24/09/2021
 ---

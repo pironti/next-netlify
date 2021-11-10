@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/carros-eletricos-e-hibridos-consumo-consciente.jpg
+thumbnail: /public/static/cms-content/carros-eletricos-e-hibridos-consumo-consciente.jpg
 meta_summary: 
 date: 24/09/2021
 ---

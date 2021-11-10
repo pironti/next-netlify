@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/o-que-voce-precisa-saber-antes-de-viajar-para-toquio.jpeg
+thumbnail: /public/static/cms-content/o-que-voce-precisa-saber-antes-de-viajar-para-toquio.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

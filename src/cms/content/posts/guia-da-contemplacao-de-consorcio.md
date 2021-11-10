@@ -4,7 +4,7 @@ slug: guia-da-contemplacao-de-consorcio
 categoria: contemplacao
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/guia-da-contemplacao-de-consorcio.jpg
+thumbnail: /public/static/cms-content/guia-da-contemplacao-de-consorcio.jpg
 meta_summary: 
 date: 19/10/2021
 ---

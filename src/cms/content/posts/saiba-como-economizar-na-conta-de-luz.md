@@ -7,7 +7,7 @@ tags:
  - economizar-energia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/saiba-como-economizar-na-conta-de-luz.jpg
+thumbnail: /public/static/cms-content/saiba-como-economizar-na-conta-de-luz.jpg
 meta_summary: 
 date: 19/10/2021
 ---

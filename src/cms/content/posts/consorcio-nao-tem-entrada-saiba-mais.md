@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/cms-content/media/consorcio-nao-tem-entrada-saiba-mais.jpg
+thumbnail: /public/static/cms-content/consorcio-nao-tem-entrada-saiba-mais.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/o-que-e-possivel-fazer-com-o-fgts.jpg
+thumbnail: /public/static/cms-content/o-que-e-possivel-fazer-com-o-fgts.jpg
 meta_summary: 
 date: 28/09/2021
 ---

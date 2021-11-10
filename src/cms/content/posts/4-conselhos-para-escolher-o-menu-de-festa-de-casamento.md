@@ -7,7 +7,7 @@ tags:
  - consorcio-de-casamento
  - consorcio-de-festa
  - festas
-thumbnail: /public/cms-content/media/4-conselhos-para-escolher-o-menu-de-festa-de-casamento.jpg
+thumbnail: /public/static/cms-content/4-conselhos-para-escolher-o-menu-de-festa-de-casamento.jpg
 meta_summary: 
 date: 06/10/2021
 ---

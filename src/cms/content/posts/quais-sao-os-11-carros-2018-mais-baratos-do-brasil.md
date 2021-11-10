@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/quais-sao-os-11-carros-2018-mais-baratos-do-brasil.jpg
+thumbnail: /public/static/cms-content/quais-sao-os-11-carros-2018-mais-baratos-do-brasil.jpg
 meta_summary: 
 date: 24/09/2021
 ---

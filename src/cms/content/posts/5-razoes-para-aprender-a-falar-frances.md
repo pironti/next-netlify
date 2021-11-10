@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - destaque-profissional
  - dicas-de-carreira
-thumbnail: /public/cms-content/media/5-razoes-para-aprender-a-falar-frances.jpg
+thumbnail: /public/static/cms-content/5-razoes-para-aprender-a-falar-frances.jpg
 meta_summary: 
 date: 04/10/2021
 ---

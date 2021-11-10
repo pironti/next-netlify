@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/viajar-para-miami-confira-5-dicas.jpeg
+thumbnail: /public/static/cms-content/viajar-para-miami-confira-5-dicas.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - dicas-de-economia
  - educacao-financeira
  - economia-domestica
-thumbnail: /public/cms-content/media/entenda-o-que-e-o-dda-debito-direto-autorizado.png
+thumbnail: /public/static/cms-content/entenda-o-que-e-o-dda-debito-direto-autorizado.png
 meta_summary: 
 date: 06/10/2021
 ---

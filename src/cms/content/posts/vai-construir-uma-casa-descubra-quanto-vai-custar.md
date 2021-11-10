@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/vai-construir-uma-casa-descubra-quanto-vai-custar.png
+thumbnail: /public/static/cms-content/vai-construir-uma-casa-descubra-quanto-vai-custar.png
 meta_summary: 
 date: 06/10/2021
 ---

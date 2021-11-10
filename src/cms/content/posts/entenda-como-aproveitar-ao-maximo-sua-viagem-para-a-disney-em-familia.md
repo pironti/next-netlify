@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/entenda-como-aproveitar-ao-maximo-sua-viagem-para-a-disney-em-familia.jpg
+thumbnail: /public/static/cms-content/entenda-como-aproveitar-ao-maximo-sua-viagem-para-a-disney-em-familia.jpg
 meta_summary: 
 date: 04/10/2021
 ---

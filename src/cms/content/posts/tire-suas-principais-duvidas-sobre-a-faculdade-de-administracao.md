@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/tire-suas-principais-duvidas-sobre-a-faculdade-de-administracao.jpeg
+thumbnail: /public/static/cms-content/tire-suas-principais-duvidas-sobre-a-faculdade-de-administracao.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

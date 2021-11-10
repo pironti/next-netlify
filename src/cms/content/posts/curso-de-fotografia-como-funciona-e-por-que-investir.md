@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/curso-de-fotografia-como-funciona-e-por-que-investir.jpeg
+thumbnail: /public/static/cms-content/curso-de-fotografia-como-funciona-e-por-que-investir.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

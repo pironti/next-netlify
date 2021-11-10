@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/como-escolher-uma-administradora-de-consorcio.jpg
+thumbnail: /public/static/cms-content/como-escolher-uma-administradora-de-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

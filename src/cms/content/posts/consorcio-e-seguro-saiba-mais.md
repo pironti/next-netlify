@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/consorcio-e-seguro-saiba-mais.jpg
+thumbnail: /public/static/cms-content/consorcio-e-seguro-saiba-mais.jpg
 meta_summary: 
 date: 23/09/2021
 ---

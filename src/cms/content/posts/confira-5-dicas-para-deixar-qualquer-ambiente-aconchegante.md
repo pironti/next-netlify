@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante.jpeg
+thumbnail: /public/static/cms-content/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

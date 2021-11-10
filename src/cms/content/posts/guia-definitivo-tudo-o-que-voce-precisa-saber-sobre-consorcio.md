@@ -19,7 +19,7 @@ tags:
  - consorcio-x-financiamento
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio.jpg
+thumbnail: /public/static/cms-content/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

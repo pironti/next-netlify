@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - casa-nova
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/voce-sabe-o-que-e-um-memorial-de-imovel-descubra-para-que-serve.jpg
+thumbnail: /public/static/cms-content/voce-sabe-o-que-e-um-memorial-de-imovel-descubra-para-que-serve.jpg
 meta_summary: 
 date: 24/09/2021
 ---

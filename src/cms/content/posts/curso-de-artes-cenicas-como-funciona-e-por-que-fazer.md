@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - carreiras-em-alta
  - dicas-de-carreira
-thumbnail: /public/cms-content/media/curso-de-artes-cenicas-como-funciona-e-por-que-fazer.jpeg
+thumbnail: /public/static/cms-content/curso-de-artes-cenicas-como-funciona-e-por-que-fazer.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

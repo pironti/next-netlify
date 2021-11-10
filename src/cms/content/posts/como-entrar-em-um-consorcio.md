@@ -4,7 +4,7 @@ slug: como-entrar-em-um-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-entrar-em-um-consorcio.jpg
+thumbnail: /public/static/cms-content/como-entrar-em-um-consorcio.jpg
 meta_summary: 
 date: 19/10/2021
 ---

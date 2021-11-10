@@ -10,7 +10,7 @@ tags:
  - consorcio-e-investimento
  - tipos-de-consorcio
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/como-funciona-a-desistencia-de-um-consorcio.jpg
+thumbnail: /public/static/cms-content/como-funciona-a-desistencia-de-um-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

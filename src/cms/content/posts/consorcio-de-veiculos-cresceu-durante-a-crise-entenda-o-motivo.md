@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - consorcio
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo.jpg
+thumbnail: /public/static/cms-content/consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo.jpg
 meta_summary: 
 date: 27/09/2021
 ---

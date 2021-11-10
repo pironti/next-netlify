@@ -4,7 +4,7 @@ slug: ideias-e-sugestoes-decoracao-com-tapetes
 categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/ideias-e-sugestoes-decoracao-com-tapetes.jpg
+thumbnail: /public/static/cms-content/ideias-e-sugestoes-decoracao-com-tapetes.jpg
 meta_summary: 
 date: 27/09/2021
 ---

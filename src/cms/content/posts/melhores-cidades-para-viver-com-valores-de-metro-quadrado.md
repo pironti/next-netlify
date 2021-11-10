@@ -4,7 +4,7 @@ slug: melhores-cidades-para-viver-com-valores-de-metro-quadrado
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/melhores-cidades-para-viver-com-valores-de-metro-quadrado.jpg
+thumbnail: /public/static/cms-content/melhores-cidades-para-viver-com-valores-de-metro-quadrado.jpg
 meta_summary: 
 date: 24/09/2021
 ---

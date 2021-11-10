@@ -8,7 +8,7 @@ tags:
  - dicas-de-carro
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/como-funciona-e-quais-sao-as-vantagens-da-direcao-eletrica.jpg
+thumbnail: /public/static/cms-content/como-funciona-e-quais-sao-as-vantagens-da-direcao-eletrica.jpg
 meta_summary: 
 date: 04/10/2021
 ---

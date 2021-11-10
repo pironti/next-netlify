@@ -4,7 +4,7 @@ slug: 5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro.jpg
+thumbnail: /public/static/cms-content/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro.jpg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -4,7 +4,7 @@ slug: importancia-de-ter-uma-frota-para-o-seu-negocio
 categoria: pesados
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/importancia-de-ter-uma-frota-para-o-seu-negocio.jpg
+thumbnail: /public/static/cms-content/importancia-de-ter-uma-frota-para-o-seu-negocio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

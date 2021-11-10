@@ -15,7 +15,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos.jpg
+thumbnail: /public/static/cms-content/guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/os-15-principais-carros-do-brasil.jpg
+thumbnail: /public/static/cms-content/os-15-principais-carros-do-brasil.jpg
 meta_summary: 
 date: 23/09/2021
 ---

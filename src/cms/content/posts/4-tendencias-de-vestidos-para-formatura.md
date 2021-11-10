@@ -4,7 +4,7 @@ slug: 4-tendencias-de-vestidos-para-formatura
 categoria: consorcio
 tags:
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/4-tendencias-de-vestidos-para-formatura.jpg
+thumbnail: /public/static/cms-content/4-tendencias-de-vestidos-para-formatura.jpg
 meta_summary: 
 date: 06/10/2021
 ---

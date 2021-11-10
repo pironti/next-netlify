@@ -4,7 +4,7 @@ slug: quitacao-de-financiamento-como-usar-a-carta-de-credito
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/quitacao-de-financiamento-como-usar-a-carta-de-credito.jpg
+thumbnail: /public/static/cms-content/quitacao-de-financiamento-como-usar-a-carta-de-credito.jpg
 meta_summary: 
 date: 06/10/2021
 ---

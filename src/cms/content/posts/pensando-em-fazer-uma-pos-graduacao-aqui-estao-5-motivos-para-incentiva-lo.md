@@ -7,7 +7,7 @@ tags:
  - consorcio-de-educacao
  - destaque-profissional
  - dicas-de-carreira
-thumbnail: /public/cms-content/media/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo.jpg
+thumbnail: /public/static/cms-content/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo.jpg
 meta_summary: 
 date: 06/10/2021
 ---

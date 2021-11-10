@@ -4,7 +4,7 @@ slug: como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio.jpg
+thumbnail: /public/static/cms-content/como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

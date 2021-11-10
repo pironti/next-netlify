@@ -4,7 +4,7 @@ slug: consorcio-para-reforma-embracon-por-que-e-uma-boa-opcao
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/consorcio-para-reforma-embracon-por-que-e-uma-boa-opcao.jpeg
+thumbnail: /public/static/cms-content/consorcio-para-reforma-embracon-por-que-e-uma-boa-opcao.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

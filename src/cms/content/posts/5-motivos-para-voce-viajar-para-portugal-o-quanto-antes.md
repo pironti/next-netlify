@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes.jpg
+thumbnail: /public/static/cms-content/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes.jpg
 meta_summary: 
 date: 04/10/2021
 ---

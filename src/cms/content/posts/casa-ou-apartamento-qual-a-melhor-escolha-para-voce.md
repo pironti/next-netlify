@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - consorcio-de-imoveis
  - dicas
-thumbnail: /public/cms-content/media/casa-ou-apartamento-qual-a-melhor-escolha-para-voce.jpg
+thumbnail: /public/static/cms-content/casa-ou-apartamento-qual-a-melhor-escolha-para-voce.jpg
 meta_summary: 
 date: 05/10/2021
 ---

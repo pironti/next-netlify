@@ -10,7 +10,7 @@ tags:
  - educacao-financeira
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/as-principais-dicas-de-como-planejar-suas-ferias-para-a-europa.jpg
+thumbnail: /public/static/cms-content/as-principais-dicas-de-como-planejar-suas-ferias-para-a-europa.jpg
 meta_summary: 
 date: 30/09/2021
 ---

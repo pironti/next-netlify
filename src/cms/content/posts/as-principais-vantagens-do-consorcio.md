@@ -4,7 +4,7 @@ slug: as-principais-vantagens-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/as-principais-vantagens-do-consorcio.jpg
+thumbnail: /public/static/cms-content/as-principais-vantagens-do-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

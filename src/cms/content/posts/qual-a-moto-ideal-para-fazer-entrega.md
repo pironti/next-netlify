@@ -4,7 +4,7 @@ slug: qual-a-moto-ideal-para-fazer-entrega
 categoria: moto
 tags:
  - moto
-thumbnail: /public/cms-content/media/qual-a-moto-ideal-para-fazer-entrega.jpg
+thumbnail: /public/static/cms-content/qual-a-moto-ideal-para-fazer-entrega.jpg
 meta_summary: 
 date: 19/10/2021
 ---

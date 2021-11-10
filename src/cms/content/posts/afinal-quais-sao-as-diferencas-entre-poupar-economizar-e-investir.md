@@ -6,7 +6,7 @@ tags:
  - educacao-financeira
  - consorcio-e-investimento
  - economia-domestica
-thumbnail: /public/cms-content/media/afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir.jpg
+thumbnail: /public/static/cms-content/afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir.jpg
 meta_summary: 
 date: 04/10/2021
 ---

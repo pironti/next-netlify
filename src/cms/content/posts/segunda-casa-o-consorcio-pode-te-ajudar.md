@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - casa-nova
  - comprar-casa
-thumbnail: /public/cms-content/media/segunda-casa-o-consorcio-pode-te-ajudar.png
+thumbnail: /public/static/cms-content/segunda-casa-o-consorcio-pode-te-ajudar.png
 meta_summary: 
 date: 06/10/2021
 ---

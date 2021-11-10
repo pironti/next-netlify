@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - casa-nova
-thumbnail: /public/cms-content/media/o-consorcio-de-imoveis-e-para-todos.jpg
+thumbnail: /public/static/cms-content/o-consorcio-de-imoveis-e-para-todos.jpg
 meta_summary: 
 date: 24/09/2021
 ---

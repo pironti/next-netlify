@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/e-possivel-fazer-um-consorcio-de-imovel-comercial.jpeg
+thumbnail: /public/static/cms-content/e-possivel-fazer-um-consorcio-de-imovel-comercial.jpeg
 meta_summary: 
 date: 24/09/2021
 ---

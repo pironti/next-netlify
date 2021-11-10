@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/diferencas-entre-os-consorcios-de-imoveis-e-automoveis.jpg
+thumbnail: /public/static/cms-content/diferencas-entre-os-consorcios-de-imoveis-e-automoveis.jpg
 meta_summary: 
 date: 27/09/2021
 ---

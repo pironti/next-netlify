@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/antecipar-parcelas-do-consorcio-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/antecipar-parcelas-do-consorcio-vale-a-pena.jpg
 meta_summary: 
 date: 29/09/2021
 ---

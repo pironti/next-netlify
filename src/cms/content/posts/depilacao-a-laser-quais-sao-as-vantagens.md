@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/depilacao-a-laser-quais-sao-as-vantagens.jpeg
+thumbnail: /public/static/cms-content/depilacao-a-laser-quais-sao-as-vantagens.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

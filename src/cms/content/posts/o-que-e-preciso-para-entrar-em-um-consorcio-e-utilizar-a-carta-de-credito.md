@@ -10,7 +10,7 @@ tags:
  - dicas-de-economia
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/o-que-e-preciso-para-entrar-em-um-consorcio-e-utilizar-a-carta-de-credito.jpg
+thumbnail: /public/static/cms-content/o-que-e-preciso-para-entrar-em-um-consorcio-e-utilizar-a-carta-de-credito.jpg
 meta_summary: 
 date: 30/09/2021
 ---

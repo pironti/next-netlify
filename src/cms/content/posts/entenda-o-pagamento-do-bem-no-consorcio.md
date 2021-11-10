@@ -4,7 +4,7 @@ slug: entenda-o-pagamento-do-bem-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/entenda-o-pagamento-do-bem-no-consorcio.jpg
+thumbnail: /public/static/cms-content/entenda-o-pagamento-do-bem-no-consorcio.jpg
 meta_summary: 
 date: 04/10/2021
 ---

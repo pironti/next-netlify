@@ -4,7 +4,7 @@ slug: vale-a-pena-cancelar-o-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/vale-a-pena-cancelar-o-consorcio.jpg
+thumbnail: /public/static/cms-content/vale-a-pena-cancelar-o-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

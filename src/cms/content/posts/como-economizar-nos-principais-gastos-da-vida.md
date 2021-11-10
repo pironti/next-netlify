@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-economizar-nos-principais-gastos-da-vida.jpg
+thumbnail: /public/static/cms-content/como-economizar-nos-principais-gastos-da-vida.jpg
 meta_summary: 
 date: 27/09/2021
 ---

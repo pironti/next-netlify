@@ -7,7 +7,7 @@ tags:
  - consorcio-de-festa
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/confira-as-4-festas-de-casamento-de-famosos.jpg
+thumbnail: /public/static/cms-content/confira-as-4-festas-de-casamento-de-famosos.jpg
 meta_summary: 
 date: 04/10/2021
 ---

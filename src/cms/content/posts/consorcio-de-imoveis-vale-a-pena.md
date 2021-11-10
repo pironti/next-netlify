@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/consorcio-de-imoveis-vale-a-pena.jpeg
+thumbnail: /public/static/cms-content/consorcio-de-imoveis-vale-a-pena.jpeg
 meta_summary: 
 date: 24/09/2021
 ---

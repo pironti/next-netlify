@@ -5,7 +5,7 @@ categoria: pesados
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/consorcio-de-maquinas-agricolas-entenda-como-funciona.jpg
+thumbnail: /public/static/cms-content/consorcio-de-maquinas-agricolas-entenda-como-funciona.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -4,7 +4,7 @@ slug: porque-escolher-a-embracon-como-sua-administradora-de-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/porque-escolher-a-embracon-como-sua-administradora-de-consorcio.jpg
+thumbnail: /public/static/cms-content/porque-escolher-a-embracon-como-sua-administradora-de-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

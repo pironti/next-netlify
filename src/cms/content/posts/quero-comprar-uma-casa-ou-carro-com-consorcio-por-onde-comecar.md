@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar.jpg
+thumbnail: /public/static/cms-content/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/tire-5-duvidas-sobre-a-faculdade-de-medicina.jpeg
+thumbnail: /public/static/cms-content/tire-5-duvidas-sobre-a-faculdade-de-medicina.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

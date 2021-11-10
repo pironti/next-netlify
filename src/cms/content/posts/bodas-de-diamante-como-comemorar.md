@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/bodas-de-diamante-como-comemorar.jpg
+thumbnail: /public/static/cms-content/bodas-de-diamante-como-comemorar.jpg
 meta_summary: 
 date: 01/10/2021
 ---

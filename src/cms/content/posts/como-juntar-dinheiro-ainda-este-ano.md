@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-juntar-dinheiro-ainda-este-ano.jpg
+thumbnail: /public/static/cms-content/como-juntar-dinheiro-ainda-este-ano.jpg
 meta_summary: 
 date: 24/09/2021
 ---

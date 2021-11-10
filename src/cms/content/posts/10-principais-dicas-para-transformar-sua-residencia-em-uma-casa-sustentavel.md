@@ -13,7 +13,7 @@ tags:
  - economia-domestica
  - economizar-energia
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/10-principais-dicas-para-transformar-sua-residencia-em-uma-casa-sustentavel.jpg
+thumbnail: /public/static/cms-content/10-principais-dicas-para-transformar-sua-residencia-em-uma-casa-sustentavel.jpg
 meta_summary: 
 date: 30/09/2021
 ---

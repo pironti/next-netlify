@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - dicas-de-carro
  - consorcio-x-financiamento
-thumbnail: /public/cms-content/media/consorcio-de-carro-compre-seu-automovel-sem-juros.jpg
+thumbnail: /public/static/cms-content/consorcio-de-carro-compre-seu-automovel-sem-juros.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/habitos-de-consumo-antes-durante-e-pos-pandemia.jpg
+thumbnail: /public/static/cms-content/habitos-de-consumo-antes-durante-e-pos-pandemia.jpg
 meta_summary: 
 date: 30/09/2021
 ---

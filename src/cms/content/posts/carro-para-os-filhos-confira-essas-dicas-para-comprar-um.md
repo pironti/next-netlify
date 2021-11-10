@@ -7,7 +7,7 @@ tags:
  - educacao-financeira
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/carro-para-os-filhos-confira-essas-dicas-para-comprar-um.jpg
+thumbnail: /public/static/cms-content/carro-para-os-filhos-confira-essas-dicas-para-comprar-um.jpg
 meta_summary: 
 date: 24/09/2021
 ---

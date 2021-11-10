@@ -7,7 +7,7 @@ tags:
  - dicas-de-estetica
  - consorcio-de-estetica
  - consorcio-de-plastica
-thumbnail: /public/cms-content/media/cirurgia-na-orelha-tire-todas-as-suas-duvidas.jpg
+thumbnail: /public/static/cms-content/cirurgia-na-orelha-tire-todas-as-suas-duvidas.jpg
 meta_summary: 
 date: 04/10/2021
 ---

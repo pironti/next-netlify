@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/saiba-o-que-considerar-para-escolher-o-carro-ideal.jpg
+thumbnail: /public/static/cms-content/saiba-o-que-considerar-para-escolher-o-carro-ideal.jpg
 meta_summary: 
 date: 06/10/2021
 ---

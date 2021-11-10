@@ -4,7 +4,7 @@ slug: instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los.jpeg
+thumbnail: /public/static/cms-content/instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

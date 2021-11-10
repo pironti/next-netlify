@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - por-que-fazer-um-consorcio
  - consorcio-x-financiamento
-thumbnail: /public/cms-content/media/consorcio-de-carro-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/consorcio-de-carro-vale-a-pena.jpg
 meta_summary: 
 date: 29/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira.jpg
+thumbnail: /public/static/cms-content/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira.jpg
 meta_summary: 
 date: 01/10/2021
 ---

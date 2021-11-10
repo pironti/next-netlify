@@ -4,7 +4,7 @@ slug: o-que-muda-na-economia-com-o-novo-governo
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/o-que-muda-na-economia-com-o-novo-governo.jpeg
+thumbnail: /public/static/cms-content/o-que-muda-na-economia-com-o-novo-governo.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-viagem
  - dicas
  - dicas-de-viagem
-thumbnail: /public/cms-content/media/como-se-preparar-para-fazer-um-ano-sabatico.jpg
+thumbnail: /public/static/cms-content/como-se-preparar-para-fazer-um-ano-sabatico.jpg
 meta_summary: 
 date: 30/09/2021
 ---

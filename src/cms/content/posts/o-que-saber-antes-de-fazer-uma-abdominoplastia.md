@@ -4,7 +4,7 @@ slug: o-que-saber-antes-de-fazer-uma-abdominoplastia
 categoria: saude-e-estetica
 tags:
  - consorcio-de-plastica
-thumbnail: /public/cms-content/media/o-que-saber-antes-de-fazer-uma-abdominoplastia.jpg
+thumbnail: /public/static/cms-content/o-que-saber-antes-de-fazer-uma-abdominoplastia.jpg
 meta_summary: 
 date: 04/10/2021
 ---

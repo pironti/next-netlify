@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/conheca-o-consorcio-para-reforma-e-confira-as-vantagens.jpeg
+thumbnail: /public/static/cms-content/conheca-o-consorcio-para-reforma-e-confira-as-vantagens.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/faculdade-de-economia-o-que-voce-deve-saber-sobre-o-curso.jpg
+thumbnail: /public/static/cms-content/faculdade-de-economia-o-que-voce-deve-saber-sobre-o-curso.jpg
 meta_summary: 
 date: 30/09/2021
 ---

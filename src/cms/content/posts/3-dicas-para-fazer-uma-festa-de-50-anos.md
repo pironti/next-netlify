@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/3-dicas-para-fazer-uma-festa-de-50-anos.jpg
+thumbnail: /public/static/cms-content/3-dicas-para-fazer-uma-festa-de-50-anos.jpg
 meta_summary: 
 date: 01/10/2021
 ---

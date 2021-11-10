@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas-de-economia
-thumbnail: /public/cms-content/media/consorcio-na-pandemia-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/consorcio-na-pandemia-vale-a-pena.jpg
 meta_summary: 
 date: 23/09/2021
 ---

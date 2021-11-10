@@ -11,7 +11,7 @@ tags:
  - consorcio-de-servicos
  - dicas
  - dicas-de-economia
-thumbnail: /public/cms-content/media/quer-alugar-o-seu-segundo-imovel-saiba-como-valoriza-lo.png
+thumbnail: /public/static/cms-content/quer-alugar-o-seu-segundo-imovel-saiba-como-valoriza-lo.png
 meta_summary: 
 date: 24/09/2021
 ---

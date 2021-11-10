@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas-de-economia
-thumbnail: /public/cms-content/media/como-fazer-consorcio-sendo-autonomo.jpg
+thumbnail: /public/static/cms-content/como-fazer-consorcio-sendo-autonomo.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -9,19 +9,11 @@ const Post = ({ blogpost }) => {
 
     return (
         <Template>
-            <article>
-                <h1>{attributes.title}</h1>
+            <article> 
+                <h1>{attributes.titulo}</h1>
                 <img src={attributes.thumbnail} />
                 <div dangerouslySetInnerHTML={{ __html: html }} />
             </article>
-            <style jsx>{`
-        article {
-          margin: 0 auto;
-        }
-        h1 {
-          text-align: center;
-        }
-      `}</style>
         </Template>
     )
 }

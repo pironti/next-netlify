@@ -8,7 +8,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-x-financiamento
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/financiamento-ou-consorcio-de-carro.jpg
+thumbnail: /public/static/cms-content/financiamento-ou-consorcio-de-carro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

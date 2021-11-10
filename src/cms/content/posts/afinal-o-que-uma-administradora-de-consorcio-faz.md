@@ -4,7 +4,7 @@ slug: afinal-o-que-uma-administradora-de-consorcio-faz
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/afinal-o-que-uma-administradora-de-consorcio-faz.jpg
+thumbnail: /public/static/cms-content/afinal-o-que-uma-administradora-de-consorcio-faz.jpg
 meta_summary: 
 date: 01/10/2021
 ---

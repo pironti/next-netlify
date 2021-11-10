@@ -4,7 +4,7 @@ slug: feng-shui-transforme-a-energia-da-sua-casa
 categoria: imoveis
 tags:
  - casa-nova
-thumbnail: /public/cms-content/media/feng-shui-transforme-a-energia-da-sua-casa.png
+thumbnail: /public/static/cms-content/feng-shui-transforme-a-energia-da-sua-casa.png
 meta_summary: 
 date: 06/10/2021
 ---

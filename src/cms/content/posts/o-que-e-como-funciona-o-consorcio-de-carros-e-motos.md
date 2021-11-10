@@ -7,7 +7,7 @@ tags:
  - dicas-de-carro
  - tipos-de-consorcio
  - moto
-thumbnail: /public/cms-content/media/o-que-e-como-funciona-o-consorcio-de-carros-e-motos.jpg
+thumbnail: /public/static/cms-content/o-que-e-como-funciona-o-consorcio-de-carros-e-motos.jpg
 meta_summary: 
 date: 24/09/2021
 ---

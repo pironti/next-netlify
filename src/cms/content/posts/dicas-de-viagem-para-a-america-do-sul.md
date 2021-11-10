@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/dicas-de-viagem-para-a-america-do-sul.jpg
+thumbnail: /public/static/cms-content/dicas-de-viagem-para-a-america-do-sul.jpg
 meta_summary: 
 date: 28/09/2021
 ---

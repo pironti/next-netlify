@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/saiba-como-e-feito-o-preenchimento-labial.jpeg
+thumbnail: /public/static/cms-content/saiba-como-e-feito-o-preenchimento-labial.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

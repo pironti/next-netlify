@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - consorcio-de-imoveis
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-a-carta-de-credito.jpg
+thumbnail: /public/static/cms-content/o-que-e-e-como-funciona-a-carta-de-credito.jpg
 meta_summary: 
 date: 29/10/2021
 ---

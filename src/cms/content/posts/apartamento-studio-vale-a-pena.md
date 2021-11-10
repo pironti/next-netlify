@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/apartamento-studio-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/apartamento-studio-vale-a-pena.jpg
 meta_summary: 
 date: 07/10/2021
 ---

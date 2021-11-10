@@ -7,7 +7,7 @@ tags:
  - dicas-de-carreira
  - destaque-profissional
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/quais-as-vantagens-de-fazer-mestrado-ou-doutorado-fora-do-pais.jpeg
+thumbnail: /public/static/cms-content/quais-as-vantagens-de-fazer-mestrado-ou-doutorado-fora-do-pais.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

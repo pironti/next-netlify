@@ -9,7 +9,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-reformas
  - dicas
-thumbnail: /public/cms-content/media/5-coisas-que-voce-precisa-saber-para-construir-uma-casa.jpg
+thumbnail: /public/static/cms-content/5-coisas-que-voce-precisa-saber-para-construir-uma-casa.jpg
 meta_summary: 
 date: 06/10/2021
 ---

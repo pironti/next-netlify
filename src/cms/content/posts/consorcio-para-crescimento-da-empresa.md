@@ -4,7 +4,7 @@ slug: consorcio-para-crescimento-da-empresa
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/consorcio-para-crescimento-da-empresa.jpg
+thumbnail: /public/static/cms-content/consorcio-para-crescimento-da-empresa.jpg
 meta_summary: 
 date: 27/09/2021
 ---

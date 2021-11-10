@@ -7,7 +7,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/financas-do-casal-organize-e-faca-um-consorcio.jpg
+thumbnail: /public/static/cms-content/financas-do-casal-organize-e-faca-um-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

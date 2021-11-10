@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - consorcio-de-educacao
  - dicas-de-carreira
-thumbnail: /public/cms-content/media/consorcio-embracon-para-pagar-faculdade.jpg
+thumbnail: /public/static/cms-content/consorcio-embracon-para-pagar-faculdade.jpg
 meta_summary: 
 date: 05/10/2021
 ---

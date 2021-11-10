@@ -7,7 +7,7 @@ tags:
  - consorcio
  - consorcio-de-casamento
  - festas
-thumbnail: /public/cms-content/media/6-dicas-para-voce-organizar-seu-casamento-nas-montanhas.jpg
+thumbnail: /public/static/cms-content/6-dicas-para-voce-organizar-seu-casamento-nas-montanhas.jpg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - casa-nova
  - comprar-casa
-thumbnail: /public/cms-content/media/10-mitos-sobre-consorcio-de-imoveis.jpg
+thumbnail: /public/static/cms-content/10-mitos-sobre-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 29/10/2021
 ---

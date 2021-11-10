@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - consorcio-de-servicos
  - destaque-profissional
-thumbnail: /public/cms-content/media/educacao-saiba-como-investir-na-sua.png
+thumbnail: /public/static/cms-content/educacao-saiba-como-investir-na-sua.png
 meta_summary: 
 date: 29/09/2021
 ---

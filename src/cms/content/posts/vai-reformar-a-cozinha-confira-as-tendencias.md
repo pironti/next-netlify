@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/vai-reformar-a-cozinha-confira-as-tendencias.jpg
+thumbnail: /public/static/cms-content/vai-reformar-a-cozinha-confira-as-tendencias.jpg
 meta_summary: 
 date: 04/10/2021
 ---

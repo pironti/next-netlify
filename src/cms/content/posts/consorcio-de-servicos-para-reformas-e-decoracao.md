@@ -6,7 +6,7 @@ tags:
  - tipos-de-consorcio
  - consorcio-de-servicos
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/consorcio-de-servicos-para-reformas-e-decoracao.jpeg
+thumbnail: /public/static/cms-content/consorcio-de-servicos-para-reformas-e-decoracao.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

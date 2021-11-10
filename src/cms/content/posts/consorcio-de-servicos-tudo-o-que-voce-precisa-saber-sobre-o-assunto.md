@@ -11,7 +11,7 @@ tags:
  - consorcio-de-casamento
  - consorcio-de-decoracao
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto.jpg
+thumbnail: /public/static/cms-content/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-servicos
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/dicas-de-como-aproveitar-o-verao-na-pandemia.jpg
+thumbnail: /public/static/cms-content/dicas-de-como-aproveitar-o-verao-na-pandemia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

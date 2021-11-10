@@ -5,7 +5,7 @@ categoria: contemplacao
 tags:
  - consorcio-de-carro
  - consorcio
-thumbnail: /public/cms-content/media/contemplacao-consorcio-carro-como-aumentar-chances.jpg
+thumbnail: /public/static/cms-content/contemplacao-consorcio-carro-como-aumentar-chances.jpg
 meta_summary: 
 date: 28/09/2021
 ---

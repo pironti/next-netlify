@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/como-comprar-imoveis-para-alugar.jpg
+thumbnail: /public/static/cms-content/como-comprar-imoveis-para-alugar.jpg
 meta_summary: 
 date: 27/09/2021
 ---

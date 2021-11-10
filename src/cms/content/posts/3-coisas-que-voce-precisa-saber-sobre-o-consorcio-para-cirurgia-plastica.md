@@ -4,7 +4,7 @@ slug: 3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica.jpg
+thumbnail: /public/static/cms-content/3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica.jpg
 meta_summary: 
 date: 05/10/2021
 ---

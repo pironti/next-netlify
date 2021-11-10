@@ -8,7 +8,7 @@ tags:
  - consorcio-de-servicos
  - dicas
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado.jpg
+thumbnail: /public/static/cms-content/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/saiba-a-importancia-da-higienizacao-automotiva.png
+thumbnail: /public/static/cms-content/saiba-a-importancia-da-higienizacao-automotiva.png
 meta_summary: 
 date: 05/10/2021
 ---

@@ -4,7 +4,7 @@ slug: como-funcionam-os-tipos-de-lances-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-funcionam-os-tipos-de-lances-no-consorcio.jpg
+thumbnail: /public/static/cms-content/como-funcionam-os-tipos-de-lances-no-consorcio.jpg
 meta_summary: 
 date: 06/10/2021
 ---

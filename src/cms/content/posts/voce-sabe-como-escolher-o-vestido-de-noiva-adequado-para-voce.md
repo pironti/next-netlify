@@ -6,7 +6,7 @@ tags:
  - consorcio-de-casamento
  - consorcio-de-servicos
  - educacao-financeira
-thumbnail: /public/cms-content/media/voce-sabe-como-escolher-o-vestido-de-noiva-adequado-para-voce.jpg
+thumbnail: /public/static/cms-content/voce-sabe-como-escolher-o-vestido-de-noiva-adequado-para-voce.jpg
 meta_summary: 
 date: 06/10/2021
 ---

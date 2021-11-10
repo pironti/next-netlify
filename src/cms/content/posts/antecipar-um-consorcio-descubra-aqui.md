@@ -6,7 +6,7 @@ tags:
  - tipos-de-consorcio
  - consorcio
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/antecipar-um-consorcio-descubra-aqui.jpg
+thumbnail: /public/static/cms-content/antecipar-um-consorcio-descubra-aqui.jpg
 meta_summary: 
 date: 01/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio-de-carro
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/duvidas-ao-escolher-um-consorcio-de-carro-saiba-o-que-levar-em-consideracao.jpg
+thumbnail: /public/static/cms-content/duvidas-ao-escolher-um-consorcio-de-carro-saiba-o-que-levar-em-consideracao.jpg
 meta_summary: 
 date: 05/10/2021
 ---

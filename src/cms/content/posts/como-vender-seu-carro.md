@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/como-vender-seu-carro.jpg
+thumbnail: /public/static/cms-content/como-vender-seu-carro.jpg
 meta_summary: 
 date: 06/10/2021
 ---

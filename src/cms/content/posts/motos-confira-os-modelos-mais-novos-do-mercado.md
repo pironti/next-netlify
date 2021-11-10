@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - dicas
  - moto
-thumbnail: /public/cms-content/media/motos-confira-os-modelos-mais-novos-do-mercado.jpeg
+thumbnail: /public/static/cms-content/motos-confira-os-modelos-mais-novos-do-mercado.jpeg
 meta_summary: 
 date: 08/10/2021
 ---

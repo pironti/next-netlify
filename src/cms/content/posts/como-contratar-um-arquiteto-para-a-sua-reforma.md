@@ -7,7 +7,7 @@ tags:
  - dicas-de-decoracao
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/como-contratar-um-arquiteto-para-a-sua-reforma.jpeg
+thumbnail: /public/static/cms-content/como-contratar-um-arquiteto-para-a-sua-reforma.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/transferencia-de-veiculo-como-funciona.jpg
+thumbnail: /public/static/cms-content/transferencia-de-veiculo-como-funciona.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - tendencia-em-decoracao
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/5-dicas-de-como-otimizar-espaco-em-ambientes-pequenos.jpg
+thumbnail: /public/static/cms-content/5-dicas-de-como-otimizar-espaco-em-ambientes-pequenos.jpg
 meta_summary: 
 date: 06/10/2021
 ---

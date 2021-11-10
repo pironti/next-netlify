@@ -4,7 +4,7 @@ slug: 7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los.jpg
+thumbnail: /public/static/cms-content/7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los.jpg
 meta_summary: 
 date: 06/10/2021
 ---

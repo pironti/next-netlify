@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - consorcio-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/conheca-4-destinos-incriveis-para-passar-ferias-em-familia.jpeg
+thumbnail: /public/static/cms-content/conheca-4-destinos-incriveis-para-passar-ferias-em-familia.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

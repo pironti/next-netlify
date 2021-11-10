@@ -4,7 +4,7 @@ slug: parcelas-do-consorcio-como-sao-calculadas
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/parcelas-do-consorcio-como-sao-calculadas.jpg
+thumbnail: /public/static/cms-content/parcelas-do-consorcio-como-sao-calculadas.jpg
 meta_summary: 
 date: 23/09/2021
 ---

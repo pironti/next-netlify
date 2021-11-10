@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - dicas-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/saiba-o-que-levar-na-sua-proxima-viagem.jpeg
+thumbnail: /public/static/cms-content/saiba-o-que-levar-na-sua-proxima-viagem.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

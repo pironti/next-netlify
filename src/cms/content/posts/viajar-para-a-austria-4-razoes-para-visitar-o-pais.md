@@ -7,7 +7,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/viajar-para-a-austria-4-razoes-para-visitar-o-pais.jpg
+thumbnail: /public/static/cms-content/viajar-para-a-austria-4-razoes-para-visitar-o-pais.jpg
 meta_summary: 
 date: 04/10/2021
 ---

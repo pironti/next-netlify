@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - consorcio
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/em-que-momento-o-consorcio-e-investimento.jpg
+thumbnail: /public/static/cms-content/em-que-momento-o-consorcio-e-investimento.jpg
 meta_summary: 
 date: 09/11/2021
 ---

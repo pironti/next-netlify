@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-e-investimento
  - consorcio-x-financiamento
-thumbnail: /public/cms-content/media/hora-certa-comprar-imovel.jpg
+thumbnail: /public/static/cms-content/hora-certa-comprar-imovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - consorcio-de-imoveis
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/check-list-para-fazer-um-consorcio.jpg
+thumbnail: /public/static/cms-content/check-list-para-fazer-um-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

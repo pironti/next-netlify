@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/cms-content/media/fraude-em-consorcio-como-nao-cair-em-golpes.jpg
+thumbnail: /public/static/cms-content/fraude-em-consorcio-como-nao-cair-em-golpes.jpg
 meta_summary: 
 date: 04/10/2021
 ---

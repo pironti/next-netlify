@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora.jpg
+thumbnail: /public/static/cms-content/quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora.jpg
 meta_summary: 
 date: 30/09/2021
 ---

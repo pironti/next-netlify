@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/primeiro-carro-como-acertar-na-escolha.jpeg
+thumbnail: /public/static/cms-content/primeiro-carro-como-acertar-na-escolha.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

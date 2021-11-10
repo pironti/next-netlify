@@ -4,7 +4,7 @@ slug: incc-no-consorcio-qual-a-sua-importancia
 categoria: imoveis
 tags:
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/incc-no-consorcio-qual-a-sua-importancia.jpg
+thumbnail: /public/static/cms-content/incc-no-consorcio-qual-a-sua-importancia.jpg
 meta_summary: 
 date: 07/10/2021
 ---

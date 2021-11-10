@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/ainda-da-tempo-de-sonhar-com-a-casa-nova.jpg
+thumbnail: /public/static/cms-content/ainda-da-tempo-de-sonhar-com-a-casa-nova.jpg
 meta_summary: 
 date: 23/09/2021
 ---

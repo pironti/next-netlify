@@ -4,7 +4,7 @@ slug: inspiracoes-modelos-de-escritorio-em-casa
 categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/inspiracoes-modelos-de-escritorio-em-casa.jpg
+thumbnail: /public/static/cms-content/inspiracoes-modelos-de-escritorio-em-casa.jpg
 meta_summary: 
 date: 27/09/2021
 ---

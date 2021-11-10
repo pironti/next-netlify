@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/saiba-como-escolher-os-melhores-fornecedores-para-sua-obra.jpeg
+thumbnail: /public/static/cms-content/saiba-como-escolher-os-melhores-fornecedores-para-sua-obra.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

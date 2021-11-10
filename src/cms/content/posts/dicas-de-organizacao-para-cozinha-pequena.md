@@ -6,7 +6,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-de-decoracao
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/dicas-de-organizacao-para-cozinha-pequena.jpg
+thumbnail: /public/static/cms-content/dicas-de-organizacao-para-cozinha-pequena.jpg
 meta_summary: 
 date: 27/09/2021
 ---

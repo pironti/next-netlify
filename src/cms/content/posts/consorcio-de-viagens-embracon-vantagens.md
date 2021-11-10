@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/consorcio-de-viagens-embracon-vantagens.jpeg
+thumbnail: /public/static/cms-content/consorcio-de-viagens-embracon-vantagens.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/o-que-e-um-sobrado.jpg
+thumbnail: /public/static/cms-content/o-que-e-um-sobrado.jpg
 meta_summary: 
 date: 28/09/2021
 ---

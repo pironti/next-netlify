@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-casamento
-thumbnail: /public/cms-content/media/viagem-de-lua-de-mel-como-escolher-o-destino-ideal.jpeg
+thumbnail: /public/static/cms-content/viagem-de-lua-de-mel-como-escolher-o-destino-ideal.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

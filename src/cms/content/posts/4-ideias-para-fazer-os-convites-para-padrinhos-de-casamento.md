@@ -8,7 +8,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-viagem
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/4-ideias-para-fazer-os-convites-para-padrinhos-de-casamento.jpg
+thumbnail: /public/static/cms-content/4-ideias-para-fazer-os-convites-para-padrinhos-de-casamento.jpg
 meta_summary: 
 date: 06/10/2021
 ---

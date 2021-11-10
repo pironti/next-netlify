@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/entenda-as-vantagens-de-usar-aparelho-nos-dentes.jpg
+thumbnail: /public/static/cms-content/entenda-as-vantagens-de-usar-aparelho-nos-dentes.jpg
 meta_summary: 
 date: 05/10/2021
 ---

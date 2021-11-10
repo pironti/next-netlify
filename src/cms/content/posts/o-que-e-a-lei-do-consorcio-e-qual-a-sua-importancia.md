@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-carro
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia.jpg
+thumbnail: /public/static/cms-content/o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

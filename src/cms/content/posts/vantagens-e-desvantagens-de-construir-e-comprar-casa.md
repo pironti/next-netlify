@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - casa-nova
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/vantagens-e-desvantagens-de-construir-e-comprar-casa.jpg
+thumbnail: /public/static/cms-content/vantagens-e-desvantagens-de-construir-e-comprar-casa.jpg
 meta_summary: 
 date: 09/11/2021
 ---

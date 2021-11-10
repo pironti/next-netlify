@@ -9,7 +9,7 @@ tags:
  - consorcio-de-servicos
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/entenda-como-e-possivel-ter-uma-banheira-em-casa.jpg
+thumbnail: /public/static/cms-content/entenda-como-e-possivel-ter-uma-banheira-em-casa.jpg
 meta_summary: 
 date: 29/09/2021
 ---

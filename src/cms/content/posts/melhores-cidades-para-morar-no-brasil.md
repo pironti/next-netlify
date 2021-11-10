@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - casa-nova
  - dicas
-thumbnail: /public/cms-content/media/melhores-cidades-para-morar-no-brasil.jpg
+thumbnail: /public/static/cms-content/melhores-cidades-para-morar-no-brasil.jpg
 meta_summary: 
 date: 19/10/2021
 ---

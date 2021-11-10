@@ -7,7 +7,7 @@ tags:
  - casa-nova
  - dicas-de-decoracao
  - dicas-de-economia
-thumbnail: /public/cms-content/media/casa-inteligente-como-automatizar-sua-casa.jpg
+thumbnail: /public/static/cms-content/casa-inteligente-como-automatizar-sua-casa.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -4,7 +4,7 @@ slug: consorcio-nao-tem-juros-entenda
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/consorcio-nao-tem-juros-entenda.jpg
+thumbnail: /public/static/cms-content/consorcio-nao-tem-juros-entenda.jpg
 meta_summary: 
 date: 06/10/2021
 ---

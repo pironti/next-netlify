@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - tipos-de-consorcio
  - consorcio
-thumbnail: /public/cms-content/media/quanto-tempo-demoro-para-pegar-meu-carro-no-consorcio.jpg
+thumbnail: /public/static/cms-content/quanto-tempo-demoro-para-pegar-meu-carro-no-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

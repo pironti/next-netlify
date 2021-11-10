@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/carro-manual-ou-automatico-qual-e-a-melhor-opcao.jpg
+thumbnail: /public/static/cms-content/carro-manual-ou-automatico-qual-e-a-melhor-opcao.jpg
 meta_summary: 
 date: 05/10/2021
 ---

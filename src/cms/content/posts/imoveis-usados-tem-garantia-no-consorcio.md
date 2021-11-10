@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/imoveis-usados-tem-garantia-no-consorcio.png
+thumbnail: /public/static/cms-content/imoveis-usados-tem-garantia-no-consorcio.png
 meta_summary: 
 date: 07/10/2021
 ---

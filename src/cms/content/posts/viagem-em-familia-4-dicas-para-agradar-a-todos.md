@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/viagem-em-familia-4-dicas-para-agradar-a-todos.jpeg
+thumbnail: /public/static/cms-content/viagem-em-familia-4-dicas-para-agradar-a-todos.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - consorcio-de-imoveis
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/qual-melhor-consorcio-para-voce.jpg
+thumbnail: /public/static/cms-content/qual-melhor-consorcio-para-voce.jpg
 meta_summary: 
 date: 08/10/2021
 ---

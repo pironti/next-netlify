@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - consorcio-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/como-realizar-o-sonho-da-viagem-internacional.jpg
+thumbnail: /public/static/cms-content/como-realizar-o-sonho-da-viagem-internacional.jpg
 meta_summary: 
 date: 27/09/2021
 ---

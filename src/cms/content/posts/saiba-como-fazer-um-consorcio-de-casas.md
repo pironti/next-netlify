@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - comprar-casa
  - casa-nova
-thumbnail: /public/cms-content/media/saiba-como-fazer-um-consorcio-de-casas.jpg
+thumbnail: /public/static/cms-content/saiba-como-fazer-um-consorcio-de-casas.jpg
 meta_summary: 
 date: 19/10/2021
 ---

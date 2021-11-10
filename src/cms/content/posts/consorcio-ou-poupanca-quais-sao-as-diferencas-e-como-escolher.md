@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio-e-investimento
  - consorcio
-thumbnail: /public/cms-content/media/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher.jpg
+thumbnail: /public/static/cms-content/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher.jpg
 meta_summary: 
 date: 05/10/2021
 ---

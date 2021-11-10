@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/cms-content/media/morar-sozinho-como-economizar-e-crescer-financeiramente.jpg
+thumbnail: /public/static/cms-content/morar-sozinho-como-economizar-e-crescer-financeiramente.jpg
 meta_summary: 
 date: 23/09/2021
 ---

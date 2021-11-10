@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/hatch-ou-seda-o-que-e-melhor.jpg
+thumbnail: /public/static/cms-content/hatch-ou-seda-o-que-e-melhor.jpg
 meta_summary: 
 date: 19/10/2021
 ---

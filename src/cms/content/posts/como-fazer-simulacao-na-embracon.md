@@ -4,7 +4,7 @@ slug: como-fazer-simulacao-na-embracon
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-fazer-simulacao-na-embracon.jpg
+thumbnail: /public/static/cms-content/como-fazer-simulacao-na-embracon.jpg
 meta_summary: 
 date: 09/11/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - dicas-de-economia
-thumbnail: /public/cms-content/media/como-funciona-a-renegociacao-da-divida-de-consorcio.jpg
+thumbnail: /public/static/cms-content/como-funciona-a-renegociacao-da-divida-de-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

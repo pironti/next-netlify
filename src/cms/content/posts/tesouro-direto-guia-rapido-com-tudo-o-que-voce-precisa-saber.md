@@ -4,7 +4,7 @@ slug: tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber.jpg
+thumbnail: /public/static/cms-content/tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber.jpg
 meta_summary: 
 date: 23/09/2021
 ---

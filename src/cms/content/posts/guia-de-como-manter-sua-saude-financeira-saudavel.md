@@ -18,7 +18,7 @@ tags:
  - dicas-de-viagem
  - educacao-financeira
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/guia-de-como-manter-sua-saude-financeira-saudavel.jpg
+thumbnail: /public/static/cms-content/guia-de-como-manter-sua-saude-financeira-saudavel.jpg
 meta_summary: 
 date: 29/09/2021
 ---

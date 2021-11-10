@@ -8,7 +8,7 @@ tags:
  - comprar-casa
  - financiamento
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio.jpg
+thumbnail: /public/static/cms-content/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

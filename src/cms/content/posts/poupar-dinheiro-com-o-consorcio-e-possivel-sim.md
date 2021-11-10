@@ -10,7 +10,7 @@ tags:
  - consorcio-e-investimento
  - consorcio-x-financiamento
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/poupar-dinheiro-com-o-consorcio-e-possivel-sim.jpg
+thumbnail: /public/static/cms-content/poupar-dinheiro-com-o-consorcio-e-possivel-sim.jpg
 meta_summary: 
 date: 30/09/2021
 ---

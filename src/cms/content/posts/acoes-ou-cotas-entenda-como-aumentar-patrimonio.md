@@ -4,7 +4,7 @@ slug: acoes-ou-cotas-entenda-como-aumentar-patrimonio
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/cms-content/media/acoes-ou-cotas-entenda-como-aumentar-patrimonio.jpg
+thumbnail: /public/static/cms-content/acoes-ou-cotas-entenda-como-aumentar-patrimonio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

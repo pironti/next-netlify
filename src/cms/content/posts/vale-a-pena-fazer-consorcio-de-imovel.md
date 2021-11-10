@@ -4,7 +4,7 @@ slug: vale-a-pena-fazer-consorcio-de-imovel
 categoria: imoveis
 tags:
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/vale-a-pena-fazer-consorcio-de-imovel.jpg
+thumbnail: /public/static/cms-content/vale-a-pena-fazer-consorcio-de-imovel.jpg
 meta_summary: 
 date: 08/10/2021
 ---

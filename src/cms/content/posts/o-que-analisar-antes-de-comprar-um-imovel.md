@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/o-que-analisar-antes-de-comprar-um-imovel.jpg
+thumbnail: /public/static/cms-content/o-que-analisar-antes-de-comprar-um-imovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -4,7 +4,7 @@ slug: por-que-voce-deve-escolher-o-consorcio-embracon
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/por-que-voce-deve-escolher-o-consorcio-embracon.jpg
+thumbnail: /public/static/cms-content/por-que-voce-deve-escolher-o-consorcio-embracon.jpg
 meta_summary: 
 date: 04/10/2021
 ---

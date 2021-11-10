@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/aplicativos-para-manter-suas-financas-em-ordem.jpg
+thumbnail: /public/static/cms-content/aplicativos-para-manter-suas-financas-em-ordem.jpg
 meta_summary: 
 date: 23/09/2021
 ---

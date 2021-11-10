@@ -4,7 +4,7 @@ slug: como-funciona-o-consorcio-embracon-para-pagar-faculdade
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-funciona-o-consorcio-embracon-para-pagar-faculdade.jpeg
+thumbnail: /public/static/cms-content/como-funciona-o-consorcio-embracon-para-pagar-faculdade.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

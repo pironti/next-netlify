@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/e-importante-ter-uma-conta-conjunta.jpg
+thumbnail: /public/static/cms-content/e-importante-ter-uma-conta-conjunta.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -16,7 +16,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-plastica
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/consorcio-e-pra-todo-mundo.jpg
+thumbnail: /public/static/cms-content/consorcio-e-pra-todo-mundo.jpg
 meta_summary: 
 date: 30/09/2021
 ---

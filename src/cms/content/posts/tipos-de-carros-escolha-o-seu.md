@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/tipos-de-carros-escolha-o-seu.jpg
+thumbnail: /public/static/cms-content/tipos-de-carros-escolha-o-seu.jpg
 meta_summary: 
 date: 08/10/2021
 ---

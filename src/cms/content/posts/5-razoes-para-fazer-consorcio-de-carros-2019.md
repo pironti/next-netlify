@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/cms-content/media/5-razoes-para-fazer-consorcio-de-carros-2019.jpg
+thumbnail: /public/static/cms-content/5-razoes-para-fazer-consorcio-de-carros-2019.jpg
 meta_summary: 
 date: 04/10/2021
 ---

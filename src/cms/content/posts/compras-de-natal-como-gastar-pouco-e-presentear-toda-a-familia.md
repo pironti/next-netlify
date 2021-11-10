@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia.jpg
+thumbnail: /public/static/cms-content/compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia.jpg
 meta_summary: 
 date: 30/09/2021
 ---

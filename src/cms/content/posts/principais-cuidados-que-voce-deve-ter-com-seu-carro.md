@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/principais-cuidados-que-voce-deve-ter-com-seu-carro.jpg
+thumbnail: /public/static/cms-content/principais-cuidados-que-voce-deve-ter-com-seu-carro.jpg
 meta_summary: 
 date: 19/10/2021
 ---

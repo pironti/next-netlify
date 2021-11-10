@@ -7,7 +7,7 @@ tags:
  - consorcio-de-estetica
  - dicas-de-estetica
  - estetica
-thumbnail: /public/cms-content/media/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento.jpg
+thumbnail: /public/static/cms-content/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento.jpg
 meta_summary: 
 date: 29/09/2021
 ---

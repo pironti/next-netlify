@@ -6,7 +6,7 @@ tags:
  - consorcio
  - tipos-de-consorcio
  - moto
-thumbnail: /public/cms-content/media/5-vantagens-consorcio-de-moto.jpg
+thumbnail: /public/static/cms-content/5-vantagens-consorcio-de-moto.jpg
 meta_summary: 
 date: 06/10/2021
 ---

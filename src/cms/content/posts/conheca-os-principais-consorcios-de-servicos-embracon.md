@@ -13,7 +13,7 @@ tags:
  - casa-nova
  - consorcio-de-viagem
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/conheca-os-principais-consorcios-de-servicos-embracon.jpg
+thumbnail: /public/static/cms-content/conheca-os-principais-consorcios-de-servicos-embracon.jpg
 meta_summary: 
 date: 27/09/2021
 ---

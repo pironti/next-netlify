@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - dicas-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/entenda-como-escolher-um-bom-hotel-para-viagens-em-familia.jpeg
+thumbnail: /public/static/cms-content/entenda-como-escolher-um-bom-hotel-para-viagens-em-familia.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

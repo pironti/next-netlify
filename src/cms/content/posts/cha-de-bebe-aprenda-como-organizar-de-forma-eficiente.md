@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/cha-de-bebe-aprenda-como-organizar-de-forma-eficiente.jpeg
+thumbnail: /public/static/cms-content/cha-de-bebe-aprenda-como-organizar-de-forma-eficiente.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

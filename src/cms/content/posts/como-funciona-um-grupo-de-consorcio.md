@@ -4,7 +4,7 @@ slug: como-funciona-um-grupo-de-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-funciona-um-grupo-de-consorcio.jpg
+thumbnail: /public/static/cms-content/como-funciona-um-grupo-de-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

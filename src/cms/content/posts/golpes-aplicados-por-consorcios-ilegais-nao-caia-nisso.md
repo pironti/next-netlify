@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/cms-content/media/golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso.jpg
+thumbnail: /public/static/cms-content/golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso.jpg
 meta_summary: 
 date: 27/09/2021
 ---

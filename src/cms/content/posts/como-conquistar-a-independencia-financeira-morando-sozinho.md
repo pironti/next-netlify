@@ -8,7 +8,7 @@ tags:
  - dicas
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-conquistar-a-independencia-financeira-morando-sozinho.jpg
+thumbnail: /public/static/cms-content/como-conquistar-a-independencia-financeira-morando-sozinho.jpg
 meta_summary: 
 date: 30/09/2021
 ---

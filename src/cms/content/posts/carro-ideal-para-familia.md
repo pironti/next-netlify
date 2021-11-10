@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/carro-ideal-para-familia.jpg
+thumbnail: /public/static/cms-content/carro-ideal-para-familia.jpg
 meta_summary: 
 date: 27/09/2021
 ---

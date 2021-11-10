@@ -4,7 +4,7 @@ slug: cota-contemplada-vale-a-pena
 categoria: cotas
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/cota-contemplada-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/cota-contemplada-vale-a-pena.jpg
 meta_summary: 
 date: 27/09/2021
 ---

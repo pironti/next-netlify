@@ -7,7 +7,7 @@ tags:
  - consorcio-de-servicos
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas.jpg
+thumbnail: /public/static/cms-content/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas.jpg
 meta_summary: 
 date: 05/10/2021
 ---

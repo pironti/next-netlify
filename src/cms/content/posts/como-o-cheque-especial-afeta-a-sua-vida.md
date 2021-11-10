@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-o-cheque-especial-afeta-a-sua-vida.jpg
+thumbnail: /public/static/cms-content/como-o-cheque-especial-afeta-a-sua-vida.jpg
 meta_summary: 
 date: 27/09/2021
 ---

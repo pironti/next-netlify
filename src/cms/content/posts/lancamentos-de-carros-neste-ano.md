@@ -7,7 +7,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/lancamentos-de-carros-neste-ano.jpg
+thumbnail: /public/static/cms-content/lancamentos-de-carros-neste-ano.jpg
 meta_summary: 
 date: 01/10/2021
 ---

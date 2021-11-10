@@ -8,7 +8,7 @@ tags:
  - consorcio
  - dicas
  - dicas-de-carro
-thumbnail: /public/cms-content/media/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual.jpg
+thumbnail: /public/static/cms-content/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual.jpg
 meta_summary: 
 date: 05/10/2021
 ---

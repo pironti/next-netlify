@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/o-que-e-pix-e-como-ele-funciona.jpg
+thumbnail: /public/static/cms-content/o-que-e-pix-e-como-ele-funciona.jpg
 meta_summary: 
 date: 27/09/2021
 ---

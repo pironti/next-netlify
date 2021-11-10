@@ -7,7 +7,7 @@ tags:
  - consorcio-de-casamento
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/6-tendencias-de-doces-de-casamento-para-voce-ficar-de-olho.jpg
+thumbnail: /public/static/cms-content/6-tendencias-de-doces-de-casamento-para-voce-ficar-de-olho.jpg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - consorcio-de-servicos
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/conheca-os-4-melhores-motivos-para-voce-viajar-para-a-irlanda.jpeg
+thumbnail: /public/static/cms-content/conheca-os-4-melhores-motivos-para-voce-viajar-para-a-irlanda.jpeg
 meta_summary: 
 date: 07/10/2021
 ---

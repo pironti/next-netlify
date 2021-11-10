@@ -4,7 +4,7 @@ slug: devolucao-de-valores
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/devolucao-de-valores.jpg
+thumbnail: /public/static/cms-content/devolucao-de-valores.jpg
 meta_summary: 
 date: 04/10/2021
 ---

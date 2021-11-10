@@ -12,7 +12,7 @@ tags:
  - moto
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/como-adquirir-um-consorcio.jpg
+thumbnail: /public/static/cms-content/como-adquirir-um-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

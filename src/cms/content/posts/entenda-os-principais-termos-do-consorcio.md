@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/entenda-os-principais-termos-do-consorcio.jpg
+thumbnail: /public/static/cms-content/entenda-os-principais-termos-do-consorcio.jpg
 meta_summary: 
 date: 29/09/2021
 ---

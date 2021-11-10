@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/cms-content/media/conquiste-seu-carro-zero-km-com-um-consorcio.jpg
+thumbnail: /public/static/cms-content/conquiste-seu-carro-zero-km-com-um-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

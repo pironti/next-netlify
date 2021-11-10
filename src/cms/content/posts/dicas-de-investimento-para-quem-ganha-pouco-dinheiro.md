@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/dicas-de-investimento-para-quem-ganha-pouco-dinheiro.jpg
+thumbnail: /public/static/cms-content/dicas-de-investimento-para-quem-ganha-pouco-dinheiro.jpg
 meta_summary: 
 date: 24/09/2021
 ---

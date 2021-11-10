@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/5-dicas-para-planejar-uma-festa-de-quinze-anos.jpg
+thumbnail: /public/static/cms-content/5-dicas-para-planejar-uma-festa-de-quinze-anos.jpg
 meta_summary: 
 date: 06/10/2021
 ---

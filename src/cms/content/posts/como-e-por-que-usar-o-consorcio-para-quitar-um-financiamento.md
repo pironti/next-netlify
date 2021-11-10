@@ -8,7 +8,7 @@ tags:
  - consorcio-x-financiamento
  - educacao-financeira
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/como-e-por-que-usar-o-consorcio-para-quitar-um-financiamento.jpg
+thumbnail: /public/static/cms-content/como-e-por-que-usar-o-consorcio-para-quitar-um-financiamento.jpg
 meta_summary: 
 date: 04/10/2021
 ---

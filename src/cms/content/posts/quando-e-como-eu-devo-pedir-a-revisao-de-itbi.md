@@ -7,7 +7,7 @@ tags:
  - comprar-casa
  - consorcio-e-investimento
  - economia-domestica
-thumbnail: /public/cms-content/media/quando-e-como-eu-devo-pedir-a-revisao-de-itbi.jpg
+thumbnail: /public/static/cms-content/quando-e-como-eu-devo-pedir-a-revisao-de-itbi.jpg
 meta_summary: 
 date: 01/10/2021
 ---

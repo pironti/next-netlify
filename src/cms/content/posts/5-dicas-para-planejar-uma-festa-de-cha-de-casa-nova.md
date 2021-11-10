@@ -7,7 +7,7 @@ tags:
  - por-que-fazer-um-consorcio
  - comprar-casa
  - casa-nova
-thumbnail: /public/cms-content/media/5-dicas-para-planejar-uma-festa-de-cha-de-casa-nova.jpg
+thumbnail: /public/static/cms-content/5-dicas-para-planejar-uma-festa-de-cha-de-casa-nova.jpg
 meta_summary: 
 date: 30/09/2021
 ---

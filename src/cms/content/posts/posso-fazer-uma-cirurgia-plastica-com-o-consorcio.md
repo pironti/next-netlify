@@ -4,7 +4,7 @@ slug: posso-fazer-uma-cirurgia-plastica-com-o-consorcio
 categoria: saude-e-estetica
 tags:
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/posso-fazer-uma-cirurgia-plastica-com-o-consorcio.jpg
+thumbnail: /public/static/cms-content/posso-fazer-uma-cirurgia-plastica-com-o-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

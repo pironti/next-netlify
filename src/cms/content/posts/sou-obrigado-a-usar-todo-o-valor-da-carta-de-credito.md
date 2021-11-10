@@ -4,7 +4,7 @@ slug: sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito
 categoria: contemplacao
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito.jpg
+thumbnail: /public/static/cms-content/sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito.jpg
 meta_summary: 
 date: 23/09/2021
 ---

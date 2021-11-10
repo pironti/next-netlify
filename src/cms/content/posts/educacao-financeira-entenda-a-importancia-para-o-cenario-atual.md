@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/educacao-financeira-entenda-a-importancia-para-o-cenario-atual.jpg
+thumbnail: /public/static/cms-content/educacao-financeira-entenda-a-importancia-para-o-cenario-atual.jpg
 meta_summary: 
 date: 28/09/2021
 ---

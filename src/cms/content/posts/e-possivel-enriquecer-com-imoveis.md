@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/e-possivel-enriquecer-com-imoveis.jpg
+thumbnail: /public/static/cms-content/e-possivel-enriquecer-com-imoveis.jpg
 meta_summary: 
 date: 23/09/2021
 ---

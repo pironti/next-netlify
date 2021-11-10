@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - casa-nova
-thumbnail: /public/cms-content/media/10-motivos-para-fazer-um-consorcio-de-imoveis.jpg
+thumbnail: /public/static/cms-content/10-motivos-para-fazer-um-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 24/09/2021
 ---

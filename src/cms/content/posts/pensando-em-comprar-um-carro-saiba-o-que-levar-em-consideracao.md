@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao.jpg
+thumbnail: /public/static/cms-content/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao.jpg
 meta_summary: 
 date: 24/09/2021
 ---

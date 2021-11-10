@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - dicas-de-economia
-thumbnail: /public/cms-content/media/autonomo-tambem-pode-guardar-dinheiro.jpg
+thumbnail: /public/static/cms-content/autonomo-tambem-pode-guardar-dinheiro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - dicas
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/porque-nova-york-e-a-cidade-que-voce-precisa-conhecer.jpg
+thumbnail: /public/static/cms-content/porque-nova-york-e-a-cidade-que-voce-precisa-conhecer.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - dicas-de-estetica
  - consorcio-de-estetica
  - consorcio-de-plastica
-thumbnail: /public/cms-content/media/afinal-a-mamoplastia-e-estetica-ou-saude.jpg
+thumbnail: /public/static/cms-content/afinal-a-mamoplastia-e-estetica-ou-saude.jpg
 meta_summary: 
 date: 04/10/2021
 ---

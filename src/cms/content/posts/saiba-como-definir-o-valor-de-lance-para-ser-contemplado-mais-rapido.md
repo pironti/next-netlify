@@ -4,7 +4,7 @@ slug: saiba-como-definir-o-valor-de-lance-para-ser-contemplado-mais-rapido
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/saiba-como-definir-o-valor-de-lance-para-ser-contemplado-mais-rapido.png
+thumbnail: /public/static/cms-content/saiba-como-definir-o-valor-de-lance-para-ser-contemplado-mais-rapido.png
 meta_summary: 
 date: 24/09/2021
 ---

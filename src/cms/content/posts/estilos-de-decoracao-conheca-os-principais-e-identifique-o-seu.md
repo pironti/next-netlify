@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - tendencia-em-decoracao
  - consorcio-de-decoracao
-thumbnail: /public/cms-content/media/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu.jpeg
+thumbnail: /public/static/cms-content/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

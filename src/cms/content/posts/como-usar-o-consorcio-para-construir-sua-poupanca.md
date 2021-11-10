@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas-de-economia
-thumbnail: /public/cms-content/media/como-usar-o-consorcio-para-construir-sua-poupanca.jpg
+thumbnail: /public/static/cms-content/como-usar-o-consorcio-para-construir-sua-poupanca.jpg
 meta_summary: 
 date: 27/09/2021
 ---

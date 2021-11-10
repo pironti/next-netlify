@@ -4,7 +4,7 @@ slug: voce-conhece-todos-os-tipos-de-consorcio
 categoria: consorcio
 tags:
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/voce-conhece-todos-os-tipos-de-consorcio.jpg
+thumbnail: /public/static/cms-content/voce-conhece-todos-os-tipos-de-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

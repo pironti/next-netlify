@@ -4,7 +4,7 @@ slug: confira-5-vantagens-de-ter-uma-moto
 categoria: moto
 tags:
  - moto
-thumbnail: /public/cms-content/media/confira-5-vantagens-de-ter-uma-moto.jpg
+thumbnail: /public/static/cms-content/confira-5-vantagens-de-ter-uma-moto.jpg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - dicas
  - consorcio
-thumbnail: /public/cms-content/media/quanto-preciso-pagar-para-fazer-um-consorcio.png
+thumbnail: /public/static/cms-content/quanto-preciso-pagar-para-fazer-um-consorcio.png
 meta_summary: 
 date: 06/10/2021
 ---

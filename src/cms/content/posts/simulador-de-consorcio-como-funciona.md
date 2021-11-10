@@ -4,7 +4,7 @@ slug: simulador-de-consorcio-como-funciona
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/simulador-de-consorcio-como-funciona.jpg
+thumbnail: /public/static/cms-content/simulador-de-consorcio-como-funciona.jpg
 meta_summary: 
 date: 23/09/2021
 ---

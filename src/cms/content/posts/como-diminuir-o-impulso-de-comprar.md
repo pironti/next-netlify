@@ -6,7 +6,7 @@ tags:
  - dicas-de-economia
  - educacao-financeira
  - economia-domestica
-thumbnail: /public/cms-content/media/como-diminuir-o-impulso-de-comprar.jpg
+thumbnail: /public/static/cms-content/como-diminuir-o-impulso-de-comprar.jpg
 meta_summary: 
 date: 27/09/2021
 ---

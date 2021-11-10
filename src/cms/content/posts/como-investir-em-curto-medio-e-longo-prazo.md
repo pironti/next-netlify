@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - consorcio
-thumbnail: /public/cms-content/media/como-investir-em-curto-medio-e-longo-prazo.jpg
+thumbnail: /public/static/cms-content/como-investir-em-curto-medio-e-longo-prazo.jpg
 meta_summary: 
 date: 24/09/2021
 ---

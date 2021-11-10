@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/suv-vale-a-pena-comprar-uma.jpg
+thumbnail: /public/static/cms-content/suv-vale-a-pena-comprar-uma.jpg
 meta_summary: 
 date: 04/10/2021
 ---

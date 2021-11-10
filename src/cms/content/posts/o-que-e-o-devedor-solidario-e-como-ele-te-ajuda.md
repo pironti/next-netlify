@@ -6,7 +6,7 @@ tags:
  - consorcio
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/o-que-e-o-devedor-solidario-e-como-ele-te-ajuda.jpg
+thumbnail: /public/static/cms-content/o-que-e-o-devedor-solidario-e-como-ele-te-ajuda.jpg
 meta_summary: 
 date: 29/09/2021
 ---

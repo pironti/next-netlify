@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/4-roteiros-de-viagem-em-minas-gerais.png
+thumbnail: /public/static/cms-content/4-roteiros-de-viagem-em-minas-gerais.png
 meta_summary: 
 date: 06/10/2021
 ---

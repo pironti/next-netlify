@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/formas-de-economizar-combustivel.jpg
+thumbnail: /public/static/cms-content/formas-de-economizar-combustivel.jpg
 meta_summary: 
 date: 23/09/2021
 ---

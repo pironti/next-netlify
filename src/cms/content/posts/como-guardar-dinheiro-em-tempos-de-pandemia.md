@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-guardar-dinheiro-em-tempos-de-pandemia.jpg
+thumbnail: /public/static/cms-content/como-guardar-dinheiro-em-tempos-de-pandemia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -4,7 +4,7 @@ slug: conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso.jpg
+thumbnail: /public/static/cms-content/conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso.jpg
 meta_summary: 
 date: 06/10/2021
 ---

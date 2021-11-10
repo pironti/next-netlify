@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - como-escolher-um-carro
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/consorcio-de-carro-seminovo-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/consorcio-de-carro-seminovo-vale-a-pena.jpg
 meta_summary: 
 date: 27/09/2021
 ---

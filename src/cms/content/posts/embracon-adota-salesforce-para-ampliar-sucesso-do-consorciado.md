@@ -4,7 +4,7 @@ slug: embracon-adota-salesforce-para-ampliar-sucesso-do-consorciado
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/embracon-adota-salesforce-para-ampliar-sucesso-do-consorciado.png
+thumbnail: /public/static/cms-content/embracon-adota-salesforce-para-ampliar-sucesso-do-consorciado.png
 meta_summary: 
 date: 06/10/2021
 ---

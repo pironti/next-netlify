@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/as-dicas-mais-valiosas-para-sair-do-vermelho.jpg
+thumbnail: /public/static/cms-content/as-dicas-mais-valiosas-para-sair-do-vermelho.jpg
 meta_summary: 
 date: 28/09/2021
 ---

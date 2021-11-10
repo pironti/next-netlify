@@ -4,7 +4,7 @@ slug: consorcio-tem-juros-saiba-tudo
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/consorcio-tem-juros-saiba-tudo.jpg
+thumbnail: /public/static/cms-content/consorcio-tem-juros-saiba-tudo.jpg
 meta_summary: 
 date: 09/11/2021
 ---

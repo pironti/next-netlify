@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/como-preservar-pintura-automotiva.jpg
+thumbnail: /public/static/cms-content/como-preservar-pintura-automotiva.jpg
 meta_summary: 
 date: 27/09/2021
 ---

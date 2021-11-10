@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/8-motivos-que-mostram-que-vale-a-pena-fazer-um-consorcio.jpg
+thumbnail: /public/static/cms-content/8-motivos-que-mostram-que-vale-a-pena-fazer-um-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

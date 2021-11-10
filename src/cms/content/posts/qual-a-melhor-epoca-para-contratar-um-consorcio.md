@@ -11,7 +11,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-e-investimento
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/qual-a-melhor-epoca-para-contratar-um-consorcio.jpg
+thumbnail: /public/static/cms-content/qual-a-melhor-epoca-para-contratar-um-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - dicas
  - dicas-de-economia
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/5-dicas-para-pagar-seu-consorcio-sem-preocupacao.jpg
+thumbnail: /public/static/cms-content/5-dicas-para-pagar-seu-consorcio-sem-preocupacao.jpg
 meta_summary: 
 date: 30/09/2021
 ---

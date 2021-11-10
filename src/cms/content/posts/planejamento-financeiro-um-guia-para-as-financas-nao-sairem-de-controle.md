@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle.jpg
+thumbnail: /public/static/cms-content/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - por-que-fazer-um-consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes.jpg
+thumbnail: /public/static/cms-content/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes.jpg
 meta_summary: 
 date: 28/09/2021
 ---

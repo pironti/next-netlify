@@ -8,7 +8,7 @@ tags:
  - por-que-fazer-um-consorcio
  - como-escolher-um-carro
  - consorcio-x-financiamento
-thumbnail: /public/cms-content/media/sobre-o-consorcio-de-veiculos-embracon.jpeg
+thumbnail: /public/static/cms-content/sobre-o-consorcio-de-veiculos-embracon.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

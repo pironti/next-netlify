@@ -4,7 +4,7 @@ slug: embracon-melhor-empresa-para-negociar-e-para-trabalhar
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/embracon-melhor-empresa-para-negociar-e-para-trabalhar.jpg
+thumbnail: /public/static/cms-content/embracon-melhor-empresa-para-negociar-e-para-trabalhar.jpg
 meta_summary: 
 date: 06/10/2021
 ---

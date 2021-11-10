@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-decoracao
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/modelos-e-usos-tapete-decoracao-quarto.jpg
+thumbnail: /public/static/cms-content/modelos-e-usos-tapete-decoracao-quarto.jpg
 meta_summary: 
 date: 20/10/2021
 ---

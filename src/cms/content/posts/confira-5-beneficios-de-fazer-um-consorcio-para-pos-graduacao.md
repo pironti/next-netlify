@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - tipos-de-consorcio
  - destaque-profissional
-thumbnail: /public/cms-content/media/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao.jpeg
+thumbnail: /public/static/cms-content/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

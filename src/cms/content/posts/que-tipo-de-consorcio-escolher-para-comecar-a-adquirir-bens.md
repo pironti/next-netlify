@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - consorcio-de-imoveis
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/que-tipo-de-consorcio-escolher-para-comecar-a-adquirir-bens.jpg
+thumbnail: /public/static/cms-content/que-tipo-de-consorcio-escolher-para-comecar-a-adquirir-bens.jpg
 meta_summary: 
 date: 24/09/2021
 ---

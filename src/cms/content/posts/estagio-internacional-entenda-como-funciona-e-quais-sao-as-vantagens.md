@@ -7,7 +7,7 @@ tags:
  - dicas-de-carreira
  - destaque-profissional
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens.jpeg
+thumbnail: /public/static/cms-content/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

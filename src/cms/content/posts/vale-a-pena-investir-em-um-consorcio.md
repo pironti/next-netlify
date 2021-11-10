@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-servicos
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/vale-a-pena-investir-em-um-consorcio.jpg
+thumbnail: /public/static/cms-content/vale-a-pena-investir-em-um-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

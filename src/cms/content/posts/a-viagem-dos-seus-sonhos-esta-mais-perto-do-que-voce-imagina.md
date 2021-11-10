@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - consorcio
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina.jpg
+thumbnail: /public/static/cms-content/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -4,7 +4,7 @@ slug: importancia-de-pagar-o-consorcio-em-dia
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/importancia-de-pagar-o-consorcio-em-dia.jpg
+thumbnail: /public/static/cms-content/importancia-de-pagar-o-consorcio-em-dia.jpg
 meta_summary: 
 date: 20/10/2021
 ---

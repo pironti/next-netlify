@@ -7,7 +7,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-de-servicos
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/como-reformar-a-casa-sem-sair-do-planejamento-financeiro.jpg
+thumbnail: /public/static/cms-content/como-reformar-a-casa-sem-sair-do-planejamento-financeiro.jpg
 meta_summary: 
 date: 27/09/2021
 ---

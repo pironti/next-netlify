@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - consorcio
  - moto
-thumbnail: /public/cms-content/media/saiba-tudo-sobre-consorcio-de-motos.jpg
+thumbnail: /public/static/cms-content/saiba-tudo-sobre-consorcio-de-motos.jpg
 meta_summary: 
 date: 24/09/2021
 ---

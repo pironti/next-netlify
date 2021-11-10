@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/melhores-lugares-para-viajar-no-brasil.jpg
+thumbnail: /public/static/cms-content/melhores-lugares-para-viajar-no-brasil.jpg
 meta_summary: 
 date: 23/09/2021
 ---

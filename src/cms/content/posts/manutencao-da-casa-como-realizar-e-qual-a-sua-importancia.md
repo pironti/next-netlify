@@ -9,7 +9,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/manutencao-da-casa-como-realizar-e-qual-a-sua-importancia.jpg
+thumbnail: /public/static/cms-content/manutencao-da-casa-como-realizar-e-qual-a-sua-importancia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

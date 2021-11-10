@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas
  - educacao-financeira
-thumbnail: /public/cms-content/media/irpf-2020-saiba-o-que-mudou-e-como-declarar-seu-consorcio.jpg
+thumbnail: /public/static/cms-content/irpf-2020-saiba-o-que-mudou-e-como-declarar-seu-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

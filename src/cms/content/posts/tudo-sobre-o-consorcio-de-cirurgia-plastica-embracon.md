@@ -7,7 +7,7 @@ tags:
  - dicas-de-estetica
  - consorcio-de-estetica
  - consorcio-de-plastica
-thumbnail: /public/cms-content/media/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon.jpeg
+thumbnail: /public/static/cms-content/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

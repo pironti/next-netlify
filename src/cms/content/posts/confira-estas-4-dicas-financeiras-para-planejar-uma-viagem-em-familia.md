@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - dicas-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia.jpeg
+thumbnail: /public/static/cms-content/confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

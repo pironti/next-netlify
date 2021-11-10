@@ -8,7 +8,7 @@ tags:
  - destaque-profissional
  - consorcio-de-educacao
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua.jpg
+thumbnail: /public/static/cms-content/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua.jpg
 meta_summary: 
 date: 06/10/2021
 ---

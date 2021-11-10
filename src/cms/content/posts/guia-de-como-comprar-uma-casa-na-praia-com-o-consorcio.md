@@ -9,7 +9,7 @@ tags:
  - dicas-de-economia
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/guia-de-como-comprar-uma-casa-na-praia-com-o-consorcio.jpg
+thumbnail: /public/static/cms-content/guia-de-como-comprar-uma-casa-na-praia-com-o-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

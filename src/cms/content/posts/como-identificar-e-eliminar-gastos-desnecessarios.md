@@ -4,7 +4,7 @@ slug: como-identificar-e-eliminar-gastos-desnecessarios
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-identificar-e-eliminar-gastos-desnecessarios.jpg
+thumbnail: /public/static/cms-content/como-identificar-e-eliminar-gastos-desnecessarios.jpg
 meta_summary: 
 date: 04/10/2021
 ---

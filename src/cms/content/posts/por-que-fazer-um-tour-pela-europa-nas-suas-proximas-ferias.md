@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias.jpg
+thumbnail: /public/static/cms-content/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias.jpg
 meta_summary: 
 date: 05/10/2021
 ---

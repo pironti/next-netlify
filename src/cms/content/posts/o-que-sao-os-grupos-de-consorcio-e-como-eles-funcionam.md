@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam.jpg
+thumbnail: /public/static/cms-content/o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam.jpg
 meta_summary: 
 date: 23/09/2021
 ---

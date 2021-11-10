@@ -6,7 +6,7 @@ tags:
  - consorcio-de-estetica
  - consorcio-de-plastica
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/como-funciona-a-cirurgia-de-correcao-de-cicatriz-entenda-aqui.jpeg
+thumbnail: /public/static/cms-content/como-funciona-a-cirurgia-de-correcao-de-cicatriz-entenda-aqui.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

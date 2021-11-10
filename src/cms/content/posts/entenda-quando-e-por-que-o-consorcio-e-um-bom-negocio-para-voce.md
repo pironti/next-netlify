@@ -11,7 +11,7 @@ tags:
  - consorcio-x-financiamento
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/entenda-quando-e-por-que-o-consorcio-e-um-bom-negocio-para-voce.jpg
+thumbnail: /public/static/cms-content/entenda-quando-e-por-que-o-consorcio-e-um-bom-negocio-para-voce.jpg
 meta_summary: 
 date: 28/09/2021
 ---

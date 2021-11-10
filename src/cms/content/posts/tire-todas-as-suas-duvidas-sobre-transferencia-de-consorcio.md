@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - dicas
-thumbnail: /public/cms-content/media/tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio.jpg
+thumbnail: /public/static/cms-content/tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio.jpg
 meta_summary: 
 date: 05/10/2021
 ---

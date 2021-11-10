@@ -7,7 +7,7 @@ tags:
  - dicas
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/conheca-lisboa-a-nova-queridinha-dos-brasileiros.jpg
+thumbnail: /public/static/cms-content/conheca-lisboa-a-nova-queridinha-dos-brasileiros.jpg
 meta_summary: 
 date: 29/09/2021
 ---

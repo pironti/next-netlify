@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - dicas
-thumbnail: /public/cms-content/media/compre-seu-apartamento-com-o-consorcio-de-imoveis.jpg
+thumbnail: /public/static/cms-content/compre-seu-apartamento-com-o-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 07/10/2021
 ---

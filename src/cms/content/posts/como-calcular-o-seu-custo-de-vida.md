@@ -6,7 +6,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-calcular-o-seu-custo-de-vida.jpg
+thumbnail: /public/static/cms-content/como-calcular-o-seu-custo-de-vida.jpg
 meta_summary: 
 date: 28/09/2021
 ---

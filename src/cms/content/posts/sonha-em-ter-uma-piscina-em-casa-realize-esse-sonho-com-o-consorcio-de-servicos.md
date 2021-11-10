@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-servicos
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos.jpg
+thumbnail: /public/static/cms-content/sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos.jpg
 meta_summary: 
 date: 29/09/2021
 ---

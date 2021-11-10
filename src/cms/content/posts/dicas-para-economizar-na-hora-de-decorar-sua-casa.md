@@ -8,7 +8,7 @@ tags:
  - consorcio-de-servicos
  - dicas
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/dicas-para-economizar-na-hora-de-decorar-sua-casa.jpg
+thumbnail: /public/static/cms-content/dicas-para-economizar-na-hora-de-decorar-sua-casa.jpg
 meta_summary: 
 date: 30/09/2021
 ---

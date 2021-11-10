@@ -4,7 +4,7 @@ slug: 4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua.jpg
+thumbnail: /public/static/cms-content/4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua.jpg
 meta_summary: 
 date: 04/10/2021
 ---

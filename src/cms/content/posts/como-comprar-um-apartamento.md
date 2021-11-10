@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/como-comprar-um-apartamento.jpeg
+thumbnail: /public/static/cms-content/como-comprar-um-apartamento.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

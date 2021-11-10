@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/manchas-na-pele-quais-sao-as-causas-e-como-evita-las.jpeg
+thumbnail: /public/static/cms-content/manchas-na-pele-quais-sao-as-causas-e-como-evita-las.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

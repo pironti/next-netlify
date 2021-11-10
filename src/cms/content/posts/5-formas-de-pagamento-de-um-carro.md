@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - dicas-de-carro
  - educacao-financeira
-thumbnail: /public/cms-content/media/5-formas-de-pagamento-de-um-carro.jpg
+thumbnail: /public/static/cms-content/5-formas-de-pagamento-de-um-carro.jpg
 meta_summary: 
 date: 05/10/2021
 ---

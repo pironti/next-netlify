@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/saiba-quando-fazer-um-consorcio-de-automovel.jpg
+thumbnail: /public/static/cms-content/saiba-quando-fazer-um-consorcio-de-automovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

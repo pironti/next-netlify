@@ -6,7 +6,7 @@ tags:
  - dicas
  - casa-nova
  - comprar-casa
-thumbnail: /public/cms-content/media/conheca-as-melhores-cidades-para-se-viver-no-brasil.png
+thumbnail: /public/static/cms-content/conheca-as-melhores-cidades-para-se-viver-no-brasil.png
 meta_summary: 
 date: 01/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - consorcio
  - dicas-de-economia
-thumbnail: /public/cms-content/media/como-aumentar-o-patrimonio-de-um-jeito-simples.jpg
+thumbnail: /public/static/cms-content/como-aumentar-o-patrimonio-de-um-jeito-simples.jpg
 meta_summary: 
 date: 27/09/2021
 ---

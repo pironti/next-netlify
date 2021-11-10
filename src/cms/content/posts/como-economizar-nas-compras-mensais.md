@@ -4,7 +4,7 @@ slug: como-economizar-nas-compras-mensais
 categoria: financas-pessoais
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-economizar-nas-compras-mensais.jpg
+thumbnail: /public/static/cms-content/como-economizar-nas-compras-mensais.jpg
 meta_summary: 
 date: 09/11/2021
 ---

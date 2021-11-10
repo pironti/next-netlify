@@ -4,7 +4,7 @@ slug: parcela-de-consorcio-tem-juros
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/parcela-de-consorcio-tem-juros.png
+thumbnail: /public/static/cms-content/parcela-de-consorcio-tem-juros.png
 meta_summary: 
 date: 06/10/2021
 ---

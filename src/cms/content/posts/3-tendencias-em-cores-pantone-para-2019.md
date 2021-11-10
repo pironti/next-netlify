@@ -4,7 +4,7 @@ slug: 3-tendencias-em-cores-pantone-para-2019
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/3-tendencias-em-cores-pantone-para-2019.jpg
+thumbnail: /public/static/cms-content/3-tendencias-em-cores-pantone-para-2019.jpg
 meta_summary: 
 date: 04/10/2021
 ---

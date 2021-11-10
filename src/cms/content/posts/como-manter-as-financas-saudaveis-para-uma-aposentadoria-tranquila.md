@@ -9,7 +9,7 @@ tags:
  - dicas-de-economia
  - educacao-financeira
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/como-manter-as-financas-saudaveis-para-uma-aposentadoria-tranquila.jpg
+thumbnail: /public/static/cms-content/como-manter-as-financas-saudaveis-para-uma-aposentadoria-tranquila.jpg
 meta_summary: 
 date: 29/09/2021
 ---

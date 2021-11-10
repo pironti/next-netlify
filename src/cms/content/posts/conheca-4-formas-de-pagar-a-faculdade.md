@@ -6,7 +6,7 @@ tags:
  - dicas-de-carreira
  - destaque-profissional
  - consorcio-de-educacao
-thumbnail: /public/cms-content/media/conheca-4-formas-de-pagar-a-faculdade.jpeg
+thumbnail: /public/static/cms-content/conheca-4-formas-de-pagar-a-faculdade.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

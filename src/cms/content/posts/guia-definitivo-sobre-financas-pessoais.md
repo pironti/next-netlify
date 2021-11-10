@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/guia-definitivo-sobre-financas-pessoais.jpg
+thumbnail: /public/static/cms-content/guia-definitivo-sobre-financas-pessoais.jpg
 meta_summary: 
 date: 09/11/2021
 ---

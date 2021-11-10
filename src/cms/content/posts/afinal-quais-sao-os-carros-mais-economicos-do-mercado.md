@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/cms-content/media/afinal-quais-sao-os-carros-mais-economicos-do-mercado.jpg
+thumbnail: /public/static/cms-content/afinal-quais-sao-os-carros-mais-economicos-do-mercado.jpg
 meta_summary: 
 date: 24/09/2021
 ---

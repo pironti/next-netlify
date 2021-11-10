@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/consorcio-para-frota-de-caminhoes.jpg
+thumbnail: /public/static/cms-content/consorcio-para-frota-de-caminhoes.jpg
 meta_summary: 
 date: 27/09/2021
 ---

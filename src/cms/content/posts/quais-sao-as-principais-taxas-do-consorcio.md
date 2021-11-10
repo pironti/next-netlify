@@ -4,7 +4,7 @@ slug: quais-sao-as-principais-taxas-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/quais-sao-as-principais-taxas-do-consorcio.jpg
+thumbnail: /public/static/cms-content/quais-sao-as-principais-taxas-do-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

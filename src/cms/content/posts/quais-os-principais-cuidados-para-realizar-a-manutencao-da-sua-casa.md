@@ -9,7 +9,7 @@ tags:
  - consorcio-de-servicos
  - dicas-de-decoracao
  - economia-domestica
-thumbnail: /public/cms-content/media/quais-os-principais-cuidados-para-realizar-a-manutencao-da-sua-casa.jpg
+thumbnail: /public/static/cms-content/quais-os-principais-cuidados-para-realizar-a-manutencao-da-sua-casa.jpg
 meta_summary: 
 date: 28/09/2021
 ---

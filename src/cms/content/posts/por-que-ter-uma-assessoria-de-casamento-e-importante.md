@@ -7,7 +7,7 @@ tags:
  - consorcio-de-festa
  - consorcio-de-servicos
  - dicas
-thumbnail: /public/cms-content/media/por-que-ter-uma-assessoria-de-casamento-e-importante.jpg
+thumbnail: /public/static/cms-content/por-que-ter-uma-assessoria-de-casamento-e-importante.jpg
 meta_summary: 
 date: 05/10/2021
 ---

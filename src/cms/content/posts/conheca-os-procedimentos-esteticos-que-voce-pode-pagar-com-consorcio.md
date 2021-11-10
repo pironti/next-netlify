@@ -7,7 +7,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-plastica
  - estetica
-thumbnail: /public/cms-content/media/conheca-os-procedimentos-esteticos-que-voce-pode-pagar-com-consorcio.jpg
+thumbnail: /public/static/cms-content/conheca-os-procedimentos-esteticos-que-voce-pode-pagar-com-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

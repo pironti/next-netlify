@@ -6,7 +6,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia.jpeg
+thumbnail: /public/static/cms-content/quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -9,7 +9,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida.jpg
+thumbnail: /public/static/cms-content/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida.jpg
 meta_summary: 
 date: 30/09/2021
 ---

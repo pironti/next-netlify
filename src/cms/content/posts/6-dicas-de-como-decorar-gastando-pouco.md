@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/6-dicas-de-como-decorar-gastando-pouco.jpg
+thumbnail: /public/static/cms-content/6-dicas-de-como-decorar-gastando-pouco.jpg
 meta_summary: 
 date: 04/10/2021
 ---

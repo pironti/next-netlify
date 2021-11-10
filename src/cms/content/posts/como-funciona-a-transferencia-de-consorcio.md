@@ -4,7 +4,7 @@ slug: como-funciona-a-transferencia-de-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-funciona-a-transferencia-de-consorcio.jpg
+thumbnail: /public/static/cms-content/como-funciona-a-transferencia-de-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

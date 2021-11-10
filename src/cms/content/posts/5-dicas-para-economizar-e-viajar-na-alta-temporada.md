@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/5-dicas-para-economizar-e-viajar-na-alta-temporada.jpg
+thumbnail: /public/static/cms-content/5-dicas-para-economizar-e-viajar-na-alta-temporada.jpg
 meta_summary: 
 date: 05/10/2021
 ---

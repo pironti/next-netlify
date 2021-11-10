@@ -10,7 +10,7 @@ tags:
  - dicas-de-decoracao
  - dicas
  - tendencia-em-decoracao
-thumbnail: /public/cms-content/media/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal.jpg
+thumbnail: /public/static/cms-content/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal.jpg
 meta_summary: 
 date: 04/10/2021
 ---

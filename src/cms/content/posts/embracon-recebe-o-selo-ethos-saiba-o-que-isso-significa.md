@@ -4,7 +4,7 @@ slug: embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa.jpg
+thumbnail: /public/static/cms-content/embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa.jpg
 meta_summary: 
 date: 30/09/2021
 ---

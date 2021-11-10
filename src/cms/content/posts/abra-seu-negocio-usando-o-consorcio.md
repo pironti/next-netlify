@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-servicos
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/abra-seu-negocio-usando-o-consorcio.jpg
+thumbnail: /public/static/cms-content/abra-seu-negocio-usando-o-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

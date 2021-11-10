@@ -8,7 +8,7 @@ tags:
  - dicas-de-carro
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens.jpeg
+thumbnail: /public/static/cms-content/como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

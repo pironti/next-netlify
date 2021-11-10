@@ -6,7 +6,7 @@ tags:
  - consorcio
  - educacao-financeira
  - dicas
-thumbnail: /public/cms-content/media/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia.jpg
+thumbnail: /public/static/cms-content/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

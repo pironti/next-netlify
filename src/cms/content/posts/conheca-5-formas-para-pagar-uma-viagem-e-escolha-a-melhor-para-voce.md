@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - consorcio-de-viagem
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce.jpeg
+thumbnail: /public/static/cms-content/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

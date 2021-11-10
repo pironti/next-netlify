@@ -4,7 +4,7 @@ slug: posso-levar-o-pet-numa-viagem-de-aviao
 categoria: viagens
 tags:
  - dicas-de-viagem
-thumbnail: /public/cms-content/media/posso-levar-o-pet-numa-viagem-de-aviao.png
+thumbnail: /public/static/cms-content/posso-levar-o-pet-numa-viagem-de-aviao.png
 meta_summary: 
 date: 06/10/2021
 ---

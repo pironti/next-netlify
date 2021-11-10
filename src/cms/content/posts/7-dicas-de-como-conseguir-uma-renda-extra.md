@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/7-dicas-de-como-conseguir-uma-renda-extra.jpg
+thumbnail: /public/static/cms-content/7-dicas-de-como-conseguir-uma-renda-extra.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio.jpg
+thumbnail: /public/static/cms-content/como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

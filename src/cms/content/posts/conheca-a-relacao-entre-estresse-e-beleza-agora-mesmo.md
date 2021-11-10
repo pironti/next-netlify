@@ -4,7 +4,7 @@ slug: conheca-a-relacao-entre-estresse-e-beleza-agora-mesmo
 categoria: saude-e-estetica
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/conheca-a-relacao-entre-estresse-e-beleza-agora-mesmo.jpeg
+thumbnail: /public/static/cms-content/conheca-a-relacao-entre-estresse-e-beleza-agora-mesmo.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

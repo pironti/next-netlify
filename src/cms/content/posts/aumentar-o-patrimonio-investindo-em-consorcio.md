@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/aumentar-o-patrimonio-investindo-em-consorcio.jpg
+thumbnail: /public/static/cms-content/aumentar-o-patrimonio-investindo-em-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

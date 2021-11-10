@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/dicas-para-vender-seu-seminovo-mais-rapido.jpg
+thumbnail: /public/static/cms-content/dicas-para-vender-seu-seminovo-mais-rapido.jpg
 meta_summary: 
 date: 23/09/2021
 ---

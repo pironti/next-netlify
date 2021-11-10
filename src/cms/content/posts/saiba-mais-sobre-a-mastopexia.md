@@ -5,7 +5,7 @@ categoria: saude-e-estetica
 tags:
  - consorcio-de-plastica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/saiba-mais-sobre-a-mastopexia.png
+thumbnail: /public/static/cms-content/saiba-mais-sobre-a-mastopexia.png
 meta_summary: 
 date: 04/10/2021
 ---

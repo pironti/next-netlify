@@ -4,7 +4,7 @@ slug: 4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro.jpg
+thumbnail: /public/static/cms-content/4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro.jpg
 meta_summary: 
 date: 24/09/2021
 ---

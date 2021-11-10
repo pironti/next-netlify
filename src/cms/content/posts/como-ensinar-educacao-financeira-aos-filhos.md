@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-ensinar-educacao-financeira-aos-filhos.jpg
+thumbnail: /public/static/cms-content/como-ensinar-educacao-financeira-aos-filhos.jpg
 meta_summary: 
 date: 30/09/2021
 ---

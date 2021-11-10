@@ -7,7 +7,7 @@ tags:
  - dicas-de-viagem
  - consorcio-e-investimento
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/7-razoes-para-voce-viajar-para-a-republica-tcheca.jpg
+thumbnail: /public/static/cms-content/7-razoes-para-voce-viajar-para-a-republica-tcheca.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/comemorar-as-bodas-de-casamento-confira-5-ideias-quentes.jpeg
+thumbnail: /public/static/cms-content/comemorar-as-bodas-de-casamento-confira-5-ideias-quentes.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

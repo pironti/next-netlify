@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/dentes-manchados-conheca-as-principais-causas-e-como-tratar.jpeg
+thumbnail: /public/static/cms-content/dentes-manchados-conheca-as-principais-causas-e-como-tratar.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

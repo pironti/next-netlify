@@ -8,7 +8,7 @@ tags:
  - consorcio-e-investimento
  - destaque-profissional
  - dicas-de-carreira
-thumbnail: /public/cms-content/media/5-dicas-para-construir-uma-carreira-internacional.jpg
+thumbnail: /public/static/cms-content/5-dicas-para-construir-uma-carreira-internacional.jpg
 meta_summary: 
 date: 04/10/2021
 ---

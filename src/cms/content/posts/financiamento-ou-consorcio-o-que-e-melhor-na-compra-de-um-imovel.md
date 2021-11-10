@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio-x-financiamento
  - educacao-financeira
-thumbnail: /public/cms-content/media/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel.jpg
+thumbnail: /public/static/cms-content/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

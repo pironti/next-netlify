@@ -4,7 +4,7 @@ slug: afinal-o-que-e-o-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/afinal-o-que-e-o-consorcio.png
+thumbnail: /public/static/cms-content/afinal-o-que-e-o-consorcio.png
 meta_summary: 
 date: 07/10/2021
 ---

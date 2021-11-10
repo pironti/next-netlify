@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/9-duvidas-mais-comuns-sobre-consorcio.jpg
+thumbnail: /public/static/cms-content/9-duvidas-mais-comuns-sobre-consorcio.jpg
 meta_summary: 
 date: 08/10/2021
 ---

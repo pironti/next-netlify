@@ -8,7 +8,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021.jpg
+thumbnail: /public/static/cms-content/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021.jpg
 meta_summary: 
 date: 29/09/2021
 ---

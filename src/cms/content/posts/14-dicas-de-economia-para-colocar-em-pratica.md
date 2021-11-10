@@ -4,7 +4,7 @@ slug: 14-dicas-de-economia-para-colocar-em-pratica
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/14-dicas-de-economia-para-colocar-em-pratica.jpg
+thumbnail: /public/static/cms-content/14-dicas-de-economia-para-colocar-em-pratica.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -4,7 +4,7 @@ slug: canais-de-atendimento-embracon
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/canais-de-atendimento-embracon.jpg
+thumbnail: /public/static/cms-content/canais-de-atendimento-embracon.jpg
 meta_summary: 
 date: 24/09/2021
 ---

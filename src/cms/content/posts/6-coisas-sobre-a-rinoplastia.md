@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/6-coisas-sobre-a-rinoplastia.jpg
+thumbnail: /public/static/cms-content/6-coisas-sobre-a-rinoplastia.jpg
 meta_summary: 
 date: 05/10/2021
 ---

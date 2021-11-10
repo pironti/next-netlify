@@ -4,7 +4,7 @@ slug: como-calcular-as-parcelas-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/como-calcular-as-parcelas-no-consorcio.jpg
+thumbnail: /public/static/cms-content/como-calcular-as-parcelas-no-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-viagem
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/por-que-viajar-para-cingapura-entenda-aqui-os-motivos.jpeg
+thumbnail: /public/static/cms-content/por-que-viajar-para-cingapura-entenda-aqui-os-motivos.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

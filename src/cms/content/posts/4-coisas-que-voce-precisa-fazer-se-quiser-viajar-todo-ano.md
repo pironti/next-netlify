@@ -4,7 +4,7 @@ slug: 4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano.jpg
+thumbnail: /public/static/cms-content/4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano.jpg
 meta_summary: 
 date: 05/10/2021
 ---

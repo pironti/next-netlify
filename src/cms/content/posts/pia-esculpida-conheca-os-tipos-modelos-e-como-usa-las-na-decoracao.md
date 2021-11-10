@@ -9,7 +9,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-e-investimento
  - educacao-financeira
-thumbnail: /public/cms-content/media/pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao.jpg
+thumbnail: /public/static/cms-content/pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao.jpg
 meta_summary: 
 date: 01/10/2021
 ---

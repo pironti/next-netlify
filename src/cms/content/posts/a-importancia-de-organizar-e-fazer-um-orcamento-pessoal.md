@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal.jpg
+thumbnail: /public/static/cms-content/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal.jpg
 meta_summary: 
 date: 28/09/2021
 ---

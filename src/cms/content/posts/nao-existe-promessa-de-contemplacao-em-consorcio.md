@@ -4,7 +4,7 @@ slug: nao-existe-promessa-de-contemplacao-em-consorcio
 categoria: contemplacao
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/nao-existe-promessa-de-contemplacao-em-consorcio.jpg
+thumbnail: /public/static/cms-content/nao-existe-promessa-de-contemplacao-em-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

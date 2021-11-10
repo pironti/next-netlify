@@ -7,7 +7,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-viagem
  - dicas-de-viagem
-thumbnail: /public/cms-content/media/como-planejar-se-para-um-cruzeiro-inesquecivel.jpg
+thumbnail: /public/static/cms-content/como-planejar-se-para-um-cruzeiro-inesquecivel.jpg
 meta_summary: 
 date: 30/09/2021
 ---

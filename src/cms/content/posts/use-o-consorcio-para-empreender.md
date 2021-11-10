@@ -9,7 +9,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/use-o-consorcio-para-empreender.jpg
+thumbnail: /public/static/cms-content/use-o-consorcio-para-empreender.jpg
 meta_summary: 
 date: 28/09/2021
 ---

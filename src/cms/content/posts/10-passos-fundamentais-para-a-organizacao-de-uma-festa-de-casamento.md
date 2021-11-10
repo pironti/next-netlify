@@ -7,7 +7,7 @@ tags:
  - consorcio
  - consorcio-de-casamento
  - festas
-thumbnail: /public/cms-content/media/10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento.jpg
+thumbnail: /public/static/cms-content/10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento.jpg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - tendencia-em-decoracao
  - consorcio-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/como-escolher-revestimentos-para-a-sua-casa.jpeg
+thumbnail: /public/static/cms-content/como-escolher-revestimentos-para-a-sua-casa.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

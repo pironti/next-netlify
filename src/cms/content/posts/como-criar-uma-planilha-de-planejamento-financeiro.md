@@ -6,7 +6,7 @@ tags:
  - dicas-de-economia
  - dicas
  - educacao-financeira
-thumbnail: /public/cms-content/media/como-criar-uma-planilha-de-planejamento-financeiro.jpg
+thumbnail: /public/static/cms-content/como-criar-uma-planilha-de-planejamento-financeiro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

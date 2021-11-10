@@ -4,7 +4,7 @@ slug: existe-momento-certo-para-adquirir-um-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/existe-momento-certo-para-adquirir-um-consorcio.jpg
+thumbnail: /public/static/cms-content/existe-momento-certo-para-adquirir-um-consorcio.jpg
 meta_summary: 
 date: 08/10/2021
 ---

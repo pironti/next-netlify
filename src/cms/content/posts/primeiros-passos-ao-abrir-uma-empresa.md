@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas
  - dicas-de-economia
-thumbnail: /public/cms-content/media/primeiros-passos-ao-abrir-uma-empresa.jpg
+thumbnail: /public/static/cms-content/primeiros-passos-ao-abrir-uma-empresa.jpg
 meta_summary: 
 date: 23/09/2021
 ---

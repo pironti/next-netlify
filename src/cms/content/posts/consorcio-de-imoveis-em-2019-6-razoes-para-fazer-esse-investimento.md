@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - por-que-fazer-um-consorcio
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/consorcio-de-imoveis-em-2019-6-razoes-para-fazer-esse-investimento.jpg
+thumbnail: /public/static/cms-content/consorcio-de-imoveis-em-2019-6-razoes-para-fazer-esse-investimento.jpg
 meta_summary: 
 date: 06/10/2021
 ---

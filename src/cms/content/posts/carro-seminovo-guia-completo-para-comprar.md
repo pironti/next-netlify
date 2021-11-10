@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/carro-seminovo-guia-completo-para-comprar.jpg
+thumbnail: /public/static/cms-content/carro-seminovo-guia-completo-para-comprar.jpg
 meta_summary: 
 date: 24/09/2021
 ---

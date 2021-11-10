@@ -4,7 +4,7 @@ slug: planeje-sua-vida-financeira-e-fique-sempre-no-azul
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/planeje-sua-vida-financeira-e-fique-sempre-no-azul.jpeg
+thumbnail: /public/static/cms-content/planeje-sua-vida-financeira-e-fique-sempre-no-azul.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

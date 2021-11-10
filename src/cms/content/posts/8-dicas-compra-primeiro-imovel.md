@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/8-dicas-compra-primeiro-imovel.jpg
+thumbnail: /public/static/cms-content/8-dicas-compra-primeiro-imovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

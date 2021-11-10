@@ -4,7 +4,7 @@ slug: confira-10-vantagens-indiscutiveis-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/confira-10-vantagens-indiscutiveis-do-consorcio.jpg
+thumbnail: /public/static/cms-content/confira-10-vantagens-indiscutiveis-do-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

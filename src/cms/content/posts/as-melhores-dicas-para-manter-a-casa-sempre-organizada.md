@@ -8,7 +8,7 @@ tags:
  - consorcio-de-decoracao
  - consorcio-de-servicos
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/as-melhores-dicas-para-manter-a-casa-sempre-organizada.jpg
+thumbnail: /public/static/cms-content/as-melhores-dicas-para-manter-a-casa-sempre-organizada.jpg
 meta_summary: 
 date: 28/09/2021
 ---

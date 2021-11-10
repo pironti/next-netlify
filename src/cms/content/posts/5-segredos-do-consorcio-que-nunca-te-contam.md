@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - dicas-de-economia
-thumbnail: /public/cms-content/media/5-segredos-do-consorcio-que-nunca-te-contam.jpg
+thumbnail: /public/static/cms-content/5-segredos-do-consorcio-que-nunca-te-contam.jpg
 meta_summary: 
 date: 28/09/2021
 ---

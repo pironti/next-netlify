@@ -6,7 +6,7 @@ tags:
  - consorcio-de-viagem
  - dicas
  - dicas-de-viagem
-thumbnail: /public/cms-content/media/5-lugares-para-conhecer-no-verao.jpg
+thumbnail: /public/static/cms-content/5-lugares-para-conhecer-no-verao.jpg
 meta_summary: 
 date: 06/10/2021
 ---

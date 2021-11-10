@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/envolva-seus-filhos-nas-financas-da-familia.jpg
+thumbnail: /public/static/cms-content/envolva-seus-filhos-nas-financas-da-familia.jpg
 meta_summary: 
 date: 29/09/2021
 ---

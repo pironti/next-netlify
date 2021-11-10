@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/lentes-de-contato-para-os-dentes-o-que-sao.jpeg
+thumbnail: /public/static/cms-content/lentes-de-contato-para-os-dentes-o-que-sao.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

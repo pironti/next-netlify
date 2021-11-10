@@ -7,7 +7,7 @@ tags:
  - comprar-casa
  - consorcio-de-imoveis
  - dicas
-thumbnail: /public/cms-content/media/busca-de-novas-cidades-para-mais-qualidade-de-vida.jpg
+thumbnail: /public/static/cms-content/busca-de-novas-cidades-para-mais-qualidade-de-vida.jpg
 meta_summary: 
 date: 30/09/2021
 ---

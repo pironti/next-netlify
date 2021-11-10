@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - comprar-casa
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade.jpg
+thumbnail: /public/static/cms-content/consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade.jpg
 meta_summary: 
 date: 28/09/2021
 ---

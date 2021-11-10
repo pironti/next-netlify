@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/o-que-e-o-cheque-e-como-ele-funciona.jpg
+thumbnail: /public/static/cms-content/o-que-e-o-cheque-e-como-ele-funciona.jpg
 meta_summary: 
 date: 24/09/2021
 ---

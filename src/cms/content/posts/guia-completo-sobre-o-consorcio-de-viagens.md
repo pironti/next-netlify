@@ -9,7 +9,7 @@ tags:
  - dicas-de-viagem
  - por-que-fazer-um-consorcio
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-viagens.jpg
+thumbnail: /public/static/cms-content/guia-completo-sobre-o-consorcio-de-viagens.jpg
 meta_summary: 
 date: 27/09/2021
 ---

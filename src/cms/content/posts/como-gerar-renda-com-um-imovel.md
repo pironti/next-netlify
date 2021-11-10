@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - comprar-casa
  - dicas-de-economia
-thumbnail: /public/cms-content/media/como-gerar-renda-com-um-imovel.jpg
+thumbnail: /public/static/cms-content/como-gerar-renda-com-um-imovel.jpg
 meta_summary: 
 date: 23/09/2021
 ---

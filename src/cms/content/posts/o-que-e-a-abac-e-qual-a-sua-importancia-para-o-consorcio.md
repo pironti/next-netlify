@@ -4,7 +4,7 @@ slug: o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio.jpg
+thumbnail: /public/static/cms-content/o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio.jpg
 meta_summary: 
 date: 08/10/2021
 ---

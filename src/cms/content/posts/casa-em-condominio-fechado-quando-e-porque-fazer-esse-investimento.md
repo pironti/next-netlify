@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento.jpg
+thumbnail: /public/static/cms-content/casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento.jpg
 meta_summary: 
 date: 05/10/2021
 ---

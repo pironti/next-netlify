@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - consorcio-de-imoveis
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/16-maiores-duvidas-sobre-o-consorcio-de-imoveis.jpg
+thumbnail: /public/static/cms-content/16-maiores-duvidas-sobre-o-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 23/09/2021
 ---

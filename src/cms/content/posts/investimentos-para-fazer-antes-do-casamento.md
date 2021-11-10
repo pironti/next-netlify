@@ -6,7 +6,7 @@ tags:
  - casamento
  - consorcio-de-festa
  - consorcio-de-casamento
-thumbnail: /public/cms-content/media/investimentos-para-fazer-antes-do-casamento.jpg
+thumbnail: /public/static/cms-content/investimentos-para-fazer-antes-do-casamento.jpg
 meta_summary: 
 date: 23/09/2021
 ---

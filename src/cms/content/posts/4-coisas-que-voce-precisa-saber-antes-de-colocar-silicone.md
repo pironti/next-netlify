@@ -4,7 +4,7 @@ slug: 4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone.jpg
+thumbnail: /public/static/cms-content/4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone.jpg
 meta_summary: 
 date: 05/10/2021
 ---

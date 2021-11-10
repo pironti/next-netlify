@@ -4,7 +4,7 @@ slug: qual-e-a-origem-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/qual-e-a-origem-do-consorcio.jpg
+thumbnail: /public/static/cms-content/qual-e-a-origem-do-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

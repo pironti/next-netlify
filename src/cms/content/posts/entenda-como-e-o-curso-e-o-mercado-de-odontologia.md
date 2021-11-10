@@ -10,7 +10,7 @@ tags:
  - consorcio-e-investimento
  - tipos-de-consorcio
  - consorcio-de-servicos
-thumbnail: /public/cms-content/media/entenda-como-e-o-curso-e-o-mercado-de-odontologia.jpeg
+thumbnail: /public/static/cms-content/entenda-como-e-o-curso-e-o-mercado-de-odontologia.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

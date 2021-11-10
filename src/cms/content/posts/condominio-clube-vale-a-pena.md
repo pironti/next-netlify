@@ -4,7 +4,7 @@ slug: condominio-clube-vale-a-pena
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/condominio-clube-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/condominio-clube-vale-a-pena.jpg
 meta_summary: 
 date: 04/10/2021
 ---

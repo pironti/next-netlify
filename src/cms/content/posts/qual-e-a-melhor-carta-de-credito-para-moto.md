@@ -4,7 +4,7 @@ slug: qual-e-a-melhor-carta-de-credito-para-moto
 categoria: moto
 tags:
  - moto
-thumbnail: /public/cms-content/media/qual-e-a-melhor-carta-de-credito-para-moto.jpg
+thumbnail: /public/static/cms-content/qual-e-a-melhor-carta-de-credito-para-moto.jpg
 meta_summary: 
 date: 09/11/2021
 ---

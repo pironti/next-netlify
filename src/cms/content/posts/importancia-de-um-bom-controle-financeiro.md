@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/importancia-de-um-bom-controle-financeiro.jpg
+thumbnail: /public/static/cms-content/importancia-de-um-bom-controle-financeiro.jpg
 meta_summary: 
 date: 23/09/2021
 ---

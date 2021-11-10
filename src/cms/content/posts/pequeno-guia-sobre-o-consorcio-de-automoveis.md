@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/pequeno-guia-sobre-o-consorcio-de-automoveis.jpg
+thumbnail: /public/static/cms-content/pequeno-guia-sobre-o-consorcio-de-automoveis.jpg
 meta_summary: 
 date: 27/09/2021
 ---

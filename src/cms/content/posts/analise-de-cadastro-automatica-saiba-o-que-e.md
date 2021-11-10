@@ -4,7 +4,7 @@ slug: analise-de-cadastro-automatica-saiba-o-que-e
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/analise-de-cadastro-automatica-saiba-o-que-e.jpg
+thumbnail: /public/static/cms-content/analise-de-cadastro-automatica-saiba-o-que-e.jpg
 meta_summary: 
 date: 24/09/2021
 ---

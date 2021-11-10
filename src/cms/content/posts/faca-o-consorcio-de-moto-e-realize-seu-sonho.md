@@ -4,7 +4,7 @@ slug: faca-o-consorcio-de-moto-e-realize-seu-sonho
 categoria: moto
 tags:
  - moto
-thumbnail: /public/cms-content/media/faca-o-consorcio-de-moto-e-realize-seu-sonho.jpg
+thumbnail: /public/static/cms-content/faca-o-consorcio-de-moto-e-realize-seu-sonho.jpg
 meta_summary: 
 date: 07/10/2021
 ---

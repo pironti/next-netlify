@@ -11,7 +11,7 @@ tags:
  - educacao-financeira
  - tipos-de-consorcio
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/mudancas-no-consorcio-durante-a-pandemia.jpg
+thumbnail: /public/static/cms-content/mudancas-no-consorcio-durante-a-pandemia.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/cms-content/media/economia-colaborativa-saiba-tudo-sobre-o-assunto.png
+thumbnail: /public/static/cms-content/economia-colaborativa-saiba-tudo-sobre-o-assunto.png
 meta_summary: 
 date: 06/10/2021
 ---

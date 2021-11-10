@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce.jpg
+thumbnail: /public/static/cms-content/tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce.jpg
 meta_summary: 
 date: 27/09/2021
 ---

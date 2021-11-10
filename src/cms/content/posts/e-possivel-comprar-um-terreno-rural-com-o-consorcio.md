@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/e-possivel-comprar-um-terreno-rural-com-o-consorcio.jpg
+thumbnail: /public/static/cms-content/e-possivel-comprar-um-terreno-rural-com-o-consorcio.jpg
 meta_summary: 
 date: 05/10/2021
 ---

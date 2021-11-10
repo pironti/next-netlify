@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/entenda-os-gastos-fixos-e-variaveis-de-um-carro.jpg
+thumbnail: /public/static/cms-content/entenda-os-gastos-fixos-e-variaveis-de-um-carro.jpg
 meta_summary: 
 date: 23/09/2021
 ---

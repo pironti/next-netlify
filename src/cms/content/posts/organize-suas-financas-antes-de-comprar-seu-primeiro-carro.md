@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/organize-suas-financas-antes-de-comprar-seu-primeiro-carro.jpg
+thumbnail: /public/static/cms-content/organize-suas-financas-antes-de-comprar-seu-primeiro-carro.jpg
 meta_summary: 
 date: 29/09/2021
 ---

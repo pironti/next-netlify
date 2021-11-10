@@ -6,7 +6,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/cms-content/media/volta-ao-mundo-com-consorcio-de-viagem.jpg
+thumbnail: /public/static/cms-content/volta-ao-mundo-com-consorcio-de-viagem.jpg
 meta_summary: 
 date: 24/09/2021
 ---

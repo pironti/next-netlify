@@ -6,7 +6,7 @@ tags:
  - educacao-financeira
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/cms-content/media/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo.jpg
+thumbnail: /public/static/cms-content/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo.jpg
 meta_summary: 
 date: 01/10/2021
 ---

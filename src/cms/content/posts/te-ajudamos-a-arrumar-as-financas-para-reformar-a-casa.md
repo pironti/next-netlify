@@ -4,7 +4,7 @@ slug: te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa.jpg
+thumbnail: /public/static/cms-content/te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa.jpg
 meta_summary: 
 date: 09/11/2021
 ---

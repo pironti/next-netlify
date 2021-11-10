@@ -7,7 +7,7 @@ tags:
  - tendencia-em-decoracao
  - consorcio-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/cms-content/media/como-ter-um-jardim-de-inverno-em-casa.png
+thumbnail: /public/static/cms-content/como-ter-um-jardim-de-inverno-em-casa.png
 meta_summary: 
 date: 04/10/2021
 ---

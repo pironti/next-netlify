@@ -7,7 +7,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/pagar-a-vista-ou-parcelado-o-que-e-melhor.jpg
+thumbnail: /public/static/cms-content/pagar-a-vista-ou-parcelado-o-que-e-melhor.jpg
 meta_summary: 
 date: 28/09/2021
 ---

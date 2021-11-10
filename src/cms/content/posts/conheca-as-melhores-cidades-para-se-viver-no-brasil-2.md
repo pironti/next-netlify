@@ -10,7 +10,7 @@ tags:
  - consorcio-de-imoveis
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/conheca-as-melhores-cidades-para-se-viver-no-brasil-2.png
+thumbnail: /public/static/cms-content/conheca-as-melhores-cidades-para-se-viver-no-brasil-2.png
 meta_summary: 
 date: 01/10/2021
 ---

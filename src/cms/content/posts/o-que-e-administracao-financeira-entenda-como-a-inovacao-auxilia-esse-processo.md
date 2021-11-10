@@ -4,7 +4,7 @@ slug: o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-proc
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/cms-content/media/o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo.jpg
+thumbnail: /public/static/cms-content/o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo.jpg
 meta_summary: 
 date: 27/09/2021
 ---

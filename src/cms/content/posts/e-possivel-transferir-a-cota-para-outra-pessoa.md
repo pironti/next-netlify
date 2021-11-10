@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - dicas
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/e-possivel-transferir-a-cota-para-outra-pessoa.jpg
+thumbnail: /public/static/cms-content/e-possivel-transferir-a-cota-para-outra-pessoa.jpg
 meta_summary: 
 date: 28/09/2021
 ---

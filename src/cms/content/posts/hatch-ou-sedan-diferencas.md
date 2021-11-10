@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/cms-content/media/hatch-ou-sedan-diferencas.jpg
+thumbnail: /public/static/cms-content/hatch-ou-sedan-diferencas.jpg
 meta_summary: 
 date: 24/09/2021
 ---

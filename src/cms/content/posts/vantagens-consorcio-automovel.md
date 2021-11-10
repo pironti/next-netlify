@@ -4,7 +4,7 @@ slug: vantagens-consorcio-automovel
 categoria: consorcio
 tags:
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/vantagens-consorcio-automovel.jpg
+thumbnail: /public/static/cms-content/vantagens-consorcio-automovel.jpg
 meta_summary: 
 date: 28/09/2021
 ---

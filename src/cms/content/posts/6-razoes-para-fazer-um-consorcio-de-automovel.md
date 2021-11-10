@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - consorcio
  - por-que-fazer-um-consorcio
-thumbnail: /public/cms-content/media/6-razoes-para-fazer-um-consorcio-de-automovel.jpg
+thumbnail: /public/static/cms-content/6-razoes-para-fazer-um-consorcio-de-automovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

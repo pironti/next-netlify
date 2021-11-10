@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos.jpg
+thumbnail: /public/static/cms-content/6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio-de-imoveis
  - consorcio
-thumbnail: /public/cms-content/media/por-que-contratar-o-consorcio-imobiliario-embracon.jpg
+thumbnail: /public/static/cms-content/por-que-contratar-o-consorcio-imobiliario-embracon.jpg
 meta_summary: 
 date: 06/10/2021
 ---

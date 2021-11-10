@@ -4,7 +4,7 @@ slug: o-que-comprar-na-hora-de-morar-sozinho
 categoria: financas-pessoais
 tags:
  - casa-nova
-thumbnail: /public/cms-content/media/o-que-comprar-na-hora-de-morar-sozinho.jpg
+thumbnail: /public/static/cms-content/o-que-comprar-na-hora-de-morar-sozinho.jpg
 meta_summary: 
 date: 27/09/2021
 ---

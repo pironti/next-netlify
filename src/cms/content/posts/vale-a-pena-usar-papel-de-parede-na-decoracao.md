@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - tendencia-em-decoracao
  - consorcio-de-decoracao
-thumbnail: /public/cms-content/media/vale-a-pena-usar-papel-de-parede-na-decoracao.jpg
+thumbnail: /public/static/cms-content/vale-a-pena-usar-papel-de-parede-na-decoracao.jpg
 meta_summary: 
 date: 01/10/2021
 ---

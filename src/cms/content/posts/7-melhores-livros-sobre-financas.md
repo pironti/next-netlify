@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/7-melhores-livros-sobre-financas.jpg
+thumbnail: /public/static/cms-content/7-melhores-livros-sobre-financas.jpg
 meta_summary: 
 date: 27/09/2021
 ---

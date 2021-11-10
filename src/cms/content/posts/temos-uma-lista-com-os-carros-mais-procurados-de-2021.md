@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/cms-content/media/temos-uma-lista-com-os-carros-mais-procurados-de-2021.jpg
+thumbnail: /public/static/cms-content/temos-uma-lista-com-os-carros-mais-procurados-de-2021.jpg
 meta_summary: 
 date: 23/09/2021
 ---

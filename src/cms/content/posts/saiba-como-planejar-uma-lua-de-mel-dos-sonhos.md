@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-casamento
-thumbnail: /public/cms-content/media/saiba-como-planejar-uma-lua-de-mel-dos-sonhos.jpeg
+thumbnail: /public/static/cms-content/saiba-como-planejar-uma-lua-de-mel-dos-sonhos.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

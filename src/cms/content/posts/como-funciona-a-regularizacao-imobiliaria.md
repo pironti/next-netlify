@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - consorcio-de-imoveis
  - casa-nova
-thumbnail: /public/cms-content/media/como-funciona-a-regularizacao-imobiliaria.jpg
+thumbnail: /public/static/cms-content/como-funciona-a-regularizacao-imobiliaria.jpg
 meta_summary: 
 date: 28/09/2021
 ---

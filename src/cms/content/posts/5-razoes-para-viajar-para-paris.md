@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/cms-content/media/5-razoes-para-viajar-para-paris.jpg
+thumbnail: /public/static/cms-content/5-razoes-para-viajar-para-paris.jpg
 meta_summary: 
 date: 05/10/2021
 ---

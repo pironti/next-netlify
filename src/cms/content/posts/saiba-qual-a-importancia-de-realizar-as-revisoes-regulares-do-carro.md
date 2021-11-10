@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro.jpg
+thumbnail: /public/static/cms-content/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

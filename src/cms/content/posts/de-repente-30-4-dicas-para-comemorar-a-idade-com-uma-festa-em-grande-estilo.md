@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/de-repente-30-4-dicas-para-comemorar-a-idade-com-uma-festa-em-grande-estilo.jpg
+thumbnail: /public/static/cms-content/de-repente-30-4-dicas-para-comemorar-a-idade-com-uma-festa-em-grande-estilo.jpg
 meta_summary: 
 date: 06/10/2021
 ---

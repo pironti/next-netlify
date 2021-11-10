@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/posso-comprar-um-carro-sem-entrada.jpg
+thumbnail: /public/static/cms-content/posso-comprar-um-carro-sem-entrada.jpg
 meta_summary: 
 date: 24/09/2021
 ---

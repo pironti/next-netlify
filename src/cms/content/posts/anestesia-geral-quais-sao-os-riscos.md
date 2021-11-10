@@ -5,7 +5,7 @@ categoria: saude-e-estetica
 tags:
  - consorcio-de-plastica
  - consorcio-de-estetica
-thumbnail: /public/cms-content/media/anestesia-geral-quais-sao-os-riscos.jpg
+thumbnail: /public/static/cms-content/anestesia-geral-quais-sao-os-riscos.jpg
 meta_summary: 
 date: 01/10/2021
 ---

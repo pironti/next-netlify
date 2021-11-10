@@ -6,7 +6,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/cms-content/media/gastos-superfluos-e-essenciais-saiba-diferenciar.jpg
+thumbnail: /public/static/cms-content/gastos-superfluos-e-essenciais-saiba-diferenciar.jpg
 meta_summary: 
 date: 28/09/2021
 ---

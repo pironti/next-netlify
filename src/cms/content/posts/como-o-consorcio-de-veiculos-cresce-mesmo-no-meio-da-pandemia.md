@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - como-escolher-um-carro
  - consorcio
-thumbnail: /public/cms-content/media/como-o-consorcio-de-veiculos-cresce-mesmo-no-meio-da-pandemia.jpg
+thumbnail: /public/static/cms-content/como-o-consorcio-de-veiculos-cresce-mesmo-no-meio-da-pandemia.jpg
 meta_summary: 
 date: 24/09/2021
 ---

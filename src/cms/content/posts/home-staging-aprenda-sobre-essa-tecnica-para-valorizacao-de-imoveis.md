@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - dicas-de-decoracao
-thumbnail: /public/cms-content/media/home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis.jpg
+thumbnail: /public/static/cms-content/home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/como-sair-do-aluguel-definitivamente.jpg
+thumbnail: /public/static/cms-content/como-sair-do-aluguel-definitivamente.jpg
 meta_summary: 
 date: 04/10/2021
 ---

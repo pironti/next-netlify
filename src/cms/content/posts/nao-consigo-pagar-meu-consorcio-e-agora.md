@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/cms-content/media/nao-consigo-pagar-meu-consorcio-e-agora.jpeg
+thumbnail: /public/static/cms-content/nao-consigo-pagar-meu-consorcio-e-agora.jpeg
 meta_summary: 
 date: 19/10/2021
 ---

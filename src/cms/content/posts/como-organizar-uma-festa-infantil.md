@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - consorcio-de-festa
  - festas
-thumbnail: /public/cms-content/media/como-organizar-uma-festa-infantil.jpeg
+thumbnail: /public/static/cms-content/como-organizar-uma-festa-infantil.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

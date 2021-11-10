@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/fique-por-dentro-de-4-tendencias-de-festas-de-formatura.jpg
+thumbnail: /public/static/cms-content/fique-por-dentro-de-4-tendencias-de-festas-de-formatura.jpg
 meta_summary: 
 date: 30/09/2021
 ---

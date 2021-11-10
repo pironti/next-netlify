@@ -4,7 +4,7 @@ slug: lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer.jpg
+thumbnail: /public/static/cms-content/lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -4,7 +4,7 @@ slug: consorcio-ou-emprestimo-o-que-e-melhor
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/consorcio-ou-emprestimo-o-que-e-melhor.jpg
+thumbnail: /public/static/cms-content/consorcio-ou-emprestimo-o-que-e-melhor.jpg
 meta_summary: 
 date: 19/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - consorcio
  - moto
-thumbnail: /public/cms-content/media/conheca-as-melhores-motos-do-mercado.jpg
+thumbnail: /public/static/cms-content/conheca-as-melhores-motos-do-mercado.jpg
 meta_summary: 
 date: 23/09/2021
 ---

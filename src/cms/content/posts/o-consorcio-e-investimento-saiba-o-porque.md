@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - consorcio-e-investimento
-thumbnail: /public/cms-content/media/o-consorcio-e-investimento-saiba-o-porque.jpg
+thumbnail: /public/static/cms-content/o-consorcio-e-investimento-saiba-o-porque.jpg
 meta_summary: 
 date: 23/09/2021
 ---

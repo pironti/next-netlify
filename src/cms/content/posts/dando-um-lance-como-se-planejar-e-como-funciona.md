@@ -4,7 +4,7 @@ slug: dando-um-lance-como-se-planejar-e-como-funciona
 categoria: lance
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/dando-um-lance-como-se-planejar-e-como-funciona.jpg
+thumbnail: /public/static/cms-content/dando-um-lance-como-se-planejar-e-como-funciona.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas
  - economia-domestica
  - dicas-de-economia
-thumbnail: /public/cms-content/media/descubra-quais-foram-os-eletrodomesticos-queridinhos-da-quarentena.jpg
+thumbnail: /public/static/cms-content/descubra-quais-foram-os-eletrodomesticos-queridinhos-da-quarentena.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - tendencia-em-decoracao
  - educacao-financeira
-thumbnail: /public/cms-content/media/revestimento-de-metro-conheca-essa-tendencia-classica-e-charmosa.jpg
+thumbnail: /public/static/cms-content/revestimento-de-metro-conheca-essa-tendencia-classica-e-charmosa.jpg
 meta_summary: 
 date: 04/10/2021
 ---

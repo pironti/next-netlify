@@ -4,7 +4,7 @@ slug: devo-investir-em-seguro-de-imoveis
 categoria: imoveis
 tags:
  - dicas
-thumbnail: /public/cms-content/media/devo-investir-em-seguro-de-imoveis.jpg
+thumbnail: /public/static/cms-content/devo-investir-em-seguro-de-imoveis.jpg
 meta_summary: 
 date: 23/09/2021
 ---

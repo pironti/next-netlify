@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/motivos-para-investir-em-uma-van.jpg
+thumbnail: /public/static/cms-content/motivos-para-investir-em-uma-van.jpg
 meta_summary: 
 date: 27/09/2021
 ---

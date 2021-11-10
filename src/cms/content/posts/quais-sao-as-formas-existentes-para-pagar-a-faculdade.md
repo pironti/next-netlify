@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - consorcio-de-servicos
  - dicas-de-economia
-thumbnail: /public/cms-content/media/quais-sao-as-formas-existentes-para-pagar-a-faculdade.jpg
+thumbnail: /public/static/cms-content/quais-sao-as-formas-existentes-para-pagar-a-faculdade.jpg
 meta_summary: 
 date: 23/09/2021
 ---

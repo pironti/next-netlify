@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/cms-content/media/quais-as-vantagens-de-ter-um-carro-com-central-multimidia.jpg
+thumbnail: /public/static/cms-content/quais-as-vantagens-de-ter-um-carro-com-central-multimidia.jpg
 meta_summary: 
 date: 06/10/2021
 ---

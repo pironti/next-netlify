@@ -6,7 +6,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-viagem
  - dicas-de-viagem
-thumbnail: /public/cms-content/media/10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos.jpg
+thumbnail: /public/static/cms-content/10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/cms-content/media/como-escolher-o-tamanho-ideal-de-apartamento.jpeg
+thumbnail: /public/static/cms-content/como-escolher-o-tamanho-ideal-de-apartamento.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

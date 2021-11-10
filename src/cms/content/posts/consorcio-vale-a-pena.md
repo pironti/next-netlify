@@ -4,7 +4,7 @@ slug: consorcio-vale-a-pena
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/consorcio-vale-a-pena.jpg
+thumbnail: /public/static/cms-content/consorcio-vale-a-pena.jpg
 meta_summary: 
 date: 05/10/2021
 ---

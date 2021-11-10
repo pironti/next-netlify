@@ -4,7 +4,7 @@ slug: 7-dicas-para-comecar-a-sua-organizacao-financeira
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/cms-content/media/7-dicas-para-comecar-a-sua-organizacao-financeira.jpg
+thumbnail: /public/static/cms-content/7-dicas-para-comecar-a-sua-organizacao-financeira.jpg
 meta_summary: 
 date: 05/10/2021
 ---

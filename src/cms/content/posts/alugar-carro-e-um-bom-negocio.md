@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/cms-content/media/alugar-carro-e-um-bom-negocio.jpg
+thumbnail: /public/static/cms-content/alugar-carro-e-um-bom-negocio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/cms-content/media/bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada.jpeg
+thumbnail: /public/static/cms-content/bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

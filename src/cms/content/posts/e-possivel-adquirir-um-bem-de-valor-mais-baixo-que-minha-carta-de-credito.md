@@ -4,7 +4,7 @@ slug: e-possivel-adquirir-um-bem-de-valor-mais-baixo-que-minha-carta-de-credito
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/cms-content/media/e-possivel-adquirir-um-bem-de-valor-mais-baixo-que-minha-carta-de-credito.jpg
+thumbnail: /public/static/cms-content/e-possivel-adquirir-um-bem-de-valor-mais-baixo-que-minha-carta-de-credito.jpg
 meta_summary: 
 date: 30/09/2021
 ---
