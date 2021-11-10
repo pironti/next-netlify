@@ -1,5 +1,5 @@
 ---
-titulo: [Guia definitivo] Tudo o que você precisa saber sobre consórcio
+titulo: Guia definitivo Tudo o que você precisa saber sobre consórcio
 slug: guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio
 categoria: consorcio
 tags:
