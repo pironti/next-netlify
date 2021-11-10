@@ -1,14 +1,14 @@
 ---
-        titulo: Qual a moto ideal para fazer entrega?
-        slug: qual-a-moto-ideal-para-fazer-entrega
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-a-moto-ideal-para-fazer-entrega.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), os brasileiros tiveram um interesse ainda maior para a compra de motos. Além de evitar o transporte público, outro motivo bastante apontado foi a possibilidade de trabalhar com entregas, ainda mais com o crescimento de plataformas que permitem delivery de comida, de entrega de compras de forma mais rápida, enfim, uma série de serviços que possibilita receber produtos em casa de forma confortável, sem contato com o entregador.
+titulo: Qual a moto ideal para fazer entrega?
+slug: qual-a-moto-ideal-para-fazer-entrega
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-a-moto-ideal-para-fazer-entrega.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), os brasileiros tiveram um interesse ainda maior para a compra de motos. Além de evitar o transporte público, outro motivo bastante apontado foi a possibilidade de trabalhar com entregas, ainda mais com o crescimento de plataformas que permitem delivery de comida, de entrega de compras de forma mais rápida, enfim, uma série de serviços que possibilita receber produtos em casa de forma confortável, sem contato com o entregador.
 
 De acordo com estudo da plataforma Mercado Livre, houve [aumento de 40% na intenção de compra de motos somente em 2020](https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2021/01/16/intencao-de-compra-de-motocicletas-cresce-40percent-no-brasil-com-crescimento-do-delivery.ghtml), quando iniciou a pandemia.
 
@@ -87,4 +87,3 @@ Com equilíbrio de boa potência e economia de combustível, a Titan tem 160cc e
 E aí, já sabe em qual moto investir? [Faça uma simulação de consórcio de moto](https://www.embracon.com.br/consorcio-motos) e decida o valor da carta de crédito e a quantidade de mensalidades. Não é preciso dar entrada e nem pagar juros pela sua próxima moto.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

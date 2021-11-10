@@ -1,14 +1,14 @@
 ---
-        titulo: O que comprar na hora de morar sozinho?
-        slug: o-que-comprar-na-hora-de-morar-sozinho
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-comprar-na-hora-de-morar-sozinho.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Morar sozinho, em muitas ocasiões, é o primeiro passo para a chamada [‘independência’ na vida adulta](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante). É sabido que, no mundo todo, os adultos demoram mais para sair da casa dos pais e dar uma guinada em sua vida profissional.
+titulo: O que comprar na hora de morar sozinho?
+slug: o-que-comprar-na-hora-de-morar-sozinho
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-comprar-na-hora-de-morar-sozinho.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Morar sozinho, em muitas ocasiões, é o primeiro passo para a chamada [‘independência’ na vida adulta](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante). É sabido que, no mundo todo, os adultos demoram mais para sair da casa dos pais e dar uma guinada em sua vida profissional.
 
 Isso pode acontecer de diversas formas: após a conquista de um emprego que garanta a [estabilidade necessária](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo) para se morar sozinho; com planejamento financeiro, [comprando a própria casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce); ou até mesmo porque deseja mudar de idade, em busca de melhores oportunidades.
 
@@ -213,4 +213,3 @@ Se você for [dono do seu novo imóvel](https://www.embracon.com.br/blog/alugar-
 Mantenha suas contas em dia, organize em uma planilha o que é mais essencial na hora de comprar novos itens e eletrodomésticos para a sua nova casa e defina o melhor momento para [fazer um consórcio e reformar seu novo local](https://www.embracon.com.br/blog/conheca-o-consorcio-para-reforma-e-confira-as-vantagens). Assim, você garante uma experiência satisfatória para uma fase saudável e cheia de novas descobertas em sua vida.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

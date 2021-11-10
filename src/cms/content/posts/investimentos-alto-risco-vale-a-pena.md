@@ -1,14 +1,14 @@
 ---
-        titulo: Investimentos de alto risco, vale a pena apostar neles?
-        slug: investimentos-alto-risco-vale-a-pena
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/investimentos-alto-risco-vale-a-pena.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Como o próprio nome sugere, investimento de alto risco é aquele que não é tão seguro, ou não apresenta tantas garantias de rentabilidade, como o de renda fixa.
+titulo: Investimentos de alto risco, vale a pena apostar neles?
+slug: investimentos-alto-risco-vale-a-pena
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/investimentos-alto-risco-vale-a-pena.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Como o próprio nome sugere, investimento de alto risco é aquele que não é tão seguro, ou não apresenta tantas garantias de rentabilidade, como o de renda fixa.
 
 Contudo, essas aplicações, quando realizadas com estudo e cuidado, podem apresentar taxas de lucro muito acima das demais formas de aplicação. Isso faz com que essa modalidade receba muita atenção de investidores entusiasmados e desperte algumas dúvidas nos mais inexperientes.
 
@@ -158,4 +158,3 @@ Após saber mais sobre o investimento de alto risco e conhecer os principais tip
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > E aí, gostou de saber mais sobre investimentos de alto risco? Quer continuar acompanhando os nossos conteúdos? Então, não deixe de seguir as nossas páginas nas redes sociais para acompanhar as nossas atualizações! Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [LinkedIn](https://www.linkedin.com/company/1018875/), [Twitter ](https://twitter.com/embracon)e [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ)!
-        

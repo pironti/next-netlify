@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas para começar a sua organização financeira
-        slug: 7-dicas-para-comecar-a-sua-organizacao-financeira
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-para-comecar-a-sua-organizacao-financeira.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Como é a sua [relação com o dinheiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul)? A resposta a essa pergunta pode dizer muito sobre sua realidade financeira e os [seus objetivos](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa). Ter **organização financeira** faz com que o seu dinheiro renda e sobre no final do mês — tarefa que nem sempre é fácil.
+titulo: 7 dicas para começar a sua organização financeira
+slug: 7-dicas-para-comecar-a-sua-organizacao-financeira
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-para-comecar-a-sua-organizacao-financeira.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Como é a sua [relação com o dinheiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul)? A resposta a essa pergunta pode dizer muito sobre sua realidade financeira e os [seus objetivos](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa). Ter **organização financeira** faz com que o seu dinheiro renda e sobre no final do mês — tarefa que nem sempre é fácil.
 
 Não ter uma [vida financeira organizada](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) aumenta os riscos de comprar além do que você pode pagar e, com isso, iniciar uma bola de neve: contas atrasadas, juros e o mal-estar em relacionamentos familiares.
 
@@ -104,4 +104,3 @@ Agora que você sabe como iniciar a sua [**organização financeira**](https://w
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

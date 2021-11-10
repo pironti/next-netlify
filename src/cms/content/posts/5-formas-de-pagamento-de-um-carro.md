@@ -1,14 +1,14 @@
 ---
-        titulo: 5 formas de pagamento de um carro
-        slug: 5-formas-de-pagamento-de-um-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-formas-de-pagamento-de-um-carro.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quem não quer ter um [veículo novo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) na garagem? Por isso, na hora da escolha, é sempre importante conhecer as melhores[ formas de pagamento de um carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro) que estão disponíveis no mercado.
+titulo: 5 formas de pagamento de um carro
+slug: 5-formas-de-pagamento-de-um-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-formas-de-pagamento-de-um-carro.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Quem não quer ter um [veículo novo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) na garagem? Por isso, na hora da escolha, é sempre importante conhecer as melhores[ formas de pagamento de um carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro) que estão disponíveis no mercado.
 
 Chegar na loja sabendo as suas condições financeiras pode te ajudar a decidir qual o [melhor modelo](https://www.embracon.com.br/blog/carro-ideal-para-familia) diante do orçamento que cabe no seu bolso.
 
@@ -92,4 +92,3 @@ Diante das possibilidades de compra, o cliente precisa avaliar quais são as sua
 Gostou deste post sobre as 5 formas de pagamento de um carro? Então aproveite a sua visita em nosso blog e confira essas dicas para comprar um carro para os seus filhos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

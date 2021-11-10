@@ -1,14 +1,14 @@
 ---
-        titulo: Como comprar um apartamento? 3 passos para fazer a melhor escolha
-        slug: como-comprar-um-apartamento
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comprar-um-apartamento.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é o sonho de milhões de pessoas que desejam ter um lugar aconchegante para chamar de lar. Saber como [comprar um apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento) ou [imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) que atenda às necessidades da família com segurança, conforto e preço bom, no entanto, nem sempre é uma tarefa fácil. São necessárias muita dedicação e pesquisa por parte do comprador.
+titulo: Como comprar um apartamento? 3 passos para fazer a melhor escolha
+slug: como-comprar-um-apartamento
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comprar-um-apartamento.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+A [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é o sonho de milhões de pessoas que desejam ter um lugar aconchegante para chamar de lar. Saber como [comprar um apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento) ou [imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) que atenda às necessidades da família com segurança, conforto e preço bom, no entanto, nem sempre é uma tarefa fácil. São necessárias muita dedicação e pesquisa por parte do comprador.
 
 Neste artigo vamos falar sobre a importância de acertar na escolha do seu [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento). Também daremos dicas sobre o que deve ser levado em consideração na hora de fechar negócio. Afinal de contas, a compra de um [imóvel](https://www.embracon.com.br/blog/15-duvidas-sobre-consorcio-de-imoveis) envolve os sonhos e esperanças de toda a família. Se você quiser saber mais sobre o assunto e se orientar para fazer uma boa aquisição, continue a leitura. Na hora de encontrar o “[apartamento dos sonhos](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo)”, adote medidas como as que apresentaremos abaixo.
 
@@ -170,4 +170,3 @@ E aí, pronto para pesquisar, encontrar e [adquirir seu novo lar](https://www.em
 Experimente fazer uma [simulação de consórcio](https://www.embracon.com.br/) e veja se é o ideal para você.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

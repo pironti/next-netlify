@@ -1,14 +1,14 @@
 ---
-        titulo: Tapete em decoração de quarto: 5 opções de modelos modernos
-        slug: modelos-e-usos-tapete-decoracao-quarto
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/modelos-e-usos-tapete-decoracao-quarto.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        5 dicas de tapetes para decorar seu quarto com muito estilo
+titulo: Tapete em decoração de quarto: 5 opções de modelos modernos
+slug: modelos-e-usos-tapete-decoracao-quarto
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/modelos-e-usos-tapete-decoracao-quarto.jpg
+meta_summary: 
+date: 20/10/2021
+---
+5 dicas de tapetes para decorar seu quarto com muito estilo
 -----------------------------------------------------------
 
 Já pensou porque colocamos o [tapete](https://www.vivadecora.com.br/produtos/tapetes) entre os itens necessários quando fazemos decoração de interiores? Bem, existem várias razões muito boas: proteger pisos, tornar os cômodos mais quentinhos e aconchegantes, além de mais alegres e cheios de estilo.
@@ -66,4 +66,3 @@ E quanto mais elaborados os desenhos, formando medalhões, mais valorizado tende
 Essas dicas de decoração foram criadas pela equipe [Viva Decora](https://www.vivadecora.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo sobre o consórcio de veículos pesados
-        slug: guia-completo-sobre-o-consorcio-de-veiculos-pesados
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-veiculos-pesados.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O consórcio é a melhor forma de investir em bens de alto valor. Por muitas décadas, a categoria ficou conhecida por permitir que milhões de brasileiros realizassem o sonho de [comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha).
+titulo: Guia completo sobre o consórcio de veículos pesados
+slug: guia-completo-sobre-o-consorcio-de-veiculos-pesados
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-veiculos-pesados.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O consórcio é a melhor forma de investir em bens de alto valor. Por muitas décadas, a categoria ficou conhecida por permitir que milhões de brasileiros realizassem o sonho de [comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha).
 
 Com o passar dos anos, porém, a categoria se consolidou em nossa economia: a partir do momento que passou a ser regulada pelo Banco Central do Brasil (Bacen), não demorou para que as administradoras ampliassem seu portfólio de ofertas.
 
@@ -285,4 +285,3 @@ Dessa forma, você paga por um valor a prazo mais justo pelo seu veículo, conta
 Portanto, invista desde já no seu sonho. [Faça uma simulação de consórcio de veículos pesados](https://www.embracon.com.br/consorcio-de-veiculos-pesados) e conte com a Embracon, que possui mais de 30 anos de experiência como administradora.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/6058f873a0df67add1b7c900_EMBRACON_CTA_PESADOS_1.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

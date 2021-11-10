@@ -1,14 +1,14 @@
 ---
-        titulo: Quer alugar o seu segundo imóvel? Saiba como valorizá-lo
-        slug: quer-alugar-o-seu-segundo-imovel-saiba-como-valoriza-lo
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quer-alugar-o-seu-segundo-imovel-saiba-como-valoriza-lo.png
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quem já realizou o sonho de ter o [primeiro imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) geralmente não para por aí. Com o objetivo de[ ampliar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), muitas pessoas começam a dar os passos para investir no [segundo imóvel](https://www.embracon.com.br/blog/segunda-casa-o-consorcio-pode-te-ajudar).
+titulo: Quer alugar o seu segundo imóvel? Saiba como valorizá-lo
+slug: quer-alugar-o-seu-segundo-imovel-saiba-como-valoriza-lo
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quer-alugar-o-seu-segundo-imovel-saiba-como-valoriza-lo.png
+meta_summary: 
+date: 24/09/2021
+---
+Quem já realizou o sonho de ter o [primeiro imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) geralmente não para por aí. Com o objetivo de[ ampliar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), muitas pessoas começam a dar os passos para investir no [segundo imóvel](https://www.embracon.com.br/blog/segunda-casa-o-consorcio-pode-te-ajudar).
 
 A grande vantagem de investir em outra casa ou [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento) é que não existe a ansiedade da primeira moradia. Com mais tempo, você consegue fazer um [investimento inteligente](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), sem ter que gastar muito.
 
@@ -46,4 +46,3 @@ Você pode selecionar uma carta de crédito entre R$ 15 mil e R$ 30 mil para gas
 > [Faça uma simulação](http://embracon.com.br/consorcio-servicos) e conte com as vantagens do consórcio!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

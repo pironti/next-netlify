@@ -1,14 +1,14 @@
 ---
-        titulo: Ter um bem de valor custa caro?
-        slug: ter-um-bem-de-valor-custa-caro
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/ter-um-bem-de-valor-custa-caro.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Você está em busca da compra da sua casa e já está [procurando financiamentos com os bancos](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento)? Bom, precisamos te parabenizar pelo passo inicial. Mas, se te falarmos que existe uma outra opção?
+titulo: Ter um bem de valor custa caro?
+slug: ter-um-bem-de-valor-custa-caro
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/ter-um-bem-de-valor-custa-caro.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Você está em busca da compra da sua casa e já está [procurando financiamentos com os bancos](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento)? Bom, precisamos te parabenizar pelo passo inicial. Mas, se te falarmos que existe uma outra opção?
 
 Com o financiamento você paga juros com taxas altíssimas de juros, e isso vira uma bola de neve com os custos que você terá que arcar quando estiver com as chaves em mãos. [Já com o consórcio](https://www.embracon.com.br/blog/como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020), você consegue ter controle financeiro e investir ao mesmo tempo.
 
@@ -61,4 +61,3 @@ Todo o processo é feito sem burocracia e sem o pagamento de juros — é cobrad
 Agora que você já sabe de que forma pode investir em imóveis, que tal começar a se planejar e garantir uma renda extra? Se quiser investir aos poucos, por meio de um consórcio imobiliário, lembre-se de contratar uma corretora de confiança para evitar problemas futuros e cobranças abusivas.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

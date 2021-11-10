@@ -1,14 +1,14 @@
 ---
-        titulo: Como comprar um carro seminovo com o consórcio
-        slug: como-comprar-um-carro-seminovo-com-o-consorcio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comprar-um-carro-seminovo-com-o-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O carro usado teve um crescimento importante nos últimos anos. Para se ter uma ideia, somente em dezembro de 2020 a [venda desse tipo de veículo teve um aumento de 23,6%](https://jornaldocarro.estadao.com.br/carros/vendas-de-carros-usados-dispara-em-dezembro-e-supera-a-pre-pandemia/) comparado a dezembro de 2019 no Brasil - prova de que os brasileiros continuam valorizando o uso do veículo, principalmente em um momento tão específico como a [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
+titulo: Como comprar um carro seminovo com o consórcio
+slug: como-comprar-um-carro-seminovo-com-o-consorcio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comprar-um-carro-seminovo-com-o-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O carro usado teve um crescimento importante nos últimos anos. Para se ter uma ideia, somente em dezembro de 2020 a [venda desse tipo de veículo teve um aumento de 23,6%](https://jornaldocarro.estadao.com.br/carros/vendas-de-carros-usados-dispara-em-dezembro-e-supera-a-pre-pandemia/) comparado a dezembro de 2019 no Brasil - prova de que os brasileiros continuam valorizando o uso do veículo, principalmente em um momento tão específico como a [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
 
 Um dos motivos apontados é que o carro particular proporciona mais segurança. Você não compartilha o seu automóvel com outras pessoas e, logo, não corre o risco de estar em contato físico, o que contribui para espalhar a doença.
 
@@ -76,4 +76,3 @@ Aproveite o bom momento dos seminovos e conte com a flexibilidade do consórcio 
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) de consórcio de automóveis e comece desde já a investir no seu carro seminovo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>
-        

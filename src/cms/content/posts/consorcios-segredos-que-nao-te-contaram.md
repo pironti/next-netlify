@@ -1,14 +1,14 @@
 ---
-        titulo: 12 segredos que não te contaram sobre consórcios!
-        slug: consorcios-segredos-que-nao-te-contaram
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcios-segredos-que-nao-te-contaram.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Para quem busca um [investimento confiável](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro) e a vantagem de compras planejadas, é fundamental conhecer os segredos sobre [consórcios](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon).
+titulo: 12 segredos que não te contaram sobre consórcios!
+slug: consorcios-segredos-que-nao-te-contaram
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcios-segredos-que-nao-te-contaram.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Para quem busca um [investimento confiável](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro) e a vantagem de compras planejadas, é fundamental conhecer os segredos sobre [consórcios](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon).
 
 O [Consórcio](https://www.embracon.com.br/blog/guia-completo-consorcio-imobiliario) é uma das modalidades de crédito que mais ganha espaço no mercado brasileiro, principalmente pelo momento de crise que o país vive.
 
@@ -241,4 +241,3 @@ Por isso, o consórcio ganha espaço e os diferentes grupos que são formados at
 Você gostou deste texto com alguns dos segredos sobre [consórcios](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira)? Então, assine a nossa newsletter e receba as nossas atualizações direto na caixa de entrada do seu e-mail.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcios_segredos&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

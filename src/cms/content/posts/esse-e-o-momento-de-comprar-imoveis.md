@@ -1,14 +1,14 @@
 ---
-        titulo: Esse é o momento de comprar imóveis?
-        slug: esse-e-o-momento-de-comprar-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/esse-e-o-momento-de-comprar-imoveis.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Os últimos anos têm sido desafiadores para a maioria das pessoas. A pandemia do coronavírus e seu impacto na economia mundial foi uma verdadeira surpresa para os mais diversos nichos do mercado. Contudo, o mercado imobiliário é famoso por ser um dos mais estáveis que existem, mesmo perante cenários de crise econômica.
+titulo: Esse é o momento de comprar imóveis?
+slug: esse-e-o-momento-de-comprar-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/esse-e-o-momento-de-comprar-imoveis.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Os últimos anos têm sido desafiadores para a maioria das pessoas. A pandemia do coronavírus e seu impacto na economia mundial foi uma verdadeira surpresa para os mais diversos nichos do mercado. Contudo, o mercado imobiliário é famoso por ser um dos mais estáveis que existem, mesmo perante cenários de crise econômica.
 
 Por esse motivo, preparamos este artigo para você que está procurando por informações para saber se vale a pena [comprar imóvel](https://www.embracon.com.br/blog/o-que-posso-comprar-com-um-consorcio) na pandemia. Vamos apresentar as principais tendências, vantagens e motivos pelos quais adquirir uma propriedade neste ano pode ser um bom negócio.
 
@@ -142,4 +142,3 @@ Como você pôde conferir neste artigo, de fato [vale a pena comprar um imóvel]
 > [Faça sua simulação conosco](https://www.embracon.com.br/) e confira!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

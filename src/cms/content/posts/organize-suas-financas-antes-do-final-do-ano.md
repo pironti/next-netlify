@@ -1,14 +1,14 @@
 ---
-        titulo: Organize suas finanças antes do final do ano
-        slug: organize-suas-financas-antes-do-final-do-ano
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/organize-suas-financas-antes-do-final-do-ano.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        Quando o assunto é [organização das finanças](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), o brasileiro tem um desafio enorme. Além de sermos um país ainda bem atrás no ranking de [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida), que nem chega a ser ensinado nos colégios públicos, por exemplo, somos um país com alto nível de endividamento das pessoas.
+titulo: Organize suas finanças antes do final do ano
+slug: organize-suas-financas-antes-do-final-do-ano
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/organize-suas-financas-antes-do-final-do-ano.jpg
+meta_summary: 
+date: 20/10/2021
+---
+Quando o assunto é [organização das finanças](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), o brasileiro tem um desafio enorme. Além de sermos um país ainda bem atrás no ranking de [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida), que nem chega a ser ensinado nos colégios públicos, por exemplo, somos um país com alto nível de endividamento das pessoas.
 
 Um levantamento da Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), realizada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), mostrou que o [percentual de endividamento das famílias brasileiras permanece em alta ](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/cnc-percentual-de-familias-com-dividas-chega-729)ao longo de 2021, atingindo 72,9% de toda a população.
 
@@ -70,4 +70,3 @@ Dessa forma, você pode fechar o ano com a sua conta no azul e planejar para con
 Para mais dicas de finanças pessoais, confira nosso [guia completo de como criar um planejamento financeiro familiar do zero](https://www.embracon.com.br/blog/faca-um-planejamento-financeiro-anual).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div></figure>
-        

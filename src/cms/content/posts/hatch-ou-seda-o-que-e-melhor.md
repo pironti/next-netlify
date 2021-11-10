@@ -1,14 +1,14 @@
 ---
-        titulo: Hatch ou sedã: o que é melhor?
-        slug: hatch-ou-seda-o-que-e-melhor
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/hatch-ou-seda-o-que-e-melhor.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Você está planejando [comprar um carro](https://www.embracon.com.br/blog/conheca-os-20-principais-carros-do-brasil) e tem dúvidas sobre o tipo: [hatch ou sedã](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas)? Você sabe a diferença entre os dois e as vantagens e desvantagens de escolher um? Quando queremos comprar um carro que atenda a todos os nossos gostos e necessidades, essa informação é fundamental para fazer a melhor escolha.
+titulo: Hatch ou sedã: o que é melhor?
+slug: hatch-ou-seda-o-que-e-melhor
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/hatch-ou-seda-o-que-e-melhor.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Você está planejando [comprar um carro](https://www.embracon.com.br/blog/conheca-os-20-principais-carros-do-brasil) e tem dúvidas sobre o tipo: [hatch ou sedã](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas)? Você sabe a diferença entre os dois e as vantagens e desvantagens de escolher um? Quando queremos comprar um carro que atenda a todos os nossos gostos e necessidades, essa informação é fundamental para fazer a melhor escolha.
 
 Siga-nos neste artigo e verifique a análise dos dois tipos de carrocerias para fazer a melhor escolha. Antes vamos conhecer um pouco da história de cada categoria, assim ficará ainda mais fácil tomar sua decisão.
 
@@ -176,4 +176,3 @@ Os carros hatches também tendem a ser menos potentes. Isso não é problema par
 Agora que você já decidiu entre **Hatch ou sedã**, que tal conhecer as opções de consórcio da Embracon? Não perca tempo e[ faça sua simulação](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

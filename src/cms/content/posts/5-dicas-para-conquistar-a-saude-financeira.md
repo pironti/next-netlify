@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para conquistar a saúde financeira
-        slug: 5-dicas-para-conquistar-a-saude-financeira
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-conquistar-a-saude-financeira.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Saúde financeira tem a ver com a [forma com que lidamos com o nosso dinheiro](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira). Embora muitos especialistas considerem que o brasileiro tenha dificuldades de manter as contas em dia ou de juntar dinheiro, a boa notícia é que isso pode começar a mudar dentro dos próximos anos.
+titulo: 5 dicas para conquistar a saúde financeira
+slug: 5-dicas-para-conquistar-a-saude-financeira
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-conquistar-a-saude-financeira.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Saúde financeira tem a ver com a [forma com que lidamos com o nosso dinheiro](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira). Embora muitos especialistas considerem que o brasileiro tenha dificuldades de manter as contas em dia ou de juntar dinheiro, a boa notícia é que isso pode começar a mudar dentro dos próximos anos.
 
 Em um [momento complicado como a pandemia](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), fica difícil falar de saúde financeira. Afinal, muitos estão em um modo reativo, ou seja, se controlando para manter as contas básicas diante de um cenário muito incerto em relação a emprego, economia e estabilidade financeira.
 
@@ -74,4 +74,3 @@ Nesse caso, o consórcio é para você! Quem busca uma compra planejada, sem pre
 > [Faça já uma simulação](https://www.embracon.com.br/consorcio) e veja como se preparar para a realização do seu próximo sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

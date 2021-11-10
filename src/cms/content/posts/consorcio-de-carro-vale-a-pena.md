@@ -1,14 +1,14 @@
 ---
-        titulo: Será que um consórcio de carro vale a pena? Tire suas dúvidas!
-        slug: consorcio-de-carro-vale-a-pena
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-carro-vale-a-pena.jpg
-        meta_summary: 
-        date: 29/10/2021
-        ---
-        Ter um carro é o segundo maior sonho da maioria dos brasileiros, ficando atrás apenas da casa própria**.** Porém, obter um bem de alto valor não é tarefa simples. E, nesse sentido, os consórcios sempre são alternativas citadas. Mas será que um [consórcio de carro](https://www.embracon.com.br/blog/6-razoes-para-fazer-um-consorcio-de-automovel) vale a pena?
+titulo: Será que um consórcio de carro vale a pena? Tire suas dúvidas!
+slug: consorcio-de-carro-vale-a-pena
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-carro-vale-a-pena.jpg
+meta_summary: 
+date: 29/10/2021
+---
+Ter um carro é o segundo maior sonho da maioria dos brasileiros, ficando atrás apenas da casa própria**.** Porém, obter um bem de alto valor não é tarefa simples. E, nesse sentido, os consórcios sempre são alternativas citadas. Mas será que um [consórcio de carro](https://www.embracon.com.br/blog/6-razoes-para-fazer-um-consorcio-de-automovel) vale a pena?
 
 Na [hora de comprar um automóvel](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha), o comprador tem três opções:[ à vista](https://www.embracon.com.br/blog/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado), financiamento e o [consórcio](https://www.embracon.com.br/blog/6-razoes-para-fazer-um-consorcio-de-automovel).
 
@@ -95,4 +95,3 @@ Ficou interessado em conseguir o seu veículo por meio de um consórcio? Entre e
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

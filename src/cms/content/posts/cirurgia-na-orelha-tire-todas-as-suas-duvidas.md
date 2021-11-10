@@ -1,14 +1,14 @@
 ---
-        titulo: Cirurgia na orelha: tire todas as suas dúvidas
-        slug: cirurgia-na-orelha-tire-todas-as-suas-duvidas
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cirurgia-na-orelha-tire-todas-as-suas-duvidas.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Muitas pessoas se sentem incomodadas com alguma parte do corpo e isso pode acontecer até mesmo com crianças em fase escolar, quando sofrem bullying por alguma característica física em particular. As chamadas orelhas de abano podem causar aborrecimento nessa idade. Por isso, uma **cirurgia na orelha** realizada no paciente ainda criança pode ser uma boa opção.
+titulo: Cirurgia na orelha: tire todas as suas dúvidas
+slug: cirurgia-na-orelha-tire-todas-as-suas-duvidas
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cirurgia-na-orelha-tire-todas-as-suas-duvidas.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Muitas pessoas se sentem incomodadas com alguma parte do corpo e isso pode acontecer até mesmo com crianças em fase escolar, quando sofrem bullying por alguma característica física em particular. As chamadas orelhas de abano podem causar aborrecimento nessa idade. Por isso, uma **cirurgia na orelha** realizada no paciente ainda criança pode ser uma boa opção.
 
 Pais apreensivos com o contentamento dos filhos podem recorrer a esse procedimento. A [**cirurgia na orelha**](https://www.embracon.com.br/blog/como-escolher-um-consorcio-de-cirurgia-plastica-em-6-passos) é simples e pode corrigir diversas imperfeições. Além disso, cirurgias plásticas hoje em dia já não são mais financeiramente restritas e vale a pena se informar mais sobre o assunto.
 
@@ -60,4 +60,3 @@ A otoplastia é uma cirurgia na orelha simples e de recuperação rápida. Pode 
 Quer receber conteúdos como este em primeira mão? Assine nossa newsletter! Você terá acesso a dicas incríveis para tirar seus sonhos do papel e realizá-los com total segurança!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

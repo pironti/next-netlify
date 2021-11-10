@@ -1,14 +1,14 @@
 ---
-        titulo: Quais os diferenciais da Embracon em relação à concorrência?
-        slug: diferenciais-da-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/diferenciais-da-embracon.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Você precisa conhecer os **diferenciais da Embracon** para ter a certeza de que ela é a melhor empresa para investir na realização de um grande sonho.
+titulo: Quais os diferenciais da Embracon em relação à concorrência?
+slug: diferenciais-da-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/diferenciais-da-embracon.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Você precisa conhecer os **diferenciais da Embracon** para ter a certeza de que ela é a melhor empresa para investir na realização de um grande sonho.
 
 Isso por que escolher a melhor administradora de consórcio entre as várias opções disponíveis no mercado é um fator muito relevante para fazer um negócio com ótimas condições.
 
@@ -118,4 +118,3 @@ Quer saber mais e conhecer as opções do consórcio da Embracon? Então, [entre
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

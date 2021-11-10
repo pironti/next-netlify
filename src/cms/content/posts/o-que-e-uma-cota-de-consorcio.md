@@ -1,14 +1,14 @@
 ---
-        titulo: O que é uma cota de consórcio?
-        slug: o-que-e-uma-cota-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-uma-cota-de-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quem considera fazer a [compra de um bem de alto valor](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio), como um automóvel, imóvel ou algum tipo de serviço, provavelmente já pesquisou sobre o consórcio. Trata-se de uma modalidade bastante flexível para quem pretende parcelar a compra daquilo que realmente deseja. Você [não paga juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e nem precisa ter o valor de entrada, como acontece com o financiamento, por exemplo.
+titulo: O que é uma cota de consórcio?
+slug: o-que-e-uma-cota-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-uma-cota-de-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quem considera fazer a [compra de um bem de alto valor](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio), como um automóvel, imóvel ou algum tipo de serviço, provavelmente já pesquisou sobre o consórcio. Trata-se de uma modalidade bastante flexível para quem pretende parcelar a compra daquilo que realmente deseja. Você [não paga juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e nem precisa ter o valor de entrada, como acontece com o financiamento, por exemplo.
 
 Com o consórcio, você não sai com o bem na hora, mas paga por um valor a prazo mais justo. A partir do momento que inicia o [pagamento de uma cota](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio), você participa dos sorteios, que são realizados mensalmente, e pode até mesmo fazer a oferta de um lance, caso queira [antecipar a sua aquisição](https://www.embracon.com.br/blog/antecipar-um-consorcio-descubra-aqui).
 
@@ -132,4 +132,3 @@ Após a contemplação, você pode manter o [hábito de guardar dinheiro](https:
 E aí, já fez a simulação do seu bem? É bem simples: [basta entrar no site da administradora](https://www.embracon.com.br/) e verificar o melhor valor de mensalidade para investir no seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

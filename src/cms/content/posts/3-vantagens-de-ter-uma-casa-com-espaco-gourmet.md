@@ -1,14 +1,14 @@
 ---
-        titulo: 3 vantagens de ter uma casa com espaço gourmet
-        slug: 3-vantagens-de-ter-uma-casa-com-espaco-gourmet
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-vantagens-de-ter-uma-casa-com-espaco-gourmet.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Caso já tenha ficado desanimado por não ter o que fazer no final de semana, sobre como fazer a ceia de natal em sua casa ou, até mesmo, por não poder tentar aquela receita que você viu no programa de culinária que parecia tão saborosa, fique tranquilo.
+titulo: 3 vantagens de ter uma casa com espaço gourmet
+slug: 3-vantagens-de-ter-uma-casa-com-espaco-gourmet
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-vantagens-de-ter-uma-casa-com-espaco-gourmet.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Caso já tenha ficado desanimado por não ter o que fazer no final de semana, sobre como fazer a ceia de natal em sua casa ou, até mesmo, por não poder tentar aquela receita que você viu no programa de culinária que parecia tão saborosa, fique tranquilo.
 
 Neste post, apresentaremos uma única e simples solução que resolverá todas essas situações. Continue a leitura e descubra as vantagens de ter uma casa com espaço gourmet!
 
@@ -54,4 +54,3 @@ Seguindo os passos que apresentamos, certamente fará sucesso com os familiares 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

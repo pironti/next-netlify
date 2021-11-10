@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo o que você precisa saber sobre como fazer um consórcio
-        slug: como-fazer-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-um-consorcio.jpeg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Quem está interessado em comprar um bem ou serviço de alto valor geralmente pesquisa a possibilidade de um financiamento, ou como fazer um consórcio.
+titulo: Tudo o que você precisa saber sobre como fazer um consórcio
+slug: como-fazer-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-um-consorcio.jpeg
+meta_summary: 
+date: 29/09/2021
+---
+Quem está interessado em comprar um bem ou serviço de alto valor geralmente pesquisa a possibilidade de um financiamento, ou como fazer um consórcio.
 
 O consórcio é uma modalidade bastante procurada, pois, as parcelas costumam ser baixas e livre dos altos juros do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). No entanto, alguns detalhes sobre o seu funcionamento não são conhecidos pelo público, fazendo com que muitas pessoas desistam de optar por ele antes mesmo de se informarem.
 
@@ -281,4 +281,3 @@ A [Embracon](https://www.embracon.com.br) está entre as 5 maiores administrador
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 6 lançamentos de carros mais esperados neste ano
-        slug: lancamentos-de-carros-neste-ano
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/lancamentos-de-carros-neste-ano.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Se os anos anteriores não foram muito animadores para a indústria e o comércio de carros, 2019 promete uma mudança positiva nesse cenário. Com a aprovação do Rota 2030 — programa de concessão de benefícios fiscais aos investidores do setor — e os lançamentos esperados para este ano, muita coisa vai mudar para melhor.
+titulo: 6 lançamentos de carros mais esperados neste ano
+slug: lancamentos-de-carros-neste-ano
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/lancamentos-de-carros-neste-ano.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Se os anos anteriores não foram muito animadores para a indústria e o comércio de carros, 2019 promete uma mudança positiva nesse cenário. Com a aprovação do Rota 2030 — programa de concessão de benefícios fiscais aos investidores do setor — e os lançamentos esperados para este ano, muita coisa vai mudar para melhor.
 
 Se você está planejando comprar ou trocar o seu veículo, saiba que o mercado está repleto de novidades para todos os gostos e bolsos. E para ajudá-lo a fazer uma boa escolha, separamos 6 lançamentos apresentados no último Salão do Automóvel. Continue a leitura e fique por dentro!
 
@@ -98,4 +98,3 @@ Ficou empolgado com nosso conteúdo, quer continuar acompanhando as tendências 
 ‍
 
 ‍
-        

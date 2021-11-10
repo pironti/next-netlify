@@ -1,14 +1,14 @@
 ---
-        titulo:  Comprar um terreno: veja em quais situações vale a pena
-        slug: comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena.png
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Investir na [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é uma decisão muito particular, que envolve muitas variáveis. De certa forma, muitas pessoas sabem o que querem mas, na hora de começar a investir, as dúvidas começam a surgir.
+titulo:  Comprar um terreno: veja em quais situações vale a pena
+slug: comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena.png
+meta_summary: 
+date: 05/10/2021
+---
+Investir na [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é uma decisão muito particular, que envolve muitas variáveis. De certa forma, muitas pessoas sabem o que querem mas, na hora de começar a investir, as dúvidas começam a surgir.
 
 Por exemplo: será que vale a pena [comprar um terreno](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir)?
 
@@ -62,4 +62,3 @@ Para que tudo dê certo, vale mais uma vez o dom da paciência. Em alguns casos,
 Portanto, não perca tempo! [Baixe o nosso e-book](https://www.embracon.com.br/materiais-gratuitos/e-book-completo-de-a-a-z-sobre-consorcio-de-automoveis-imoveis-e-motos) e saiba mais sobre a melhor forma de investir em um imóvel.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

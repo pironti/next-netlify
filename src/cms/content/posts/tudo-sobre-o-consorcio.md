@@ -1,14 +1,14 @@
 ---
-        titulo: Tipos de consórcio: tudo o que você precisa saber
-        slug: tudo-sobre-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-sobre-o-consorcio.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Você sabia que existem diferentes **tipos de consórcio**?
+titulo: Tipos de consórcio: tudo o que você precisa saber
+slug: tudo-sobre-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-sobre-o-consorcio.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Você sabia que existem diferentes **tipos de consórcio**?
 
 Mas antes de falar sobre os tipos, vamos falar sobre o consórcio. Na vida, estamos sempre planejando conquistar algo que parece estar além das nossas possibilidades, não é mesmo? A casa própria, o veículo novo, um carro para o filho quando ele completar 18 anos ou quando passar na faculdade...
 
@@ -261,4 +261,3 @@ Agora que você já entendeu como funciona o consórcio e quais são os **tipos 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

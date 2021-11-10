@@ -1,14 +1,14 @@
 ---
-        titulo: Finanças para crianças: dicas de como ensinar sobre dinheiro desde cedo
-        slug: financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        A importância de [ensinar educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) para as crianças desde cedo é imensa. Muitas pessoas não tiveram a oportunidade de aprender sobre finanças na escola - tanto que é comum investidores bem-sucedidos citarem o aprendizado sobre o assunto em casa, junto aos pais.
+titulo: Finanças para crianças: dicas de como ensinar sobre dinheiro desde cedo
+slug: financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo.jpg
+meta_summary: 
+date: 07/10/2021
+---
+A importância de [ensinar educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) para as crianças desde cedo é imensa. Muitas pessoas não tiveram a oportunidade de aprender sobre finanças na escola - tanto que é comum investidores bem-sucedidos citarem o aprendizado sobre o assunto em casa, junto aos pais.
 
 Uma [pesquisa da Standard &amp; Poor’s](https://crcgo.org.br/novo/?p=9580) identificou que, entre 144 países, o Brasil ocupa a 74ª posição no ranking de educação financeira. E um dos pilares mais importante para avançarmos nesse assunto é ensinar finanças para as crianças.
 
@@ -80,4 +80,3 @@ A leitura é um importante instrumento de educação - e, quando se trata de fin
 Para mais dicas de finanças pessoais, [acompanhe o blog da Embracon](https://www.embracon.com.br/blog).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

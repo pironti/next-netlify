@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são os principais tipos de carros
-        slug: quais-sao-os-principais-tipos-de-carros
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-os-principais-tipos-de-carros.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        O mundo dos [automóveis](https://www.embracon.com.br/blog/pequeno-guia-sobre-o-consorcio-de-automoveis) é vasto, fascinante e cheio de curiosidade. Há muito tempo, o primeiro carro apareceu e se popularizou, e o mercado automotivo nunca mais parou.
+titulo: Quais são os principais tipos de carros
+slug: quais-sao-os-principais-tipos-de-carros
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-os-principais-tipos-de-carros.jpg
+meta_summary: 
+date: 20/10/2021
+---
+O mundo dos [automóveis](https://www.embracon.com.br/blog/pequeno-guia-sobre-o-consorcio-de-automoveis) é vasto, fascinante e cheio de curiosidade. Há muito tempo, o primeiro carro apareceu e se popularizou, e o mercado automotivo nunca mais parou.
 
 Hoje, o carro não é apenas um meio de transporte, mas um modo de vida. É por isso que preparamos este artigo com os principais tipos de carro. Confira e tire suas dúvidas.
 
@@ -393,4 +393,3 @@ As picapes são frequentemente chamadas de caminhonetes (ou truck) no Brasil. No
 Já sabe qual o tipo de carro ideal para sua família? Conheça as opções de [consórcio](https://www.embracon.com.br/consorcio) da [Embracon](https://www.embracon.com.br/a-embracon), e adquira o seu veículo próprio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

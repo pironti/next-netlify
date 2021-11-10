@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas de presentes de formatura para os filhos
-        slug: 5-dicas-de-presentes-de-formatura-para-os-filhos
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-de-presentes-de-formatura-para-os-filhos.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        O encerramento da graduação é um grande acontecimento na vida do formando e da sua família. Muitos pais se dedicam a dar um **presente de**[ **formatura** ](https://www.embracon.com.br/blog/3-razoes-para-fazer-uma-festa-de-formatura)bastante significativo aos filhos. Afinal, é hora de encerrar uma etapa de dedicação e dar os primeiros passos profissionais.
+titulo: 5 dicas de presentes de formatura para os filhos
+slug: 5-dicas-de-presentes-de-formatura-para-os-filhos
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-de-presentes-de-formatura-para-os-filhos.jpg
+meta_summary: 
+date: 01/10/2021
+---
+O encerramento da graduação é um grande acontecimento na vida do formando e da sua família. Muitos pais se dedicam a dar um **presente de**[ **formatura** ](https://www.embracon.com.br/blog/3-razoes-para-fazer-uma-festa-de-formatura)bastante significativo aos filhos. Afinal, é hora de encerrar uma etapa de dedicação e dar os primeiros passos profissionais.
 
 Se você está vivendo esse momento ou já está se preparando para isso, mas está em dúvida sobre qual investimento fazer para parabenizar o seu filho, veio ao lugar certo. Separamos 5 dicas para que você se organizar e surpreender seu filho quando ele pegar o diploma. Acompanhe!
 
@@ -56,4 +56,3 @@ Se ainda faltam alguns anos para o seu filho entrar no mundo acadêmico, talvez 
 Gostou das nossas dicas? Tem alguma dúvida? Já passou por isso e quer relatar a sua experiência? Deixe um comentário e divida conosco suas impressões!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

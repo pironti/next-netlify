@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo o que você precisa saber sobre a importância de um consultor de consórcio
-        slug: tudo-o-que-voce-precisa-saber-sobre-a-importancia-de-um-consultor-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-o-que-voce-precisa-saber-sobre-a-importancia-de-um-consultor-de-consorcio.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Desde que o consórcio passou a ajudar as pessoas na compra de bens de alto valor, como [automóveis](https://www.embracon.com.br/consorcio-de-carros) e [imóveis](https://www.embracon.com.br/consorcio-de-imoveis), cada vez mais consumidores têm se preocupado para saber [mais informações das parcelas](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio), carta de crédito, sorteios, enfim, [tudo que envolve o universo de consórcio](https://www.embracon.com.br/blog/por-que-voce-deve-escolher-o-consorcio-embracon).
+titulo: Tudo o que você precisa saber sobre a importância de um consultor de consórcio
+slug: tudo-o-que-voce-precisa-saber-sobre-a-importancia-de-um-consultor-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-o-que-voce-precisa-saber-sobre-a-importancia-de-um-consultor-de-consorcio.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Desde que o consórcio passou a ajudar as pessoas na compra de bens de alto valor, como [automóveis](https://www.embracon.com.br/consorcio-de-carros) e [imóveis](https://www.embracon.com.br/consorcio-de-imoveis), cada vez mais consumidores têm se preocupado para saber [mais informações das parcelas](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio), carta de crédito, sorteios, enfim, [tudo que envolve o universo de consórcio](https://www.embracon.com.br/blog/por-que-voce-deve-escolher-o-consorcio-embracon).
 
 O consórcio é uma [modalidade extremamente flexível](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta): você pode investir em um bem sem ter que pagar entrada e ainda [ajustar as mensalidades](https://www.embracon.com.br/conhecaoconsorcio/as-parcelas-mensais-podem-ser-reajustadas) de acordo com o seu rendimento mensal.
 
@@ -77,4 +77,3 @@ Acima de tudo, o consultor deve facilitar a sua vida na hora de contratar um con
 Siga nosso [Facebook](https://pt-br.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/) e [LinkedIn](https://br.linkedin.com/organization-guest/company/embracon-administradora-de-cons-rcio-ltda.).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

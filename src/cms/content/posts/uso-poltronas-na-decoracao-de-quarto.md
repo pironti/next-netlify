@@ -1,14 +1,14 @@
 ---
-        titulo: Poltronas: por que e como utilizar em decoração de quarto
-        slug: uso-poltronas-na-decoracao-de-quarto
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/uso-poltronas-na-decoracao-de-quarto.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Segredos de como usar poltronas para a decoração do seu quarto ficar incrível
+titulo: Poltronas: por que e como utilizar em decoração de quarto
+slug: uso-poltronas-na-decoracao-de-quarto
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/uso-poltronas-na-decoracao-de-quarto.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Segredos de como usar poltronas para a decoração do seu quarto ficar incrível
 -----------------------------------------------------------------------------
 
 Utilizamos os quartos para descanso. Só que não é só do corpo, como alguns pensam. Podemos ter uma área com [poltronas](https://www.vivadecora.com.br/produtos/poltronas-para-sala-de-estar) dentro do cômodo para aqueles momentos de relaxamento da mente - ler um livro ou amamentar um bebê, por exemplo.
@@ -68,4 +68,3 @@ As poltronas em geral - com exceção das giratórias - podem receber o acompanh
 Essas dicas de decoração com poltronas foram criadas pela equipe [Viva Decora](https://www.vivadecora.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

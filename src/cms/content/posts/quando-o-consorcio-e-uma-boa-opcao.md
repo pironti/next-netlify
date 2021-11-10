@@ -1,14 +1,14 @@
 ---
-        titulo: Quando o consórcio é uma boa opção?
-        slug: quando-o-consorcio-e-uma-boa-opcao
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quando-o-consorcio-e-uma-boa-opcao.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quando se fala em obter um bem como um carro ou um imóvel, o [consórcio ](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram)é uma boa opção? Talvez seja a melhor delas, porque permite parcelar aquilo que você sempre quis sem cair nos altos juros do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). Ao analisar os custos, esse tipo de associação oferece praticamente o mesmo poder de compra de um investimento à vista.
+titulo: Quando o consórcio é uma boa opção?
+slug: quando-o-consorcio-e-uma-boa-opcao
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quando-o-consorcio-e-uma-boa-opcao.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Quando se fala em obter um bem como um carro ou um imóvel, o [consórcio ](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram)é uma boa opção? Talvez seja a melhor delas, porque permite parcelar aquilo que você sempre quis sem cair nos altos juros do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). Ao analisar os custos, esse tipo de associação oferece praticamente o mesmo poder de compra de um investimento à vista.
 
 Afinal, ao obter a [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito),que pode ser conquistada por sorteio ou por lance,o consorciado dispõe de um alto valor que pode ser usado para negociar o bem e, assim, conseguir grandes descontos.
 
@@ -150,4 +150,3 @@ Ficou interessado e quer investir em um consórcio para realizar um grande sonho
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb03fbb82cd6e7f72131c87_CTA-CASA2.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

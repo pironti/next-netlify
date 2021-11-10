@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, posso fazer um consórcio mesmo com o nome sujo?
-        slug: afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O consórcio é uma forma muito interessante para adquirir bens de consumo e, também, para contratar alguns serviços de alto valor. Por isso, muitas pessoas têm grandes dúvidas em relação à sua contratação. Especialmente quanto a fazer **consórcio mesmo com o nome sujo**. Assim, embora não haja restrições, é importante entender melhor sobre esse assunto.
+titulo: Afinal, posso fazer um consórcio mesmo com o nome sujo?
+slug: afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+O consórcio é uma forma muito interessante para adquirir bens de consumo e, também, para contratar alguns serviços de alto valor. Por isso, muitas pessoas têm grandes dúvidas em relação à sua contratação. Especialmente quanto a fazer **consórcio mesmo com o nome sujo**. Assim, embora não haja restrições, é importante entender melhor sobre esse assunto.
 
 Em linhas gerais, o consórcio pode ser feito por qualquer interessado. Mas, é indispensável manter os pagamentos em dia para participar das assembleias. Além disso, de acordo com as regras de algumas administradoras, será necessário passar por procedimentos de análise para receber a carta de crédito quando for contemplado.
 
@@ -63,4 +63,3 @@ Depois que essa situação for normalizada e você estiver, novamente, com saldo
 Concluindo, você pode sim fazer consórcio com nome sujo. Mas poderá ficar com o crédito bloqueado até ser aprovado na análise de crédito da empresa administradora. E, caso não pague as parcelas do consórcio em dia, lembre-se de que você ficará impedido de participar das assembleias e sorteios mensais. Ou seja: não será contemplado até que os pagamentos estejam atualizados.
 
 Emergências financeiras acontecem. Mas, ao assumir uma responsabilidade como um consórcio, é importante se levar em conta todas as condições contratadas. Para se planejar melhor você pode, agora mesmo, realizar uma [simulação de consórcio](https://www.embracon.com.br/ecommerce) e se preparar para tirar os planos do papel com total segurança e tranquilidade, que tal?
-        

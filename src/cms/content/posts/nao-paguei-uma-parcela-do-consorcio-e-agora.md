@@ -1,14 +1,14 @@
 ---
-        titulo: Não paguei uma parcela do consórcio. E agora?
-        slug: nao-paguei-uma-parcela-do-consorcio-e-agora
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/nao-paguei-uma-parcela-do-consorcio-e-agora.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio é um [tipo de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) para a compra de um bem de alto valor. Diversos consorciados formam um grupo que, de forma conjunta, contribui para o fundo comum.
+titulo: Não paguei uma parcela do consórcio. E agora?
+slug: nao-paguei-uma-parcela-do-consorcio-e-agora
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/nao-paguei-uma-parcela-do-consorcio-e-agora.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio é um [tipo de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) para a compra de um bem de alto valor. Diversos consorciados formam um grupo que, de forma conjunta, contribui para o fundo comum.
 
 Esse fundo é responsável pela entrega das [cartas de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) todos os meses, que pode acontecer de duas formas: por meio dos sorteios ou pela oferta de lance.
 
@@ -67,4 +67,3 @@ De qualquer forma, pense muito bem se estiver passando por algum tipo de [dificu
 Para conseguir organizar melhor suas finanças, confira nossas [dicas para realizar um planejamento mais efetivo dos seus rendimentos mensais](https://www.embracon.com.br/blog/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=nao_paguei_uma_parcela_do_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como planejar-se financeiramente para começar a conquistar seus objetivos em 2021
-        slug: como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        O que você gostaria de ter conquistado neste ano? Qual plano te faz perder o sono? Você já pensou que se você começar a planejar muito bem o que quer para os próximos anos e começar a poupar agora, a chance deles acontecerem é bem maior?
+titulo: Como planejar-se financeiramente para começar a conquistar seus objetivos em 2021
+slug: como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021.jpg
+meta_summary: 
+date: 29/09/2021
+---
+O que você gostaria de ter conquistado neste ano? Qual plano te faz perder o sono? Você já pensou que se você começar a planejar muito bem o que quer para os próximos anos e começar a poupar agora, a chance deles acontecerem é bem maior?
 
 Se você quer [comprar um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), [fazer a viagem dos seus sonhos](https://www.embracon.com.br/blog/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro) ou, quem sabe, até realizar o sonho de ter uma casa própria, vamos dar as principais dicas para você planejar-se financeiramente e começar a conquistar seus objetivos em 2021. Já que em 2020 foi muito difícil para todo mundo, em diversos aspectos, essa é a chance de compensar em 2021. Confira a seguir:
 
@@ -53,4 +53,3 @@ Não existe forma de guardar dinheiro sem parar de gastar um pouco. Preste aten�
 > Não se esqueça da possibilidade de fazer um consórcio, você começa a poupar e, a qualquer momento, pode ser sorteado, o que faz com que os seus grandes sonhos estejam cada vez mais perto. Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](http://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
-        

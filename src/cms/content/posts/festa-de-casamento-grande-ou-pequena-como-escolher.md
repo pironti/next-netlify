@@ -1,14 +1,14 @@
 ---
-        titulo: Festa de casamento grande ou pequena? Como escolher?
-        slug: festa-de-casamento-grande-ou-pequena-como-escolher
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/festa-de-casamento-grande-ou-pequena-como-escolher.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        O tamanho da [festa de casamento ](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento)é uma das muitas decisões que os noivos precisam tomar antes de subirem ao altar. Pode parecer fácil, mas essa escolha envolve diversos aspectos e é fundamental para que a experiência seja incrível para todos.
+titulo: Festa de casamento grande ou pequena? Como escolher?
+slug: festa-de-casamento-grande-ou-pequena-como-escolher
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/festa-de-casamento-grande-ou-pequena-como-escolher.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+O tamanho da [festa de casamento ](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento)é uma das muitas decisões que os noivos precisam tomar antes de subirem ao altar. Pode parecer fácil, mas essa escolha envolve diversos aspectos e é fundamental para que a experiência seja incrível para todos.
 
 Afinal, o casamento não é uma ocasião qualquer e tem um significado muito especial para o casal, a família e os amigos. Quer saber como definir o tamanho ideal da festa do seu casamento? Veja quais pontos analisar!
 
@@ -57,4 +57,3 @@ Gostou do nosso conteúdo? Esperamos que essas dicas ajudem você a realizar a s
 E você, conhece alguém que também está precisando de ajuda? Então, compartilhe esse artigo nas suas redes sociais!
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

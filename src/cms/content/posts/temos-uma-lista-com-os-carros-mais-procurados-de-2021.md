@@ -1,14 +1,14 @@
 ---
-        titulo: Temos uma lista com os carros mais procurados de 2021
-        slug: temos-uma-lista-com-os-carros-mais-procurados-de-2021
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/temos-uma-lista-com-os-carros-mais-procurados-de-2021.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A [pandemia de coronavírus](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia) continua afetando a indústria automotiva, seja devido a várias paradas para conter a propagação do vírus ou devido à falta de matéria-prima para a produção, isso desencadeou uma crise de semicondutores.
+titulo: Temos uma lista com os carros mais procurados de 2021
+slug: temos-uma-lista-com-os-carros-mais-procurados-de-2021
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/temos-uma-lista-com-os-carros-mais-procurados-de-2021.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A [pandemia de coronavírus](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia) continua afetando a indústria automotiva, seja devido a várias paradas para conter a propagação do vírus ou devido à falta de matéria-prima para a produção, isso desencadeou uma crise de semicondutores.
 
 Portanto, as empresas com melhores planos de produção e produção mais estável tiveram a vantagem nos primeiros seis meses deste ano. É o caso da Fiat, que ocupa 22% das vendas totais do mercado de automóveis e comerciais leves.
 
@@ -129,4 +129,3 @@ O Volkswagen Gol também é um ponto brilhante. Mesmo longe de seus anos glorios
 Agora que você já sabe como está o mercado automobilístico no Brasil, que tal adquirir seu carro próprio? Você pode optar pelas várias [vantagens de um consórcio](https://www.embracon.com.br/conhecaoconsorcio/quais-sao-as-vantagens-do-consorcio). Faça sua simulação com a Embracon, administradora de consórcios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

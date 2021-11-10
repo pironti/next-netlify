@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para não cair em golpes financeiros
-        slug: 5-dicas-para-nao-cair-em-golpes-financeiros
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-nao-cair-em-golpes-financeiros.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Cada vez mais pessoas têm caído em golpes financeiros nos últimos anos. O grande volume de informações da internet, de certa forma, contribui para que mais pessoas coloquem seu [dinheiro em risco](https://www.embracon.com.br/blog/investimentos-alto-risco-vale-a-pena).
+titulo: 5 dicas para não cair em golpes financeiros
+slug: 5-dicas-para-nao-cair-em-golpes-financeiros
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-nao-cair-em-golpes-financeiros.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Cada vez mais pessoas têm caído em golpes financeiros nos últimos anos. O grande volume de informações da internet, de certa forma, contribui para que mais pessoas coloquem seu [dinheiro em risco](https://www.embracon.com.br/blog/investimentos-alto-risco-vale-a-pena).
 
 Pesquisa recente da Confederação Nacional de Dirigentes Lojistas (CNDL) e do Serviço de Proteção ao Crédito (SPC Brasil) apontou que mais de 12 milhões de brasileiros já sofreram algum [golpe financeiro pela internet](https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2019/08/15/12-milhoes-de-brasileiros-sao-vitimas-de-golpes-na-internet-veja-os-mais-comuns.ghtml) nos últimos anos. Isso representou um prejuízo de quase R$ 2 bilhões somente em fraudes.
 
@@ -84,4 +84,3 @@ Caso se depare com algo ofertado em nome de uma instituição financeira, por ex
 ‍
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Lifting facial: entenda como eliminar a flacidez e as rugas do rosto
-        slug: lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O lifting facial é uma das [cirurgias estéticas](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon) mais procuradas por pessoas que desejam minimizar os efeitos das rugas no rosto e pescoço. Permite a redução da flacidez da pele e, até mesmo, a remoção dos excessos de gordura promovendo um aspecto mais jovem e saudável.
+titulo: Lifting facial: entenda como eliminar a flacidez e as rugas do rosto
+slug: lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+O lifting facial é uma das [cirurgias estéticas](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon) mais procuradas por pessoas que desejam minimizar os efeitos das rugas no rosto e pescoço. Permite a redução da flacidez da pele e, até mesmo, a remoção dos excessos de gordura promovendo um aspecto mais jovem e saudável.
 
 Esse procedimento também é conhecido pelo nome de ritidoplastia e é muito procurado por mulheres acima dos 45 anos. Todo o processo de tratamento é realizado em uma clínica especializada por um médico cirurgião plástico.
 
@@ -50,4 +50,3 @@ Mas, superada a primeira semana, não há nada com que se preocupar além de col
 E você, tem vontade ou já fez uma cirurgia de lifting facial? Deixe em nossos comentários sua opinião sobre os resultados obtidos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

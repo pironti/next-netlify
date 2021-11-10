@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo sobre o consórcio de cirurgia plástica Embracon
-        slug: tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon.jpeg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Aquela gordurinha fora do lugar que tanto incomoda está com os dias contados. Isso mesmo: se você sempre quis fazer uma intervenção estética mas nunca conseguiu se planejar para isso, saiba que há uma solução para conquistar esse sonho mesmo com o orçamento limitado. A solução se chama consórcio de cirurgia plástica Embracon!
+titulo: Tudo sobre o consórcio de cirurgia plástica Embracon
+slug: tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon.jpeg
+meta_summary: 
+date: 27/09/2021
+---
+Aquela gordurinha fora do lugar que tanto incomoda está com os dias contados. Isso mesmo: se você sempre quis fazer uma intervenção estética mas nunca conseguiu se planejar para isso, saiba que há uma solução para conquistar esse sonho mesmo com o orçamento limitado. A solução se chama consórcio de cirurgia plástica Embracon!
 
 Com o [consórcio para serviços estéticos](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia), você consegue fazer qualquer procedimento de forma mais econômica. Embora o pagamento seja feito em prestações, não há incidência de juros e o investimento tem segurança garantida.
 
@@ -105,4 +105,3 @@ Gostou de saber mais sobre o assunto e quer realizar a sua tão sonhada cirurgia
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=consorcio_de_cirurgia_plastica&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

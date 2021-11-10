@@ -1,14 +1,14 @@
 ---
-        titulo: O que é MEI e como se tornar um?
-        slug: o-que-e-mei-e-como-se-tornar-um
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-mei-e-como-se-tornar-um.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O MEI é a sigla para Microempreendedor Individual que possui um regime tributário simplificado para incentivar pequenos negócios e o [trabalho autônomo](https://www.embracon.com.br/blog/consorcio-para-autonomos-e-profissionais-liberais). Criado em 2009, o sistema passou a ser cada vez mais adotado pelos brasileiros que buscam ter um CNPJ para exercer atividades que, na maioria dos casos, não é abrigada pela formalidade.
+titulo: O que é MEI e como se tornar um?
+slug: o-que-e-mei-e-como-se-tornar-um
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-mei-e-como-se-tornar-um.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O MEI é a sigla para Microempreendedor Individual que possui um regime tributário simplificado para incentivar pequenos negócios e o [trabalho autônomo](https://www.embracon.com.br/blog/consorcio-para-autonomos-e-profissionais-liberais). Criado em 2009, o sistema passou a ser cada vez mais adotado pelos brasileiros que buscam ter um CNPJ para exercer atividades que, na maioria dos casos, não é abrigada pela formalidade.
 
 Com o aumento do desemprego e a queda contínua do mercado formal, o MEI tem sido cada vez mais adotado pelos brasileiros. De acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE), em 2020 o Brasil tinha um [total de 38 milhões de informais](https://agenciabrasil.ebc.com.br/economia/noticia/2020-03/informalidade-cai-mas-atinge-38-milhoes-de-trabalhadores), o que representa mais de 40% de toda a população.
 
@@ -79,4 +79,3 @@ Cada vez mais somos impactados pela [informalidade e pela nova dinâmica de trab
 Agora que você já sabe como se formalizar, o próximo passo é ter uma boa gestão financeira do seu negócio. Confira nossas [dicas de finanças pessoais para quem deseja empreender](https://www.embracon.com.br/blog/aprenda-em-poucos-passos-como-empreender-na-crise).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de carro: compre seu automóvel sem juros!
-        slug: consorcio-de-carro-compre-seu-automovel-sem-juros
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-carro-compre-seu-automovel-sem-juros.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O [consórcio de carros](https://www.embracon.com.br/blog/consorcio-de-carros-usados-vale-a-pena) é uma modalidade que tem se tornado cada vez mais interessante. Para muitas pessoas, ele viabiliza o sonho de comprar um veículo. Esse tipo de adesão possui características bem específicas e se diferencia dos parcelamentos comuns que vemos no mercado.
+titulo: Consórcio de carro: compre seu automóvel sem juros!
+slug: consorcio-de-carro-compre-seu-automovel-sem-juros
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-carro-compre-seu-automovel-sem-juros.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O [consórcio de carros](https://www.embracon.com.br/blog/consorcio-de-carros-usados-vale-a-pena) é uma modalidade que tem se tornado cada vez mais interessante. Para muitas pessoas, ele viabiliza o sonho de comprar um veículo. Esse tipo de adesão possui características bem específicas e se diferencia dos parcelamentos comuns que vemos no mercado.
 
 Justamente por essas particularidades, é comum que algumas pessoas tenham dúvidas a respeito de como funciona, quais são seus [benefícios ](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio)e desvantagens e o que é preciso fazer para participar do consórcio.
 
@@ -91,4 +91,3 @@ Sempre verifique alguns pontos importantes, como:
 > Viu só como é possível e vantajoso adquirir um consórcio de carro? Agora que já sabe quais são as diferenças do financiamento e consórcio, [o que acha de fazer uma simulação](https://www.embracon.com.br/consorcio-de-carros)? A Embracon está há mais de 30 anos no mercado, com especialidade em consórcio de automóveis. Venha conferir!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher revestimentos para a sua casa
-        slug: como-escolher-revestimentos-para-a-sua-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-revestimentos-para-a-sua-casa.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Na hora de finalizar uma construção ou fazer uma reforma interna, pode ser que surjam diversas dúvidas quanto a escolha dos **revestimentos** para a casa. Afinal, essas peças precisam somar beleza, qualidade e segurança. Além disso, cada ambiente da residência pode precisar de um certo tipo de acabamento, o que gera ainda mais questionamentos.
+titulo: Como escolher revestimentos para a sua casa
+slug: como-escolher-revestimentos-para-a-sua-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-revestimentos-para-a-sua-casa.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Na hora de finalizar uma construção ou fazer uma reforma interna, pode ser que surjam diversas dúvidas quanto a escolha dos **revestimentos** para a casa. Afinal, essas peças precisam somar beleza, qualidade e segurança. Além disso, cada ambiente da residência pode precisar de um certo tipo de acabamento, o que gera ainda mais questionamentos.
 
 Portanto, se você está precisando de ajuda para [escolher os revestimentos](https://www.embracon.com.br/blog/revestimento-de-metro-conheca-essa-tendencia-classica-e-charmosa) para a casa dos seus sonhos, continue a leitura do texto e conheça algumas dicas que podem facilitar seu trabalho. Confira!
 
@@ -53,4 +53,3 @@ O revestimento vai fazer parte do seu dia a dia pelos próximos anos, por isso v
 A escolha dos revestimentos para a casa precisa ser uma decisão acertada. Afinal, os acabamentos costumam não ser muito baratos e ainda devem durar muito tempo. Portanto, lembre-se da decoração da sua residência, pense nos moradores e como será a limpeza diária. Procure também por produtos de qualidade que não vão te decepcionar com o tempo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: As melhores dicas de como voltar aos estudos
-        slug: as-melhores-dicas-de-como-voltar-aos-estudos
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-melhores-dicas-de-como-voltar-aos-estudos.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O mercado de trabalho está cada vez mais acirrado. [Estudar é fundamental para se destacar](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo) e ter boas oportunidades de emprego. E muitas vezes apenas a faculdade não basta e, nesse momento, é importante se planejar para pensar em cursos, pós-graduações e por que não em um [mestrado ou doutorado](https://www.embracon.com.br/blog/entenda-a-diferenca-entre-mestrado-e-doutorado)? Juntamos algumas dicas para quem pretende recomeçar. Confira:
+titulo: As melhores dicas de como voltar aos estudos
+slug: as-melhores-dicas-de-como-voltar-aos-estudos
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-melhores-dicas-de-como-voltar-aos-estudos.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O mercado de trabalho está cada vez mais acirrado. [Estudar é fundamental para se destacar](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo) e ter boas oportunidades de emprego. E muitas vezes apenas a faculdade não basta e, nesse momento, é importante se planejar para pensar em cursos, pós-graduações e por que não em um [mestrado ou doutorado](https://www.embracon.com.br/blog/entenda-a-diferenca-entre-mestrado-e-doutorado)? Juntamos algumas dicas para quem pretende recomeçar. Confira:
 
 Faça um planejamento financeiro
 -------------------------------
@@ -64,4 +64,3 @@ O [consórcio é uma excelente forma de fazer o seu planejamento](https://www.em
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e entenda como a Embracon pode te ajudar a realizar esse sonho de sair do país pela primeira vez.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

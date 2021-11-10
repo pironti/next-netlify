@@ -1,14 +1,14 @@
 ---
-        titulo: Descubra quais foram os eletrodomésticos queridinhos da quarentena
-        slug: descubra-quais-foram-os-eletrodomesticos-queridinhos-da-quarentena
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/descubra-quais-foram-os-eletrodomesticos-queridinhos-da-quarentena.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Todos os anos, os brasileiros investem nos eletrodomésticos que mais atendem às suas necessidades e em 2020 não poderia ser diferente. Só que foi. Esse ano, a pandemia do novo coronavírus fez com que as pessoas precisassem repensar suas prioridades, especialmente dentro do lar. E isso refletiu diretamente no perfil de compras do Brasil e do mundo.
+titulo: Descubra quais foram os eletrodomésticos queridinhos da quarentena
+slug: descubra-quais-foram-os-eletrodomesticos-queridinhos-da-quarentena
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/descubra-quais-foram-os-eletrodomesticos-queridinhos-da-quarentena.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Todos os anos, os brasileiros investem nos eletrodomésticos que mais atendem às suas necessidades e em 2020 não poderia ser diferente. Só que foi. Esse ano, a pandemia do novo coronavírus fez com que as pessoas precisassem repensar suas prioridades, especialmente dentro do lar. E isso refletiu diretamente no perfil de compras do Brasil e do mundo.
 
 No primeiro momento, em que ficamos trancados em quarentena, foi preciso reavaliar as nossas prioridades e [repensar as formas de conforto que podemos ter dentro de uma casa](https://www.embracon.com.br/blog/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020). Foi quando muitos eletrodomésticos começaram a vender quantidades muito maiores do que quando comparados ao ano anterior.
 
@@ -59,4 +59,3 @@ Mas quando a quarentena começou a flexibilizar, a proporção inverteu: seis em
 > E você? Já comprou algum eletrodoméstico na quarentena? Se você pensa em fazer aquela reforma na sua casa, conte com o consórcio de serviço da Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e veja as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

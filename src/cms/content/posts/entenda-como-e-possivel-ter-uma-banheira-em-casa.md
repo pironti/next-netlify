@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como é possível ter uma banheira em casa
-        slug: entenda-como-e-possivel-ter-uma-banheira-em-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-e-possivel-ter-uma-banheira-em-casa.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Ter uma banheira em casa pode parecer um sonho distante, mas com a expansão do mercado e, consequentemente, mais opções disponíveis, já é possível encontrar banheiras de todos os modelos, tamanhos e o mais importante: para todos os bolsos. Mas não se esqueça de, antes de qualquer coisa, observar se você tem um espaço adequado para o formato da peça para garantir que a instalação dê certo. Além disso, outros fatores devem ser examinados com cuidado. Por exemplo, ela será usada só por você ou mais alguém? Você pensa em uma banheira de hidromassagem? Tudo isso deve ser levado em consideração.
+titulo: Entenda como é possível ter uma banheira em casa
+slug: entenda-como-e-possivel-ter-uma-banheira-em-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-e-possivel-ter-uma-banheira-em-casa.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Ter uma banheira em casa pode parecer um sonho distante, mas com a expansão do mercado e, consequentemente, mais opções disponíveis, já é possível encontrar banheiras de todos os modelos, tamanhos e o mais importante: para todos os bolsos. Mas não se esqueça de, antes de qualquer coisa, observar se você tem um espaço adequado para o formato da peça para garantir que a instalação dê certo. Além disso, outros fatores devem ser examinados com cuidado. Por exemplo, ela será usada só por você ou mais alguém? Você pensa em uma banheira de hidromassagem? Tudo isso deve ser levado em consideração.
 
 Já foi comprovado que os [benefícios da banheira](https://www.embracon.com.br/blog/saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa) são inúmeros. Ela é um relaxante instantâneo, principalmente se você escolher o modelo com hidromassagem. Ficar submerso em água quente, além de relaxar, minimiza as dores musculares, ativa a circulação do sangue e ajuda com problemas no coração. Ou seja, só vantagens.
 
@@ -67,4 +67,3 @@ Caso você more em apartamento, não deixe de conversar com o síndico antes de 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a transferência de consórcio
-        slug: como-funciona-a-transferencia-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-transferencia-de-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        A [transferência de consórcio](https://www.embracon.com.br/blog/e-possivel-transferir-a-cota-para-outra-pessoa) consiste, basicamente, em indicar uma pessoa e efetuar a transferência da sua cota para o nome dela.
+titulo: Como funciona a transferência de consórcio
+slug: como-funciona-a-transferencia-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-transferencia-de-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+A [transferência de consórcio](https://www.embracon.com.br/blog/e-possivel-transferir-a-cota-para-outra-pessoa) consiste, basicamente, em indicar uma pessoa e efetuar a transferência da sua cota para o nome dela.
 
 Trata-se de uma opção viável para quem está passando por alguma [dificuldade financeira](https://www.embracon.com.br/blog/nao-consigo-pagar-meu-consorcio-e-agora), ou desistiu da compra do bem pelo consórcio. Aliás, as administradoras recomendam a transferência antes do cancelamento. Afinal, o processo se torna menos burocrático, uma vez que, pelo cancelamento, é necessário pagar uma taxa à administradora (por representar [quebra de contrato](https://www.embracon.com.br/blog/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio)) e aguardar a devolução do valor pago nos sorteios mensais ou no encerramento do grupo.
 
@@ -89,4 +89,3 @@ Nesse caso, é preciso negociar o bem com o próprio interessado e seguir as exi
 Para saber mais detalhes sobre a transferência de consórcio, [confira nosso artigo completo sobre o tema](https://www.embracon.com.br/blog/tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

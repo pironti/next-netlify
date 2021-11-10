@@ -1,14 +1,14 @@
 ---
-        titulo: Pontos importantes do consórcio
-        slug: pontos-importantes-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pontos-importantes-do-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Você sabe [como funciona o consórcio](https://www.embracon.com.br/blog/vantagens-consorcio-automovel)?
+titulo: Pontos importantes do consórcio
+slug: pontos-importantes-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pontos-importantes-do-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Você sabe [como funciona o consórcio](https://www.embracon.com.br/blog/vantagens-consorcio-automovel)?
 
 Muitas pessoas tem questionado o funcionamento dessa modalidade, realmente vale a pena? Veja como funciona o consórcio.
 
@@ -181,4 +181,3 @@ Essa é uma das maneiras de conseguir conquistar aquele bem ou serviço que voc�
 > Gostou desse artigo? Você pode nos acompanhar para mais conteúdos como este. E caso tenha interesse em fazer um consórcio, [faça sua simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=pontos_importantes_do_consorcio&utm_campaign=publicacoes_blog) conosco. A Embracon tem mais de 30 anos de mercado, realizando o sonho de milhares de pessoas.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=pontos_importantes_do_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

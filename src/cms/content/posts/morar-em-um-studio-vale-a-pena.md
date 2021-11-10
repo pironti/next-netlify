@@ -1,14 +1,14 @@
 ---
-        titulo: Morar em um studio vale a pena?
-        slug: morar-em-um-studio-vale-a-pena
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/morar-em-um-studio-vale-a-pena.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Morar em um studio é uma tendência no mercado imobiliário. Este é um imóvel menor que atende plenamente as necessidades de quem quer morar em uma área privilegiada, mas não exige muito espaço como os [apartamentos](https://www.embracon.com.br/blog/compre-seu-apartamento-com-o-consorcio-de-imoveis) de 2 e 3 quartos oferecem.
+titulo: Morar em um studio vale a pena?
+slug: morar-em-um-studio-vale-a-pena
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/morar-em-um-studio-vale-a-pena.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Morar em um studio é uma tendência no mercado imobiliário. Este é um imóvel menor que atende plenamente as necessidades de quem quer morar em uma área privilegiada, mas não exige muito espaço como os [apartamentos](https://www.embracon.com.br/blog/compre-seu-apartamento-com-o-consorcio-de-imoveis) de 2 e 3 quartos oferecem.
 
 Apesar da grande emissão desse tipo, muitas pessoas ainda têm dúvidas se vale a pena morar em um studio e investir nisso. É esta a sua situação? Então vamos entender melhor sobre o assunto, confira esse artigo.
 
@@ -74,4 +74,3 @@ Muitos móveis e decorações em um espaço pequeno farão você se sentir bagun
 Já pensou em ter seu imóvel próprio mas não tem condições de pagá-lo à vista? Conheça as opções de [consórcio](https://www.embracon.com.br/consorcio) e [saia do aluguel](https://www.embracon.com.br/blog/como-sair-do-aluguel-definitivamente). Consulte o site da [Embracon](https://www.embracon.com.br/a-embracon), administradora, e saiba tudo sobre a modalidade que vem ganhando cada vez mais brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

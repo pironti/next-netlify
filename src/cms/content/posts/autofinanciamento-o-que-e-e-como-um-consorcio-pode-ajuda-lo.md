@@ -1,14 +1,14 @@
 ---
-        titulo: Autofinanciamento: o que é e como um consórcio pode ajudá-lo?
-        slug: autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        [Comprar um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) e realizar o sonho da[ casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) não são tarefas simples para a maioria das pessoas. Um dos motivos é que essas metas exigem muito dinheiro em vários casos, além de uma grande capacidade de planejamento. Se você tem problemas para juntar recursos financeiros e elaborar ações com resultados a serem alcançados no futuro, terá que mudar a forma como [gerencia as finanças](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal).
+titulo: Autofinanciamento: o que é e como um consórcio pode ajudá-lo?
+slug: autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo.jpg
+meta_summary: 
+date: 01/10/2021
+---
+[Comprar um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) e realizar o sonho da[ casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) não são tarefas simples para a maioria das pessoas. Um dos motivos é que essas metas exigem muito dinheiro em vários casos, além de uma grande capacidade de planejamento. Se você tem problemas para juntar recursos financeiros e elaborar ações com resultados a serem alcançados no futuro, terá que mudar a forma como [gerencia as finanças](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal).
 
 Caso você esteja realmente determinado a vencer as dificuldades, é válido pensar com muito carinho no autofinanciamento.Inicialmente, é comum as pessoas acharem que essa iniciativa envolve a capacidade de alguém[ juntar dinheiro para adquirir bens](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) e serviços à vista. Por isso, destacamos neste post como funciona essa modalidade de compra, as vantagens que ela proporciona e a importância do consórcio para utilizá-la corretamente. Confira!
 
@@ -84,4 +84,3 @@ Para você usar o dinheiro com inteligência e agilidade, é melhor ler este pos
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

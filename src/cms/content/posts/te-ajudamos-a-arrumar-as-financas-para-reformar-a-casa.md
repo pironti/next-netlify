@@ -1,14 +1,14 @@
 ---
-        titulo: Te ajudamos a arrumar as finanças para reformar a casa
-        slug: te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        É hora de [renovar a casa](https://www.embracon.com.br/blog/termine-sua-casa-com-o-consorcio-de-reforma)? Seja para embelezar o ambiente, atualizar a decoração ou mesmo fazer manutenções básicas para garantir a ***segurança*** do local, arrumar as finanças é necessário.
+titulo: Te ajudamos a arrumar as finanças para reformar a casa
+slug: te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/te-ajudamos-a-arrumar-as-financas-para-reformar-a-casa.jpg
+meta_summary: 
+date: 09/11/2021
+---
+É hora de [renovar a casa](https://www.embracon.com.br/blog/termine-sua-casa-com-o-consorcio-de-reforma)? Seja para embelezar o ambiente, atualizar a decoração ou mesmo fazer manutenções básicas para garantir a ***segurança*** do local, arrumar as finanças é necessário.
 
 No entanto, qualquer pequeno trabalho na propriedade é caro e, portanto, requer planejamento. Você precisa [organizar as finanças](https://www.embracon.com.br/blog/saiba-como-organizar-as-suas-financas-pessoais) para a reforma da casa antes de abusar dos recursos do seu cartão de crédito para parcelar ou contratar alguém para consertar os itens de que você precisa.
 
@@ -49,4 +49,3 @@ Claro, imprevistos acontecem, mas se você tiver um projeto bem estruturado, ser
 Entre em contato com a [Embracon](https://www.embracon.com.br/a-embracon) e veja as melhores condições de [consórcio para reformar a sua casa](https://www.embracon.com.br/tag/consorcio-de-reformas).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulador](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div></figure>
-        

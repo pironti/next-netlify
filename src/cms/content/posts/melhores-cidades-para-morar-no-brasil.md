@@ -1,14 +1,14 @@
 ---
-        titulo: Melhores cidades para morar no Brasil
-        slug: melhores-cidades-para-morar-no-brasil
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/melhores-cidades-para-morar-no-brasil.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Com o passar das décadas, a relação do brasileiro com a sua moradia mudou bastante. Se nos anos 1960 aos anos 1980 muitos partiram para as grandes cidades em busca de boas oportunidades de emprego, atualmente essas fronteiras começam a se romper.
+titulo: Melhores cidades para morar no Brasil
+slug: melhores-cidades-para-morar-no-brasil
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/melhores-cidades-para-morar-no-brasil.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Com o passar das décadas, a relação do brasileiro com a sua moradia mudou bastante. Se nos anos 1960 aos anos 1980 muitos partiram para as grandes cidades em busca de boas oportunidades de emprego, atualmente essas fronteiras começam a se romper.
 
 Ainda antes da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), já se observava um movimento de muitas pessoas que buscavam mais qualidade de vida em vez de um emprego com bom salário.
 
@@ -190,4 +190,3 @@ Por fim, Porto Alegre também figura no ranking de melhores capitais para se mor
 Diante de todos esses dados e informações, você tem interesse em mudar de cidade? Para ajudar nessa decisão, confira nosso artigo sobre as [cidades com melhor custo por metro quadrado](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

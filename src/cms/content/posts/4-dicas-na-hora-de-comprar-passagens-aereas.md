@@ -1,14 +1,14 @@
 ---
-        titulo: 4 dicas na hora de comprar passagens aéreas
-        slug: 4-dicas-na-hora-de-comprar-passagens-aereas
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-dicas-na-hora-de-comprar-passagens-aereas.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Viagens de avião se tornaram cada vez mais acessíveis. Parte disso é graças à redução de preços nas passagens, maior porte dos aeroportos e maior incentivo geral para viajar. Dito isso, escolher a hora certa para **comprar passagens** aéreas ainda é muito importante.
+titulo: 4 dicas na hora de comprar passagens aéreas
+slug: 4-dicas-na-hora-de-comprar-passagens-aereas
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-dicas-na-hora-de-comprar-passagens-aereas.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Viagens de avião se tornaram cada vez mais acessíveis. Parte disso é graças à redução de preços nas passagens, maior porte dos aeroportos e maior incentivo geral para viajar. Dito isso, escolher a hora certa para **comprar passagens** aéreas ainda é muito importante.
 
 O momento da compra é quase tão importante quanto a escolha do seu destino de viagem. Cada passagem de avião tem a sua relação *custo x benefício*, que deve ser levada em conta antes de preencher o pedido. E quanto mais você souber sobre isso, melhor.
 
@@ -54,4 +54,3 @@ Agora que você tem essas dicas, pode comprar passagens aéreas na hora certa pa
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Se quiser continuar recebendo nossas melhores informações, siga-nos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon), [LinkedIn](https://www.linkedin.com/company/1018875/) e no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ) e fique sempre por dentro de nossas novidades.
-        

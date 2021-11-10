@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça os 4 melhores motivos para você viajar para a Irlanda
-        slug: conheca-os-4-melhores-motivos-para-voce-viajar-para-a-irlanda
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-os-4-melhores-motivos-para-voce-viajar-para-a-irlanda.jpeg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Está em dúvida sobre qual o próximo destino das férias? Já cogitou viajar para a Irlanda? Saiba que temos 4 bons motivos para você conhecer a chamada Ilha da Esmeralda!
+titulo: Conheça os 4 melhores motivos para você viajar para a Irlanda
+slug: conheca-os-4-melhores-motivos-para-voce-viajar-para-a-irlanda
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-os-4-melhores-motivos-para-voce-viajar-para-a-irlanda.jpeg
+meta_summary: 
+date: 07/10/2021
+---
+Está em dúvida sobre qual o próximo destino das férias? Já cogitou viajar para a Irlanda? Saiba que temos 4 bons motivos para você conhecer a chamada Ilha da Esmeralda!
 
 Berço de artistas que deixaram legados incríveis na literatura e local com paisagens naturais fantásticas, a Irlanda é encantadora. Mesmo com a garoa constante e o clima frio, tem ganhado destaque entre turistas e pessoas que desejam fazer um intercâmbio. Continue a leitura e descubra por quê!
 
@@ -53,4 +53,3 @@ Gostou do nosso texto e quer continuar recebendo dicas como as deste post? Entã
 > E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

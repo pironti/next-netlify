@@ -1,14 +1,14 @@
 ---
-        titulo: O que é a taxa de administração do consórcio?
-        slug: o-que-e-a-taxa-de-administracao-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-a-taxa-de-administracao-do-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quando se trata de consórcio, muitas pessoas costumam ter dúvidas sobre a [taxa de administração](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-taxa-de-administracao) dele. Essas dúvidas decorrem da integração do consórcio no mercado nacional e da ausência de cobrança de juros.
+titulo: O que é a taxa de administração do consórcio?
+slug: o-que-e-a-taxa-de-administracao-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-a-taxa-de-administracao-do-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quando se trata de consórcio, muitas pessoas costumam ter dúvidas sobre a [taxa de administração](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-taxa-de-administracao) dele. Essas dúvidas decorrem da integração do consórcio no mercado nacional e da ausência de cobrança de juros.
 
 No entanto, é importante lembrar que as [taxas de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros) são diferentes das taxas de administração. Mas o que é essa taxa de administração? Como é aplicável? Vamos ajudá-lo a entender tudo que é importante.
 
@@ -49,4 +49,3 @@ Além da taxa de administração, existem mais algumas taxas que você deve se a
 > Faça sua [simulação com o Consórcio Embracon](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=), e descubra quanto você pagará para adquirir o bem ou serviço que você sonhou.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div></figure>
-        

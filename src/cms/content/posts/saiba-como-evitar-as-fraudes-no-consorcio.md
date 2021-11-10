@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como evitar as fraudes no consórcio
-        slug: saiba-como-evitar-as-fraudes-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-evitar-as-fraudes-no-consorcio.png
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Por ser uma modalidade um pouco diferente de investir em um bem, o [consórcio ](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio)costuma gerar dúvidas nos consumidores, principalmente para os que nunca ouviram falar dessa modalidade.
+titulo: Saiba como evitar as fraudes no consórcio
+slug: saiba-como-evitar-as-fraudes-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-evitar-as-fraudes-no-consorcio.png
+meta_summary: 
+date: 29/09/2021
+---
+Por ser uma modalidade um pouco diferente de investir em um bem, o [consórcio ](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio)costuma gerar dúvidas nos consumidores, principalmente para os que nunca ouviram falar dessa modalidade.
 
 Infelizmente, acontece de pessoas mal intencionadas se passarem como especialistas em consórcio para vender cotas que não existem. Esse tipo de ato é criminoso e acaba prejudicando as empresas e [profissionais sérios](https://www.embracon.com.br/fale-com-consultor) que trabalham com consórcio.
 
@@ -67,4 +67,3 @@ Pesquise bastante em administradoras de consórcio sérias, como a Embracon, e c
 > [Faça uma simulação](https://www.embracon.com.br/) e confira as múltiplas vantagens de uma empresa que realiza sonhos há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

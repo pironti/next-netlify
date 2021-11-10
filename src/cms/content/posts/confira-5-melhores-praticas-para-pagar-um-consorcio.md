@@ -1,14 +1,14 @@
 ---
-        titulo: Confira 5 melhores práticas para pagar um consórcio
-        slug: confira-5-melhores-praticas-para-pagar-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-5-melhores-praticas-para-pagar-um-consorcio.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Existem algumas formas de adquirir bens e imóveis, e pagar um [consórcio é uma delas](https://www.embracon.com.br/consorcio-de-imoveis), assim como o financiamento e a compra à vista. As diferenças entre consórcio e financiamento são claras: o primeiro geralmente é mais barato, mas é possível que você demore um pouco mais para obter o bem.
+titulo: Confira 5 melhores práticas para pagar um consórcio
+slug: confira-5-melhores-praticas-para-pagar-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-5-melhores-praticas-para-pagar-um-consorcio.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Existem algumas formas de adquirir bens e imóveis, e pagar um [consórcio é uma delas](https://www.embracon.com.br/consorcio-de-imoveis), assim como o financiamento e a compra à vista. As diferenças entre consórcio e financiamento são claras: o primeiro geralmente é mais barato, mas é possível que você demore um pouco mais para obter o bem.
 
 Muitas pessoas utilizam o consórcio não apenas para comprar carros, mas também motos, caminhões, casas e até eletrodomésticos. Independentemente do objetivo, é importante manter as obrigações financeiras em dia ao [adquirir uma cota](https://www.embracon.com.br/conhecaoconsorcio/como-adquirir-uma-cota-de-consorcio).
 
@@ -63,4 +63,3 @@ Gostou do post? Então [evite a desorganização financeira](https://www.embraco
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

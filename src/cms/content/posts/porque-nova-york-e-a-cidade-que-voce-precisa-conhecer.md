@@ -1,14 +1,14 @@
 ---
-        titulo: Porque Nova York é a cidade que você precisa conhecer?
-        slug: porque-nova-york-e-a-cidade-que-voce-precisa-conhecer
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/porque-nova-york-e-a-cidade-que-voce-precisa-conhecer.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Existe uma premissa que diz que Nova York é a cidade que nunca dorme e, com certeza, ela não dorme por falta de tempo. Os seus poucos **783,8 km² de área**, comportam os [melhores restaurantes, lojas, peças teatrais, parques e cinemas](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar) do mundo, e fazem da cidade uma experiência pulsante 24 horas por dia.
+titulo: Porque Nova York é a cidade que você precisa conhecer?
+slug: porque-nova-york-e-a-cidade-que-voce-precisa-conhecer
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/porque-nova-york-e-a-cidade-que-voce-precisa-conhecer.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Existe uma premissa que diz que Nova York é a cidade que nunca dorme e, com certeza, ela não dorme por falta de tempo. Os seus poucos **783,8 km² de área**, comportam os [melhores restaurantes, lojas, peças teatrais, parques e cinemas](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar) do mundo, e fazem da cidade uma experiência pulsante 24 horas por dia.
 
 Cada [viagem ](https://www.embracon.com.br/blog/5-dicas-para-economizar-e-viajar-na-alta-temporada)a Nova York é uma experiência diferente. E mesmo visitando os mesmos lugares, você tem percepções diferentes da cidade, isso porque **ela está sempre mudando**. Então, fizemos esse guia de dicas para te incentivar a começar a [programar sua viagem](https://www.embracon.com.br/blog/saiba-como-montar-um-roteiro-de-viagem-em-7-passos) a Nova York. Ele vale para caso você já tenha ido à cidade e quer voltar ou se você pretende ir pela primeira vez.
 
@@ -83,4 +83,3 @@ Gostou? Agora é só [começar a planejar](https://www.embracon.com.br/blog/conf
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> [Faça um orçamento](https://www.embracon.com.br/consorcio-servicos) em nosso site e descubra todos planos disponíveis para realizar o seu sonho!
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: É possível comprar um terreno rural com o consórcio?
-        slug: e-possivel-comprar-um-terreno-rural-com-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-comprar-um-terreno-rural-com-o-consorcio.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O consórcio é uma modalidade bastante conhecida por [facilitar a compra de bens de alto valor](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram).
+titulo: É possível comprar um terreno rural com o consórcio?
+slug: e-possivel-comprar-um-terreno-rural-com-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-comprar-um-terreno-rural-com-o-consorcio.jpg
+meta_summary: 
+date: 05/10/2021
+---
+O consórcio é uma modalidade bastante conhecida por [facilitar a compra de bens de alto valor](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram).
 
 Por muitos anos, as pessoas lembravam do nome consórcio para a compra de um carro. Desde os anos 1990, o consórcio também tem sido contratado para facilitar a compra de um imóvel. Ou seja, você não precisa mais depender de toda a burocracia do financiamento para [investir na sua casa ou apartamento](https://www.embracon.com.br/blog/hora-certa-comprar-imovel).
 
@@ -78,4 +78,3 @@ Após análise de crédito e entrega de documentações, a administradora pede a
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Portanto, não perca tempo! [Faça uma simulação](https://www.embracon.com.br/consorcio) e conte com a experiência de uma das administradoras de consórcio mais admiradas do país.
 
 ‍
-        

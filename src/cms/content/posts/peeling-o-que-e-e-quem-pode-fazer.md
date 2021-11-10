@@ -1,14 +1,14 @@
 ---
-        titulo: Peeling: o que é e quem pode fazer
-        slug: peeling-o-que-e-e-quem-pode-fazer
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/peeling-o-que-e-e-quem-pode-fazer.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        São muitos os tratamentos que beneficiam a pele, removendo células mortas e reestruturando a epiderme. Todo processo de remoção da camada superficial da pele é chamada de peeling. O tratamento provoca uma descamação para formar um novo tecido.
+titulo: Peeling: o que é e quem pode fazer
+slug: peeling-o-que-e-e-quem-pode-fazer
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/peeling-o-que-e-e-quem-pode-fazer.jpg
+meta_summary: 
+date: 05/10/2021
+---
+São muitos os tratamentos que beneficiam a pele, removendo células mortas e reestruturando a epiderme. Todo processo de remoção da camada superficial da pele é chamada de peeling. O tratamento provoca uma descamação para formar um novo tecido.
 
 Esse processo de destruição controlada da epiderme pode ser feito com produtos químicos, de forma física ou por meio de laser. É indicado para o rejuvenescimento da pele, para remover manchas, melasmas, cicatrizes e para melhorar aspectos de flacidez.
 
@@ -74,4 +74,3 @@ Tirou todas as suas dúvidas sobre o peeling?
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

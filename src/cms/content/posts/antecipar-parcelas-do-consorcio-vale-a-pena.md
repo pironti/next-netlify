@@ -1,14 +1,14 @@
 ---
-        titulo: Antecipar parcelas do consórcio vale a pena?
-        slug: antecipar-parcelas-do-consorcio-vale-a-pena
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/antecipar-parcelas-do-consorcio-vale-a-pena.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        O [consórcio é um investimento a longo prazo](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). As pessoas costumam se planejar para a compra de um bem de alto valor, como automóveis, moto, imóveis ou serviços, de diferentes formas.
+titulo: Antecipar parcelas do consórcio vale a pena?
+slug: antecipar-parcelas-do-consorcio-vale-a-pena
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/antecipar-parcelas-do-consorcio-vale-a-pena.jpg
+meta_summary: 
+date: 29/09/2021
+---
+O [consórcio é um investimento a longo prazo](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). As pessoas costumam se planejar para a compra de um bem de alto valor, como automóveis, moto, imóveis ou serviços, de diferentes formas.
 
 Enquanto algumas tentam se organizar para [não comprometer demais os rendimentos mensais](https://www.embracon.com.br/blog/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde), outras conseguem pagar as mensalidades com relativa folga, o que permite ter um bom respiro financeiro para conseguir [quitar a sua cota com mais rapidez](https://www.embracon.com.br/blog/saiba-o-que-fazer-quando-for-contemplado-no-consorcio).
 
@@ -74,4 +74,3 @@ Ainda tem alguma dúvida sobre como funciona o consórcio? [Confira o nosso guia
 > Quer descobrir mais como funciona o consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

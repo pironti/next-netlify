@@ -1,14 +1,14 @@
 ---
-        titulo: Instalações elétricas: seus principais problemas e como resolvê-los?
-        slug: instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Na realidade, quando o assunto é as instalações elétricas, não é raro encontrarmos projetos de todos os tamanhos repletos de problemas técnicos. As razões são muito diversas indo da falta de planejamento à contratação de profissionais duvidosos.
+titulo: Instalações elétricas: seus principais problemas e como resolvê-los?
+slug: instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Na realidade, quando o assunto é as instalações elétricas, não é raro encontrarmos projetos de todos os tamanhos repletos de problemas técnicos. As razões são muito diversas indo da falta de planejamento à contratação de profissionais duvidosos.
 
 Eventuais erros cometidos nas instalações elétricas podem trazer graves consequências: sobrecarga do sistema, curtos, choques e até incêndios. As preocupações sobre esse tema são tantas que a [Associação Brasileira de Conscientização para os Perigos da Eletricidade](http://abracopel.org/estatisticas/), divulga periodicamente estatísticas visando alertar sobre acidentes elétricos no país.
 
@@ -52,4 +52,3 @@ Por fim, seja qual for o plano, o ideal é que ele seja estruturado em torno de 
 Então, agora que você conferiu nossas orientações e dicas para instalações elétricas seguras, que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

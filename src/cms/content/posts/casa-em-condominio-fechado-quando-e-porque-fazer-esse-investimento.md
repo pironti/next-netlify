@@ -1,14 +1,14 @@
 ---
-        titulo: Casa em condomínio fechado: quando e porque fazer esse investimento?
-        slug: casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Na hora de buscar um novo lar, muitas pessoas optam pelas vantagens de um condomínio fechado. Essa escolha tem sido cada vez mais procurada no dia a dia dos brasileiros, porque tem uma série de qualidades, principalmente em termos de [melhorias de estilo de vida](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul). O mercado de imóveis já vem mostrando essa tendência há anos, é só acompanhar para perceber o crescimento na quantidade de condomínios que foram construídos e vendidos nos últimos anos.
+titulo: Casa em condomínio fechado: quando e porque fazer esse investimento?
+slug: casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Na hora de buscar um novo lar, muitas pessoas optam pelas vantagens de um condomínio fechado. Essa escolha tem sido cada vez mais procurada no dia a dia dos brasileiros, porque tem uma série de qualidades, principalmente em termos de [melhorias de estilo de vida](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul). O mercado de imóveis já vem mostrando essa tendência há anos, é só acompanhar para perceber o crescimento na quantidade de condomínios que foram construídos e vendidos nos últimos anos.
 
 Um grande fator para esse aumento, desde o começo de março de 2020, é a pandemia do coronavírus, quando as pessoas começaram a repensar suas moradias e priorizar a qualidade de vida e o tamanho do imóvel. Segundo dados da Secovi (Sindicato da Habitação), a busca por condomínios horizontais fechados cresceu aproximadamente 90% desde o começo da pandemia.
 
@@ -54,4 +54,3 @@ Para quem quer investir nesse tipo de moradia também é importante saber que ca
 > Se você deseja [planejar a compra da sua casa](https://www.embracon.com.br/consorcio-de-imoveis) em um condomínio fechado,[faça uma simulação em nosso site](https://www.embracon.com.br/consorcio) e entenda como a Embracon pode te ajudar a realizar esse sonho!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

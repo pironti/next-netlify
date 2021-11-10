@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça as melhores cidades para se viver no Brasil
-        slug: conheca-as-melhores-cidades-para-se-viver-no-brasil
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-as-melhores-cidades-para-se-viver-no-brasil.png
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Nem sempre é fácil sair da cidade natal. Essa decisão envolve muitas questões, como oportunidades de emprego, preço do metro quadrado e [instituições de educação](https://www.embracon.com.br/blog/educacao-saiba-como-investir-na-sua).
+titulo: Conheça as melhores cidades para se viver no Brasil
+slug: conheca-as-melhores-cidades-para-se-viver-no-brasil
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-as-melhores-cidades-para-se-viver-no-brasil.png
+meta_summary: 
+date: 01/10/2021
+---
+Nem sempre é fácil sair da cidade natal. Essa decisão envolve muitas questões, como oportunidades de emprego, preço do metro quadrado e [instituições de educação](https://www.embracon.com.br/blog/educacao-saiba-como-investir-na-sua).
 
 O Brasil é um país extenso e possui dezenas de opções para cada tipo de pessoa.
 
@@ -121,4 +121,3 @@ E você, também pretende mudar de cidade? É importante acompanhar todos os ín
 Nesse processo de escolha, realize um[ planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Se quiser [investir em um imóvel](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) em outra cidade, conte com as[ facilidades do consórcio](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio). Você [não paga juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), nem entrada, e conta com a flexibilidade de uma das modalidades mais seguras de investir. [Faça uma simulação](http://www.embracon.com.br/consorcio) e [confira as vantagens](https://www.embracon.com.br/conhecaoconsorcio/quais-sao-as-vantagens-do-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba quando fazer um consórcio de automóvel
-        slug: saiba-quando-fazer-um-consorcio-de-automovel
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-quando-fazer-um-consorcio-de-automovel.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Para quem pensa em trocar de carro e planeja fazer a compra para os próximos anos, entre as possibilidades de crédito para alcançar os seus objetivos, é possível fazer um consórcio de automóvel.
+titulo: Saiba quando fazer um consórcio de automóvel
+slug: saiba-quando-fazer-um-consorcio-de-automovel
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-quando-fazer-um-consorcio-de-automovel.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Para quem pensa em trocar de carro e planeja fazer a compra para os próximos anos, entre as possibilidades de crédito para alcançar os seus objetivos, é possível fazer um consórcio de automóvel.
 
 Essa modalidade de compra se torna cada vez mais utilizada por clientes que buscam parcelas com valores que se ajustam ao bolso, que não estão dispostos a pagar uma entrada e, principalmente, para aqueles que querem fugir dos juros altos cobrados pelas instituições financeiras.
 
@@ -96,4 +96,3 @@ Agora que você conhece um pouco mais sobre as vantagens de fazer um consórcio 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

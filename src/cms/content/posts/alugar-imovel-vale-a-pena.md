@@ -1,14 +1,14 @@
 ---
-        titulo: Alugar imóvel vale a pena?
-        slug: alugar-imovel-vale-a-pena
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/alugar-imovel-vale-a-pena.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Por muitos anos o brasileiro nutriu o sonho de ter [imóveis como investimento](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar). E, geralmente, as discussões começam com a possibilidade de [comprar uma casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce) para ganhar dinheiro com o aluguel.
+titulo: Alugar imóvel vale a pena?
+slug: alugar-imovel-vale-a-pena
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/alugar-imovel-vale-a-pena.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Por muitos anos o brasileiro nutriu o sonho de ter [imóveis como investimento](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar). E, geralmente, as discussões começam com a possibilidade de [comprar uma casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce) para ganhar dinheiro com o aluguel.
 
 Trata-se de uma prática que os brasileiros enxergam como uma forma de ampliar o patrimônio ou até mesmo para garantir uma aposentadoria mais segura. Durante a pandemia de Covid-19, o interesse por imóveis aumentou no Brasil, [chegando a um aumento de 57,5% de compra](https://exame.com/blog/genoma-imobiliario/o-futuro-do-mercado-imobiliario-em-um-mundo-pos-pandemia/) somente em 2020, de acordo com a Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (Abecip). Trata-se de um número tão expressivo, que supera até mesmo o percentual de pessoas interessadas em alugar casas ou apartamentos.
 
@@ -168,4 +168,3 @@ A grande vantagem da carta de crédito é que ela possui poder de compra à vist
 Portanto, aproveite para se organizar e ter o consórcio a seu favor na hora de investir em seu imóvel para alugar. Com organização e paciência, você pode aumentar seu patrimônio e garantir uma boa renda extra. [Faça uma simulação de consórcio de imóveis agora mesmo](https://www.embracon.com.br/consorcio-de-imoveis) e invista em um futuro mais próspero para você e sua família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

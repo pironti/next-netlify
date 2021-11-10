@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a análise de crédito no consórcio?
-        slug: como-funciona-a-analise-de-credito-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-analise-de-credito-no-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Antes de comprar um bem de alto valor, é sempre necessário passar por uma [análise de crédito](https://www.embracon.com.br/blog/documentacao-para-consorcio-tire-suas-principais-duvidas), para que a instituição identifique se você tem condições de realizar o pagamento e prover garantias de que [não se tornará um inadimplente](https://www.embracon.com.br/blog/nao-consigo-pagar-meu-consorcio-e-agora).
+titulo: Como funciona a análise de crédito no consórcio?
+slug: como-funciona-a-analise-de-credito-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-analise-de-credito-no-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Antes de comprar um bem de alto valor, é sempre necessário passar por uma [análise de crédito](https://www.embracon.com.br/blog/documentacao-para-consorcio-tire-suas-principais-duvidas), para que a instituição identifique se você tem condições de realizar o pagamento e prover garantias de que [não se tornará um inadimplente](https://www.embracon.com.br/blog/nao-consigo-pagar-meu-consorcio-e-agora).
 
 A análise de crédito nada mais é do que uma avaliação dos seus rendimentos mensais, para entender se estão compatíveis com o seu objetivo de compra. No [financiamento](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento), por exemplo, essa análise define se você pode ter direito a realizar o empréstimo para, então, pagar pelo bem que deseja.
 
@@ -81,4 +81,3 @@ Se você for aprovado, finalmente terá acesso à sua carta, que tem poder de co
 Como deu para perceber, o consórcio não é nada burocrático. Fácil de contratar, você pode dar início à realização do seu sonho hoje mesmo. [Faça uma simulação de consórcio](https://www.embracon.com.br/) e aproveite seus benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

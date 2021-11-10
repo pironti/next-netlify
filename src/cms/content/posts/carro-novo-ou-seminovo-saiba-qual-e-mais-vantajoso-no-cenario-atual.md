@@ -1,14 +1,14 @@
 ---
-        titulo: Carro novo ou seminovo? Saiba qual é mais vantajoso no cenário atual
-        slug: carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        2020 já está marcado na história como o ano em que a pandemia do Covid-19 surpreendeu a todos, gerando uma recessão econômica como nunca se viu na história recente. Por conta da crise sanitária, as pessoas tiveram que ficar em casa, adotar um novo modelo de trabalho (home-office) e tomar todo o cuidado possível para onde quer que se vá.
+titulo: Carro novo ou seminovo? Saiba qual é mais vantajoso no cenário atual
+slug: carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual.jpg
+meta_summary: 
+date: 05/10/2021
+---
+2020 já está marcado na história como o ano em que a pandemia do Covid-19 surpreendeu a todos, gerando uma recessão econômica como nunca se viu na história recente. Por conta da crise sanitária, as pessoas tiveram que ficar em casa, adotar um novo modelo de trabalho (home-office) e tomar todo o cuidado possível para onde quer que se vá.
 
 De alguma forma, todos os segmentos da economia foram [impactados pelo coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Com o setor automotivo, não seria diferente.
 
@@ -79,4 +79,3 @@ Se a ideia é ter o carro o quanto antes, não tem problema. Você pode fazer a 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Consórcio Automóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>> [Faça já uma simulação](https://www.embracon.com.br/consorcio-de-carros) e confira as múltiplas vantagens de ter o consórcio a seu favor na compra de um carro novo ou seminovo.
 
 ‍
-        

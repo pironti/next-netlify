@@ -1,14 +1,14 @@
 ---
-        titulo: Segunda casa: o consórcio pode te ajudar
-        slug: segunda-casa-o-consorcio-pode-te-ajudar
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/segunda-casa-o-consorcio-pode-te-ajudar.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        É de admirar pessoas que conseguem[ ampliar seu patrimônio ](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui)e conseguem comprar mais de um carro - quem diria comprar mais de uma casa ou apartamento!
+titulo: Segunda casa: o consórcio pode te ajudar
+slug: segunda-casa-o-consorcio-pode-te-ajudar
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/segunda-casa-o-consorcio-pode-te-ajudar.png
+meta_summary: 
+date: 06/10/2021
+---
+É de admirar pessoas que conseguem[ ampliar seu patrimônio ](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui)e conseguem comprar mais de um carro - quem diria comprar mais de uma casa ou apartamento!
 
 Em muitos casos, as pessoas ficam mais de 10 anos para conseguir quitar o imóvel em que vai residir. Afinal, uma casa ou um apartamento pode custar mais de R$ 200 mil e demanda muito foco e esforço até que sejam devidamente quitados.
 
@@ -56,4 +56,3 @@ Dessa forma, você consegue antecipar o sonho da segunda casa, seja para obter r
 Faça uma simulação e confira as vantagens do consórcio para conquistar seu novo imóvel.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb03fbb82cd6e7f72131c87_CTA-CASA2.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

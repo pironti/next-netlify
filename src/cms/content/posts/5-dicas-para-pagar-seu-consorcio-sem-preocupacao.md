@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para pagar seu consórcio sem preocupação
-        slug: 5-dicas-para-pagar-seu-consorcio-sem-preocupacao
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-pagar-seu-consorcio-sem-preocupacao.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Investir em bens de alto valor exige um [planejamento a longo prazo](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). É preciso pesquisar bastante antes de escolher, conferir as condições de pagamento, se organizar para não apertar no seu orçamento e se comprometer para pagar em dia e não contrair uma dívida.
+titulo: 5 dicas para pagar seu consórcio sem preocupação
+slug: 5-dicas-para-pagar-seu-consorcio-sem-preocupacao
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-pagar-seu-consorcio-sem-preocupacao.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Investir em bens de alto valor exige um [planejamento a longo prazo](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). É preciso pesquisar bastante antes de escolher, conferir as condições de pagamento, se organizar para não apertar no seu orçamento e se comprometer para pagar em dia e não contrair uma dívida.
 
 Em algum momento da vida, todos se verão no dilema de comprar uma casa ou um carro. Quanto mais você estiver preparado para essa aquisição, maiores são as chances de você [realizar um bom negócio](https://www.embracon.com.br/blog/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio) e não ter que comprometer tanto o valor dos seus rendimentos mensais.
 
@@ -86,4 +86,3 @@ Seja para surpreender o seu filho, aumentar seu patrimônio ou investir no seu b
 > Motivos não faltam para fazer a compra de uma forma planejada e saudável, não é mesmo? Portanto, [faça uma simulação agora](https://www.embracon.com.br/consorcio) e invista já no seu sonho e da sua família!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para realizar os seus sonhos
-        slug: consorcio-para-realizar-os-seus-sonhos
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-para-realizar-os-seus-sonhos.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Realizar o sonho de ser dono da sua casa própria é uma experiência única, e a melhor maneira de atingir esse objetivo é com planejamento, segurança e economia.
+titulo: Consórcio para realizar os seus sonhos
+slug: consorcio-para-realizar-os-seus-sonhos
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-para-realizar-os-seus-sonhos.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Realizar o sonho de ser dono da sua casa própria é uma experiência única, e a melhor maneira de atingir esse objetivo é com planejamento, segurança e economia.
 
 Há muito tempo, firmar um consórcio é um dos temas que mais pode despertar o interesse das pessoas quando o assunto é a ***realização dos seus sonhos***. O consórcio foi muito procurado nas décadas de 1980 e 1990 pois oferecia às pessoas a possibilidade de conquistar bens de uma forma mais barata e menos burocrática do que os [financiamentos conhecidos](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel).
 
@@ -135,4 +135,3 @@ Dicas finais
 > Agora que você sabe tudo sobre consórcio, [faça uma simulação no site da Embracon](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) e realize os seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

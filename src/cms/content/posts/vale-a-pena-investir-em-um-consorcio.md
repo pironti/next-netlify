@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena investir em um consórcio?
-        slug: vale-a-pena-investir-em-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-investir-em-um-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ao considerar a compra de bens de alto valor, como carro, casa, apartamento, moto ou até mesmo a realização de serviços, muitas pessoas ficam em dúvidas de como proceder da melhor forma.
+titulo: Vale a pena investir em um consórcio?
+slug: vale-a-pena-investir-em-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-investir-em-um-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ao considerar a compra de bens de alto valor, como carro, casa, apartamento, moto ou até mesmo a realização de serviços, muitas pessoas ficam em dúvidas de como proceder da melhor forma.
 
 Isso porque, diferente de [compras que realizamos no dia a dia](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica), pagando com débito, [cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) ou até mesmo dinheiro em espécie, quando não se tem o total à vista do bem é necessário ter uma instituição intermediária para a compra.
 
@@ -75,4 +75,3 @@ Como deu pra perceber, realmente vale a pena planejar a compra do seu próximo b
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e conheça mais a modalidade que tem ajudado milhares de brasileiros a realizarem seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

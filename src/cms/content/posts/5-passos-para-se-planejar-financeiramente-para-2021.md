@@ -1,14 +1,14 @@
 ---
-        titulo: 5 passos para se planejar financeiramente para 2021
-        slug: 5-passos-para-se-planejar-financeiramente-para-2021
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-passos-para-se-planejar-financeiramente-para-2021.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O ano de 2020 mostrou a importância de um bom planejamento financeiro. Após um [ano conturbado](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), que foi diferente de tudo que sempre imaginamos, 2021 chegou cheio de desafios e expectativas, entretanto com muitas boas possibilidades.
+titulo: 5 passos para se planejar financeiramente para 2021
+slug: 5-passos-para-se-planejar-financeiramente-para-2021
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-passos-para-se-planejar-financeiramente-para-2021.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O ano de 2020 mostrou a importância de um bom planejamento financeiro. Após um [ano conturbado](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), que foi diferente de tudo que sempre imaginamos, 2021 chegou cheio de desafios e expectativas, entretanto com muitas boas possibilidades.
 
 Após viver em essa realidade diferente, chega a hora de fazer planos. Com certeza, a parte financeira é essencial nessa nova etapa. Passar um ano com saúde financeira significa não apenas mais tranquilidade, mas também uma expectativa de mais organização em 2021. Confira a seguir, cinco passos que juntamos para te ajudar a alcançar o seu planejamento financeiro para o ano novo.
 
@@ -54,4 +54,3 @@ Não se esqueça da possibilidade de [fazer um consórcio](https://www.embracon.
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 > ‍
-        

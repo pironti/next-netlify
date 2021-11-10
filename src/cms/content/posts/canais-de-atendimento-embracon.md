@@ -1,14 +1,14 @@
 ---
-        titulo: Canais de atendimento Embracon
-        slug: canais-de-atendimento-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/canais-de-atendimento-embracon.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Para você ficar informado sobre os nossos planos de [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), de forma rápida e objetiva, não é preciso sair de casa. Além do site, dispomos de diversos outros canais de atendimento. Um dos canais de atendimento é o SAC eletrônico. Indicado para todos os clientes, em qualquer situação.
+titulo: Canais de atendimento Embracon
+slug: canais-de-atendimento-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/canais-de-atendimento-embracon.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Para você ficar informado sobre os nossos planos de [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), de forma rápida e objetiva, não é preciso sair de casa. Além do site, dispomos de diversos outros canais de atendimento. Um dos canais de atendimento é o SAC eletrônico. Indicado para todos os clientes, em qualquer situação.
 
 Agora, você tem uma dúvida específica? Talvez o chat, um dos nossos mais novos **canais de atendimento**, consiga te oferecer uma resposta mais rápida.
 
@@ -63,4 +63,3 @@ Caso tenha dificuldades em solucionar seus problemas com a Embracon, a Ouvidoria
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=canais_de_atendimento&utm_campaign=publicacoes_blog)</figure>> Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: O que é cidadania financeira? Saiba mais sobre seus direitos
-        slug: o-que-e-cidadania-financeira-saiba-mais-sobre-seus-direitos
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-cidadania-financeira-saiba-mais-sobre-seus-direitos.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        [Educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) é um termo que tem gerado cada vez mais interesse para os brasileiros. Em busca de entender melhor como controlar suas finanças pessoais, aprender a investir, enfim, fazer melhor uso do dinheiro, o brasileiro tem mudado aos poucos sua relação com as contas do dia a dia.
+titulo: O que é cidadania financeira? Saiba mais sobre seus direitos
+slug: o-que-e-cidadania-financeira-saiba-mais-sobre-seus-direitos
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-cidadania-financeira-saiba-mais-sobre-seus-direitos.jpg
+meta_summary: 
+date: 30/09/2021
+---
+[Educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) é um termo que tem gerado cada vez mais interesse para os brasileiros. Em busca de entender melhor como controlar suas finanças pessoais, aprender a investir, enfim, fazer melhor uso do dinheiro, o brasileiro tem mudado aos poucos sua relação com as contas do dia a dia.
 
 Aqui na Embracon temos uma [gama de conteúdo de finanças pessoais](https://www.embracon.com.br/category/financas-pessoais), porque acreditamos que é preciso empoderar as pessoas com conhecimento para que elas aprendam a se planejar e usar o dinheiro de uma forma mais inteligente.
 
@@ -71,4 +71,3 @@ Portanto, busque entender o melhor [uso do seu dinheiro](https://www.embracon.co
 > Para isso, conte com o[ blog da Embracon](https://www.embracon.com.br/blog), para conhecer cada vez mais sobre educação financeira. Além disso, conheça mais sobre consórcios e suas vantagens. [Faça uma simulação](https://www.embracon.com.br/consorcio) e entenda.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

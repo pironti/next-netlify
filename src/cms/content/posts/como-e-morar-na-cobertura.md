@@ -1,14 +1,14 @@
 ---
-        titulo: Como é morar na cobertura?
-        slug: como-e-morar-na-cobertura
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-e-morar-na-cobertura.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        Quem não gostaria de ter um apartamento nas alturas, em que é possível ter uma vista panorâmica e até mesmo poder [personalizar o seu apê da forma que realmente deseja](https://www.embracon.com.br/blog/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio)?
+titulo: Como é morar na cobertura?
+slug: como-e-morar-na-cobertura
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-e-morar-na-cobertura.jpg
+meta_summary: 
+date: 20/10/2021
+---
+Quem não gostaria de ter um apartamento nas alturas, em que é possível ter uma vista panorâmica e até mesmo poder [personalizar o seu apê da forma que realmente deseja](https://www.embracon.com.br/blog/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio)?
 
 Por conta disso, apartamentos na cobertura costumam ser bastante procurados no mercado imobiliário, dando mais conforto para os moradores e até mesmo mais espaço para deixá-lo devidamente personalizado.
 
@@ -73,4 +73,3 @@ Caso o valor de uma cota seja insuficiente para a cobertura, [você pode investi
 Portanto, invista desde já no sonho de ter uma cobertura. [Faça uma simulação de consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e planeje a compra do apartamento que você sempre quis, de forma planejada e que não irá comprometer seus rendimentos mensais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

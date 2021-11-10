@@ -1,14 +1,14 @@
 ---
-        titulo: 5 coisas que você precisa saber para construir uma casa
-        slug: 5-coisas-que-voce-precisa-saber-para-construir-uma-casa
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-coisas-que-voce-precisa-saber-para-construir-uma-casa.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quando se pensa em comprar uma casa, a maioria das pessoas ainda não sabe por onde começar. Será que vale mais a pena[ investir em um imóvel](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) já construído e fazer um longo financiamento para pagá-lo, ou realmente o ideal é começar do zero?
+titulo: 5 coisas que você precisa saber para construir uma casa
+slug: 5-coisas-que-voce-precisa-saber-para-construir-uma-casa
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-coisas-que-voce-precisa-saber-para-construir-uma-casa.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Quando se pensa em comprar uma casa, a maioria das pessoas ainda não sabe por onde começar. Será que vale mais a pena[ investir em um imóvel](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) já construído e fazer um longo financiamento para pagá-lo, ou realmente o ideal é começar do zero?
 
 Nas décadas passadas, era comum os trabalhadores [investirem em um terreno](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir) e[ construir uma casa ](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar)à sua própria maneira. Com a oferta cada vez menor de terrenos e maior demanda por apartamentos - principalmente nas grandes cidades - cada vez mais as pessoas procuram por um lar já pronto e, de preferência, mobiliado.
 
@@ -94,4 +94,3 @@ Nessa hora, bate a ansiedade de querer mudar logo, mas é preciso ter paciência
 Independentemente da etapa em que você estiver na realização do sonho de sua nova casa, conte com as facilidades do consórcio. [Faça uma simulação no nosso site](https://www.embracon.com.br/) e invista em seu novo lar, sem precisar pagar [juros ou entrada](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

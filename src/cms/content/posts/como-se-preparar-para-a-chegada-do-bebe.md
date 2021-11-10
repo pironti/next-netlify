@@ -1,14 +1,14 @@
 ---
-        titulo: Como se preparar para a chegada do bebê
-        slug: como-se-preparar-para-a-chegada-do-bebe
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-se-preparar-para-a-chegada-do-bebe.png
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Uma coisa é certa: planejado ou não, o bebê representa uma grande mudança na família como um todo. A criança traz uma nova energia para a casa e tem o poder de unir as famílias dos pais. Mas, acima de tudo, o bebê exige uma grande mudança na rotina e no lar.
+titulo: Como se preparar para a chegada do bebê
+slug: como-se-preparar-para-a-chegada-do-bebe
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-se-preparar-para-a-chegada-do-bebe.png
+meta_summary: 
+date: 05/10/2021
+---
+Uma coisa é certa: planejado ou não, o bebê representa uma grande mudança na família como um todo. A criança traz uma nova energia para a casa e tem o poder de unir as famílias dos pais. Mas, acima de tudo, o bebê exige uma grande mudança na rotina e no lar.
 
 Para preservar a saúde da criança e garantir que ela se desenvolva bem nos primeiros meses de vida, é preciso seguir as recomendações do pediatra, vaciná-los contra doenças perigosas e entender que, daqui pra frente, as coisas não serão mais as mesmas.
 
@@ -57,4 +57,3 @@ Para mais dicas de como se preparar para a chegada do filho, confira nossas dica
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) de Consórcio de Serviços!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

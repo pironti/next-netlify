@@ -1,14 +1,14 @@
 ---
-        titulo: Jeitos criativos de economizar dinheiro para viajar
-        slug: jeitos-criativos-de-economizar-dinheiro-para-viajar
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/jeitos-criativos-de-economizar-dinheiro-para-viajar.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Vencemos um ano muito difícil. Distante dos amigos, familiares e também sem poder viajar a lazer. E, com certeza, para os [apaixonados por viagens](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) isso foi um enorme desafio. E agora, com um pouquinho de esperança estamos perto de poder fazer aquela nossa viagem dos sonhos. Mas como [economizar de forma criativa para realizar esse desejo](https://www.embracon.com.br/blog/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce)?
+titulo: Jeitos criativos de economizar dinheiro para viajar
+slug: jeitos-criativos-de-economizar-dinheiro-para-viajar
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/jeitos-criativos-de-economizar-dinheiro-para-viajar.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Vencemos um ano muito difícil. Distante dos amigos, familiares e também sem poder viajar a lazer. E, com certeza, para os [apaixonados por viagens](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) isso foi um enorme desafio. E agora, com um pouquinho de esperança estamos perto de poder fazer aquela nossa viagem dos sonhos. Mas como [economizar de forma criativa para realizar esse desejo](https://www.embracon.com.br/blog/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce)?
 
 Além de pensar em passagem, hospedagem, é muito importante não esquecer de considerar o dinheiro a ser gasto na própria viagem, incluindo transporte, refeições, passeios e traslados. Por isso, o valor a ser considerado para uma viagem pode variar bastante e quanto mais você conseguir economizar, melhor. Tanto para os gastos iniciais, quanto para levar para o destino.
 
@@ -54,4 +54,3 @@ Não há problemas se a viagem apresentar um preço superior a R$ 30 mil, afinal
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e veja todas as vantagens da realização do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

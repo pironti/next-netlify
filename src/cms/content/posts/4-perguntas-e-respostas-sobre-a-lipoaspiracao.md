@@ -1,14 +1,14 @@
 ---
-        titulo: 4 perguntas e respostas sobre a lipoaspiração
-        slug: 4-perguntas-e-respostas-sobre-a-lipoaspiracao
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-perguntas-e-respostas-sobre-a-lipoaspiracao.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Procedimento cada vez mais comum, mas que ainda é motivo de muitas dúvidas, a lipoaspiração costuma ser um alvo de temores e propagandas um tanto quanto enganosas.
+titulo: 4 perguntas e respostas sobre a lipoaspiração
+slug: 4-perguntas-e-respostas-sobre-a-lipoaspiracao
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-perguntas-e-respostas-sobre-a-lipoaspiracao.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Procedimento cada vez mais comum, mas que ainda é motivo de muitas dúvidas, a lipoaspiração costuma ser um alvo de temores e propagandas um tanto quanto enganosas.
 
 Que os riscos existem não há a menor dúvida, porém, eles serão drasticamente reduzidos quando a cirurgia for realizada por um profissional reconhecido e com expertise na área.
 
@@ -68,4 +68,3 @@ Por fim, saiba que a gordura retirada representa em média a 5% do peso total do
 O que achou deste artigo sobre a lipoaspiração? Gostou? Então o compartilhe em suas redes sociais!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

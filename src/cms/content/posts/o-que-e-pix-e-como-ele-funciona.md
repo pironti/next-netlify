@@ -1,14 +1,14 @@
 ---
-        titulo: O que é Pix e como ele funciona?
-        slug: o-que-e-pix-e-como-ele-funciona
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-pix-e-como-ele-funciona.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O Pix é um sistema de pagamento instantâneo criado pelo Banco Central do Brasil (Bacen) que permite [transações financeiras](https://www.embracon.com.br/blog/entenda-a-importancia-da-taxa-selic-e-da-inflacao) em poucos segundos. Diferente dos outros sistemas até então, como Doc e TED, que só funcionavam em dias úteis, o Pix tem funcionamento 24h por dia, nos 7 dias da semana.
+titulo: O que é Pix e como ele funciona?
+slug: o-que-e-pix-e-como-ele-funciona
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-pix-e-como-ele-funciona.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O Pix é um sistema de pagamento instantâneo criado pelo Banco Central do Brasil (Bacen) que permite [transações financeiras](https://www.embracon.com.br/blog/entenda-a-importancia-da-taxa-selic-e-da-inflacao) em poucos segundos. Diferente dos outros sistemas até então, como Doc e TED, que só funcionavam em dias úteis, o Pix tem funcionamento 24h por dia, nos 7 dias da semana.
 
 Ou seja, com o Pix você pode realizar [qualquer tipo de pagamento](https://www.embracon.com.br/blog/5-dicas-para-nao-cair-em-golpes-financeiros), a qualquer hora do dia. Ele pode ser utilizado tanto para compras, como para transferências de dinheiro.
 
@@ -234,4 +234,3 @@ Ao longo dos meses, mais funções serão associadas ao Pix. Em pouco tempo, ess
 E você, já está utilizando o Pix? Para [mais dicas de finanças pessoais, continue lendo o blog da Embracon](https://www.embracon.com.br/category/financas-pessoais).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

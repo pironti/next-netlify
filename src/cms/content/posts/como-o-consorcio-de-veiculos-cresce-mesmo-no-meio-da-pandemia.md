@@ -1,14 +1,14 @@
 ---
-        titulo: Como o consórcio de veículos cresce mesmo no meio da pandemia
-        slug: como-o-consorcio-de-veiculos-cresce-mesmo-no-meio-da-pandemia
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-o-consorcio-de-veiculos-cresce-mesmo-no-meio-da-pandemia.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Existem motivos de sobra para que as pessoas considerem a [compra de um novo carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) no meio da pandemia de Covid-19. O isolamento social é um deles: com as restrições que acontecem nos estados, a mobilidade tornou-se uma necessidade cada vez mais voltada para o veículo particular.
+titulo: Como o consórcio de veículos cresce mesmo no meio da pandemia
+slug: como-o-consorcio-de-veiculos-cresce-mesmo-no-meio-da-pandemia
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-o-consorcio-de-veiculos-cresce-mesmo-no-meio-da-pandemia.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Existem motivos de sobra para que as pessoas considerem a [compra de um novo carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) no meio da pandemia de Covid-19. O isolamento social é um deles: com as restrições que acontecem nos estados, a mobilidade tornou-se uma necessidade cada vez mais voltada para o veículo particular.
 
 Pegar transporte público ou depender de [aplicativos de carona](https://www.embracon.com.br/blog/motorista-de-aplicativo-faca-um-consorcio) têm seus riscos: você está em contato com outras pessoas. Por mais que a proteção de máscaras e o uso constante do álcool em gel sejam válidos, nada como ter o seu veículo para resolver o que for necessário: ir ao trabalho, sair com os filhos, fazer compras no supermercado, enfim, com o veículo próprio essas atividades podem ser realizadas com mais segurança.
 
@@ -64,4 +64,3 @@ Você pode utilizar a carta de crédito tanto para um [carro zero km](https://ww
 > Quer saber mais sobre como funciona o consórcio de automóveis? [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) e invista desde já na compra do carro dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Consórcio Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

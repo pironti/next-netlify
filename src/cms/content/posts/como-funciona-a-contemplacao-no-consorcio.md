@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a contemplação no consórcio
-        slug: como-funciona-a-contemplacao-no-consorcio
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-contemplacao-no-consorcio.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O consórcio é a melhor forma de investir em bens de alto valor. Você não sai com o bem na hora, mas tem a possibilidade de [autofinanciar o seu sonho](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo), com o valor de parcelas que melhor cabe em seus rendimentos mensais.
+titulo: Como funciona a contemplação no consórcio
+slug: como-funciona-a-contemplacao-no-consorcio
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-contemplacao-no-consorcio.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O consórcio é a melhor forma de investir em bens de alto valor. Você não sai com o bem na hora, mas tem a possibilidade de [autofinanciar o seu sonho](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo), com o valor de parcelas que melhor cabe em seus rendimentos mensais.
 
 Na verdade, com o consórcio é [você que determina o valor que irá pagar pelo bem](https://www.embracon.com.br/blog/5-dicas-para-pagar-seu-consorcio-sem-preocupacao), a quantidade de parcelas e até mesmo como se organizar. Com a contribuição das mensalidades,[ você entra em um grupo](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-um-grupo-de-consorcio), com outras pessoas que possuem interesse semelhante.
 
@@ -159,4 +159,3 @@ Embora pareça complicado, [investir em um bem por meio do consórcio](https://w
 Que tal começar o quanto antes a investir em seus sonhos? [Faça uma simulação do seu consórcio](https://www.embracon.com.br/) e aproveite as vantagens de uma modalidade que tem tudo para facilitar a sua vida.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

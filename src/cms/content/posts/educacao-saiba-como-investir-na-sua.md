@@ -1,14 +1,14 @@
 ---
-        titulo: Educação: saiba como investir na sua
-        slug: educacao-saiba-como-investir-na-sua
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/educacao-saiba-como-investir-na-sua.png
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Há alguns anos, [fazer faculdade](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon) era privilégio para poucos. O [preço](https://www.embracon.com.br/blog/preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso) era inacessível e não existiam formas alternativas de investimento que permitissem o ingresso no curso superior.
+titulo: Educação: saiba como investir na sua
+slug: educacao-saiba-como-investir-na-sua
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/educacao-saiba-como-investir-na-sua.png
+meta_summary: 
+date: 29/09/2021
+---
+Há alguns anos, [fazer faculdade](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon) era privilégio para poucos. O [preço](https://www.embracon.com.br/blog/preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso) era inacessível e não existiam formas alternativas de investimento que permitissem o ingresso no curso superior.
 
 Felizmente, o cenário mudou nos últimos 15 anos. Com a facilidade de crédito e a maior oferta de [universidades particulares](https://www.embracon.com.br/blog/conheca-4-formas-de-pagar-a-faculdade) com preços mais acessíveis, muitos puderam realizar o sonho de se graduar e entrar no mercado de trabalho mais preparados.
 
@@ -52,4 +52,3 @@ Após ser contemplado (via sorteio ou lance), basta indicar a universidade que d
 ‍
 
 ‍
-        

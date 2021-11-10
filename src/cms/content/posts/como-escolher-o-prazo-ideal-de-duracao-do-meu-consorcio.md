@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher o prazo ideal de duração do meu consórcio?
-        slug: como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Escolha é um termo que tem tudo a ver com consórcio. A partir do momento que você [decide o valor em que deseja pagar pelo bem e a quantidade de parcelas](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-em-andamento), conta com um sistema justo.
+titulo: Como escolher o prazo ideal de duração do meu consórcio?
+slug: como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-o-prazo-ideal-de-duracao-do-meu-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Escolha é um termo que tem tudo a ver com consórcio. A partir do momento que você [decide o valor em que deseja pagar pelo bem e a quantidade de parcelas](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-em-andamento), conta com um sistema justo.
 
 Você paga um valor justo pelo valor a prazo do bem. E, de forma justa, [participa das assembleias](https://www.embracon.com.br/blog/assembleia-de-consorcio-como-funciona), onde acontecem os sorteios. Até mesmo quando se fala no lance, que é um valor a mais que você pode ofertar para ter acesso ao bem de forma antecipada, o consórcio se apresenta como uma modalidade justa: afinal, [o maior valor de lance é contemplado mensalmente](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio).
 
@@ -61,4 +61,3 @@ Ao seguir essas dicas básicas, você consegue se organizar melhor e escolher o 
 Que tal colocar agora o conhecimento em prática? [Faça uma simulação de consórcio](https://www.embracon.com.br/) e aproveite desde já os benefícios de uma categoria que realiza o sonho de milhares de brasileiros todos os anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

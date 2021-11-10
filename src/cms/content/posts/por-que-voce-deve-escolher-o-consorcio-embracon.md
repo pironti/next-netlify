@@ -1,14 +1,14 @@
 ---
-        titulo: Por que você deve escolher o Consórcio Embracon?
-        slug: por-que-voce-deve-escolher-o-consorcio-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-voce-deve-escolher-o-consorcio-embracon.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Desde 1988 no mercado, a [Embracon](https://www.embracon.com.br/a-embracon) se tornou uma das maiores [administradoras de consórcios](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-uma-administradora-de-consorcio) do país. E esse já é um bom motivo para você escolher o [consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio) como modalidade de crédito.
+titulo: Por que você deve escolher o Consórcio Embracon?
+slug: por-que-voce-deve-escolher-o-consorcio-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-voce-deve-escolher-o-consorcio-embracon.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Desde 1988 no mercado, a [Embracon](https://www.embracon.com.br/a-embracon) se tornou uma das maiores [administradoras de consórcios](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-uma-administradora-de-consorcio) do país. E esse já é um bom motivo para você escolher o [consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio) como modalidade de crédito.
 
 **‍**A empresa vem se destacando ao longo da sua trajetória pela diferenciação dos seus [produtos](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto) e pela excelência no relacionamento com os clientes.
 
@@ -148,4 +148,3 @@ Se quiser saber mais e conhecer as opções do Consórcio Embracon, [entre em co
 ‍
 
 ‍
-        

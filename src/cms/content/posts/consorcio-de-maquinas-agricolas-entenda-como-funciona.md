@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de máquinas agrícolas: entenda como funciona
-        slug: consorcio-de-maquinas-agricolas-entenda-como-funciona
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-maquinas-agricolas-entenda-como-funciona.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        A tecnologia na agricultura elevou o agronegócio a um patamar de produtividade que nunca foi imaginado. Por conta disso, muitos agricultores têm investido em equipamentos que possam agregar ainda mais na sua produção. Contudo, o maior obstáculo, continua sendo o custo desses maquinários. Uma das principais táticas para contornar esse fator limitante é o consórcio de [máquinas agrícolas](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon).
+titulo: Consórcio de máquinas agrícolas: entenda como funciona
+slug: consorcio-de-maquinas-agricolas-entenda-como-funciona
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-maquinas-agricolas-entenda-como-funciona.jpg
+meta_summary: 
+date: 27/09/2021
+---
+A tecnologia na agricultura elevou o agronegócio a um patamar de produtividade que nunca foi imaginado. Por conta disso, muitos agricultores têm investido em equipamentos que possam agregar ainda mais na sua produção. Contudo, o maior obstáculo, continua sendo o custo desses maquinários. Uma das principais táticas para contornar esse fator limitante é o consórcio de [máquinas agrícolas](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon).
 
 O consórcio oferece melhores condições e menor impacto no fluxo de caixa do negócio, além de possibilitar que o produtor planeje a sua aquisição a fim de comprar o seu maquinário à vista, o que lhe traz muitas vantagens.
 
@@ -194,4 +194,3 @@ A Embracon, por exemplo, é uma empresa baseada no compromisso com os clientes, 
 > [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_de_maquinas_agricolas&utm_campaign=publicacoes_blog) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_de_maquinas_agricolas&utm_campaign=publicacoes_blog)</figure>
-        

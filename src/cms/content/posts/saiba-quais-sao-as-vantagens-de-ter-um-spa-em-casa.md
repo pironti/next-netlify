@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba quais são as vantagens de ter um spa em casa
-        slug: saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Uma das coisas mais comuns no nosso cotidiano é chegar em [casa ](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar)cansado após aquele longo dia de trabalho. Porém, já imaginou como seria ter um spa em casa para relaxar nesses momentos?
+titulo: Saiba quais são as vantagens de ter um spa em casa
+slug: saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Uma das coisas mais comuns no nosso cotidiano é chegar em [casa ](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar)cansado após aquele longo dia de trabalho. Porém, já imaginou como seria ter um spa em casa para relaxar nesses momentos?
 
 E se engana se acha que ter um spa particular é algo que beira o impossível. Atualmente, ter um spa em casa é muito mais fácil e barato do que pagar por um sempre que precisar. Saiba mais sobre o assunto logo abaixo.
 
@@ -54,4 +54,3 @@ Contudo, existem facilitações que farão com que o pagamento da obra aconteça
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Faça uma simulação de [Consórcio de Serviços](https://www.embracon.com.br/consorcio-servicos)!
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

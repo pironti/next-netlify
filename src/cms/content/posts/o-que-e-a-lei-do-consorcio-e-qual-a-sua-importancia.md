@@ -1,14 +1,14 @@
 ---
-        titulo: O que é a Lei do Consórcio e qual a sua importância?
-        slug: o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Uma das coisas mais importantes em relação ao consórcio é a confiança. Para isso, é preciso que as pessoas entendam claramente que o [consórcio se trata de um bem muito bem regulado](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-em-andamento), que precisa cumprir com obrigações frente aos órgãos competentes e garantir que todos tenham acesso aos bens em que estão investindo.
+titulo: O que é a Lei do Consórcio e qual a sua importância?
+slug: o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Uma das coisas mais importantes em relação ao consórcio é a confiança. Para isso, é preciso que as pessoas entendam claramente que o [consórcio se trata de um bem muito bem regulado](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-em-andamento), que precisa cumprir com obrigações frente aos órgãos competentes e garantir que todos tenham acesso aos bens em que estão investindo.
 
 Tudo isso é possível porque o Brasil amadureceu muito bem em relação à forma com que lida com o setor de consórcio.
 
@@ -78,4 +78,3 @@ As regras e a regulamentação do consórcio são necessárias para consolidar a
 > Gostou e quer saber mais?[ Faça uma simulação](https://www.embracon.com.br/consorcio) e comece a pensar no seu consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

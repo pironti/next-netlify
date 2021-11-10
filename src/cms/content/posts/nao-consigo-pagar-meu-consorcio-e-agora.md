@@ -1,14 +1,14 @@
 ---
-        titulo: Não consigo pagar meu consórcio, e agora?
-        slug: nao-consigo-pagar-meu-consorcio-e-agora
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/nao-consigo-pagar-meu-consorcio-e-agora.jpeg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O sistema de [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é, muitas vezes, a opção de pessoas que não podem arcar com os juros de um financiamento. Contudo, essa [modalidade de crédito](https://www.embracon.com.br/blog/tipos-de-consorcio) ainda gera dúvidas e receios, principalmente acerca dos limites, possibilidades e possíveis contratempos e erros. Especialmente sobre o que acontece no caso de não conseguir [**pagar meu consórcio**](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) e as parcelas mensais como esperado.
+titulo: Não consigo pagar meu consórcio, e agora?
+slug: nao-consigo-pagar-meu-consorcio-e-agora
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/nao-consigo-pagar-meu-consorcio-e-agora.jpeg
+meta_summary: 
+date: 19/10/2021
+---
+O sistema de [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é, muitas vezes, a opção de pessoas que não podem arcar com os juros de um financiamento. Contudo, essa [modalidade de crédito](https://www.embracon.com.br/blog/tipos-de-consorcio) ainda gera dúvidas e receios, principalmente acerca dos limites, possibilidades e possíveis contratempos e erros. Especialmente sobre o que acontece no caso de não conseguir [**pagar meu consórcio**](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) e as parcelas mensais como esperado.
 
 Hoje, vamos abordar os tópicos fundamentais para evitar problemas ao realizar esse tipo de investimento. A seguir, vamos falar sobre a importância de ter um [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Em seguida, explicar os possíveis problemas que você pode enfrentar se não conseguir pagar o [consórcio](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira). E como isso pode ser solucionado, em diferentes situações. Confira!
 
@@ -89,4 +89,3 @@ De todo modo, lembre-se que a administradora é a maior interessada em soluçõe
 Gostou do nosso post de hoje sobre o que fazer quando você não consegue pagar o consórcio? Então, mantenha-se informado e não deixe de conferir este outro post sobre como evitar fraudes em consórcios e não cair em golpes!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

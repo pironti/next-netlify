@@ -1,14 +1,14 @@
 ---
-        titulo: 6 dicas para sua próxima viagem a Berlim com os amigos
-        slug: 6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Viajar para Berlim com os amigos é o sonho de muitos brasileiros. E não é para menos: a cidade é uma verdadeira página de história da humanidade, com diferentes momentos de guerras e reconstruções.
+titulo: 6 dicas para sua próxima viagem a Berlim com os amigos
+slug: 6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Viajar para Berlim com os amigos é o sonho de muitos brasileiros. E não é para menos: a cidade é uma verdadeira página de história da humanidade, com diferentes momentos de guerras e reconstruções.
 
 Se você está pensando em colocar em ação aquele antigo plano de viagem internacional, inclua a cidade alemã no seu roteiro, pois não vai se arrepender.
 
@@ -74,4 +74,3 @@ Gostou do artigo? Não deixe de assinar a nossa newsletter para não perder nenh
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

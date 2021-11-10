@@ -1,14 +1,14 @@
 ---
-        titulo: Qual é a melhor data para casar e como escolher?
-        slug: qual-e-a-melhor-data-para-casar-e-como-escolher
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-e-a-melhor-data-para-casar-e-como-escolher.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Se você não vê a hora de comemorar o casamento com amigos e parentes, um ponto a ser considerado para uma festa inesquecível é a **data para casar**. Afinal, ela pode ser determinante para a presença de pessoas queridas nesse e ter um impacto significativo no [planejamento](https://www.embracon.com.br/blog/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos) financeiro.
+titulo: Qual é a melhor data para casar e como escolher?
+slug: qual-e-a-melhor-data-para-casar-e-como-escolher
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-e-a-melhor-data-para-casar-e-como-escolher.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Se você não vê a hora de comemorar o casamento com amigos e parentes, um ponto a ser considerado para uma festa inesquecível é a **data para casar**. Afinal, ela pode ser determinante para a presença de pessoas queridas nesse e ter um impacto significativo no [planejamento](https://www.embracon.com.br/blog/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos) financeiro.
 
 E, além da celebração, você deve estar com muita vontade de curtir a lua de mel em um lugar maravilhoso. Lembre-se que visitar locais em épocas diferentes proporciona experiências diferentes.Destacaremos neste post fatores relevantes para você escolher o dia ideal para dizer o "sim". Confira!
 
@@ -65,4 +65,3 @@ Escolher uma data para casar não é simples. Mas com organização, bom senso e
 Se você gostou deste post, compartilhe-o nas redes sociais agora mesmo. Afinal, todos merecem ter uma cerimônia e uma festa de casamento perfeitos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

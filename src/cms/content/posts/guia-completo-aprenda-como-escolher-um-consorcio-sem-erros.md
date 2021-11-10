@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo: aprenda como escolher um consórcio sem erros
-        slug: guia-completo-aprenda-como-escolher-um-consorcio-sem-erros
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Para conseguir realizar um grande sonho, é preciso que as pessoas tenham um planejamento financeiro que as permitam ter as condições necessárias para alcançar esse objetivo. Contudo, em muitos casos, será necessário buscar no mercado algum crédito para agilizar o processo. Dentro desse contexto, o autofinanciamento surge como uma das opções mais viáveis e econômicas.
+titulo: Guia completo: aprenda como escolher um consórcio sem erros
+slug: guia-completo-aprenda-como-escolher-um-consorcio-sem-erros
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Para conseguir realizar um grande sonho, é preciso que as pessoas tenham um planejamento financeiro que as permitam ter as condições necessárias para alcançar esse objetivo. Contudo, em muitos casos, será necessário buscar no mercado algum crédito para agilizar o processo. Dentro desse contexto, o autofinanciamento surge como uma das opções mais viáveis e econômicas.
 
 Contudo, antes de fechar negócio, é fundamental ter alguns cuidados antes de [escolher um consórcio](https://www.embracon.com.br/blog/por-que-voce-deve-escolher-o-consorcio-embracon). Como nem todos os grupos são iguais, é essencial que o cotista fique atento a alguns detalhes antes de fazer a sua [adesão](https://www.embracon.com.br/blog/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio).
 
@@ -184,4 +184,3 @@ Outro ponto a ser considerado é a credibilidade da operadora. Verifique o tempo
 De qualquer forma, saber como escolher um consórcio é algo muito importante para quem deseja usar essa modalidade de crédito. Afinal, para não cometer erros, é essencial analisar vários detalhes, desde a credibilidade da administradora, até se o seu planejamento financeiro permite a realização desse investimento.
 
 Caso você tenha se interessado em autofinanciar a realização de seu sonho, [entre em contato conosco](https://www.embracon.com.br/fale-conosco). Com certeza teremos um plano que atenderá todas as suas necessidades. Até mais!
-        

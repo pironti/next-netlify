@@ -1,14 +1,14 @@
 ---
-        titulo: Compre seu apartamento com o consórcio de imóveis
-        slug: compre-seu-apartamento-com-o-consorcio-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/compre-seu-apartamento-com-o-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Todo processo de [compra de um imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) exige um planejamento a longo prazo. Da mesma forma que é necessário ficar meses ou até anos pensando em [como construir a sua casa após a compra de um terreno](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo), a compra de um apartamento envolve uma série de decisões que têm a ver com gosto pessoal, localização, etapas de construção e, claro, tamanho do imóvel que deseja comprar.
+titulo: Compre seu apartamento com o consórcio de imóveis
+slug: compre-seu-apartamento-com-o-consorcio-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/compre-seu-apartamento-com-o-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Todo processo de [compra de um imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) exige um planejamento a longo prazo. Da mesma forma que é necessário ficar meses ou até anos pensando em [como construir a sua casa após a compra de um terreno](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo), a compra de um apartamento envolve uma série de decisões que têm a ver com gosto pessoal, localização, etapas de construção e, claro, tamanho do imóvel que deseja comprar.
 
 A [compra de um apartamento](https://www.embracon.com.br/blog/como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio) geralmente é tão longa quanto a compra de uma casa construída do zero. Felizmente, você pode contar com o consórcio para a realização do sonho de ter o apê que você sempre quis.
 
@@ -53,4 +53,3 @@ A vantagem é que a carta de crédito tem [poder de compra à vista](https://www
 Portanto, não perca tempo. Planeje desde já a compra do seu próximo apartamento com o consórcio de imóveis. [Faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis) e confira as vantagens de uma modalidade que realiza sonhos de brasileiros há mais de 50 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

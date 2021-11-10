@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça Lisboa: a nova queridinha dos brasileiros
-        slug: conheca-lisboa-a-nova-queridinha-dos-brasileiros
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-lisboa-a-nova-queridinha-dos-brasileiros.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Conhecida como a cidade das sete colinas, Lisboa, a capital de [Portugal](https://www.embracon.com.br/blog/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes), é famosa por estar perto de uma linda costa de praias e paisagens naturais. Apesar da [alta do euro](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida), a capital portuguesa tem sido uma das escolhas favoritas dos brasileiros como destino de viagens, isso porque além da facilidade da língua, a cidade é muito acolhedora, e cheia de vida.
+titulo: Conheça Lisboa: a nova queridinha dos brasileiros
+slug: conheca-lisboa-a-nova-queridinha-dos-brasileiros
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-lisboa-a-nova-queridinha-dos-brasileiros.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Conhecida como a cidade das sete colinas, Lisboa, a capital de [Portugal](https://www.embracon.com.br/blog/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes), é famosa por estar perto de uma linda costa de praias e paisagens naturais. Apesar da [alta do euro](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida), a capital portuguesa tem sido uma das escolhas favoritas dos brasileiros como destino de viagens, isso porque além da facilidade da língua, a cidade é muito acolhedora, e cheia de vida.
 
 [Lisboa ](https://www.embracon.com.br/blog/4-dicas-imperdiveis-para-quem-vai-viajar-para-lisboa)é considerada uma cidade referência da cultura ocidental. A cidade sofreu influências dos movimentos artísticos datados do período de Júlio César quando integrou o município romano. A presença da cultura árabe também pode ser percebida no histórico cultural e arquitetônico da capital portuguesa.
 
@@ -51,4 +51,3 @@ E você? Já se apaixonou por Lisboa e seus encantos? Agora é só fazer as mala
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) com a gente e descubra todas as opções de planos que temos para realizar as viagens dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

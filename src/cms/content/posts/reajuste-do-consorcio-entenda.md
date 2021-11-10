@@ -1,14 +1,14 @@
 ---
-        titulo: Reajuste do consórcio: entenda o que é e como lidar com ele
-        slug: reajuste-do-consorcio-entenda
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/reajuste-do-consorcio-entenda.jpeg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        As [cartas de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito) são uma boa opção para quem deseja adquirir um bem ou serviço sem pagar a mais pela incidência de[ juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). No entanto, a modalidade também sofre variações em seus valores: o [**reajuste do consórcio**](https://www.embracon.com.br/conhecaoconsorcio/como-e-feito-o-calculo-do-reajuste) é uma realidade que deve ser considerada.
+titulo: Reajuste do consórcio: entenda o que é e como lidar com ele
+slug: reajuste-do-consorcio-entenda
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/reajuste-do-consorcio-entenda.jpeg
+meta_summary: 
+date: 27/09/2021
+---
+As [cartas de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito) são uma boa opção para quem deseja adquirir um bem ou serviço sem pagar a mais pela incidência de[ juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). No entanto, a modalidade também sofre variações em seus valores: o [**reajuste do consórcio**](https://www.embracon.com.br/conhecaoconsorcio/como-e-feito-o-calculo-do-reajuste) é uma realidade que deve ser considerada.
 
 Para que você assine um contrato adequado ao seu bolso e às suas expectativas, preparamos este artigo para elucidar algumas questões sobre a correção da carta de crédito. Continue a leitura e saiba mais!
 
@@ -67,4 +67,3 @@ Entre em contato conosco e descubra [as vantagens](https://www.embracon.com.br/c
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

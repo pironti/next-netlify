@@ -1,14 +1,14 @@
 ---
-        titulo: O que você precisa saber sobre o consórcio de veículos Embracon
-        slug: sobre-o-consorcio-de-veiculos-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/sobre-o-consorcio-de-veiculos-embracon.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Os brasileiros estão entre as pessoas que mais gostam de trocar de carro em todo o mundo. Mesmo com a crise financeira que se instaurou no país, muitos não deixaram de investir em um veículo novo. No entanto, alguns fatores têm tornado essa compra um pouco mais complicada, como os altos juros cobrados nos financiamentos tradicionais. É por isso que você precisa saber mais sobre o consórcio de veículos Embracon.
+titulo: O que você precisa saber sobre o consórcio de veículos Embracon
+slug: sobre-o-consorcio-de-veiculos-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/sobre-o-consorcio-de-veiculos-embracon.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Os brasileiros estão entre as pessoas que mais gostam de trocar de carro em todo o mundo. Mesmo com a crise financeira que se instaurou no país, muitos não deixaram de investir em um veículo novo. No entanto, alguns fatores têm tornado essa compra um pouco mais complicada, como os altos juros cobrados nos financiamentos tradicionais. É por isso que você precisa saber mais sobre o consórcio de veículos Embracon.
 
 Se você quer adquirir um novo veículo, saiba que essa modalidade de compra é indiscutivelmente mais vantajosa. Principalmente se você não estiver com pressa.
 
@@ -121,4 +121,3 @@ Ficou interessado e quer saber mais sobre o consórcio de veículos Embracon? En
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como reformar a casa sem sair do planejamento financeiro
-        slug: como-reformar-a-casa-sem-sair-do-planejamento-financeiro
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-reformar-a-casa-sem-sair-do-planejamento-financeiro.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Chega uma hora que bate aquela vontade de renovar o ambiente e [reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui), não é mesmo? Infelizmente, ainda tem muitas pessoas pensando que não conseguirá juntar dinheiro para dar uma cara nova ao ambiente, e acaba desistindo da ideia. Contudo, não é tão difícil quanto parece.
+titulo: Como reformar a casa sem sair do planejamento financeiro
+slug: como-reformar-a-casa-sem-sair-do-planejamento-financeiro
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-reformar-a-casa-sem-sair-do-planejamento-financeiro.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Chega uma hora que bate aquela vontade de renovar o ambiente e [reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui), não é mesmo? Infelizmente, ainda tem muitas pessoas pensando que não conseguirá juntar dinheiro para dar uma cara nova ao ambiente, e acaba desistindo da ideia. Contudo, não é tão difícil quanto parece.
 
 Através de uma boa organização financeira, as escolhas certas podem ajudá-lo a economizar e transformar essa ideia em realidade.
 
@@ -222,4 +222,3 @@ Nessa modalidade, o consorciado contrata um profissional que emite uma nota de s
 > Ficou interessado e quer fazer um consórcio para reformar a sua residência? [Faça uma simulação!](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=reformar_casa_sem_sair_do_planejamento_financeiro&utm_campaign=publicacoes_blog)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=reformar_casa_sem_sair_do_planejamento_financeiro&utm_campaign=publicacoes_blog)</figure>
-        

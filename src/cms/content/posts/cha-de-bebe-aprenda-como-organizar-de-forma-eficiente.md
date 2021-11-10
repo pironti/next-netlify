@@ -1,14 +1,14 @@
 ---
-        titulo: Chá de bebê: aprenda como organizar de forma eficiente
-        slug: cha-de-bebe-aprenda-como-organizar-de-forma-eficiente
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cha-de-bebe-aprenda-como-organizar-de-forma-eficiente.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Ver os próprios filhos crescendo e vencendo as etapas da vida é algo muito gostoso para os pais, mas é inegável que a tenra infância é uma das fases mais gostosas e que mais merecem ser celebradas com a família. Diante dessa realidade, aprender como organizar de forma eficiente um chá de bebê pode ser muito interessante.
+titulo: Chá de bebê: aprenda como organizar de forma eficiente
+slug: cha-de-bebe-aprenda-como-organizar-de-forma-eficiente
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cha-de-bebe-aprenda-como-organizar-de-forma-eficiente.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Ver os próprios filhos crescendo e vencendo as etapas da vida é algo muito gostoso para os pais, mas é inegável que a tenra infância é uma das fases mais gostosas e que mais merecem ser celebradas com a família. Diante dessa realidade, aprender como organizar de forma eficiente um chá de bebê pode ser muito interessante.
 
 Essa é uma comemoração marcante, na qual a [futura mãe](https://www.embracon.com.br/blog/bebe-chegando-prepare-o-orcamento-familiar) pode receber não apenas alguns [presentes e lembrancinhas para o neném](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca), mas também o carinho e o aconchego das pessoas amadas. Quer descobrir como preparar esse tipo de evento? Então não deixe de conferir o conteúdo a seguir.
 
@@ -43,4 +43,3 @@ Seguindo essas dicas, você organizará um chá de bebê inesquecível!Gostou de
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

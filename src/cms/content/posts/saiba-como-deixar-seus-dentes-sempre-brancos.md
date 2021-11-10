@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como deixar seus dentes sempre brancos
-        slug: saiba-como-deixar-seus-dentes-sempre-brancos
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-deixar-seus-dentes-sempre-brancos.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Ter uma rotina de visitas ao dentista e fazer uso de tratamentos estéticos odontológicos são excelentes opções para as pessoas que querem ter e manter os [dentes brancos](https://www.embracon.com.br/blog/como-funciona-o-clareamento-dos-dentes). Entretanto, todos os esforços poderão ser perdidos e, até mesmo, anulados se, no dia a dia, não forem colocados em prática alguns hábitos positivos para manter a saúde bucal.
+titulo: Saiba como deixar seus dentes sempre brancos
+slug: saiba-como-deixar-seus-dentes-sempre-brancos
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-deixar-seus-dentes-sempre-brancos.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Ter uma rotina de visitas ao dentista e fazer uso de tratamentos estéticos odontológicos são excelentes opções para as pessoas que querem ter e manter os [dentes brancos](https://www.embracon.com.br/blog/como-funciona-o-clareamento-dos-dentes). Entretanto, todos os esforços poderão ser perdidos e, até mesmo, anulados se, no dia a dia, não forem colocados em prática alguns hábitos positivos para manter a saúde bucal.
 
 Além disso, temos que considerar que a cor e a [tonalidade dos dentes](https://www.embracon.com.br/blog/dentes-manchados-conheca-as-principais-causas-e-como-tratar), mais escura ou mais clara, é diferente.Varia de pessoa para pessoa e sofre influências diversas, inclusive de fatores genéticos.
 
@@ -60,4 +60,3 @@ Atualmente, podemos contar com uma série de opções para manter os dentes bran
 - [clareamento](https://www.embracon.com.br/blog/como-funciona-o-clareamento-dos-dentes) caseiro: para o clareamento dental caseiro há uma série de alternativas em produtos que são vendidos em farmácias. Dentre as opções temos as moldeiras adaptáveis e as fitas de clareamento, ambos tratamentos muito acessíveis.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

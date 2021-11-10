@@ -1,14 +1,14 @@
 ---
-        titulo: Principais gastos na hora da compra da casa
-        slug: principais-gastos-na-hora-da-compra-da-casa
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/principais-gastos-na-hora-da-compra-da-casa.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Por muitas décadas tem prevalecido para o brasileiro o [sonho de ter a casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria). Claro que, para isso, é preciso muita luta: juntar dinheiro para a compra de um imóvel é um processo de longuíssimo prazo, e envolve um [planejamento muito bem detalhado](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel).
+titulo: Principais gastos na hora da compra da casa
+slug: principais-gastos-na-hora-da-compra-da-casa
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/principais-gastos-na-hora-da-compra-da-casa.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Por muitas décadas tem prevalecido para o brasileiro o [sonho de ter a casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria). Claro que, para isso, é preciso muita luta: juntar dinheiro para a compra de um imóvel é um processo de longuíssimo prazo, e envolve um [planejamento muito bem detalhado](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel).
 
 Mesmo em tempos de [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), esse sonho parece ter se fortalecido. Os motivos são nobres: com o isolamento social, queremos cada vez mais estar em um lar aconchegante, que nos permita [trabalhar em home office](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado), desfrutar dos pequenos prazeres e, claro, conseguir curtir todos os cantos da casa da melhor forma possível.
 
@@ -301,4 +301,3 @@ Sem a necessidade de entrada e, mais importante, [sem ter que pagar juros](https
 > [Faça uma simulação agora de consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e aproveite a flexibilidade e os benefícios de uma modalidade que realiza o sonho de milhões de brasileiros a cada ano.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

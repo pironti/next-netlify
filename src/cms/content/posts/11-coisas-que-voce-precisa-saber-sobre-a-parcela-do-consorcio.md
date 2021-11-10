@@ -1,14 +1,14 @@
 ---
-        titulo: 11 coisas que você precisa saber sobre a parcela do consórcio
-        slug: 11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        É muito comum que ao se falar sobre [consórcios](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), seja de [veículos](https://www.embracon.com.br/consorcio-de-carros) ou[ imóveis](https://www.embracon.com.br/blog/10-mitos-sobre-consorcio-de-imoveis), uma série de dúvidas surjam. Alguns pontos são simples, mas há outros um pouco complicados e, entre esses últimos, a parcela do[ consórcio](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio) seja um dos assuntos mais recorrentes.
+titulo: 11 coisas que você precisa saber sobre a parcela do consórcio
+slug: 11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio.jpg
+meta_summary: 
+date: 06/10/2021
+---
+É muito comum que ao se falar sobre [consórcios](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), seja de [veículos](https://www.embracon.com.br/consorcio-de-carros) ou[ imóveis](https://www.embracon.com.br/blog/10-mitos-sobre-consorcio-de-imoveis), uma série de dúvidas surjam. Alguns pontos são simples, mas há outros um pouco complicados e, entre esses últimos, a parcela do[ consórcio](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio) seja um dos assuntos mais recorrentes.
 
 Quer saber como funciona e quais os principais pontos que devem ser observados em relação à parcela do consórcio? Então, continue a leitura e fique por dentro!
 
@@ -135,4 +135,3 @@ Uma empresa que preza pela transparência está sempre disponível para ajudar o
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

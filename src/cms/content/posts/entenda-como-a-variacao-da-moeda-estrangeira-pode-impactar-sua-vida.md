@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como a variação da moeda estrangeira pode impactar sua vida
-        slug: entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Todos os dias o noticiário traz um acompanhamento da variação das moedas estrangeiras. No rádio, jornal e na TV, somos informados sobre a cotação do dólar e o valor do euro. Quem costuma acompanhar esses índices mais de perto também verifica o valor da libra esterlina, do yuan, enfim, a moeda de países com quem temos relações comerciais estreitas.
+titulo: Entenda como a variação da moeda estrangeira pode impactar sua vida
+slug: entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Todos os dias o noticiário traz um acompanhamento da variação das moedas estrangeiras. No rádio, jornal e na TV, somos informados sobre a cotação do dólar e o valor do euro. Quem costuma acompanhar esses índices mais de perto também verifica o valor da libra esterlina, do yuan, enfim, a moeda de países com quem temos relações comerciais estreitas.
 
 É importante saber o andamento da moeda estrangeira para diversos fatores. O principal deles é o dólar, já que a [economia brasileira](https://www.embracon.com.br/blog/o-que-muda-na-economia-com-o-novo-governo), por exemplo, opera atrelada ao valor da moeda norte-americana.
 
@@ -197,4 +197,3 @@ Com o [consórcio de serviços](https://www.embracon.com.br/blog/consorcio-de-se
 > [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e confira as vantagens de se preparar para a reabertura da economia e aproveitar da melhor forma: viajando!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

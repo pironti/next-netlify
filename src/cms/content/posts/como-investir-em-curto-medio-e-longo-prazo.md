@@ -1,14 +1,14 @@
 ---
-        titulo: Como investir em curto, médio e longo prazo
-        slug: como-investir-em-curto-medio-e-longo-prazo
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-investir-em-curto-medio-e-longo-prazo.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Pode parecer simples, mas investir depende muito de perfil pessoal. Mesmo assim, é possível dizer como **investir em** curto, médio e longo prazo. É importante lembrar que não é preciso abdicar de alguns prazeres da vida para que você consiga organizar suas despesas de forma efetiva.Portanto, vamos apresentar algumas dicas para você investir em segurança e, assim, conquistar bens mais duradouros.
+titulo: Como investir em curto, médio e longo prazo
+slug: como-investir-em-curto-medio-e-longo-prazo
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-investir-em-curto-medio-e-longo-prazo.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Pode parecer simples, mas investir depende muito de perfil pessoal. Mesmo assim, é possível dizer como **investir em** curto, médio e longo prazo. É importante lembrar que não é preciso abdicar de alguns prazeres da vida para que você consiga organizar suas despesas de forma efetiva.Portanto, vamos apresentar algumas dicas para você investir em segurança e, assim, conquistar bens mais duradouros.
 
 ### Estabeleça seus objetivos
 
@@ -35,4 +35,3 @@ Todos os projetos que levam mais de 5 anos para serem conquistados são consider
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Planejamento financeiro: guia para finanças não saírem de controle
-        slug: planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        É fundamental fazer um [planejamento financeiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) para deixar as [finanças organizadas](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal) e conseguir atingir os objetivos propostos.
+titulo: Planejamento financeiro: guia para finanças não saírem de controle
+slug: planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle.jpg
+meta_summary: 
+date: 28/09/2021
+---
+É fundamental fazer um [planejamento financeiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) para deixar as [finanças organizadas](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal) e conseguir atingir os objetivos propostos.
 
 Ter controle sobre o orçamento tem sido um grande desafio para os brasileiros, visto que, segundo pesquisa da Agência Brasil, o endividamento das famílias cresceu para 58% — o maior patamar dos últimos 7 anos.
 
@@ -261,4 +261,3 @@ Acompanhe sempre os seus gastos e analise seus objetivos. Poupando, você vai co
 E aí, o que achou deste post? Gostou? Então assine agora mesmo a nossa newsletter e receba todas as nossas atualizações em sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=planejamento_financeiro_um_guia_para_as_financas&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

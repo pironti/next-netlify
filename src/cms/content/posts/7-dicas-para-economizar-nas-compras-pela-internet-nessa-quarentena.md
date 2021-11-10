@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas para economizar nas compras pela internet nessa quarentena
-        slug: 7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Por conta da pandemia, um volume gigante de novas pessoas passaram a considerar a [compra pela internet](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Só no ano passado, mais de 13 milhões de brasileiros realizaram sua primeira compra online - um número que representa cerca de 6% da população como um todo.
+titulo: 7 dicas para economizar nas compras pela internet nessa quarentena
+slug: 7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Por conta da pandemia, um volume gigante de novas pessoas passaram a considerar a [compra pela internet](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Só no ano passado, mais de 13 milhões de brasileiros realizaram sua primeira compra online - um número que representa cerca de 6% da população como um todo.
 
 Uma [pesquisa feita pela Mastercard Brasil](https://www1.folha.uol.com.br/mercado/2021/05/novos-empresarios-abrem-negocios-direto-no-online.shtml?utm_source=newsletter&utm_medium=email&utm_campaign=newsmercado) identificou que esse movimento pode ser permanente para pelo menos 20% dessas pessoas - tanto que, no varejo físico, houve uma queda de 4,4% no primeiro trimestre de 2021, comparado ao mesmo período do ano passado.
 
@@ -80,4 +80,3 @@ Se o site [der a possibilidade de parcelar](https://www.embracon.com.br/blog/pag
 Com paciência para pesquisa, análise de ofertas e atenção às oportunidades, você pode economizar bastante comprando pela internet, mantendo-se no conforto de sua casa e, principalmente, contribuindo para o isolamento social - a única forma de [conter o vírus da Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

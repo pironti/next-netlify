@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para realização de festas: saiba como funciona
-        slug: consorcio-para-realizacao-de-festas-saiba-como-funciona
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-para-realizacao-de-festas-saiba-como-funciona.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quando se fala em consórcio, muitos termos devem vir à mente de quem não conhece muito a categoria: [formas de comprar um carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro), investimento em uma casa, modelo de negócio para um bem de alto valor…
+titulo: Consórcio para realização de festas: saiba como funciona
+slug: consorcio-para-realizacao-de-festas-saiba-como-funciona
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-para-realizacao-de-festas-saiba-como-funciona.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quando se fala em consórcio, muitos termos devem vir à mente de quem não conhece muito a categoria: [formas de comprar um carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro), investimento em uma casa, modelo de negócio para um bem de alto valor…
 
 Isso porque, em [mais de 50 anos de história](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio), o consórcio ficou associado a um bem material como finalidade. E isso envolve muitos anos de investimento, de organização e até mesmo de ansiedade por parte de alguns integrantes. Afinal, quem não quer ser [contemplado o quanto antes](https://www.embracon.com.br/blog/saiba-como-definir-o-valor-de-lance-para-ser-contemplado-mais-rapido) com a sua carta de crédito para conseguir o bem que realmente deseja?
 
@@ -168,4 +168,3 @@ E aí, está esperando o quê para [organizar a próxima festa ou evento com o c
 [Faça agora uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e aproveite as vantagens de uma modalidade que ajuda milhões de pessoas a realizarem seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

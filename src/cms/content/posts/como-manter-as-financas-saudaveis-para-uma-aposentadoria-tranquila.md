@@ -1,14 +1,14 @@
 ---
-        titulo: Como manter as finanças saudáveis para uma aposentadoria tranquila
-        slug: como-manter-as-financas-saudaveis-para-uma-aposentadoria-tranquila
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-manter-as-financas-saudaveis-para-uma-aposentadoria-tranquila.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Cada dia fica mais claro a importância de pensarmos no futuro. 2020 inclusive fez com que muitos de nossos medos se tornassem realidade. Só esse ano até outubro, um triste recorde foi batido e atingimos mais de 13 milhões de pessoas sem emprego no Brasil.
+titulo: Como manter as finanças saudáveis para uma aposentadoria tranquila
+slug: como-manter-as-financas-saudaveis-para-uma-aposentadoria-tranquila
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-manter-as-financas-saudaveis-para-uma-aposentadoria-tranquila.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Cada dia fica mais claro a importância de pensarmos no futuro. 2020 inclusive fez com que muitos de nossos medos se tornassem realidade. Só esse ano até outubro, um triste recorde foi batido e atingimos mais de 13 milhões de pessoas sem emprego no Brasil.
 
 Com tantas incertezas por todos os lados, fica evidente a importância de [poupar ](https://www.embracon.com.br/blog/poupar-dinheiro-com-o-consorcio-e-possivel-sim)para ter um futuro melhor, e avaliar assim as suas escolhas a longo prazo. Segundo o Relatório Global do Sistema Previdenciário 2020, da seguradora Allianz, que avaliou a estrutura previdenciária de 70 países, cerca de 90% das pessoas com mais de 25 anos não poupam dinheiro pensando na aposentadoria.
 
@@ -61,4 +61,3 @@ Uma ótima dica é também usar um consórcio, você pode começar a poupar e a 
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra qual seria o melhor produto para você.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

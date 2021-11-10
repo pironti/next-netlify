@@ -1,14 +1,14 @@
 ---
-        titulo: Guia financeiro completo: hábitos de consumo consciente e planejamento financeiro
-        slug: guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        É essencial ter um [planejamento financeiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) para deixar as [finanças organizadas](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal) e conseguir atingir os objetivos propostos.
+titulo: Guia financeiro completo: hábitos de consumo consciente e planejamento financeiro
+slug: guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro.jpg
+meta_summary: 
+date: 27/09/2021
+---
+É essencial ter um [planejamento financeiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) para deixar as [finanças organizadas](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal) e conseguir atingir os objetivos propostos.
 
 Ter controle sobre o orçamento tem sido um grande desafio para os brasileiros, visto que, segundo pesquisa da Agência Brasil, o endividamento das famílias cresceu para 58% — o maior patamar dos últimos 7 anos.
 
@@ -342,4 +342,3 @@ Se preferir, você pode [comprar algum produto financeiro de renda fixa](https:/
 Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos, conte com a Embracon!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

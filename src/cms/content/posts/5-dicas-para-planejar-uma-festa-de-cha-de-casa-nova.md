@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para planejar uma festa de chá de casa nova
-        slug: 5-dicas-para-planejar-uma-festa-de-cha-de-casa-nova
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-planejar-uma-festa-de-cha-de-casa-nova.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Vai se mudar e quer celebrar essa conquista com os seus amigos? Já pensou em fazer um chá de[ casa nova](https://www.embracon.com.br/blog/5-coisas-que-voce-precisa-saber-para-construir-uma-casa)? Nada é melhor do que reunir a galera para um bom bate-papo acompanhado de comidas e bebidas apetitosa se, de quebra, ganhar uns mimos para o lar.
+titulo: 5 dicas para planejar uma festa de chá de casa nova
+slug: 5-dicas-para-planejar-uma-festa-de-cha-de-casa-nova
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-planejar-uma-festa-de-cha-de-casa-nova.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Vai se mudar e quer celebrar essa conquista com os seus amigos? Já pensou em fazer um chá de[ casa nova](https://www.embracon.com.br/blog/5-coisas-que-voce-precisa-saber-para-construir-uma-casa)? Nada é melhor do que reunir a galera para um bom bate-papo acompanhado de comidas e bebidas apetitosa se, de quebra, ganhar uns mimos para o lar.
 
 Baseado no chá de cozinha, esse evento é indicado para quem vai para uma[ nova moradia](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), mas não necessariamente se casará. Dessa forma, os convidados levam presentes para a casa do anfitrião, que os recebe com uma bela mesa. Quer saber como organizar essa comemoração? Então continue a leitura e confira as nossas 5 dicas!
 
@@ -66,4 +66,3 @@ O chá de casa nova é um momento para os anfitriões comemorarem a conquista co
 Quer saber as nossas novidades em primeira mão? Então assine a nossa newsletter e receba diretamente em seu e-mail!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

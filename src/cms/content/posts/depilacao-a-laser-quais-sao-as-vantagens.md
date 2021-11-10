@@ -1,14 +1,14 @@
 ---
-        titulo: Depilação a laser: como funciona e quais são as vantagens
-        slug: depilacao-a-laser-quais-sao-as-vantagens
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/depilacao-a-laser-quais-sao-as-vantagens.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        A depilação a laser é um procedimento estético muito eficaz para quem quer se livrar dos pelos indesejáveis. Ela é capaz de eliminar cerca de 90% da penugem da região em que é aplicada, sendo uma excelente alternativa para quem tem alergia a outros métodos.
+titulo: Depilação a laser: como funciona e quais são as vantagens
+slug: depilacao-a-laser-quais-sao-as-vantagens
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/depilacao-a-laser-quais-sao-as-vantagens.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+A depilação a laser é um procedimento estético muito eficaz para quem quer se livrar dos pelos indesejáveis. Ela é capaz de eliminar cerca de 90% da penugem da região em que é aplicada, sendo uma excelente alternativa para quem tem alergia a outros métodos.
 
 Para conhecer mais sobre a depilação a laser, entender como ela funciona e suas principais vantagens, continue lendo o nosso post!
 
@@ -49,4 +49,3 @@ Depois de cada sessão, é comum as pessoas se queixarem de uma sensação de ar
 ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

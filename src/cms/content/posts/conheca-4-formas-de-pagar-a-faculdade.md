@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça 4 formas de pagar a faculdade
-        slug: conheca-4-formas-de-pagar-a-faculdade
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-4-formas-de-pagar-a-faculdade.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Apesar de ser um investimento elevado, o curso superior é fundamental para qualquer pessoa que quer entrar no mercado de trabalho com o pé direito. Apesar disso, a barreira financeira às vezes é muito grande. Por isso, é interessante conhecer as formas de pagar a faculdade.
+titulo: Conheça 4 formas de pagar a faculdade
+slug: conheca-4-formas-de-pagar-a-faculdade
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-4-formas-de-pagar-a-faculdade.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Apesar de ser um investimento elevado, o curso superior é fundamental para qualquer pessoa que quer entrar no mercado de trabalho com o pé direito. Apesar disso, a barreira financeira às vezes é muito grande. Por isso, é interessante conhecer as formas de pagar a faculdade.
 
 Entre as opções disponíveis, certamente alguma delas pode encaixar no seu bolso e perfil. Então, não existe motivo para deixar de lado essa parte tão importante da [formação profissional](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui), não é mesmo?
 
@@ -45,4 +45,3 @@ Graças a essas formas de pagar a faculdade fica mais fácil ter acesso a uma bo
 Para ter acesso a mais dicas como essas, além de conteúdos exclusivos diretamente em seu e-mail, assine nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

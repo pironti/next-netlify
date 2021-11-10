@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a devolução de dinheiro no consórcio?
-        slug: como-funciona-a-devolucao-de-dinheiro-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-devolucao-de-dinheiro-no-consorcio.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O [consórcio é um tipo de investimento a longo prazo](https://www.embracon.com.br/blog/o-consorcio-e-investimento) em um bem. Você escolhe o tipo de bem que deseja - moto, carro, imóveis, veículos pesados ou serviços - e seleciona o valor para a carta de crédito, que equivale ao bem que deseja comprar. Inclusive, é o próprio consorciado que determina a [quantidade de parcelas](https://www.embracon.com.br/blog/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio), sempre levando em consideração seus rendimentos mensais.
+titulo: Como funciona a devolução de dinheiro no consórcio?
+slug: como-funciona-a-devolucao-de-dinheiro-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-devolucao-de-dinheiro-no-consorcio.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O [consórcio é um tipo de investimento a longo prazo](https://www.embracon.com.br/blog/o-consorcio-e-investimento) em um bem. Você escolhe o tipo de bem que deseja - moto, carro, imóveis, veículos pesados ou serviços - e seleciona o valor para a carta de crédito, que equivale ao bem que deseja comprar. Inclusive, é o próprio consorciado que determina a [quantidade de parcelas](https://www.embracon.com.br/blog/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio), sempre levando em consideração seus rendimentos mensais.
 
 Por conta de tudo isso, o consórcio se apresenta como uma [forma flexível de investir em um bem](https://www.embracon.com.br/blog/quando-o-consorcio-e-uma-boa-opcao). Com planejamento, você pode realizar qualquer tipo de sonho, sem precisar se endividar, ter que pagar um alto valor de mensalidade ou mesmo [qualquer tipo de juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), como acontece com o financiamento, por exemplo.
 
@@ -159,4 +159,3 @@ Uma boa forma de evitar que isso aconteça é ter uma [planilha financeira](http
 Para mais dicas sobre finanças pessoais, confira o nosso [guia completo para você manter a sua conta no azul](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) e almejar grandes conquistas a curto, médio e longo prazo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

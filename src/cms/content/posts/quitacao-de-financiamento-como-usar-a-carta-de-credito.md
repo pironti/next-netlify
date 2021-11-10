@@ -1,14 +1,14 @@
 ---
-        titulo: Quitação de financiamento: como usar a carta de crédito?
-        slug: quitacao-de-financiamento-como-usar-a-carta-de-credito
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quitacao-de-financiamento-como-usar-a-carta-de-credito.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O financiamento é uma forma muito comum de aquisição de bens de maneira imediata. Você saiba que a [carta de crédito do consórcio](https://www.embracon.com.br/blog/o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) pode ser usada para a quitação de financiamento? Vamos começar do princípio. O financiamento funciona por meio da contratação de empréstimos junto a instituições financeiras, porém com o pagamento de juros bastante significativos, que podem chegar a 17,5% ao ano.
+titulo: Quitação de financiamento: como usar a carta de crédito?
+slug: quitacao-de-financiamento-como-usar-a-carta-de-credito
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quitacao-de-financiamento-como-usar-a-carta-de-credito.jpg
+meta_summary: 
+date: 06/10/2021
+---
+O financiamento é uma forma muito comum de aquisição de bens de maneira imediata. Você saiba que a [carta de crédito do consórcio](https://www.embracon.com.br/blog/o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) pode ser usada para a quitação de financiamento? Vamos começar do princípio. O financiamento funciona por meio da contratação de empréstimos junto a instituições financeiras, porém com o pagamento de juros bastante significativos, que podem chegar a 17,5% ao ano.
 
 Essas taxas elevadas acabam dificultando, a longo prazo, a quitação de financiamento.
 
@@ -79,4 +79,3 @@ Vale ressaltar que qualquer banco tem que aceitar a [carta de crédito para quit
 Enfim, usar a [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito) para quitação de financiamento é uma ótima opção para quem quer se [livrar dos juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) altos. Para saber mais sobre as [vantagens dos consórcios](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio), assine nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

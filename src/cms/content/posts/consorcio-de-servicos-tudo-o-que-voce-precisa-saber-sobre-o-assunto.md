@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de serviços: tudo o que você precisa saber sobre o assunto
-        slug: consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) está cada vez mais popular no Brasil, sendo uma alternativa aos altos juros bancários e uma forma de organização financeira. No entanto, essa modalidade de crédito não serve só para a compra de bens. O [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) também tem ajudado muita gente a conquistar seus sonhos.
+titulo: Consórcio de serviços: tudo o que você precisa saber sobre o assunto
+slug: consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) está cada vez mais popular no Brasil, sendo uma alternativa aos altos juros bancários e uma forma de organização financeira. No entanto, essa modalidade de crédito não serve só para a compra de bens. O [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) também tem ajudado muita gente a conquistar seus sonhos.
 
 Se em financiamentos específicos, como os de [imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e os de [veículos](https://www.embracon.com.br/consorcio-de-carros), os juros já são exorbitantes, para empréstimos pessoais as exigências são ainda maiores. Isso porque a contratação de serviços não oferece um bem como "garantia" ao credor.
 
@@ -274,4 +274,3 @@ O que achou do [consórcio de serviços](https://www.embracon.com.br/conhecaocon
 • 5 sinais de que chegou a hora de reformar a casa
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

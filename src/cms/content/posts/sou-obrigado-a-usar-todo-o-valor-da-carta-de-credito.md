@@ -1,14 +1,14 @@
 ---
-        titulo: Sou obrigado a usar todo o valor da carta de crédito?
-        slug: sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Uma das maiores dúvidas dos consorciados quando começam a investir em um bem com o consórcio é [identificar como usar o valor da carta de crédito](https://www.embracon.com.br/blog/o-que-e-a-carta-de-credito-como-funciona-e-como-usar).
+titulo: Sou obrigado a usar todo o valor da carta de crédito?
+slug: sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/sou-obrigado-a-usar-todo-o-valor-da-carta-de-credito.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Uma das maiores dúvidas dos consorciados quando começam a investir em um bem com o consórcio é [identificar como usar o valor da carta de crédito](https://www.embracon.com.br/blog/o-que-e-a-carta-de-credito-como-funciona-e-como-usar).
 
 Antes de tudo, vale a pena explicar o que é a carta de crédito: quando você inicia o pagamento por um bem com o consórcio, você tem a carta de crédito como referência deste bem. Digamos que [você queira comprar um carro com o consórcio](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao), por exemplo. Em vez de ter o modelo já escolhido, com o consórcio você investe no valor que será utilizado para a compra do carro.
 
@@ -59,4 +59,3 @@ Portanto, não tenha receio algum em escolher o consórcio como forma de investi
 [Faça uma simulação agora mesmo](https://www.embracon.com.br/) e confira as vantagens de uma modalidade que ajuda milhões de brasileiros a realizarem seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

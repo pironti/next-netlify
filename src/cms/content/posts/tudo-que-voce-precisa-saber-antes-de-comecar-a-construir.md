@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo que você precisa saber antes de começar a construir
-        slug: tudo-que-voce-precisa-saber-antes-de-comecar-a-construir
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-que-voce-precisa-saber-antes-de-comecar-a-construir.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Você tem interesse em construir e [fazer a casa dos seus sonhos](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo)? É possível realizar esse sonho deixando a experiência prazerosa! Acerte no planejamento e veja como fica mais fácil tirar o projeto do papel!
+titulo: Tudo que você precisa saber antes de começar a construir
+slug: tudo-que-voce-precisa-saber-antes-de-comecar-a-construir
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-que-voce-precisa-saber-antes-de-comecar-a-construir.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Você tem interesse em construir e [fazer a casa dos seus sonhos](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo)? É possível realizar esse sonho deixando a experiência prazerosa! Acerte no planejamento e veja como fica mais fácil tirar o projeto do papel!
 
 Pensar em como será feita a construção de casa não é tarefa simples, mas também não é necessário ser sinônimo de estresse, dor de cabeça e [saldo no vermelho](https://www.embracon.com.br/blog/as-dicas-mais-valiosas-para-sair-do-vermelho). Ter um [bom planejamento e um orçamento](https://www.embracon.com.br/blog/faca-um-planejamento-financeiro-anual) bem estabelecido é o primeiro passo para conseguir realizar uma obra de sucesso. Investir em materiais de qualidade e contratar uma mão de obra qualificada também faz toda a diferença no andamento do projeto.
 
@@ -303,4 +303,3 @@ Como pode perceber, construir pode ser mais trabalhoso, mas é uma excelente op�
 > E você sabia que é possível construir com carta de crédito de imóveis? Para saber como funciona, [faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis) com a Embracon. São mais de 30 anos realizando os sonhos de pessoas interessadas na casa própria.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Casa](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

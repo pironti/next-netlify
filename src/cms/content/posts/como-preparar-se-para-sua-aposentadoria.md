@@ -1,14 +1,14 @@
 ---
-        titulo: Como preparar-se para sua aposentadoria
-        slug: como-preparar-se-para-sua-aposentadoria
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-preparar-se-para-sua-aposentadoria.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        Muito antes de pensar em formar [diversos tipos de investimento](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira), uma das primeiras coisas que devem ser resolvidas é a aposentadoria. Trata-se de um tema que acaba gerando muitas discussões, ainda mais por conta das mudanças de políticas públicas e da própria [relação do brasileiro com o mercado de trabalho](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia).
+titulo: Como preparar-se para sua aposentadoria
+slug: como-preparar-se-para-sua-aposentadoria
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-preparar-se-para-sua-aposentadoria.jpg
+meta_summary: 
+date: 20/10/2021
+---
+Muito antes de pensar em formar [diversos tipos de investimento](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira), uma das primeiras coisas que devem ser resolvidas é a aposentadoria. Trata-se de um tema que acaba gerando muitas discussões, ainda mais por conta das mudanças de políticas públicas e da própria [relação do brasileiro com o mercado de trabalho](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia).
 
 Por muitos anos, algumas pessoas acreditaram que trabalhar com carteira assinada por um longo período de tempo seria o caminho natural para garantir um bom valor de aposentadoria. O fato é que as coisas mudaram bastante com o passar dos anos: com a população atingindo maior expectativa de vida, as regras para garantir um valor de aposentadoria até o fim da vida se tornaram mais rígidas.
 
@@ -197,4 +197,3 @@ Com bastante planejamento e disciplina, é possível [conquistar a liberdade fin
 Para mais dicas de como organizar melhor o seu dinheiro, [confira nossa seção de “Finanças Pessoais” no blog da Embracon](https://www.embracon.com.br/category/financas-pessoais).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

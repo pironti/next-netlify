@@ -1,14 +1,14 @@
 ---
-        titulo: Vai reformar a cozinha? Confira as tendências!
-        slug: vai-reformar-a-cozinha-confira-as-tendencias
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vai-reformar-a-cozinha-confira-as-tendencias.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Nada melhor do que ter uma cozinha espetacular para receber seus amigos e familiares. Esse é o ambiente ideal para provar aquela iguaria que você prepara como poucos.
+titulo: Vai reformar a cozinha? Confira as tendências!
+slug: vai-reformar-a-cozinha-confira-as-tendencias
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vai-reformar-a-cozinha-confira-as-tendencias.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Nada melhor do que ter uma cozinha espetacular para receber seus amigos e familiares. Esse é o ambiente ideal para provar aquela iguaria que você prepara como poucos.
 
 Seja para receber uma grande quantidade de convidados ou para harmonizar com a sua residência, **reformar a cozinha** é essencial para dar uma nova cara ao seu lar.
 
@@ -62,4 +62,3 @@ Com o consórcio de serviços, você pode selecionar a quantia que deseja pagar 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

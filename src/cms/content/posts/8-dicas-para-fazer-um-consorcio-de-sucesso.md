@@ -1,14 +1,14 @@
 ---
-        titulo: 8 dicas para fazer um consórcio de sucesso
-        slug: 8-dicas-para-fazer-um-consorcio-de-sucesso
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/8-dicas-para-fazer-um-consorcio-de-sucesso.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Ao considerar a [compra de um bem de alto valor](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio), muitas pessoas começam a procurar pelas melhores opções do mercado.
+titulo: 8 dicas para fazer um consórcio de sucesso
+slug: 8-dicas-para-fazer-um-consorcio-de-sucesso
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/8-dicas-para-fazer-um-consorcio-de-sucesso.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Ao considerar a [compra de um bem de alto valor](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio), muitas pessoas começam a procurar pelas melhores opções do mercado.
 
 Embora o brasileiro tenha o costume de realizar [compras de forma parcelada](https://www.embracon.com.br/blog/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado) mesmo para coisas do dia a dia, manter uma boa saúde financeira é essencial para se conquistar seus objetivos.
 
@@ -155,4 +155,3 @@ Esteja ciente de como funciona o consórcio e confie em seu modelo. Todos os con
 Para conferir os benefícios da modalidade, [faça uma simulação desde já](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) e antecipe a realização dos seus sonhos e de todos os integrantes da sua família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div></figure>
-        

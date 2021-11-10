@@ -1,14 +1,14 @@
 ---
-        titulo: As principais dicas de como planejar suas férias para a Europa
-        slug: as-principais-dicas-de-como-planejar-suas-ferias-para-a-europa
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-principais-dicas-de-como-planejar-suas-ferias-para-a-europa.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O velho continente continua sendo um dos destinos que mais [atraem turistas](https://www.embracon.com.br/blog/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias) do mundo inteiro. Com suas belezas únicas e ruas que são museus a céu aberto, a Europa propicia experiências únicas em viagens para todos os gostos.
+titulo: As principais dicas de como planejar suas férias para a Europa
+slug: as-principais-dicas-de-como-planejar-suas-ferias-para-a-europa
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-principais-dicas-de-como-planejar-suas-ferias-para-a-europa.jpg
+meta_summary: 
+date: 30/09/2021
+---
+O velho continente continua sendo um dos destinos que mais [atraem turistas](https://www.embracon.com.br/blog/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias) do mundo inteiro. Com suas belezas únicas e ruas que são museus a céu aberto, a Europa propicia experiências únicas em viagens para todos os gostos.
 
 E são inúmeras opções! Para os mais urbanos e contemporâneos, cidades como [Londres ](https://www.embracon.com.br/blog/vai-viajar-para-londres-veja-4-dicas-para-aproveitar-o-passeio)e [Berlim](https://www.embracon.com.br/blog/6-dicas-para-sua-proxima-viagem-a-berlim-com-os-amigos). Para os apaixonados por luz e arte, [Paris ](https://www.embracon.com.br/blog/5-razoes-para-viajar-para-paris)e Praga. Para quem quer curtir uma praia no verão, a Riviera Francesa e as praias de [Portugal ](https://www.embracon.com.br/blog/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes)e [Espanha](https://www.embracon.com.br/blog/5-motivos-pelos-quais-voce-deve-viajar-para-a-espanha).
 
@@ -71,4 +71,3 @@ Contrate um consórcio
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 ‍
-        

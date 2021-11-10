@@ -1,14 +1,14 @@
 ---
-        titulo: Como usar o consórcio para construir sua poupança
-        slug: como-usar-o-consorcio-para-construir-sua-poupanca
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-usar-o-consorcio-para-construir-sua-poupanca.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Nos dias atuais, a maioria das pessoas buscam no consórcio uma forma de realizar o sonho do [carro novo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), da casa própria e até mesmo para realizar aquela [reforma no seu imóvel](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa).
+titulo: Como usar o consórcio para construir sua poupança
+slug: como-usar-o-consorcio-para-construir-sua-poupanca
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-usar-o-consorcio-para-construir-sua-poupanca.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Nos dias atuais, a maioria das pessoas buscam no consórcio uma forma de realizar o sonho do [carro novo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), da casa própria e até mesmo para realizar aquela [reforma no seu imóvel](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa).
 
 O consórcio é, sem dúvida, extremamente vantajoso. Algumas vantagens que essa modalidade de aquisição oferece são a flexibilidade nos prazos e planos, segurança e[ ausência de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros).
 
@@ -84,4 +84,3 @@ Isso ocorre principalmente devido aos reajustes feitos nas parcelas e na [carta 
 > Viu só como é simples fazer sua poupança investindo em consórcio! Para mais informações, [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_construir_sua_poupanca&utm_campaign=publicacoes_blog) com a gente. A Embracon tem mais de 30 anos realizando os sonhos de milhares de pessoas.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_construir_sua_poupanca&utm_campaign=publicacoes_blog)</figure>
-        

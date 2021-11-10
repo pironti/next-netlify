@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher a melhor parcela para seu consórcio imobiliário?
-        slug: como-escolher-a-melhor-parcela-para-seu-consorcio-imobiliario
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-a-melhor-parcela-para-seu-consorcio-imobiliario.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Comprar um imóvel pode ser o sonho de toda uma vida, ou até uma necessidade de independência. Para adquirir esse bem, muitas pessoas juntam dinheiro por um longo período, apertando os gastos para que a economia seja maior e a quantia seja acumulada de forma mais rápida.
+titulo: Como escolher a melhor parcela para seu consórcio imobiliário?
+slug: como-escolher-a-melhor-parcela-para-seu-consorcio-imobiliario
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-a-melhor-parcela-para-seu-consorcio-imobiliario.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Comprar um imóvel pode ser o sonho de toda uma vida, ou até uma necessidade de independência. Para adquirir esse bem, muitas pessoas juntam dinheiro por um longo período, apertando os gastos para que a economia seja maior e a quantia seja acumulada de forma mais rápida.
 
 Na hora de concretizar a compra, contudo, além de encontrar o imóvel ideal, é preciso achar a forma de pagamento que mais se encaixe no planejamento financeiro. Uma das alternativas mais procuradas para o pagamento é o consórcio imobiliário.
 
@@ -65,4 +65,3 @@ Gostou de conhecer as vantagens de um consórcio e quer saber mais detalhes sobr
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebc30b41bf0862933922aad_CTA-Casamento2.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

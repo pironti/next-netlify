@@ -1,14 +1,14 @@
 ---
-        titulo: Transferência de veículo: como funciona
-        slug: transferencia-de-veiculo-como-funciona
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/transferencia-de-veiculo-como-funciona.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        De forma geral, os processos relacionados ao Departamento Estadual de Trânsito (Detran) têm a fama de serem demorados e complicados, mesmo sendo essenciais para a regularização do condutor. Por esse motivo, vamos desmistificar alguns desses temas! Até porque, você já sabe [como fazer uma transferência](https://www.embracon.com.br/blog/e-possivel-transferir-a-cota-para-outra-pessoa) de veículo?
+titulo: Transferência de veículo: como funciona
+slug: transferencia-de-veiculo-como-funciona
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/transferencia-de-veiculo-como-funciona.jpg
+meta_summary: 
+date: 28/09/2021
+---
+De forma geral, os processos relacionados ao Departamento Estadual de Trânsito (Detran) têm a fama de serem demorados e complicados, mesmo sendo essenciais para a regularização do condutor. Por esse motivo, vamos desmistificar alguns desses temas! Até porque, você já sabe [como fazer uma transferência](https://www.embracon.com.br/blog/e-possivel-transferir-a-cota-para-outra-pessoa) de veículo?
 
 A grande verdade é que, tanto o ato de vender como o de comprar carro, precisa seguir alguns passos muito importante! Dessa forma, pensamos nos pontos principais sobre o tema e desenvolvemos esse artigo.
 
@@ -107,4 +107,3 @@ Burocrático, mas nenhum bicho de sete cabeças não é mesmo? Se for consorciad
 > E você está querendo trocar o carro? Pense no consórcio para isso. [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=transferencia_de_veiculo&utm_campaign=publicacoes_blog) e vja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=transferencia_de_veiculo&utm_campaign=publicacoes_blog)</figure>
-        

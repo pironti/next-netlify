@@ -1,14 +1,14 @@
 ---
-        titulo: Aprenda como montar um orçamento familiar em 5 passos
-        slug: aprenda-como-montar-um-orcamento-familiar-em-5-passos
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/aprenda-como-montar-um-orcamento-familiar-em-5-passos.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Em um momento de instabilidade econômica, cresce a necessidade de um controle eficiente das receitas e despesas, para evitar dívidas e juntar recursos financeiros para investir. Uma boa alternativa, então, é elaborar um [orçamento familiar](https://www.embracon.com.br/blog/bebe-chegando-prepare-o-orcamento-familiar).
+titulo: Aprenda como montar um orçamento familiar em 5 passos
+slug: aprenda-como-montar-um-orcamento-familiar-em-5-passos
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/aprenda-como-montar-um-orcamento-familiar-em-5-passos.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Em um momento de instabilidade econômica, cresce a necessidade de um controle eficiente das receitas e despesas, para evitar dívidas e juntar recursos financeiros para investir. Uma boa alternativa, então, é elaborar um [orçamento familiar](https://www.embracon.com.br/blog/bebe-chegando-prepare-o-orcamento-familiar).
 
 Ao mapear seus rendimentos e gastos, a família pode verificar como é possível reduzir as despesas e usar o dinheiro de maneira mais inteligente. Essa postura ajuda você até a concretizar sonhos — como adquirir a casa própria, viajar com os familiares e pagar os estudos dos filhos.
 
@@ -73,4 +73,3 @@ Enfim, é inegável que o orçamento familiar deve fazer parte da sua rotina. N�
 Então, gostou deste post? Deixe-nos o seu comentário ou dúvida! A sua contribuição pode ajudar outras pessoas a gerenciar melhor as próprias finanças.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

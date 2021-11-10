@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena comprar casa em condomínio fechado?
-        slug: vale-a-pena-comprar-casa-em-condominio-fechado
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-comprar-casa-em-condominio-fechado.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Fazer a compra de uma casa em condomínio fechado é uma das alternativas mais procuradas entre pessoas que buscam segurança e qualidade de vida para toda a família. Ainda assim, investir em um [imóvel em condomínio fechado](https://www.embracon.com.br/blog/casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento) pode sair bem mais caro do que em uma casa em qualquer outra localização.
+titulo: Vale a pena comprar casa em condomínio fechado?
+slug: vale-a-pena-comprar-casa-em-condominio-fechado
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-comprar-casa-em-condominio-fechado.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Fazer a compra de uma casa em condomínio fechado é uma das alternativas mais procuradas entre pessoas que buscam segurança e qualidade de vida para toda a família. Ainda assim, investir em um [imóvel em condomínio fechado](https://www.embracon.com.br/blog/casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento) pode sair bem mais caro do que em uma casa em qualquer outra localização.
 
 Isso tem um motivo, nesse tipo de moradia, existem algumas taxas que se referem aos serviços e à utilização dos espaços comuns, e isso gera mais custos para o condomínio. Fora isso, as casas possuem um padrão específico de construção preestabelecido e [áreas de lazer](https://www.embracon.com.br/blog/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia) compartilhadas, e esse é um dos pontos que não chegam a agradar a todos.
 
@@ -85,4 +85,3 @@ Além disso, as casas costumam ter quintal, o que proporciona mais conforto e pr
 > Se você já decidiu comprar uma casa ou um apartamento dentro de um condomínio fechado, entre em contato conosco e [faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis)! A Embracon tem mais de 30 anos no mercado de consórcio realizando grandes sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Casa](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

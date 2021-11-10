@@ -1,14 +1,14 @@
 ---
-        titulo: As dicas mais valiosas para sair do vermelho
-        slug: as-dicas-mais-valiosas-para-sair-do-vermelho
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-dicas-mais-valiosas-para-sair-do-vermelho.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Depois de um ano desafiador em que muita gente perdeu o emprego, e o custo de vida subiu muito, estamos retomando a economia e esse é o momento ideal de recuperar o tempo perdido para sair do vermelho. [De acordo com o Serasa](https://www.serasa.com.br/), em 2020 63,2 milhões de brasileiros estão com dívidas atrasadas e CPF negativado, o que representa 40,4% da população adulta do país.
+titulo: As dicas mais valiosas para sair do vermelho
+slug: as-dicas-mais-valiosas-para-sair-do-vermelho
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-dicas-mais-valiosas-para-sair-do-vermelho.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Depois de um ano desafiador em que muita gente perdeu o emprego, e o custo de vida subiu muito, estamos retomando a economia e esse é o momento ideal de recuperar o tempo perdido para sair do vermelho. [De acordo com o Serasa](https://www.serasa.com.br/), em 2020 63,2 milhões de brasileiros estão com dívidas atrasadas e CPF negativado, o que representa 40,4% da população adulta do país.
 
 O problema é que ficar devendo pode virar uma bola de neve e é mais comum do que se imagina. Qualquer imprevisto, um gasto mais alto, débitos no cartão de crédito podem virar uma dívida, e o juros vai fazendo com que fique impossível de quitar. Por isso, juntamos algumas dicas para quem quer [sair do vermelho](https://www.embracon.com.br/blog/como-sair-do-vermelho-em-2019), com determinação e planejamento. Confira a seguir:
 
@@ -56,4 +56,3 @@ Não existe forma de guardar dinheiro sem parar de gastar um pouco. Preste aten�
 > Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Up Consórcio vende mais de R$ 135 milhões em um mês
-        slug: up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        *Produto lançado pela Embracon em fevereiro mostra força no mercado de consórcio; veja porque o Up também é uma boa opção para você*
+titulo: Up Consórcio vende mais de R$ 135 milhões em um mês
+slug: up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes.jpg
+meta_summary: 
+date: 06/10/2021
+---
+*Produto lançado pela Embracon em fevereiro mostra força no mercado de consórcio; veja porque o Up também é uma boa opção para você*
 
 Em fevereiro de 2019, a Embracon lançou o[ Up Consórcio](https://www.upconsorcios.com.br/). O novo produto tem a vantagem de ser um consórcio sem taxa até a data de contemplação. E isso mesmo: até ser contemplado, o cliente Up não paga taxa de adesão, taxa administrativa, fundo de reserva, nada. O Up foi tão bem aceito pelo mercado que, em um mês de comercialização, superou o faturamento de R$ 135 milhões! Ou seja: mais de 2 mil pessoas acreditarem no produto e já aderiram ao produto.
 
@@ -40,4 +40,3 @@ Uma vez contemplado, o cliente passa a pagar a taxa de 0.35% ao mês, que equiva
 Em caso de contemplação por lance, o cliente tem outra vantagem: é possível optar por reduzir o valor das parcelas mensais mantendo, neste caso o prazo original do plano ou, ainda, reduzir o prazo da cota optando pela quitação das parcelas finais.
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

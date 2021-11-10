@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher um consórcio de moto?
-        slug: como-escolher-um-consorcio-de-moto
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-um-consorcio-de-moto.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Não importa a finalidade do uso, se para passeio, trabalho ou uma simples diversão nos finais de semana, as motocicletas estão ganhando espaço na garagem do brasileiro.
+titulo: Como escolher um consórcio de moto?
+slug: como-escolher-um-consorcio-de-moto
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-um-consorcio-de-moto.png
+meta_summary: 
+date: 06/10/2021
+---
+Não importa a finalidade do uso, se para passeio, trabalho ou uma simples diversão nos finais de semana, as motocicletas estão ganhando espaço na garagem do brasileiro.
 
 Mas como adquirir esse bem? Uma forma prática e muito econômica para quem se planeja é escolher um [**consórcio de moto**](https://www.embracon.com.br/consorcio-motos).
 
@@ -111,4 +111,3 @@ Escolha o seu consórcio de acordo com as características e o valor da sua moto
 Agora que você viu como escolher um [consórcio de moto](https://www.embracon.com.br/consorcio-motos), que tal aproveitar e fazer uma [simulação de consórcio](https://www.embracon.com.br/consorcio) que atenda às suas expectativas? Não deixe para depois!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ecd6c61ccc52cec0b84e9ff_CTA-Motocicletas.png)</div>](https://embracon.com.br/consorcio?motocicleta&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=motocicletas)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

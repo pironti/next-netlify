@@ -1,14 +1,14 @@
 ---
-        titulo: Autônomo também pode guardar dinheiro
-        slug: autonomo-tambem-pode-guardar-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/autonomo-tambem-pode-guardar-dinheiro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Diferentemente de quem trabalha no mercado formal, que possui alguns benefícios que permitem maior segurança e até uma boa[ reserva para a aposentadoria](https://www.embracon.com.br/blog/como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila), o profissional autônomo geralmente recebe o dinheiro líquido, independente da atividade que exerce.
+titulo: Autônomo também pode guardar dinheiro
+slug: autonomo-tambem-pode-guardar-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/autonomo-tambem-pode-guardar-dinheiro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Diferentemente de quem trabalha no mercado formal, que possui alguns benefícios que permitem maior segurança e até uma boa[ reserva para a aposentadoria](https://www.embracon.com.br/blog/como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila), o profissional autônomo geralmente recebe o dinheiro líquido, independente da atividade que exerce.
 
 Por mais que ele, em alguns casos, receba mais dinheiro em mãos do que o trabalhador registrado, pode acontecer de ficar ‘tentado’ a gastar mais ou fugir do foco.
 
@@ -78,4 +78,3 @@ Com organização, planejamento e muita cautela, você pode fazer a sua reserva,
 > [Faça uma simulação ](https://www.embracon.com.br/consorcio-de-imoveis)e inclua o consórcio como mais uma forma de economizar sendo autônomo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

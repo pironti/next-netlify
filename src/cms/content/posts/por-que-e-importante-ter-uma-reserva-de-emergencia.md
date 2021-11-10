@@ -1,14 +1,14 @@
 ---
-        titulo: Por que é importante ter uma reserva de emergência
-        slug: por-que-e-importante-ter-uma-reserva-de-emergencia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-e-importante-ter-uma-reserva-de-emergencia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Quando se fala em [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida), os brasileiros ainda se veem diante de um grande abismo. Em momentos difíceis, como da [pandemia de coronavírus](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia), a ausência do hábito de guardar dinheiro acaba exigindo mais da economia doméstica como um todo para reparar os danos.
+titulo: Por que é importante ter uma reserva de emergência
+slug: por-que-e-importante-ter-uma-reserva-de-emergencia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-e-importante-ter-uma-reserva-de-emergencia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Quando se fala em [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida), os brasileiros ainda se veem diante de um grande abismo. Em momentos difíceis, como da [pandemia de coronavírus](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia), a ausência do hábito de guardar dinheiro acaba exigindo mais da economia doméstica como um todo para reparar os danos.
 
 Um levantamento da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima) identificou que 62% de toda a população brasileira [não conseguiu economizar qualquer reserva financeira](https://einvestidor.estadao.com.br/educacao-financeira/brasileiro-sem-reserva-financeira-crise) para lidar com a emergência da pandemia.
 
@@ -71,4 +71,3 @@ Aliás, considere o consórcio como um facilitador nessa realização de sonhos:
 > E você conhece o consórcio? Sabia que ele é uma ótima maneira de realizar o seu sonho. [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

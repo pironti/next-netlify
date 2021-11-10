@@ -1,14 +1,14 @@
 ---
-        titulo: Qual o valor ideal da parcela mensal de um consórcio?
-        slug: qual-o-valor-ideal-da-parcela-mensal-de-um-consorcio
-        categoria: Pagamento
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-o-valor-ideal-da-parcela-mensal-de-um-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A melhor forma de saber se o consórcio irá ajudar a realizar os seus sonhos é por meio do [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Sem a preocupação de ter o bem de forma imediata, você consegue tomar uma decisão que favoreça o seu [orçamento mensal](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro).
+titulo: Qual o valor ideal da parcela mensal de um consórcio?
+slug: qual-o-valor-ideal-da-parcela-mensal-de-um-consorcio
+categoria: Pagamento
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-o-valor-ideal-da-parcela-mensal-de-um-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A melhor forma de saber se o consórcio irá ajudar a realizar os seus sonhos é por meio do [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Sem a preocupação de ter o bem de forma imediata, você consegue tomar uma decisão que favoreça o seu [orçamento mensal](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro).
 
 É que, com o consórcio, quem fica no controle do valor do bem que deseja adquirir e o valor da parcela é o próprio [consorciado](https://www.embracon.com.br/blog/tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado).
 
@@ -64,4 +64,3 @@ Portanto, defina um valor de mensalidade que não comprometa seus rendimentos me
 > Quer saber mais sobre consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

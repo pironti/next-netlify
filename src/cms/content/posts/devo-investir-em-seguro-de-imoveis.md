@@ -1,14 +1,14 @@
 ---
-        titulo: Devo investir em seguro de imóveis?
-        slug: devo-investir-em-seguro-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/devo-investir-em-seguro-de-imoveis.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        É um alívio quando você pode recorrer a alguém para obter ***proteção*** ou ajuda na hora de algum contratempo, não é? O ***seguro de imóveis*** é conhecido exatamente por isso, pois ele oferece proteção integral a baixo custo nos momentos mais delicados, sendo uma forma eficaz de proteger você e sua família de imprevistos que podem acontecer a um de seus bens mais preciosos: [sua própria casa](https://www.embracon.com.br/blog/como-fazer-um-consorcio-de-imoveis-ainda-em-2021).
+titulo: Devo investir em seguro de imóveis?
+slug: devo-investir-em-seguro-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/devo-investir-em-seguro-de-imoveis.jpg
+meta_summary: 
+date: 23/09/2021
+---
+É um alívio quando você pode recorrer a alguém para obter ***proteção*** ou ajuda na hora de algum contratempo, não é? O ***seguro de imóveis*** é conhecido exatamente por isso, pois ele oferece proteção integral a baixo custo nos momentos mais delicados, sendo uma forma eficaz de proteger você e sua família de imprevistos que podem acontecer a um de seus bens mais preciosos: [sua própria casa](https://www.embracon.com.br/blog/como-fazer-um-consorcio-de-imoveis-ainda-em-2021).
 
 Importância de investir em seguro de imóveis 
 ---------------------------------------------
@@ -98,4 +98,3 @@ Os documentos exigidos pelas seguradoras variam de com o ocorrido, porém os doc
 Conheça a importância do [seguro de consórcio ](https://www.embracon.com.br/blog-parceiros/saiba-a-importancia-do-seguro-de-consorcio-para-seu-cliente)no site da [Embracon](https://www.embracon.com.br/blog-parceiros/saiba-a-importancia-do-seguro-de-consorcio-para-seu-cliente).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

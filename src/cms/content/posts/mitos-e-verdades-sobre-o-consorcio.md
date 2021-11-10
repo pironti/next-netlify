@@ -1,14 +1,14 @@
 ---
-        titulo: Mitos e verdades sobre o consórcio
-        slug: mitos-e-verdades-sobre-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/mitos-e-verdades-sobre-o-consorcio.png
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        As pessoas têm muitas dúvidas antes de considerar fazer uma grande compra, como uma casa, um [carro](https://www.embracon.com.br/consorcio-de-carros). Ou, até mesmo, [investir em uma grande viagem](https://www.embracon.com.br/consorcio-servicos), reforma da casa, faculdade, [cirurgia plástica](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia) ou festa de casamento. Para elas, temos uma dica:[ **já pesquisou sobre o consórcio**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio)?
+titulo: Mitos e verdades sobre o consórcio
+slug: mitos-e-verdades-sobre-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/mitos-e-verdades-sobre-o-consorcio.png
+meta_summary: 
+date: 30/09/2021
+---
+As pessoas têm muitas dúvidas antes de considerar fazer uma grande compra, como uma casa, um [carro](https://www.embracon.com.br/consorcio-de-carros). Ou, até mesmo, [investir em uma grande viagem](https://www.embracon.com.br/consorcio-servicos), reforma da casa, faculdade, [cirurgia plástica](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia) ou festa de casamento. Para elas, temos uma dica:[ **já pesquisou sobre o consórcio**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio)?
 
 É possível contar com o [consórcio](https://www.embracon.com.br/blog/quando-o-consorcio-e-uma-boa-opcao) para todos esses produtos e serviços, que geralmente demandam um grande investimento inicial - caso queira comprar à vista - ou dependem de uma análise de crédito por parte de instituições financeiras para, então, liberar um financiamento.
 
@@ -106,4 +106,3 @@ Basta fazer uma [simulação no nosso site](https://www.embracon.com.br/), escol
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

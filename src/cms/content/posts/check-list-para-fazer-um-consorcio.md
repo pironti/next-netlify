@@ -1,14 +1,14 @@
 ---
-        titulo: Check list para fazer um consórcio
-        slug: check-list-para-fazer-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/check-list-para-fazer-um-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O [consórcio é uma forma muito interessante para adquirir bens de consumo](https://www.embracon.com.br/blog/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio) e, também, para contratar alguns serviços de alto valor. Por isso, muitas pessoas têm grandes dúvidas em relação à sua contratação.
+titulo: Check list para fazer um consórcio
+slug: check-list-para-fazer-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/check-list-para-fazer-um-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O [consórcio é uma forma muito interessante para adquirir bens de consumo](https://www.embracon.com.br/blog/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio) e, também, para contratar alguns serviços de alto valor. Por isso, muitas pessoas têm grandes dúvidas em relação à sua contratação.
 
 Em linhas gerais, o consórcio pode ser feito por qualquer interessado. Mas, é indispensável manter os pagamentos em dia para participar das [assembleias](https://www.embracon.com.br/blog/assembleia-de-consorcio-como-funciona). Além disso, de acordo com as regras de algumas administradoras, será necessário passar por procedimentos de análise para receber a carta de crédito quando for contemplado.
 
@@ -160,4 +160,3 @@ Para se planejar melhor você pode, agora mesmo, realizar uma simulação de con
 Conte com a [Embracon](https://www.embracon.com.br/) para te ajudar com o todo o processo burocrático, de um jeito simples e com garantia de que no final de tudo, você terá seu bem em mãos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

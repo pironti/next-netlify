@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de carro seminovo: vale a pena?
-        slug: consorcio-de-carro-seminovo-vale-a-pena
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-carro-seminovo-vale-a-pena.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio tem sido uma [modalidade de compra](https://www.embracon.com.br/blog/tipos-de-consorcio) muito utilizada para adquirir bens. Isso acontece porque, ao contrário do financiamento, ele não sofre incidência de taxas de juros, deixando o [valor das parcelas menor](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). O [consórcio de carro seminovo](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon), por exemplo, é uma das opções dos investidores que querem realizar o sonho de comprar ou de [trocar de veículo](https://www.embracon.com.br/blog/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar).
+titulo: Consórcio de carro seminovo: vale a pena?
+slug: consorcio-de-carro-seminovo-vale-a-pena
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-carro-seminovo-vale-a-pena.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio tem sido uma [modalidade de compra](https://www.embracon.com.br/blog/tipos-de-consorcio) muito utilizada para adquirir bens. Isso acontece porque, ao contrário do financiamento, ele não sofre incidência de taxas de juros, deixando o [valor das parcelas menor](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). O [consórcio de carro seminovo](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon), por exemplo, é uma das opções dos investidores que querem realizar o sonho de comprar ou de [trocar de veículo](https://www.embracon.com.br/blog/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar).
 
 No entanto, muitos ainda têm dúvidas quanto ao [funcionamento de um consórcio](https://www.embracon.com.br/blog/o-que-e-como-funciona-o-consorcio-de-carros-e-motos), ao atraso do pagamento e, principalmente, à confiabilidade do investimento.
 
@@ -122,4 +122,3 @@ Por isso, é preciso deixar claro que para fazer um [consórcio de carro seminov
 E então, ficou interessado e quer [investir em um consórcio](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) de carro seminovo? Aproveite para fazer uma [simulação aqui](https://www.embracon.com.br/ecommerce)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

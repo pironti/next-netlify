@@ -1,14 +1,14 @@
 ---
-        titulo: 6 erros que você deve evitar ao contratar um consórcio de imóveis
-        slug: 6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Quer sair do aluguel, mas não tem o valor total para efetuar a compra? Um [consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) é uma ótima opção. Entretanto, antes de se decidir por essa modalidade, existem algumas coisas que você precisa saber, especialmente para evitar erros ao contratar um consórcio**.** Quem não é muito familiarizado com essa categoria de investimentos, os consórcios podem parecer complicados à primeira vista. Isso porque são muitos detalhes para prestar atenção. Por isso, informação é fundamental e nós vamos ajudá-lo.Se você quer saber mais continue acompanhando o post e descubra o que não fazer ao contratar um consórcio.
+titulo: 6 erros que você deve evitar ao contratar um consórcio de imóveis
+slug: 6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Quer sair do aluguel, mas não tem o valor total para efetuar a compra? Um [consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) é uma ótima opção. Entretanto, antes de se decidir por essa modalidade, existem algumas coisas que você precisa saber, especialmente para evitar erros ao contratar um consórcio**.** Quem não é muito familiarizado com essa categoria de investimentos, os consórcios podem parecer complicados à primeira vista. Isso porque são muitos detalhes para prestar atenção. Por isso, informação é fundamental e nós vamos ajudá-lo.Se você quer saber mais continue acompanhando o post e descubra o que não fazer ao contratar um consórcio.
 
 1. Não pesquisar sobre a administradora do consórcio de imóveis
 ---------------------------------------------------------------
@@ -55,4 +55,3 @@ Um dos principais erros ao contratar um [consórcio de imóveis](https://www.emb
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

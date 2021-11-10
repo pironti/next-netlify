@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer consórcio sendo autônomo
-        slug: como-fazer-consorcio-sendo-autonomo
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-consorcio-sendo-autonomo.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Com os índices de desemprego atingindo patamares históricos, os brasileiros têm procurado novas formas de conseguir renda, seja para sustentar a família, aumentar a rentabilidade mensal ou entrar de vez no mundo do empreendedorismo.
+titulo: Como fazer consórcio sendo autônomo
+slug: como-fazer-consorcio-sendo-autonomo
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-consorcio-sendo-autonomo.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Com os índices de desemprego atingindo patamares históricos, os brasileiros têm procurado novas formas de conseguir renda, seja para sustentar a família, aumentar a rentabilidade mensal ou entrar de vez no mundo do empreendedorismo.
 
 Para se ter uma ideia do tamanho deste novo momento, em pelo menos 9 estados os [autônomos formam 40% de toda a força de trabalho](https://www1.folha.uol.com.br/mercado/2020/03/fatia-dos-informais-aumenta-em-quase-todos-os-estados.shtml). O trabalho informal tem sido uma alternativa para quem precisa manter as contas em dia. Vale lembrar que o país vive um dos piores momentos de sua história em relação ao emprego formal: atualmente, [13,5% dos brasileiros estão sem emprego](https://www1.folha.uol.com.br/mercado/2021/02/desemprego-encerra-2020-em-139-diz-ibge.shtml), segundo levantamento da consultoria iDados, com informações do IBGE (Instituto Brasileiro de Geografia e Estatística).
 
@@ -188,4 +188,3 @@ Se você tiver urgência em receber a sua carta de crédito, avalie a possibilid
 > E aí, já sabe onde vai direcionar o próximo investimento para o seu negócio? [Faça uma simulação](https://www.embracon.com.br/consorcio) de consórcio e comece desde já o plano de expandir seu empreendimento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

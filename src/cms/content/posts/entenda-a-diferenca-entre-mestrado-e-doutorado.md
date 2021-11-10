@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda a diferença entre mestrado e doutorado
-        slug: entenda-a-diferenca-entre-mestrado-e-doutorado
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-a-diferenca-entre-mestrado-e-doutorado.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Afinal, quais são as diferenças entre mestrado e doutorado? Embora sejam termos comuns no ambiente acadêmico, muitos ainda se confundem quanto à classificação de cada um deles e suas respectivas características.
+titulo: Entenda a diferença entre mestrado e doutorado
+slug: entenda-a-diferenca-entre-mestrado-e-doutorado
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-a-diferenca-entre-mestrado-e-doutorado.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Afinal, quais são as diferenças entre mestrado e doutorado? Embora sejam termos comuns no ambiente acadêmico, muitos ainda se confundem quanto à classificação de cada um deles e suas respectivas características.
 
 O que todos sabem é que, tanto um quanto o outro, se referem às últimas duas fases de um total de quatro da [pós-graduação](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao). As duas primeiras correspondem à "especialização" e ao "[MBA](https://www.embracon.com.br/blog/como-um-mba-executivo-pode-alavancar-a-sua-carreira)".
 
@@ -53,4 +53,3 @@ Portanto, as diferenças principais entre mestrado e doutorado não se baseiam a
 > Tire as suas dúvidas sobre o [Consórcio de Educação](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon) da Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

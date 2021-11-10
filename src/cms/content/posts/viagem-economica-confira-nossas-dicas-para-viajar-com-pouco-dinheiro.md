@@ -1,14 +1,14 @@
 ---
-        titulo: Viagem econômica: confira nossas dicas para viajar com pouco dinheiro
-        slug: viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro.png
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Você sabe qual é o maior sonho dos brasileiros? De acordo com pesquisa do Serviço de Proteção ao Crédito (SPC), é [viajar para o exterior](https://www.embracon.com.br/blog/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas).
+titulo: Viagem econômica: confira nossas dicas para viajar com pouco dinheiro
+slug: viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro.png
+meta_summary: 
+date: 04/10/2021
+---
+Você sabe qual é o maior sonho dos brasileiros? De acordo com pesquisa do Serviço de Proteção ao Crédito (SPC), é [viajar para o exterior](https://www.embracon.com.br/blog/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas).
 
 Ultimamente, esta opção tem ficado cada vez mais distante, principalmente com o aumento do câmbio e com a frágil situação econômica do país.
 
@@ -67,4 +67,3 @@ Com o consórcio de serviços, você tem poder de compra à vista de tudo que en
 ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

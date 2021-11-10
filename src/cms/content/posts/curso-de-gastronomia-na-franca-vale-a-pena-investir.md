@@ -1,14 +1,14 @@
 ---
-        titulo: Curso de gastronomia na França: vale a pena investir?
-        slug: curso-de-gastronomia-na-franca-vale-a-pena-investir
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/curso-de-gastronomia-na-franca-vale-a-pena-investir.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Nos últimos anos, cresceu o número de pessoas interessadas em culinária e com vontade de se dedicar a aprender mais sobre essa a arte. Outro fator é a vontade de transformar a comida em uma experiência sensorial. Porém, várias delas ainda têm dúvida se, de fato, vale a pena investir em um curso de **gastronomia na França.** O país reúne as principais escolas da área e alguns dos chefs mais conhecidos em todo o mundo, como Paul Bocuse, Alain Ducasse, Cyril Lignac etc.
+titulo: Curso de gastronomia na França: vale a pena investir?
+slug: curso-de-gastronomia-na-franca-vale-a-pena-investir
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/curso-de-gastronomia-na-franca-vale-a-pena-investir.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+Nos últimos anos, cresceu o número de pessoas interessadas em culinária e com vontade de se dedicar a aprender mais sobre essa a arte. Outro fator é a vontade de transformar a comida em uma experiência sensorial. Porém, várias delas ainda têm dúvida se, de fato, vale a pena investir em um curso de **gastronomia na França.** O país reúne as principais escolas da área e alguns dos chefs mais conhecidos em todo o mundo, como Paul Bocuse, Alain Ducasse, Cyril Lignac etc.
 
 Afinal, esse é um [investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) que requer um bom [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), não é mesmo? Pensando nisso, resolvemos abordar por que essa pode ser uma ótima decisão para você. E para o seu [futuro profissional](https://www.embracon.com.br/blog/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao). Acompanhe!
 
@@ -47,4 +47,3 @@ Como você viu, fazer um curso de gastronomia na França pode ser um verdadeiro 
 Aproveita e conta para nós nos comentários qual [curso pretende fazer](https://www.embracon.com.br/blog/ead-a-educacao-a-distancia-e-para-voce) e em qual escola. Estamos curiosos para saber!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

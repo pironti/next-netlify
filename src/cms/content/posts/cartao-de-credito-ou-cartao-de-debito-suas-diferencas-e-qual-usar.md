@@ -1,14 +1,14 @@
 ---
-        titulo: Cartão de crédito ou cartão de débito: suas diferenças e qual usar
-        slug: cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quando se pensa em [cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) ou de débito, a primeira coisa que vem na mente de muitas pessoas é: qual costumo utilizar mais quando vou fazer algum tipo de compra?
+titulo: Cartão de crédito ou cartão de débito: suas diferenças e qual usar
+slug: cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quando se pensa em [cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) ou de débito, a primeira coisa que vem na mente de muitas pessoas é: qual costumo utilizar mais quando vou fazer algum tipo de compra?
 
 E isso é perfeitamente normal. O dinheiro em espécie tem sido cada vez menos utilizado pelos brasileiros por conta de sua simplicidade e praticidade - isso não significa, porém, que as pessoas deixaram o dinheiro totalmente de lado. Uma pesquisa do Banco Central (Bacen) de 2018 identificou que [52% das compras em lojas físicas ainda eram pagas com dinheiro em espécie](https://br.mobiletransaction.org/porque-brasileiros-pagam-em-dinheiro/).
 
@@ -156,4 +156,3 @@ Evite a acumulação de diversos cartões de crédito. Embora muitas pessoas tra
 Agora que você aprendeu dicas importantes sobre como utilizar as funções de débito e crédito do seu cartão, que tal começar o seu planejamento financeiro para conseguir atingir seus objetivos? Confira as [dicas para você começar desde já os seus investimentos](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=cartao_de_credito_ou_cartao_de_debito&utm_campaign=publicacoes_blog)</figure>
-        

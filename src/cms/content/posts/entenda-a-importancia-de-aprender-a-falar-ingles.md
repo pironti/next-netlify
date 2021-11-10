@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda a importância de aprender a falar inglês
-        slug: entenda-a-importancia-de-aprender-a-falar-ingles
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-a-importancia-de-aprender-a-falar-ingles.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Quando o assunto é **aprender a falar inglês**, muita gente compartilha da mesma visão: fazer um **curso de idioma** é fundamental para alcançar a fluência. Porém, ainda há diversas pessoas que ficam relutantes em tomar essa decisão. E os que acreditam que esse é um investimento desnecessário, pois acham que não vão precisar de uma **segunda língua**.
+titulo: Entenda a importância de aprender a falar inglês
+slug: entenda-a-importancia-de-aprender-a-falar-ingles
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-a-importancia-de-aprender-a-falar-ingles.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+Quando o assunto é **aprender a falar inglês**, muita gente compartilha da mesma visão: fazer um **curso de idioma** é fundamental para alcançar a fluência. Porém, ainda há diversas pessoas que ficam relutantes em tomar essa decisão. E os que acreditam que esse é um investimento desnecessário, pois acham que não vão precisar de uma **segunda língua**.
 
 Pensando nisso, reunimos algumas das vantagens que mostram a importância de ser bilíngue nos dias atuais. E como esse diferencial pode impactar positivamente a sua vida pessoal e profissional. Acompanhe.
 
@@ -45,4 +45,3 @@ O motivo disso é que equipamentos eletrônicos, plataformas virtuais, softwares
 Como você viu, [**aprender a falar inglês** ](https://www.embracon.com.br/blog/ead-a-educacao-a-distancia-e-para-voce)é algo que traz benefícios tanto para a sua vida pessoal quanto para a sua vida profissional. Por isso, fazer um curso de idiomas é, sem dúvidas, um excelente investimento para o seu futuro!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

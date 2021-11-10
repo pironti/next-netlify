@@ -1,14 +1,14 @@
 ---
-        titulo: O que posso fazer com o consórcio de serviços?
-        slug: o-que-posso-fazer-com-o-consorcio-de-servicos
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-posso-fazer-com-o-consorcio-de-servicos.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Há muitos anos os brasileiros têm contado com o consórcio para realizar o sonho de[ comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha) e adquirir a[ casa dos sonhos](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo). Mesmo quando a intenção é trocar de automóvel,[ comprar uma moto](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio) ou investir em um segundo imóvel, o consórcio tem se apresentado como a melhor opção de pagar parcelado por um bem de alto valor.
+titulo: O que posso fazer com o consórcio de serviços?
+slug: o-que-posso-fazer-com-o-consorcio-de-servicos
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-posso-fazer-com-o-consorcio-de-servicos.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Há muitos anos os brasileiros têm contado com o consórcio para realizar o sonho de[ comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha) e adquirir a[ casa dos sonhos](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo). Mesmo quando a intenção é trocar de automóvel,[ comprar uma moto](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio) ou investir em um segundo imóvel, o consórcio tem se apresentado como a melhor opção de pagar parcelado por um bem de alto valor.
 
 Isso porque, na maioria das vezes, as pessoas não têm o dinheiro para pagar à vista por um carro, apartamento ou uma casa. Sem falar que não se trata de uma compra comum: você precisa ter liberação de crédito, caso[ opte pelo financiamento](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta), e ainda precisa se comprometer com o alto valor de juros compostos praticado nas parcelas.
 
@@ -171,4 +171,3 @@ Com tantas facilidades assim, o consórcio de serviços veio para ajudar milhare
 > Quer saber melhor como funciona?[ Faça uma simulação no nosso site](https://www.embracon.com.br/consorcio-servicos) e aproveite as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>‍
-        

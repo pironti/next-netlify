@@ -1,14 +1,14 @@
 ---
-        titulo: Faça o consórcio de moto e realize seu sonho
-        slug: faca-o-consorcio-de-moto-e-realize-seu-sonho
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faca-o-consorcio-de-moto-e-realize-seu-sonho.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Da mesma forma que o brasileiro se mostra um apaixonado pela [compra de automóveis](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana), muitos ainda têm o sonho de [comprar uma moto nova](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio).
+titulo: Faça o consórcio de moto e realize seu sonho
+slug: faca-o-consorcio-de-moto-e-realize-seu-sonho
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faca-o-consorcio-de-moto-e-realize-seu-sonho.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Da mesma forma que o brasileiro se mostra um apaixonado pela [compra de automóveis](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana), muitos ainda têm o sonho de [comprar uma moto nova](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio).
 
 De fato, nos últimos anos o interesse pelas motos cresceu bastante - principalmente por conta da [pandemia, em que o isolamento social fez com que muitas pessoas revessem seus hábitos de locomoção](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
 
@@ -49,4 +49,3 @@ Ao encontrar a moto que deseja, basta entrar em contato com a administradora, pa
 Como deu para perceber, investir no sonho de comprar uma moto é mais fácil e prático do que você imagina. [Faça uma simulação de consórcio de motos](https://www.embracon.com.br/consorcio-motos) e realize o seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

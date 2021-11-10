@@ -1,14 +1,14 @@
 ---
-        titulo: Passo a passo para um consórcio seguro
-        slug: passo-a-passo-para-um-consorcio-seguro
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/passo-a-passo-para-um-consorcio-seguro.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quem está interessado em comprar um bem ou serviço de alto valor geralmente pesquisa a possibilidade de um financiamento, ou como fazer um consórcio. O importante é se sentir seguro com a compra.
+titulo: Passo a passo para um consórcio seguro
+slug: passo-a-passo-para-um-consorcio-seguro
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/passo-a-passo-para-um-consorcio-seguro.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quem está interessado em comprar um bem ou serviço de alto valor geralmente pesquisa a possibilidade de um financiamento, ou como fazer um consórcio. O importante é se sentir seguro com a compra.
 
 O consórcio é uma modalidade bastante procurada, pois, as parcelas costumam ser baixas e livre dos altos juros do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). Ainda assim, alguns detalhes sobre o seu funcionamento não são conhecidos pelo público, fazendo com que muitas pessoas desistam de optar por ele antes mesmo de se informarem.
 
@@ -172,4 +172,3 @@ Se restou alguma dúvida sobre como fazer um consórcio, não deixe de entrar em
 > A [Embracon](https://www.embracon.com.br/) está entre as maiores administradoras de consórcios do país, segundo o ranking do Banco Central. Agora que você já tirou as suas dúvidas, é um bom momento para[ simular o consórcio](https://www.embracon.com.br/consorcio). Escolha o seu bem, prazo e o valor das [parcelas](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) e contrate!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

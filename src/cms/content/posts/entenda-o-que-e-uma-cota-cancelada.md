@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda o que é uma cota cancelada
-        slug: entenda-o-que-e-uma-cota-cancelada
-        categoria: Cotas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-o-que-e-uma-cota-cancelada.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Até mesmo a pessoa mais organizada pode passar por problemas financeiros — não existe quem esteja livre dessa situação. E quando passamos por um momento de crise, devemos cortar qualquer tipo de gasto para evitarmos ter a [cota cancelada](https://www.embracon.com.br/conhecaoconsorcio/como-funciona-o-cancelamento-da-minha-cota#:~:text=Todos%20os%20meses%20nas%20assembleias,pagos%20conforme%20as%20condi%C3%A7%C3%B5es%20previstas.).
+titulo: Entenda o que é uma cota cancelada
+slug: entenda-o-que-e-uma-cota-cancelada
+categoria: Cotas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-o-que-e-uma-cota-cancelada.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Até mesmo a pessoa mais organizada pode passar por problemas financeiros — não existe quem esteja livre dessa situação. E quando passamos por um momento de crise, devemos cortar qualquer tipo de gasto para evitarmos ter a [cota cancelada](https://www.embracon.com.br/conhecaoconsorcio/como-funciona-o-cancelamento-da-minha-cota#:~:text=Todos%20os%20meses%20nas%20assembleias,pagos%20conforme%20as%20condi%C3%A7%C3%B5es%20previstas.).
 
 É bem provável que você já tenha ouvido falar de [consórcio](https://www.embracon.com.br/blog/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio), não é verdade? Essa modalidade de compra tem ficado cada vez mais popular, na contramão da crise enfrentada pelo país. Por isso, você sabe como fazer o cancelamento dessa modalidade ou que consequências isso acarreta?
 
@@ -197,4 +197,3 @@ Sem contar que o valor guardado também ajudará quando finalmente conseguir a c
 Esperamos que este texto tenha respondido as suas dúvidas em relação a cota cancelada, vendas, transferências ou documentação do consórcio. Seja o contrato para investir em móveis, imóveis, automóveis ou até mesmo em serviços. Qualquer um pode passar por uma crise financeira, mas é importante saber como lidar com a situação. Sendo assim, se for preciso, releia atentamente cada tópico apresentado para não ter que abrir mão do investimento de seu sonho. Estruture um planejamento e conquiste o que deseja!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=cota_cancelada&utm_campaign=publicacoes_blog)</figure>
-        

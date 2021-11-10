@@ -1,14 +1,14 @@
 ---
-        titulo: Volta ao mundo com consórcio de viagem
-        slug: volta-ao-mundo-com-consorcio-de-viagem
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/volta-ao-mundo-com-consorcio-de-viagem.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Você sempre sonhou em visitar a Disney ou uma ilha paradisíaca, mas nunca conseguiu economizar dinheiro para isso? Temos uma boa notícia: com a [Embracon](https://www.embracon.com.br/), você pode realizar esse sonho.
+titulo: Volta ao mundo com consórcio de viagem
+slug: volta-ao-mundo-com-consorcio-de-viagem
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/volta-ao-mundo-com-consorcio-de-viagem.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Você sempre sonhou em visitar a Disney ou uma ilha paradisíaca, mas nunca conseguiu economizar dinheiro para isso? Temos uma boa notícia: com a [Embracon](https://www.embracon.com.br/), você pode realizar esse sonho.
 
 Embora o consórcio seja conhecido pela compra de imóveis, carros ou motocicletas, a categoria de serviços vem ganhando adeptos. Cada vez mais pessoas escolhem essa forma de compra, geralmente porque não conseguem economizar.
 
@@ -116,4 +116,3 @@ O ideal é que você tenha recursos disponíveis durante a viagem, para [aprovei
 Seja para relaxar, ir com o espírito aventureiro de conhecer novas pessoas e lugares ou para proporcionar um momento inesquecível para a família, viajar é sempre uma experiência positiva. Com bastante flexibilidade, você pode contar com o consórcio para organizar aos poucos a sua próxima viagem, sem comprometer os seus rendimentos mensais durante o processo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas para escolher entre uma caminhonete ou um SUV
-        slug: 7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Encontrar o carro ideal para a família nem sempre é uma tarefa muito fácil e, quando a escolha é entre uma caminhonete ou SUV, isso se complica ainda mais. Ambos os modelos são muito úteis e até semelhantes em muitos aspectos, mas é preciso analisar muitos detalhes para que não haja arrependimentos.
+titulo: 7 dicas para escolher entre uma caminhonete ou um SUV
+slug: 7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Encontrar o carro ideal para a família nem sempre é uma tarefa muito fácil e, quando a escolha é entre uma caminhonete ou SUV, isso se complica ainda mais. Ambos os modelos são muito úteis e até semelhantes em muitos aspectos, mas é preciso analisar muitos detalhes para que não haja arrependimentos.
 
 Para facilitar um pouco a escolha entre uma caminhonete ou SUV, preparamos este material. Você vai conhecer 7 dicas que vão ajudar muito na hora da compra do seu carro ideal!
 
@@ -124,4 +124,3 @@ Independentemente do [tipo de automóvel](https://www.embracon.com.br/blog/como-
 As dicas apresentadas foram úteis? Então, não deixe de assinar nosso newsletter e ter acesso a ótimos conteúdos como este!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

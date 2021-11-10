@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para sair das dívidas
-        slug: dicas-para-sair-das-dividas
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-sair-das-dividas.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Como você controla os seus [gastos](https://www.embracon.com.br/blog/gastos-superfluos-e-essenciais-saiba-diferenciar)? Você possui algum investimento?
+titulo: Dicas para sair das dívidas
+slug: dicas-para-sair-das-dividas
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-sair-das-dividas.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Como você controla os seus [gastos](https://www.embracon.com.br/blog/gastos-superfluos-e-essenciais-saiba-diferenciar)? Você possui algum investimento?
 
 Cada pessoa tem a sua forma de responder a essas perguntas. Afinal, cada um sabe onde o calo aperta quando se trata de despesas.
 
@@ -262,4 +262,3 @@ Entenda seu orçamento pessoal como uma jornada. No começo, pode ser difícil l
 Nesse sentido, você pode considerar o consórcio de diferentes formas: para[ investir em estudos](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon) e no seu desenvolvimento profissional, por exemplo. Ou, se quiser comprar bens de alto valor, pode[ trocar de automóvel](https://www.embracon.com.br/blog/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar) ou finalmente dar início à [compra da casa dos seus sonhos](https://www.embracon.com.br/blog/guia-completo-consorcio-imobiliario), sem ter que comprometer demais seus rendimentos mensais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

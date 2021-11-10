@@ -1,14 +1,14 @@
 ---
-        titulo: Vantagens de morar em casa pequena
-        slug: vantagens-de-morar-em-casa-pequena
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vantagens-de-morar-em-casa-pequena.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Essa é uma coisa nova para a maioria das pessoas, estamos aprendendo a viver com menos bens materiais e com mais qualidade, e isso tem sido um desafio constante, que pode se refletir na experiência de morar em uma casa pequena.
+titulo: Vantagens de morar em casa pequena
+slug: vantagens-de-morar-em-casa-pequena
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vantagens-de-morar-em-casa-pequena.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Essa é uma coisa nova para a maioria das pessoas, estamos aprendendo a viver com menos bens materiais e com mais qualidade, e isso tem sido um desafio constante, que pode se refletir na experiência de morar em uma casa pequena.
 
 Cada vez mais diversificados, os empreendimentos menores estão aos poucos ganhando o coração de diferentes públicos e seus objetivos, além de aliar essa característica a condições de pagamento compatíveis com o [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) do comprador. Para poder te ajudar na avaliação das opções, listamos hoje os motivos para morar em uma casa pequena e como você pode adquiri-la por meio de um consórcio.
 
@@ -85,4 +85,3 @@ No momento em que for contemplado por sorteio ou por lance, o consorciado recebe
 > E você, o que acha de morar em uma casa pequena? [Faça a sua simulação](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=vantagens_de_morar_em_casa_pequena&utm_campaign=publicacoes_blog) com a Embracon e confira!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=vantagens_de_morar_em_casa_pequena&utm_campaign=publicacoes_blog)</figure>
-        

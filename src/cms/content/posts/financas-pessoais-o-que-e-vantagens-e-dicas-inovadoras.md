@@ -1,14 +1,14 @@
 ---
-        titulo: Finanças pessoais – o que é, vantagens e dicas inovadoras
-        slug: financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Aprender a cuidar das finanças pessoais é um movimento fundamental, pois o seu descontrole afeta todas as áreas do nosso cotidiano; sem falar no estresse, que prejudica a concentração no trabalho, estudos e relacionamentos.
+titulo: Finanças pessoais – o que é, vantagens e dicas inovadoras
+slug: financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Aprender a cuidar das finanças pessoais é um movimento fundamental, pois o seu descontrole afeta todas as áreas do nosso cotidiano; sem falar no estresse, que prejudica a concentração no trabalho, estudos e relacionamentos.
 
 Sabemos que a maioria da população não possui o hábito de acompanhar os seus gastos, e isso faz com que uma parcela de suas finanças pessoais esteja sempre comprometida.
 
@@ -94,4 +94,3 @@ A partir daí, você pode usar as novas ferramentas para facilitar o processo - 
 Esse artigo foi escrito pela[ AEVO](https://aevo.com.br/), a maior plataforma de Gestão de Inovação da América Latina.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

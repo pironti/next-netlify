@@ -1,14 +1,14 @@
 ---
-        titulo: Confira 5 benefícios de fazer um consórcio para pós-graduação
-        slug: confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao.jpeg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Apesar da crise econômica vivenciada nos últimos anos, os brasileiros têm conseguido planejar melhor a realização dos seus sonhos. Uma das ferramentas mais buscadas para essa finalidade é o consórcio.
+titulo: Confira 5 benefícios de fazer um consórcio para pós-graduação
+slug: confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao.jpeg
+meta_summary: 
+date: 27/09/2021
+---
+Apesar da crise econômica vivenciada nos últimos anos, os brasileiros têm conseguido planejar melhor a realização dos seus sonhos. Uma das ferramentas mais buscadas para essa finalidade é o consórcio.
 
 Neste artigo, vamos mostrar as vantagens de fazer um [consórcio para pós-graduação](https://www.embracon.com.br/consorcio-servicos). Boa leitura!
 
@@ -78,4 +78,3 @@ Se você pensa em fazer uma pós-graduação e gostaria de optar pelo consórcio
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

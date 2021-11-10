@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas de investimento para quem ganha pouco dinheiro
-        slug: dicas-de-investimento-para-quem-ganha-pouco-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-de-investimento-para-quem-ganha-pouco-dinheiro.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Um dos maiores mitos quando se fala em investimento está relacionado à [quantidade de dinheiro para investir](https://www.embracon.com.br/blog/quanto-da-minha-renda-posso-investir). Você pode começar com muito pouco e, quando se vê, está mais longe do que imagina.
+titulo: Dicas de investimento para quem ganha pouco dinheiro
+slug: dicas-de-investimento-para-quem-ganha-pouco-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-de-investimento-para-quem-ganha-pouco-dinheiro.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Um dos maiores mitos quando se fala em investimento está relacionado à [quantidade de dinheiro para investir](https://www.embracon.com.br/blog/quanto-da-minha-renda-posso-investir). Você pode começar com muito pouco e, quando se vê, está mais longe do que imagina.
 
 Embora o ato de investir seja um desafio para o brasileiro como um todo, começar a [guardar dinheiro](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia) pode ser um processo mais fácil do que você imagina.
 
@@ -78,4 +78,3 @@ Não é preciso pagar entrada e, além do mais, [você não perde dinheiro com o
 A boa notícia é que você pode começar desde já a investir no consórcio: [faça uma simulação](https://www.embracon.com.br/) e aproveite desde já suas vantagens!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Os 15 principais carros do Brasil
-        slug: os-15-principais-carros-do-brasil
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-15-principais-carros-do-brasil.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Que o [brasileiro é um apaixonado por automóveis](https://www.embracon.com.br/blog/lancamentos-de-carros-neste-ano) não é segredo para ninguém! Ao longo dos anos, os motoristas já tiveram diversas ‘paixões’ nacionais: do lendário Fusca até chegar ao Chevrolet Onix, hoje o [carro mais vendido do país](https://www.embracon.com.br/blog/quais-sao-os-11-carros-2018-mais-baratos-do-brasil), muitos modelos já passaram por nossas estradas.
+titulo: Os 15 principais carros do Brasil
+slug: os-15-principais-carros-do-brasil
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-15-principais-carros-do-brasil.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Que o [brasileiro é um apaixonado por automóveis](https://www.embracon.com.br/blog/lancamentos-de-carros-neste-ano) não é segredo para ninguém! Ao longo dos anos, os motoristas já tiveram diversas ‘paixões’ nacionais: do lendário Fusca até chegar ao Chevrolet Onix, hoje o [carro mais vendido do país](https://www.embracon.com.br/blog/quais-sao-os-11-carros-2018-mais-baratos-do-brasil), muitos modelos já passaram por nossas estradas.
 
 Em mais de 60 anos de história, a relação do brasileiro com o carro popular vem sendo moldada. Foi assim que diversos modelos foram surgindo no mercado: [o famoso carro hatch, passando pela euforia dos sedãs pequenos](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas) até chegar às SUVs, que hoje são as queridinhas no mercado automotivo.
 
@@ -191,4 +191,3 @@ Com paciência e bastante planejamento, o consórcio se apresenta como a melhor 
 Portanto, comece desde já a realizar o sonho de um modelo novo na garagem. [Faça uma simulação de consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros); logo, um dos principais carros do Brasil pode ser seu!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

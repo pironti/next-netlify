@@ -1,14 +1,14 @@
 ---
-        titulo: Como organizar a vida financeira para uma aposentadoria tranquila?
-        slug: como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Trabalhamos na maior parte de nossas vidas. Damos duro, passamos por diversos cargos, empresas e funções. Organizamos toda a nossa [vida financeira](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) a partir do que conquistamos mensalmente com o nosso salário.
+titulo: Como organizar a vida financeira para uma aposentadoria tranquila?
+slug: como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Trabalhamos na maior parte de nossas vidas. Damos duro, passamos por diversos cargos, empresas e funções. Organizamos toda a nossa [vida financeira](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) a partir do que conquistamos mensalmente com o nosso salário.
 
 Porém, sabemos que isso não é suficiente. Não dá pra gastar tudo o que ganha em um mês, senão corremos o risco de [contrair mais dívidas](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal) e estar desamparado quando algo mais grave acontecer: **seja o desemprego de alguém da família, uma doença que afeta um parente distante ou o aumento dos preços do que costumamos consumir**.
 
@@ -211,4 +211,3 @@ Não é porque o brasileiro deixa de se preocupar com a velhice que você deveri
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) no nosso site: você verá que são muitas as oportunidades que o consórcio oferece para ampliar seu patrimônio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

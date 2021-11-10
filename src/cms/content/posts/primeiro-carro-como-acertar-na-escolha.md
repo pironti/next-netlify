@@ -1,14 +1,14 @@
 ---
-        titulo: Primeiro carro: como acertar na escolha
-        slug: primeiro-carro-como-acertar-na-escolha
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/primeiro-carro-como-acertar-na-escolha.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Correr para alcançar o ônibus ou disputar por um lugar no metrô são tarefas presentes no cotidiano dos brasileiros. Embora usar transporte público seja mais barato do que [manter um automóvel](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), é muito mais confortável ir e voltar do trabalho com ar-condicionado — ou aquecedor — e com aquela música que a gente adora no último volume, não é mesmo? Por esse motivo, você decidiu que abandonaria os ônibus, trens e metrôs e, finalmente, realizaria o grande sonho de comprar o seu primeiro carro, mas você sabe como escolher o [veículo perfeito](https://www.embracon.com.br/blog/carro-ideal-para-familia) diante de tantas opções?
+titulo: Primeiro carro: como acertar na escolha
+slug: primeiro-carro-como-acertar-na-escolha
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/primeiro-carro-como-acertar-na-escolha.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Correr para alcançar o ônibus ou disputar por um lugar no metrô são tarefas presentes no cotidiano dos brasileiros. Embora usar transporte público seja mais barato do que [manter um automóvel](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), é muito mais confortável ir e voltar do trabalho com ar-condicionado — ou aquecedor — e com aquela música que a gente adora no último volume, não é mesmo? Por esse motivo, você decidiu que abandonaria os ônibus, trens e metrôs e, finalmente, realizaria o grande sonho de comprar o seu primeiro carro, mas você sabe como escolher o [veículo perfeito](https://www.embracon.com.br/blog/carro-ideal-para-familia) diante de tantas opções?
 
 Pensando em esclarecer essa questão, elaboramos uma checklist incrível com todos os pontos que o piloto de primeira viagem deve se atentar antes de adquirir o seu tão sonhado [automóvel](https://www.embracon.com.br/blog/carro-zero-ou-seminovo). Confira! ​
 
@@ -129,4 +129,3 @@ Gostou das nossas dicas sobre como acertar na compra do primeiro carro? Seguindo
 [Faça uma simulação](https://www.embracon.com.br/consorcio) de [Consórcio de Automóveis](https://www.embracon.com.br/consorcio-de-carros)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: As melhores dicas para economizar na hora de comprar material escolar
-        slug: as-melhores-dicas-para-economizar-na-hora-de-comprar-material-escolar
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-melhores-dicas-para-economizar-na-hora-de-comprar-material-escolar.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O ano escolar está começando e com ele vem a compra do material escolar das crianças. Essa tarefa muitas vezes, se não feita de forma planejada e com antecedência, pode significar um rombo no [orçamento](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro). Para ajudar nessa missão, montamos uma lista de dicas para economizar nessa hora e fazer bons negócios. Confira a seguir.
+titulo: As melhores dicas para economizar na hora de comprar material escolar
+slug: as-melhores-dicas-para-economizar-na-hora-de-comprar-material-escolar
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-melhores-dicas-para-economizar-na-hora-de-comprar-material-escolar.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O ano escolar está começando e com ele vem a compra do material escolar das crianças. Essa tarefa muitas vezes, se não feita de forma planejada e com antecedência, pode significar um rombo no [orçamento](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro). Para ajudar nessa missão, montamos uma lista de dicas para economizar nessa hora e fazer bons negócios. Confira a seguir.
 
 Reciclar
 --------
@@ -80,4 +80,3 @@ O consórcio pode te ajudar na hora de fazer as contas para o pagamento da escol
 > Quer saber mais? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja todos os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

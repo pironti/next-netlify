@@ -1,14 +1,14 @@
 ---
-        titulo: Como o cheque especial afeta a sua vida?
-        slug: como-o-cheque-especial-afeta-a-sua-vida
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-o-cheque-especial-afeta-a-sua-vida.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Apesar de ajudar a lidar com algumas contas do dia a dia, o cheque especial ainda é uma modalidade que gera muitas dúvidas nos brasileiros.
+titulo: Como o cheque especial afeta a sua vida?
+slug: como-o-cheque-especial-afeta-a-sua-vida
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-o-cheque-especial-afeta-a-sua-vida.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Apesar de ajudar a lidar com algumas contas do dia a dia, o cheque especial ainda é uma modalidade que gera muitas dúvidas nos brasileiros.
 
 Utilizado por quem tem conta em alguma instituição financeira, o cheque especial nada mais é do que o acesso a um[ valor ‘emprestado’ pelo banco](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes) - sem ter a necessidade de se pedir o empréstimo.
 
@@ -62,4 +62,3 @@ Lembre-se sempre de deixar a [reserva de emergência](https://www.embracon.com.b
 Quer receber mais dicas de finanças pessoais? Confira o nosso [passo a passo para você começar a investir mesmo com pouco dinheiro.](https://www.embracon.com.br/blog/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como identificar combustível adulterado
-        slug: como-identificar-combustivel-adulterado
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-identificar-combustivel-adulterado.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Se você abastece seu carro em qualquer posto de [gasolina ](https://www.embracon.com.br/blog/como-economizar-em-tempos-de-gasolina-tao-cara)e nunca teve problemas com ***combustível*** adulterado, você está com sorte, já que no Brasil é muito comum encontrar motoristas reclamando deste problema.
+titulo: Como identificar combustível adulterado
+slug: como-identificar-combustivel-adulterado
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-identificar-combustivel-adulterado.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Se você abastece seu carro em qualquer posto de [gasolina ](https://www.embracon.com.br/blog/como-economizar-em-tempos-de-gasolina-tao-cara)e nunca teve problemas com ***combustível*** adulterado, você está com sorte, já que no Brasil é muito comum encontrar motoristas reclamando deste problema.
 
 A baixa qualidade do combustível pode danificar componentes importantes do motor do [veículo](https://www.embracon.com.br/blog/planejamento-financeiro-para-a-compra-de-um-carro) e causar grandes perdas, sem reparos. Para evitar que isso aconteça, você precisa saber como identificar combustível de alta qualidade e aquele que foi adulterado. Existem alguns métodos que você pode usar para identificar se o combustível que você está usando é adulterado, acompanhe.
 
@@ -87,4 +87,3 @@ Se você acha que o problema da gasolina adulterada ou de outros combustíveis �
 Vale ressaltar que, para [todos os veículos](https://www.embracon.com.br/blog/consorcio-de-carro-seminovo-vale-a-pena) é essencial substituir os filtros de combustível no prazo recomendado pelo fabricante. É importante também saber o consumo médio de combustível do seu veículo. Se você achar que o desempenho caiu após abastecer em algum lugar, troque de posto.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

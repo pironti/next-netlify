@@ -1,14 +1,14 @@
 ---
-        titulo: Qual é a melhor carta de crédito para moto
-        slug: qual-e-a-melhor-carta-de-credito-para-moto
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-e-a-melhor-carta-de-credito-para-moto.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/blog/como-entrar-em-um-consorcio) tornou-se uma das formas mais procuradas pelos brasileiros para adquirir e investir em bens e serviços que geralmente são considerados caros, como automóveis, motos, casas e até [viagens internacionais](https://www.embracon.com.br/blog/guia-completo-sobre-o-consorcio-de-viagens).
+titulo: Qual é a melhor carta de crédito para moto
+slug: qual-e-a-melhor-carta-de-credito-para-moto
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-e-a-melhor-carta-de-credito-para-moto.jpg
+meta_summary: 
+date: 09/11/2021
+---
+O [consórcio](https://www.embracon.com.br/blog/como-entrar-em-um-consorcio) tornou-se uma das formas mais procuradas pelos brasileiros para adquirir e investir em bens e serviços que geralmente são considerados caros, como automóveis, motos, casas e até [viagens internacionais](https://www.embracon.com.br/blog/guia-completo-sobre-o-consorcio-de-viagens).
 
 Você sabe como funciona o [consórcio de motos](https://www.embracon.com.br/blog/faca-o-consorcio-de-moto-e-realize-seu-sonho)? É muito simples. Esta é uma forma de compra, você pode providenciar a aquisição de mercadorias sem pagar entrada ou [juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). Com a ajuda desse sistema, você pode ajustar mais facilmente suas metas de acordo com seu plano financeiro.
 
@@ -49,4 +49,3 @@ A oferta deve ser enviada em algum momento antes da assembleia, informando o per
 Deseja adquirir sua carta de crédito para [moto](https://www.embracon.com.br/blog/conheca-as-melhores-motos-do-mercado)? Não perca tempo, faça sua simulação com o Consórcio Embracon e adquira já a sua!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

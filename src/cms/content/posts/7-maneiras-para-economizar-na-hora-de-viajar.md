@@ -1,14 +1,14 @@
 ---
-        titulo: 7 maneiras para economizar na hora de viajar
-        slug: 7-maneiras-para-economizar-na-hora-de-viajar
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-maneiras-para-economizar-na-hora-de-viajar.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Viajar é um dos maiores prazeres da vida. Ter a oportunidade de [conhecer novos lugares](https://www.embracon.com.br/blog/3-lugares-incriveis-para-viajar-de-carro), fazer novas amizades e explorar lugares diferentes podem fazer um bem danado para a nossa saúde.
+titulo: 7 maneiras para economizar na hora de viajar
+slug: 7-maneiras-para-economizar-na-hora-de-viajar
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-maneiras-para-economizar-na-hora-de-viajar.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Viajar é um dos maiores prazeres da vida. Ter a oportunidade de [conhecer novos lugares](https://www.embracon.com.br/blog/3-lugares-incriveis-para-viajar-de-carro), fazer novas amizades e explorar lugares diferentes podem fazer um bem danado para a nossa saúde.
 
 Entre os benefícios estão: passar mais tempo com a família, [promover o bem-estar entre o corpo e a mente](https://www.embracon.com.br/blog/4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano), que às vezes precisa relaxar das correrias do dia a dia, e até mesmo melhorar o relacionamento entre o casal e os filhos.
 
@@ -86,4 +86,3 @@ E aí, já começou a fazer as malas para a sua próxima viagem? Sabia que você
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=maneiras_para_economizar_na_hora_de_viajar&utm_campaign=publicacoes_blog)</figure>‍  
 
 ----
-        

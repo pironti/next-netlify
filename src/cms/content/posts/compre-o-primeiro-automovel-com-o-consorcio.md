@@ -1,14 +1,14 @@
 ---
-        titulo: Compre o primeiro automóvel com o consórcio
-        slug: compre-o-primeiro-automovel-com-o-consorcio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/compre-o-primeiro-automovel-com-o-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Nos dias de hoje temos muito mais acesso à informação para saber [qual carro queremos comprar.](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) Você pode acessar sites especializados sobre automóveis, vídeos no YouTube de motoristas fazendo reviews dos modelos atuais ou até mesmo entrar em contato direto com as montadoras para saber mais sobre o modelo que deseja comprar.
+titulo: Compre o primeiro automóvel com o consórcio
+slug: compre-o-primeiro-automovel-com-o-consorcio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/compre-o-primeiro-automovel-com-o-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Nos dias de hoje temos muito mais acesso à informação para saber [qual carro queremos comprar.](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) Você pode acessar sites especializados sobre automóveis, vídeos no YouTube de motoristas fazendo reviews dos modelos atuais ou até mesmo entrar em contato direto com as montadoras para saber mais sobre o modelo que deseja comprar.
 
 A [compra do primeiro automóvel](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha) geralmente traz um frio na barriga. Será que o carro que quero realmente vai atender ao que preciso? Será que não irei me decepcionar com ele?
 
@@ -69,4 +69,3 @@ Se precisar do carro para trabalhar, vale a pena [optar por um mais econômico](
 > Agora que você já sabe de todas as vantagens de investir no primeiro carro com o consórcio, [faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) e desfrute de todas as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>‍
-        

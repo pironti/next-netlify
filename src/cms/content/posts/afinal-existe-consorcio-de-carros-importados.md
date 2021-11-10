@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, existe consórcio de carros importados?
-        slug: afinal-existe-consorcio-de-carros-importados
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-existe-consorcio-de-carros-importados.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Sabe aqueles [veículos](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon) arrojados, com um design esportivo ou motor mais potente, mas que você não pode comprar no Brasil? Sim, os carros importados chamam a atenção de muitas pessoas, mas nem sempre são acessíveis, principalmente por serem mais caros que a média.
+titulo: Afinal, existe consórcio de carros importados?
+slug: afinal-existe-consorcio-de-carros-importados
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-existe-consorcio-de-carros-importados.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Sabe aqueles [veículos](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon) arrojados, com um design esportivo ou motor mais potente, mas que você não pode comprar no Brasil? Sim, os carros importados chamam a atenção de muitas pessoas, mas nem sempre são acessíveis, principalmente por serem mais caros que a média.
 
 Porém, isso não significa que você deva desistir do seu. Basta procurar um [consórcio de carros](https://www.embracon.com.br/blog/vantagens-consorcio-automovel) importados e fechar negócio.
 
@@ -88,4 +88,3 @@ A única forma de conseguir o veículo rápido e pelo melhor preço seria pagar 
 Agora que você entende melhor como funciona o consórcio de carros importados pode decidir se esse é o método ideal para trazer seu novo veículo para o Brasil. Se quiser continuar acompanhando nossas melhores dicas, assine a nossa newsletter e receba tudo em primeira mão.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

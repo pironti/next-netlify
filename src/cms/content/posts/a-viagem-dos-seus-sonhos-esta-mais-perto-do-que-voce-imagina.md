@@ -1,14 +1,14 @@
 ---
-        titulo: A viagem dos seus sonhos está mais perto do que você imagina
-        slug: a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Viajar tem sido primordial para a maioria das pessoas, seja para conhecer mais as [cidades do nosso Brasil ou ir para o exterior](https://www.embracon.com.br/blog/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo). Embora o número de viajantes tenha aumentado nos últimos anos, muita gente ainda têm dificuldades de sair de casa, na maioria das vezes por questões financeiras.
+titulo: A viagem dos seus sonhos está mais perto do que você imagina
+slug: a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Viajar tem sido primordial para a maioria das pessoas, seja para conhecer mais as [cidades do nosso Brasil ou ir para o exterior](https://www.embracon.com.br/blog/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo). Embora o número de viajantes tenha aumentado nos últimos anos, muita gente ainda têm dificuldades de sair de casa, na maioria das vezes por questões financeiras.
 
 Conforme a Pnad (Pesquisa Nacional por Amostra de Domicílios) divulgada pelo IBGE (Instituto Brasileiro de Geografia e Estatística), apenas [duas em cada 10 famílias conseguem viajar](https://www.uol.com.br/nossa/noticias/agencia-estado/2020/08/12/brasileiros-nao-tem-dinheiro-para-viajar-ibge.htm), independente do período do ano. E a maioria confirma que o dinheiro é o principal problema.
 
@@ -89,4 +89,3 @@ Também é possível utilizar a carta de consórcio de viagens para essa finalid
 Existem inúmeras formas para realizar a viagem dos seus sonhos e a Embracon está disponível para te ajudar nessa jornada.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

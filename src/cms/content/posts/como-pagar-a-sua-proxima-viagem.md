@@ -1,14 +1,14 @@
 ---
-        titulo: Como pagar a sua próxima viagem?
-        slug: como-pagar-a-sua-proxima-viagem
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-pagar-a-sua-proxima-viagem.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Ter a possibilidade de viajar pelo menos uma vez por ano é um dos maiores sonhos de todos os brasileiros. Porém, [segundo uma pesquisa da Pnad](https://www.uol.com.br/nossa/noticias/agencia-estado/2020/08/12/brasileiros-nao-tem-dinheiro-para-viajar-ibge.htm) (Pesquisa Nacional por Amostra de Domicílios) Contínua Turismo 2019, divulgada pelo IBGE (Instituto Brasileiro de Geografia e Estatística), somente duas em cada 10 famílias conseguem viajar. O maior motivo alegado para não viajar é a [falta de dinheiro](https://www.embracon.com.br/blog/perda-de-renda-como-lidar) (apontado por 49% das pessoas que participaram da pesquisa).
+titulo: Como pagar a sua próxima viagem?
+slug: como-pagar-a-sua-proxima-viagem
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-pagar-a-sua-proxima-viagem.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Ter a possibilidade de viajar pelo menos uma vez por ano é um dos maiores sonhos de todos os brasileiros. Porém, [segundo uma pesquisa da Pnad](https://www.uol.com.br/nossa/noticias/agencia-estado/2020/08/12/brasileiros-nao-tem-dinheiro-para-viajar-ibge.htm) (Pesquisa Nacional por Amostra de Domicílios) Contínua Turismo 2019, divulgada pelo IBGE (Instituto Brasileiro de Geografia e Estatística), somente duas em cada 10 famílias conseguem viajar. O maior motivo alegado para não viajar é a [falta de dinheiro](https://www.embracon.com.br/blog/perda-de-renda-como-lidar) (apontado por 49% das pessoas que participaram da pesquisa).
 
 De fato, quando falamos em viajar, lugares não faltam para visitar: é possível ir para o [litoral mais próximo](https://www.embracon.com.br/blog/conheca-as-sete-melhores-praias-de-ilhabela), passear pela Amazônia, conhecer cidades diferentes do país ou até mesmo ir para o estrangeiro.
 
@@ -229,4 +229,3 @@ Deu pra perceber que o consórcio de serviços é a melhor forma de planejar a s
 Portanto, [faça uma simulação na Embracon](https://www.embracon.com.br/consorcio-servicos) e comece desde já a pagar por um momento incrível com todos da sua família, seja pelo Brasil ou em algum país estrangeiro.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer uma reserva de emergência
-        slug: como-fazer-uma-reserva-de-emergencia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-uma-reserva-de-emergencia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        [Uma boa saúde financeira](https://www.embracon.com.br/blog/guia-de-como-manter-sua-saude-financeira-saudavel) é a meta de dez entre dez brasileiros. Não estar preocupado com contas, gastos, e dívidas é capaz de fazer qualquer pessoa se sentir mais segura e até capaz de fazer planos palpáveis que incluem um futuro com mais estrutura e sonhos. Pensando nisso, juntamos algumas dicas para quem quer ter uma reserva de emergência para todos os momentos da vida. Confira a seguir:
+titulo: Como fazer uma reserva de emergência
+slug: como-fazer-uma-reserva-de-emergencia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-uma-reserva-de-emergencia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+[Uma boa saúde financeira](https://www.embracon.com.br/blog/guia-de-como-manter-sua-saude-financeira-saudavel) é a meta de dez entre dez brasileiros. Não estar preocupado com contas, gastos, e dívidas é capaz de fazer qualquer pessoa se sentir mais segura e até capaz de fazer planos palpáveis que incluem um futuro com mais estrutura e sonhos. Pensando nisso, juntamos algumas dicas para quem quer ter uma reserva de emergência para todos os momentos da vida. Confira a seguir:
 
 Compreenda a fragilidade do cenário atual
 -----------------------------------------
@@ -56,4 +56,3 @@ Não se esqueça da possibilidade de fazer um consórcio, você começa a poupar
 > Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> ‍
-        

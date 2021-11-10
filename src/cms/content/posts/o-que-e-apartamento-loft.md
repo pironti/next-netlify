@@ -1,14 +1,14 @@
 ---
-        titulo: O que é apartamento loft?
-        slug: o-que-e-apartamento-loft
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-apartamento-loft.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quando se fala de apartamentos compactos, é comum algumas pessoas confundirem, por exemplo, o significado de [loft e kitnet](https://www.embracon.com.br/blog/qual-a-diferenca-entre-flat-e-kitnet).
+titulo: O que é apartamento loft?
+slug: o-que-e-apartamento-loft
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-apartamento-loft.png
+meta_summary: 
+date: 06/10/2021
+---
+Quando se fala de apartamentos compactos, é comum algumas pessoas confundirem, por exemplo, o significado de [loft e kitnet](https://www.embracon.com.br/blog/qual-a-diferenca-entre-flat-e-kitnet).
 
 Resumidamente, o loft trata-se de um espaço com o pé-direito elevado, ar industrial e ideia de um espaço único para todos os cômodos da casa. Em poucas palavras, é um apartamento que parece um estúdio, valoriza a iluminação natural e separa os ambientes a partir dos próprios objetos.
 
@@ -37,4 +37,3 @@ Pelo [consórcio](https://www.embracon.com.br), não é preciso pagar valor de e
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb04ecd82cd6e55181d1097_CTA-CASA.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>[Faça uma simulação de consórcio](https://www.embracon.com.br/consorcio-de-imoveis) e comece, desde já, a investir em seu novo apartamento loft.
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

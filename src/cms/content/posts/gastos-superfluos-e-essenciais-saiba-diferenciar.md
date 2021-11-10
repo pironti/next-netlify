@@ -1,14 +1,14 @@
 ---
-        titulo: Gastos supérfluos e essenciais: saiba diferenciar
-        slug: gastos-superfluos-e-essenciais-saiba-diferenciar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/gastos-superfluos-e-essenciais-saiba-diferenciar.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Uma das maiores dificuldades dos brasileiros é conseguir juntar dinheiro. Pesquisa da fintech Acordo Certo identificou que [56% dos brasileiros não se organizam para fazer uma reserva](https://exame.com/invest/56-dos-brasileiros-tem-dificuldades-para-guardar-dinheiro/). E, quando se fala em planejamento, 50% das pessoas não sabem nem por onde começar.
+titulo: Gastos supérfluos e essenciais: saiba diferenciar
+slug: gastos-superfluos-e-essenciais-saiba-diferenciar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/gastos-superfluos-e-essenciais-saiba-diferenciar.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Uma das maiores dificuldades dos brasileiros é conseguir juntar dinheiro. Pesquisa da fintech Acordo Certo identificou que [56% dos brasileiros não se organizam para fazer uma reserva](https://exame.com/invest/56-dos-brasileiros-tem-dificuldades-para-guardar-dinheiro/). E, quando se fala em planejamento, 50% das pessoas não sabem nem por onde começar.
 
 Existem diversos motivos para isso: o valor do salário, as [despesas de casa](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica), o fato de ter que lidar com as dificuldades por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
 
@@ -87,4 +87,3 @@ Quer aprender como montar a sua? [Então confira o nosso post especial com dicas
 > E já pensou no consórcio como investimento? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=gastos_superfluos_e_essenciais&utm_campaign=publicacoes_blog) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=gastos_superfluos_e_essenciais&utm_campaign=publicacoes_blog)</figure>
-        

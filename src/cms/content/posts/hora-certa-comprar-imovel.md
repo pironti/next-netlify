@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, qual é a hora certa de comprar um imóvel?
-        slug: hora-certa-comprar-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/hora-certa-comprar-imovel.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é um dos itens mais recorrentes na lista de desejos de qualquer pessoa. Não faltam pessoas sonhando com o tão desejado [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento) ou uma casa aconchegante daqui a 5 ou 10 anos.
+titulo: Afinal, qual é a hora certa de comprar um imóvel?
+slug: hora-certa-comprar-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/hora-certa-comprar-imovel.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é um dos itens mais recorrentes na lista de desejos de qualquer pessoa. Não faltam pessoas sonhando com o tão desejado [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento) ou uma casa aconchegante daqui a 5 ou 10 anos.
 
 Porém, como você já deve saber, [comprar um imóvel](https://www.embracon.com.br/consorcio-de-imoveis) não é tarefa fácil.Se você não se preparar para fazer tudo na hora certa, vai perder bastante dinheiro. A questão é: quando chega essa “[hora certa](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento)”?
 
@@ -100,4 +100,3 @@ Para entender ainda mais sobre o mercado imobiliário e formas de aquisição va
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

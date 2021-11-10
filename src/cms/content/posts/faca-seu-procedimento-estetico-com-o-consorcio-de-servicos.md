@@ -1,14 +1,14 @@
 ---
-        titulo: Faça seu procedimento estético com o consórcio de serviços
-        slug: faca-seu-procedimento-estetico-com-o-consorcio-de-servicos
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faca-seu-procedimento-estetico-com-o-consorcio-de-servicos.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        O brasileiro é intensamente preocupado com a sua estética e beleza. Um [levantamento realizado em 2016 pelo Serviço de Proteção ao Crédito](https://economia.uol.com.br/noticias/redacao/2016/06/23/estudo-para-66-dos-brasileiros-gasto-com-beleza-e-necessidade-e-nao-luxo.htm) (SPC Brasil) revelou que 66% das pessoas acham que cuidar da beleza é uma necessidade, e não um luxo. Para quase metade das pessoas entrevistadas, usar o dinheiro para a melhora da aparência física se trata de um investimento que vale muito a pena.
+titulo: Faça seu procedimento estético com o consórcio de serviços
+slug: faca-seu-procedimento-estetico-com-o-consorcio-de-servicos
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faca-seu-procedimento-estetico-com-o-consorcio-de-servicos.jpg
+meta_summary: 
+date: 07/10/2021
+---
+O brasileiro é intensamente preocupado com a sua estética e beleza. Um [levantamento realizado em 2016 pelo Serviço de Proteção ao Crédito](https://economia.uol.com.br/noticias/redacao/2016/06/23/estudo-para-66-dos-brasileiros-gasto-com-beleza-e-necessidade-e-nao-luxo.htm) (SPC Brasil) revelou que 66% das pessoas acham que cuidar da beleza é uma necessidade, e não um luxo. Para quase metade das pessoas entrevistadas, usar o dinheiro para a melhora da aparência física se trata de um investimento que vale muito a pena.
 
 Ciente desse novo cenário, as [administradoras de consórcio](https://www.embracon.com.br/blog/afinal-o-que-uma-administradora-de-consorcio-faz) passaram a dar a possibilidade de investir na parte estética. Com a [utilização da carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), da mesma forma que se pode investir em um [automóvel ou imóvel](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), é possível ter o consórcio como aliado para fazer qualquer tipo de procedimento estético.
 
@@ -63,4 +63,3 @@ A [carta de crédito tem poder de compra à vista](https://www.embracon.com.br/b
 Conte com o consórcio para fazer o seu procedimento estético. [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e aproveite as vantagens de uma modalidade flexível e que pode realizar os seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

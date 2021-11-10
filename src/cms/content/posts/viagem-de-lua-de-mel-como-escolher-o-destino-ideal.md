@@ -1,14 +1,14 @@
 ---
-        titulo: Viagem de lua de mel: como escolher o destino ideal?
-        slug: viagem-de-lua-de-mel-como-escolher-o-destino-ideal
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/viagem-de-lua-de-mel-como-escolher-o-destino-ideal.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Hoje em dia, os casais já não sonham somente com organizar uma [festa grandiosa de casamento](https://www.embracon.com.br/blog/festa-de-casamento-grande-ou-pequena-como-escolher). Isso porque uma das melhores partes dos preparativos é[ roteirizar a viagem](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) de lua de mel. Afinal, os pombinhos esperam curtir bons momentos a sós, não é mesmo?
+titulo: Viagem de lua de mel: como escolher o destino ideal?
+slug: viagem-de-lua-de-mel-como-escolher-o-destino-ideal
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/viagem-de-lua-de-mel-como-escolher-o-destino-ideal.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Hoje em dia, os casais já não sonham somente com organizar uma [festa grandiosa de casamento](https://www.embracon.com.br/blog/festa-de-casamento-grande-ou-pequena-como-escolher). Isso porque uma das melhores partes dos preparativos é[ roteirizar a viagem](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) de lua de mel. Afinal, os pombinhos esperam curtir bons momentos a sós, não é mesmo?
 
 Depois de viver o momento inesquecível, é hora de relaxar e partir para uma encantadora viagem. A [lua de mel](https://www.embracon.com.br/blog/5-melhores-destinos-para-visitar-na-sua-lua-de-mel) pode ser cercada de romantismo, diversão ou, até mesmo, de muita aventura. Tudo depende do estilo do casal!
 
@@ -49,4 +49,3 @@ Que tal, gostou das dicas sobre como definir a [viagem lua de mel](https://www.y
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

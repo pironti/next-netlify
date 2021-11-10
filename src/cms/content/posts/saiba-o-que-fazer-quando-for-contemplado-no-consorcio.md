@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que fazer quando for contemplado no consórcio
-        slug: saiba-o-que-fazer-quando-for-contemplado-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-fazer-quando-for-contemplado-no-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Para muitas pessoas, não existe alegria maior do que aquela proporcionada pela realização de um sonho. Isso se deve à sensação de vitória, pois o planejamento e o esforço valeram a pena e foram recompensados pela aquisição do bem almejado.
+titulo: Saiba o que fazer quando for contemplado no consórcio
+slug: saiba-o-que-fazer-quando-for-contemplado-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-fazer-quando-for-contemplado-no-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Para muitas pessoas, não existe alegria maior do que aquela proporcionada pela realização de um sonho. Isso se deve à sensação de vitória, pois o planejamento e o esforço valeram a pena e foram recompensados pela aquisição do bem almejado.
 
 Ao ser contemplado, o consorciado terá sensações como essas. Isso por que não sentirá mais a ansiedade por ser sorteado e terá a certeza da realização dos seus sonhos. No entanto, passada a euforia, é comum surgirem dúvidas sobre o que fazer.
 
@@ -156,4 +156,3 @@ Em resumo, caso seja contemplado, após análise da [administradora](https://www
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=contemplado_no_consorcio&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

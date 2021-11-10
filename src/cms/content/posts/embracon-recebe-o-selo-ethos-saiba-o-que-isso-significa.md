@@ -1,14 +1,14 @@
 ---
-        titulo: Embracon se associa ao Instituto Ethos; saiba o que isso significa
-        slug: embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        A Embracon é a primeira [administradora de consórcio](https://www.embracon.com.br/blog/como-escolher-uma-administradora-de-consorcio) a se associar ao Instituto Ethos, a principal referência em gestão de negócios comprometido com a responsabilidade social. Isso significa que a administradora adota uma série de boas práticas em relação à integridade, ética e sustentabilidade nos negócios.
+titulo: Embracon se associa ao Instituto Ethos; saiba o que isso significa
+slug: embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/embracon-recebe-o-selo-ethos-saiba-o-que-isso-significa.jpg
+meta_summary: 
+date: 30/09/2021
+---
+A Embracon é a primeira [administradora de consórcio](https://www.embracon.com.br/blog/como-escolher-uma-administradora-de-consorcio) a se associar ao Instituto Ethos, a principal referência em gestão de negócios comprometido com a responsabilidade social. Isso significa que a administradora adota uma série de boas práticas em relação à integridade, ética e sustentabilidade nos negócios.
 
 Para se associar, a Embracon precisou atender a princípios e compromissos essenciais, que orientam a relação entre a empresa e o[ Instituto Ethos](https://www.ethos.org.br/), e a partir de agora, amplia ainda mais seu programa de *Compliance* e Integridade, adotando também ações voltadas ao social e ambiental.
 
@@ -41,4 +41,3 @@ Além de fortalecer os processos de Compliance e da adoção de medidas de respo
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=instituto_ethos&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Aqui estão 5 motivos para incentivá-lo à fazer uma pós-graduação.
-        slug: pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O mercado de trabalho está cada vez mais exigente, sendo preciso corresponder às expectativas do segmento de formação. Uma das maneiras de se tornar mais competitivo é [fazer uma pós-graduação](https://www.embracon.com.br/blog/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao), o que amplia o conhecimento, além de diversas vantagens.Ao realizar um curso de especialização, lato sensu ou stricto sensu, é possível melhorar a carreira e alavancar a vida profissional.
+titulo: Aqui estão 5 motivos para incentivá-lo à fazer uma pós-graduação.
+slug: pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo.jpg
+meta_summary: 
+date: 06/10/2021
+---
+O mercado de trabalho está cada vez mais exigente, sendo preciso corresponder às expectativas do segmento de formação. Uma das maneiras de se tornar mais competitivo é [fazer uma pós-graduação](https://www.embracon.com.br/blog/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao), o que amplia o conhecimento, além de diversas vantagens.Ao realizar um curso de especialização, lato sensu ou stricto sensu, é possível melhorar a carreira e alavancar a vida profissional.
 
 Neste post, vamos entender por que é importante cursar uma pós-graduação. Veja cinco motivos para começar o seu curso agora mesmo. Acompanhe!
 
@@ -62,4 +62,3 @@ Agora você já sabe os motivos de fazer uma pós-graduação para alcançar o s
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 4 vantagens de usar o piso vinílico na casa
-        slug: 4-vantagens-de-usar-o-piso-vinilico-na-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-vantagens-de-usar-o-piso-vinilico-na-casa.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Embora seja muitas vezes ignorado, o[ piso é parte fundamental](https://www.embracon.com.br/blog/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa) na [decoração de ambientes](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento). Esse item, indispensável na composição de um [imóvel](https://www.embracon.com.br/consorcio-de-imoveis), pode apresentar variações. Afinal, existem diversos tipos, modelos, cores e design. Portanto, se você deseja um ambiente mais moderno e aconchegante, saiba que o piso vinílico pode ser uma excelente opção.
+titulo: 4 vantagens de usar o piso vinílico na casa
+slug: 4-vantagens-de-usar-o-piso-vinilico-na-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-vantagens-de-usar-o-piso-vinilico-na-casa.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Embora seja muitas vezes ignorado, o[ piso é parte fundamental](https://www.embracon.com.br/blog/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa) na [decoração de ambientes](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento). Esse item, indispensável na composição de um [imóvel](https://www.embracon.com.br/consorcio-de-imoveis), pode apresentar variações. Afinal, existem diversos tipos, modelos, cores e design. Portanto, se você deseja um ambiente mais moderno e aconchegante, saiba que o piso vinílico pode ser uma excelente opção.
 
 Pensando nisso, reunimos neste artigo uma série de informações importantes sobre o produto. Continue a leitura e entenda as principais características, quando usá-lo e quais são as suas vantagens em relação às demais opções. Acompanhe!
 
@@ -66,4 +66,3 @@ Como vimos, o piso vinílico é um composto de minerais e outros materiais que, 
 O que achou deste conteúdo? Caso nosso texto tenha sido útil, assine a nossa newsletter e receba mais dicas e informações como estas, que poderão lhe ajudar antes de começar uma reforma.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

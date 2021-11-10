@@ -1,14 +1,14 @@
 ---
-        titulo: Economia colaborativa: saiba tudo sobre o assunto
-        slug: economia-colaborativa-saiba-tudo-sobre-o-assunto
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/economia-colaborativa-saiba-tudo-sobre-o-assunto.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Se alguém perguntar para você qual foi um dos principais marcos da década de 2010, muito provavelmente a resposta foi o amadurecimento do que ficou conhecido como economia colaborativa.
+titulo: Economia colaborativa: saiba tudo sobre o assunto
+slug: economia-colaborativa-saiba-tudo-sobre-o-assunto
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/economia-colaborativa-saiba-tudo-sobre-o-assunto.png
+meta_summary: 
+date: 06/10/2021
+---
+Se alguém perguntar para você qual foi um dos principais marcos da década de 2010, muito provavelmente a resposta foi o amadurecimento do que ficou conhecido como economia colaborativa.
 
 Sabe a facilidade de poder [pegar um Uber](https://www.embracon.com.br/blog/motorista-de-aplicativo-faca-um-consorcio) a qualquer momento? Ou de alugar um quarto para um fim de semana ou mesmo para[ passar as férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil) diretamente com o morador? Quem sabe contratar um [serviço](https://www.embracon.com.br/consorcio-servicos) de limpeza para a sua casa sem precisar vincular algum contrato, tendo apenas a tecnologia como intermediária?
 
@@ -78,4 +78,3 @@ Após inserir os dados, o simulador retorna com opções de mensalidades. Caso a
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

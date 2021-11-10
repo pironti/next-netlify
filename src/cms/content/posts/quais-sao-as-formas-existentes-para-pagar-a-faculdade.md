@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as formas existentes para pagar a faculdade?
-        slug: quais-sao-as-formas-existentes-para-pagar-a-faculdade
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-formas-existentes-para-pagar-a-faculdade.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A faculdade é um momento que pode ser definitivo em nossas carreiras. Embora se trate de um curso entre 3 e 5 anos de duração, ele dá o [direcionamento de nossa vida profissional](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo): de certa forma, é o primeiro passo para que você consiga ter uma profissão sólida.
+titulo: Quais são as formas existentes para pagar a faculdade?
+slug: quais-sao-as-formas-existentes-para-pagar-a-faculdade
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-formas-existentes-para-pagar-a-faculdade.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A faculdade é um momento que pode ser definitivo em nossas carreiras. Embora se trate de um curso entre 3 e 5 anos de duração, ele dá o [direcionamento de nossa vida profissional](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo): de certa forma, é o primeiro passo para que você consiga ter uma profissão sólida.
 
 É comum, atualmente, dizer que a faculdade se tornou praticamente obrigatória em nosso currículo. Tanto que, nos últimos anos, o acesso ao ensino superior tem aumentado. De acordo com o Censo da Educação Superior, divulgado pelo Inep (Instituto Nacional de Estudos e Pesquisas Educacionais), entre 2008 e 2018 o [número de estudantes que estavam cursando alguma faculdade aumentou em mais de 44%](https://exame.com/brasil/no-brasil-faculdade-dobra-salario-por-que-isso-e-ruim/). No ano da pesquisa, 2018, cerca de 8,4 milhões de pessoas estavam com a graduação em andamento - a grande maioria delas, 75%, em universidades privadas.
 
@@ -163,4 +163,3 @@ O valor é transferido diretamente para a instituição em que você decidir faz
 > [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e comece desde já a se organizar para pagar a faculdade dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

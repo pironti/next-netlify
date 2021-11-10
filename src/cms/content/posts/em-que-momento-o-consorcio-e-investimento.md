@@ -1,14 +1,14 @@
 ---
-        titulo: Em que momento o consórcio é investimento?
-        slug: em-que-momento-o-consorcio-e-investimento
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/em-que-momento-o-consorcio-e-investimento.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        O consórcio está se tornando cada vez mais popular entre os brasileiros. O modelo que vem crescendo mesmo durante uma [pandemia](https://www.embracon.com.br/blog/consorcio-na-pandemia-vale-a-pena), sempre foi um importante aliado para a realização dos sonhos das pessoas, familiares e profissionais.
+titulo: Em que momento o consórcio é investimento?
+slug: em-que-momento-o-consorcio-e-investimento
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/em-que-momento-o-consorcio-e-investimento.jpg
+meta_summary: 
+date: 09/11/2021
+---
+O consórcio está se tornando cada vez mais popular entre os brasileiros. O modelo que vem crescendo mesmo durante uma [pandemia](https://www.embracon.com.br/blog/consorcio-na-pandemia-vale-a-pena), sempre foi um importante aliado para a realização dos sonhos das pessoas, familiares e profissionais.
 
 Mas podemos dizer que o [***consórcio é investimento***](https://www.embracon.com.br/blog/o-consorcio-e-investimento)? Vamos dar uma olhada?
 
@@ -53,4 +53,3 @@ Mas esteja ciente: você deve pagar [taxa de administração](https://www.embrac
 Se você gostou deste artigo, veja também [“8 motivos que comprovam que consórcio é investimento”](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), continue ligado no blog da [Embracon](https://www.embracon.com.br/a-embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

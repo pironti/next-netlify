@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que é tendência em decoração de quarto de criança
-        slug: saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Antes de [planejar o quarto](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal) das crianças, os pais devem levar em consideração as prioridades que surgem em diferentes etapas. Trata-se de uma mudança que vai muito além da troca do berço pela cama. Aparecem novos brinquedos e o gaveteiro já não acomoda mais tantas roupas. E não demora para que itens como livros infantis tomem conta do espaço que um dia acomodou um recém-nascido.
+titulo: Saiba o que é tendência em decoração de quarto de criança
+slug: saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Antes de [planejar o quarto](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal) das crianças, os pais devem levar em consideração as prioridades que surgem em diferentes etapas. Trata-se de uma mudança que vai muito além da troca do berço pela cama. Aparecem novos brinquedos e o gaveteiro já não acomoda mais tantas roupas. E não demora para que itens como livros infantis tomem conta do espaço que um dia acomodou um recém-nascido.
 
 Mas, para te ajudar nessa jornada de remodelar um quarto de criança - ou planejar um novo - vamos apresentar o que é tendência em decoração. Apresentamos itens como objetos, tipos de móveis, cores e outros detalhes.
 
@@ -53,4 +53,3 @@ No caso de quartos mais espaçosos para cada um dos filhos, há várias opções
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

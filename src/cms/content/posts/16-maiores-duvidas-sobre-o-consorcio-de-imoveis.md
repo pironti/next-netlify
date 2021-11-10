@@ -1,14 +1,14 @@
 ---
-        titulo: 16 maiores dúvidas sobre o consórcio de imóveis
-        slug: 16-maiores-duvidas-sobre-o-consorcio-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/16-maiores-duvidas-sobre-o-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O [consórcio de imóveis](https://www.embracon.com.br/blog/15-duvidas-sobre-consorcio-de-imoveis) é a melhor forma de investir em sua nova casa, apartamento ou até mesmo um empreendimento.
+titulo: 16 maiores dúvidas sobre o consórcio de imóveis
+slug: 16-maiores-duvidas-sobre-o-consorcio-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/16-maiores-duvidas-sobre-o-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O [consórcio de imóveis](https://www.embracon.com.br/blog/15-duvidas-sobre-consorcio-de-imoveis) é a melhor forma de investir em sua nova casa, apartamento ou até mesmo um empreendimento.
 
 Você não sai com o bem na hora, como acontece com outras modalidades de pagamento, mas paga por um valor a prazo mais justo. Por conta disso, trata-se da [melhor forma de planejar a compra de um bem de alto valor](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar).
 
@@ -210,4 +210,3 @@ A contemplação pode acontecer tanto nos primeiros meses, quanto nos últimos. 
 Esperamos que, com essas dicas, você tenha tirado todas as suas dúvidas sobre o consórcio de imóveis. Portanto, [faça desde já uma simulação](https://www.embracon.com.br/consorcio-de-imoveis) e inicie o quanto antes a realização do sonho de ter o seu lar ou o negócio próprio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

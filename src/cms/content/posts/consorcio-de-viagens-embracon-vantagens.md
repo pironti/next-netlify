@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de viagens Embracon: como funciona, vantagens e mais!
-        slug: consorcio-de-viagens-embracon-vantagens
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-viagens-embracon-vantagens.jpeg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Você sempre teve o sonho de conhecer a Disney ou uma ilha paradisíaca, mas nunca conseguiu guardar recursos para isso? Pois temos uma ótima notícia: com o consórcio de[ viagens Embracon](https://www.embracon.com.br/consorcio-servicos) você pode realizar esse sonho.
+titulo: Consórcio de viagens Embracon: como funciona, vantagens e mais!
+slug: consorcio-de-viagens-embracon-vantagens
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-viagens-embracon-vantagens.jpeg
+meta_summary: 
+date: 27/09/2021
+---
+Você sempre teve o sonho de conhecer a Disney ou uma ilha paradisíaca, mas nunca conseguiu guardar recursos para isso? Pois temos uma ótima notícia: com o consórcio de[ viagens Embracon](https://www.embracon.com.br/consorcio-servicos) você pode realizar esse sonho.
 
 Embora os planos de consórcio sejam mais conhecidos para a compra de imóvel, carro ou de moto, a categoria de serviços vem ganhando adeptos. Cada vez mais as pessoas têm optado por essa modalidade de compra, muitas vezes por não conseguir poupar.
 
@@ -109,4 +109,3 @@ Se você não estiver com pressa, não deixe de considerar o consórcio de viage
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

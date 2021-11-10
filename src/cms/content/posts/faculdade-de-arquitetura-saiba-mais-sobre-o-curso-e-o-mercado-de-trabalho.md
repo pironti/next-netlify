@@ -1,14 +1,14 @@
 ---
-        titulo: Curso de arquitetura: saiba mais sobre o curso e o mercado de trabalho
-        slug: faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Você conhece uma profissão que una criatividade, sensibilidade e conhecimento em cálculos matemáticos? Se você está pensando na resposta, saiba que o arquiteto precisa dessas características para alcançar o sucesso. Para desenvolvê-las, é imprescindível fazer a [faculdade](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) de arquitetura.
+titulo: Curso de arquitetura: saiba mais sobre o curso e o mercado de trabalho
+slug: faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Você conhece uma profissão que una criatividade, sensibilidade e conhecimento em cálculos matemáticos? Se você está pensando na resposta, saiba que o arquiteto precisa dessas características para alcançar o sucesso. Para desenvolvê-las, é imprescindível fazer a [faculdade](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) de arquitetura.
 
 Nela, o estudante terá condições de se preparar para enfrentar o [mercado de trabalho](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) e as demandas dos clientes com maestria. Hoje, um profissional necessita ter foco na [atualização profissional](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira), porque a tecnologia está cada vez mais inserida no mundo corporativo e em outros segmentos da sociedade.
 
@@ -67,4 +67,3 @@ Outra alternativa é dar aulas em instituições de [ensino superior](https://ww
 Você já percebeu que a[ faculdade](https://www.embracon.com.br/blog/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo) de arquitetura pode oferecer muitas oportunidades. Por isso, procure estudar bastante e acompanhar as tendências do mercado para superar a concorrência.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

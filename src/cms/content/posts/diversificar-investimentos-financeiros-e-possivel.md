@@ -1,14 +1,14 @@
 ---
-        titulo: Diversificar investimentos financeiros é possível?
-        slug: diversificar-investimentos-financeiros-e-possivel
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/diversificar-investimentos-financeiros-e-possivel.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Você sabia que cada vez mais os brasileiros têm procurado [alternativas de investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento)? Um [levantamento realizado pela Guiabolso](https://www.moneytimes.com.br/metas-2020-brasileiros-querem-investir-viajar-e-trocar-de-emprego-revela-guiabolso/) mostrou que 59% das pessoas gostariam de começar a investir já em 2020, estabelecendo novas metas.
+titulo: Diversificar investimentos financeiros é possível?
+slug: diversificar-investimentos-financeiros-e-possivel
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/diversificar-investimentos-financeiros-e-possivel.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Você sabia que cada vez mais os brasileiros têm procurado [alternativas de investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento)? Um [levantamento realizado pela Guiabolso](https://www.moneytimes.com.br/metas-2020-brasileiros-querem-investir-viajar-e-trocar-de-emprego-revela-guiabolso/) mostrou que 59% das pessoas gostariam de começar a investir já em 2020, estabelecendo novas metas.
 
 E, quando se fala em investir, praticamente todos os analistas financeiros e corretoras são enfáticos em dizer: não coloque todos os seus investimentos na poupança.
 
@@ -88,4 +88,3 @@ Uma das [principais vantagens do consórcio](https://www.embracon.com.br/blog/co
 > [Faça uma simulação](https://www.embracon.com.br/) e confira as [múltiplas vantagens de ter o consórcio](https://www.embracon.com.br/conhecaoconsorcio/quais-sao-as-vantagens-do-consorcio) como uma opção de investimento para você e para a sua família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

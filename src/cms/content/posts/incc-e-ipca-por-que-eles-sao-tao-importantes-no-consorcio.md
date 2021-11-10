@@ -1,14 +1,14 @@
 ---
-        titulo: INCC e IPCA: por que eles são tão importantes no consórcio?
-        slug: incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O consórcio é uma forma flexível de investir em bens de alto valor.
+titulo: INCC e IPCA: por que eles são tão importantes no consórcio?
+slug: incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio.jpg
+meta_summary: 
+date: 30/09/2021
+---
+O consórcio é uma forma flexível de investir em bens de alto valor.
 
 Muitas pessoas passam anos contribuindo com a mensalidade. Nesse período, o país passa por muitas [movimentações econômicas](https://www.embracon.com.br/blog/o-que-muda-na-economia-com-o-novo-governo): da oscilação do dólar às mudanças na oferta e demanda de produtos, todas essas variáveis estão interligadas.
 
@@ -74,4 +74,3 @@ O mesmo vale para o [consórcio imobiliário](https://www.embracon.com.br/blog/g
 > O consórcio é a melhor forma de investir em um bem de alto valor, a médio de longo prazo. [Faça uma simulação](https://www.embracon.com.br/consorcio) agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

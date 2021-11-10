@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas indispensáveis para você economizar energia elétrica
-        slug: 5-dicas-indispensaveis-para-voce-economizar-energia-eletrica
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Aumento da conta de energia: gosta de ouvir falar sobre isso? Com certeza não. Entretanto, infelizmente, esse é o único meio do Governo forçar a economia de energia. Lembrando de que economizar energia elétrica tem relação direta com a preservação do meio ambiente.
+titulo: 5 dicas indispensáveis para você economizar energia elétrica
+slug: 5-dicas-indispensaveis-para-voce-economizar-energia-eletrica
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Aumento da conta de energia: gosta de ouvir falar sobre isso? Com certeza não. Entretanto, infelizmente, esse é o único meio do Governo forçar a economia de energia. Lembrando de que economizar energia elétrica tem relação direta com a preservação do meio ambiente.
 
 Contudo, o que você deve fazer para conseguir economizar? Para ajudá-lo com essa dúvida, listamos 5 dicas. Depois da leitura, você será mestre no assunto e poderá, inclusive, ensinar outras pessoas a economizar energia elétrica.
 
@@ -57,4 +57,3 @@ Tem amigos que estão pagando uma fortuna na conta de energia? Compartilhe este 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

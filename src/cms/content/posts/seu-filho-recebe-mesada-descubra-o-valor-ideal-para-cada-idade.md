@@ -1,14 +1,14 @@
 ---
-        titulo: Seu filho recebe mesada? Descubra o valor ideal para cada idade
-        slug: seu-filho-recebe-mesada-descubra-o-valor-ideal-para-cada-idade
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/seu-filho-recebe-mesada-descubra-o-valor-ideal-para-cada-idade.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Para que a [família mantenha uma boa saúde financeira](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos) em conjunto, é importante que todos tenham uma relação com o dinheiro. Isso vai além de compartilhar os gastos com o marido ou a esposa.
+titulo: Seu filho recebe mesada? Descubra o valor ideal para cada idade
+slug: seu-filho-recebe-mesada-descubra-o-valor-ideal-para-cada-idade
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/seu-filho-recebe-mesada-descubra-o-valor-ideal-para-cada-idade.png
+meta_summary: 
+date: 06/10/2021
+---
+Para que a [família mantenha uma boa saúde financeira](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos) em conjunto, é importante que todos tenham uma relação com o dinheiro. Isso vai além de compartilhar os gastos com o marido ou a esposa.
 
 Quem tem filhos sabe muito bem que os gastos aumentam. Isso não impede, porém, o estímulo ao bom uso do dinheiro desde cedo.
 
@@ -59,4 +59,3 @@ Até os 17 anos, o valor da mesada tende a aumentar. Em alguns casos, os pais es
 Quem sabe uma faculdade? Com o [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos), os pais podem ajudar os filhos a investir no [ensino superior](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) ou até mesmo em um [intercâmbio](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon), para se preparar para o [mercado de trabalho](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira). Faça uma [simulação](http://www.embracon.com.br/consorcio) no nosso site e aplique desde já em uma das modalidades mais vantajosas de investimento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

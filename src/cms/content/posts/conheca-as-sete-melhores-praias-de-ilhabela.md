@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça as sete melhores praias de Ilhabela
-        slug: conheca-as-sete-melhores-praias-de-ilhabela
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-as-sete-melhores-praias-de-ilhabela.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O estado de São Paulo tem belíssimas opções de praias, mas existe um lugar em especial que vale muito a pena ser conhecido: Ilhabela. Há cerca de quatro horas da cidade de São Paulo, a região se destaca não apenas pela [beleza das praias, mas também por ter diversos pontos de ecoturismo](https://www.embracon.com.br/blog/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas), cachoeiras e mergulho, além de estar em uma região no meio da mata Atlântica.
+titulo: Conheça as sete melhores praias de Ilhabela
+slug: conheca-as-sete-melhores-praias-de-ilhabela
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-as-sete-melhores-praias-de-ilhabela.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O estado de São Paulo tem belíssimas opções de praias, mas existe um lugar em especial que vale muito a pena ser conhecido: Ilhabela. Há cerca de quatro horas da cidade de São Paulo, a região se destaca não apenas pela [beleza das praias, mas também por ter diversos pontos de ecoturismo](https://www.embracon.com.br/blog/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas), cachoeiras e mergulho, além de estar em uma região no meio da mata Atlântica.
 
 Para quem quer conhecer a cidade, é importante saber que, além da viagem de carro (cerca de 130 quilômetros de distância de São Paulo), é necessário pegar a balsa. Esse trecho da [viagem](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica), pode aumentar o percurso em um pouco mais de uma hora, dependendo da época, dia e horário que você viajar. Mas pode ter certeza, vale cada minuto de espera. Confira a seguir as melhores praias para você conhecer:
 
@@ -54,4 +54,3 @@ Agora que você sabe tudo sobre como aproveitar melhor o verão conhecendo uma d
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) com a gente e descubra todas as opções que temos para realizar esse e muitos outros desejos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

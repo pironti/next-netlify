@@ -1,14 +1,14 @@
 ---
-        titulo: Casa ou apartamento? Qual a melhor escolha para você?
-        slug: casa-ou-apartamento-qual-a-melhor-escolha-para-voce
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/casa-ou-apartamento-qual-a-melhor-escolha-para-voce.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quando você pensa no seu lar dos sonhos, qual a primeira imagem que vem à sua cabeça? Uma casa ou um apartamento? Na hora de planejar a compra do seu imóvel é fundamental refletir em diversas questões, levando em consideração, principalmente, o valor do imóvel e o seu estilo de vida.
+titulo: Casa ou apartamento? Qual a melhor escolha para você?
+slug: casa-ou-apartamento-qual-a-melhor-escolha-para-voce
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/casa-ou-apartamento-qual-a-melhor-escolha-para-voce.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Quando você pensa no seu lar dos sonhos, qual a primeira imagem que vem à sua cabeça? Uma casa ou um apartamento? Na hora de planejar a compra do seu imóvel é fundamental refletir em diversas questões, levando em consideração, principalmente, o valor do imóvel e o seu estilo de vida.
 
 Por isso, é importante saber quais as vantagens e desvantagens de adquirir uma casa ou um apartamento na hora de realizar o seu grande sonho.
 
@@ -85,4 +85,3 @@ Um gasto fixo que é sempre importante colocar na régua. Atrasar o condomínio 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>> Quer uma ajuda para realizar o grande sonho de uma casa própria? Sendo apartamento ou casa, a Embracon pode te ajudar nesse passo. [Faça um orçamento](https://www.embracon.com.br/consorcio-de-imoveis) com a gente!
 
 ‍
-        

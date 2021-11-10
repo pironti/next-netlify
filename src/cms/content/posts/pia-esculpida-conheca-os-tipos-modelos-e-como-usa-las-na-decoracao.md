@@ -1,14 +1,14 @@
 ---
-        titulo: Pia esculpida: conheça os tipos, modelos e como usá-las na decoração
-        slug: pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Reformar a casa e modernizar o ambiente é uma ótima forma de[ valorizar um imóvel](https://www.embracon.com.br/consorcio-de-imoveis), trazer mais bem-estar e conforto. Porém, em certas ocasiões, não sabemos por onde começar. Assim, sugerimos que comece pelos banheiros. Você já conhece a pia esculpida, sinônimo de requinte e sofisticação?
+titulo: Pia esculpida: conheça os tipos, modelos e como usá-las na decoração
+slug: pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Reformar a casa e modernizar o ambiente é uma ótima forma de[ valorizar um imóvel](https://www.embracon.com.br/consorcio-de-imoveis), trazer mais bem-estar e conforto. Porém, em certas ocasiões, não sabemos por onde começar. Assim, sugerimos que comece pelos banheiros. Você já conhece a pia esculpida, sinônimo de requinte e sofisticação?
 
 Ao longo deste post,falaremos de alguns modelos, como e onde a pia esculpida pode ser usada e muito mais. Continue com a gente, conheça essa tendência e veja por onde começar a tão esperada[ reforma em sua casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui)!
 
@@ -64,4 +64,3 @@ Independentemente do modelo ou material usado na pia esculpida, o importante é 
 > Descubra: [Por que os pendentes estão em alta? Como usá-los na decoração da casa?](https://www.embracon.com.br/blog/por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Por que contratar o Consórcio Imobiliário Embracon?
-        slug: por-que-contratar-o-consorcio-imobiliario-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-contratar-o-consorcio-imobiliario-embracon.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Há mais de 30 anos no mercado, o [consórcio Embracon](https://www.embracon.com.br/blog/por-que-voce-deve-escolher-o-consorcio-embracon) configura uma opção segura para quem pensa em realizar o sonho da casa própria, mas não tem condições de pagar um imóvel à vista. Isso se deve não só à consolidação da marca no mercado, mas aos preços, condições e às demais [vantagens oferecidas](https://www.embracon.com.br/conhecaoconsorcio/quais-sao-as-vantagens-do-consorcio) para clientes de diferentes perfis econômicos.
+titulo: Por que contratar o Consórcio Imobiliário Embracon?
+slug: por-que-contratar-o-consorcio-imobiliario-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-contratar-o-consorcio-imobiliario-embracon.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Há mais de 30 anos no mercado, o [consórcio Embracon](https://www.embracon.com.br/blog/por-que-voce-deve-escolher-o-consorcio-embracon) configura uma opção segura para quem pensa em realizar o sonho da casa própria, mas não tem condições de pagar um imóvel à vista. Isso se deve não só à consolidação da marca no mercado, mas aos preços, condições e às demais [vantagens oferecidas](https://www.embracon.com.br/conhecaoconsorcio/quais-sao-as-vantagens-do-consorcio) para clientes de diferentes perfis econômicos.
 
 E para que todos os benefícios que oferecemos fiquem mais claros para você, organizamos este post com informações preciosas sobre como funciona o [consórcio imobiliário Embracon](https://www.embracon.com.br/consorcio-de-imoveis), dando destaque às soluções oferecidas. Não deixe de conferir!
 
@@ -81,4 +81,3 @@ Depois de conferir a fundo todas as [vantagens do consórcio imobiliário](https
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

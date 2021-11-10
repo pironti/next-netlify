@@ -1,14 +1,14 @@
 ---
-        titulo: 4 razões para aprender a falar Espanhol
-        slug: 4-razoes-para-aprender-a-falar-espanhol
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-razoes-para-aprender-a-falar-espanhol.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Se em uma roda de amigos alguém fala sobre ser fluente em outro idioma, você provavelmente pensa no inglês, certo? Porém, se engana quem acha que a língua inglesa é a única relevante no cenário global. Prova disso é que aprender a **falar espanhol** se tornou extremamente importante nos últimos anos.
+titulo: 4 razões para aprender a falar Espanhol
+slug: 4-razoes-para-aprender-a-falar-espanhol
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-razoes-para-aprender-a-falar-espanhol.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Se em uma roda de amigos alguém fala sobre ser fluente em outro idioma, você provavelmente pensa no inglês, certo? Porém, se engana quem acha que a língua inglesa é a única relevante no cenário global. Prova disso é que aprender a **falar espanhol** se tornou extremamente importante nos últimos anos.
 
 Isso porque o mundo está, cada vez mais, conectado. Isso gera oportunidades de estudo em diversos países. Além disso, o mercado de trabalho demanda profissionais versáteis e com [perfil internacional](https://www.embracon.com.br/blog/saiba-como-e-a-faculdade-de-relacoes-internacionais), se tornou indispensável ir além da língua inglesa para se destacar.
 
@@ -53,4 +53,3 @@ Nos EUA, porque há uma comunidade latina muito grande no país. Já no velho co
 Viu só como vale a pena aprender a falar espanhol? Por isso, não adie mais essa decisão. Procure um curso de língua espanhola que se encaixe na sua rotina e faça uma imersão na cultura hispânica. Seu futuro pessoal e profissional agradecem!Gostou deste conteúdo? Então, nos siga nas redes sociais para acompanhar mais dicas de como se desenvolver profissionalmente!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

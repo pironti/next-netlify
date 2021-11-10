@@ -1,14 +1,14 @@
 ---
-        titulo: Comece a poupar dinheiro ainda em 2021
-        slug: comece-a-poupar-dinheiro-ainda-em-2021
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comece-a-poupar-dinheiro-ainda-em-2021.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O mundo inteiro vive uma crise inédita em sua história por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia). Embora 2020 tenha sido um ano em que muitas empresas faliram e milhões de pessoas tenham perdido a segurança de seu trabalho, o ano de 2021 trouxe a vacinação em massa como uma [esperança de reerguer e retomar as atividades](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar).
+titulo: Comece a poupar dinheiro ainda em 2021
+slug: comece-a-poupar-dinheiro-ainda-em-2021
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comece-a-poupar-dinheiro-ainda-em-2021.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O mundo inteiro vive uma crise inédita em sua história por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia). Embora 2020 tenha sido um ano em que muitas empresas faliram e milhões de pessoas tenham perdido a segurança de seu trabalho, o ano de 2021 trouxe a vacinação em massa como uma [esperança de reerguer e retomar as atividades](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar).
 
 Mais de seis meses depois, o Brasil, por exemplo, tem aumentado o ritmo de vacinação e gerado novos empregos e oportunidades.
 
@@ -77,4 +77,3 @@ Caso queira comprar bens de alto valor, você pode contar com o consórcio, que 
 [Faça uma simulação](https://www.embracon.com.br/) e confira as vantagens de uma modalidade flexível que garante o valor a prazo mais justo, sem ter que pagar entrada ou juros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 10 principais dicas para transformar sua residência em uma casa sustentável
-        slug: 10-principais-dicas-para-transformar-sua-residencia-em-uma-casa-sustentavel
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/10-principais-dicas-para-transformar-sua-residencia-em-uma-casa-sustentavel.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Está cada vez mais evidente que a causa ambiental tem se tornado essencial para todos nós. A consciência de que tudo que fazemos tem consequência direta no nosso planeta está mais latente todos os dias quando assistimos aos noticiários e lemos os jornais. Alguns estados estão enfrentando com secas há décadas, outros inundam todos os anos e nós podemos trazer soluções para essa questão que podem vir de nós mesmo.
+titulo: 10 principais dicas para transformar sua residência em uma casa sustentável
+slug: 10-principais-dicas-para-transformar-sua-residencia-em-uma-casa-sustentavel
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/10-principais-dicas-para-transformar-sua-residencia-em-uma-casa-sustentavel.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Está cada vez mais evidente que a causa ambiental tem se tornado essencial para todos nós. A consciência de que tudo que fazemos tem consequência direta no nosso planeta está mais latente todos os dias quando assistimos aos noticiários e lemos os jornais. Alguns estados estão enfrentando com secas há décadas, outros inundam todos os anos e nós podemos trazer soluções para essa questão que podem vir de nós mesmo.
 
 [Segundo o Greenpeace](https://www.greenpeace.org/brasil/blog/brasil-em-chamas-negando-as-aparencias-e-disfarcando-as-evidencias/#:~:text=País%20assiste%20ao%20avanço%20de,governo%20segue%20sem%20ações%20efetivas&text=No%20Pantanal%2C%20maior%20planície%20interior,mais%20de%2012%20%25%20do%20bioma.) somente “no Pantanal, maior planície interior inundada do mundo, o fogo já atingiu, até o final de agosto, mais de 12% do bioma. No Cerrado, a savana mais biodiversa do mundo, já foram registrados mais de 38 mil focos de calor até hoje (16) e, na Amazônia, os números de queimadas e incêndios florestais registrados até o dia 14 deste mês já superaram setembro inteiro de 2019, um crescimento de 86% para o período, na comparação com o mesmo período do ano passado”. Esse é um dado assustador, mas que tem sido realidade para nós. E é de extrema importância que cada um se esforce para fazer a sua parte como pode.
 
@@ -153,4 +153,3 @@ Digamos que você queira viver de renda no futuro e queira se antecipar para uma
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

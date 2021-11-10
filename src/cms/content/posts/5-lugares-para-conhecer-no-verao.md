@@ -1,14 +1,14 @@
 ---
-        titulo: 5 lugares para conhecer no verão
-        slug: 5-lugares-para-conhecer-no-verao
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-lugares-para-conhecer-no-verao.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Verão é sinônimo de… praia! Embora o Brasil desfrute de um dos litorais mais bonitos do mundo, existem muitas outras opções de viagem nas demais regiões.
+titulo: 5 lugares para conhecer no verão
+slug: 5-lugares-para-conhecer-no-verao
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-lugares-para-conhecer-no-verao.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Verão é sinônimo de… praia! Embora o Brasil desfrute de um dos litorais mais bonitos do mundo, existem muitas outras opções de viagem nas demais regiões.
 
 A grande vantagem de fugir do litoral é não ter que encarar muitas filas em supermercados ou o trânsito indesejado das estradas. Quem já pegou uma Rio-Santos em período de férias sabe muito bem do que estamos falando…
 
@@ -53,4 +53,3 @@ Como fazer a próxima viagem?
 Com o [consórcio de viagem](https://www.embracon.com.br/blog/consorcio-de-viagens-o-que-e-e-como-funciona), você pode programar desde já as férias com a família.[ Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e confira as vantagens de uma modalidade que[ não cobra juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e permite que você escolha o valor da mensalidade e da [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb048b308e2cb691b1e8c13_CTA-VIAGEM.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

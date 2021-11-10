@@ -1,14 +1,14 @@
 ---
-        titulo: Lavabo mais charmoso [com dicas e exemplos de decoração]
-        slug: dicas-decoracao-para-lavabo-mais-charmoso
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-decoracao-para-lavabo-mais-charmoso.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Dicas de como deixar mais charmoso o seu lavabo
+titulo: Lavabo mais charmoso [com dicas e exemplos de decoração]
+slug: dicas-decoracao-para-lavabo-mais-charmoso
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-decoracao-para-lavabo-mais-charmoso.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Dicas de como deixar mais charmoso o seu lavabo
 -----------------------------------------------
 
 Para que servem os banheiros, todos sabem. Mas e o [lavado](https://www.vivadecora.com.br/decoracao/lavabo)? Bem, eles têm função semelhante; porém, com alguns adendos.
@@ -65,4 +65,3 @@ Já a ligação estética do lavabo com outros ambientes pode acontecer por meio
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:30%"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60edd4f12375e59c93e558a0_8.jpg)</div><figcaption>Fonte: Fernanda Peçanha e Eduarda Corrêa</figcaption></figure><figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:30%"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60edd513a0bad75c1f109fb4_10.jpg)</div><figcaption>Fonte: Andrea Fonseca e Liliana Zenaro</figcaption></figure>Viu como seu lavabo pode ficar mais charmoso? Use estas e outras ideias e transforme esse ambiente.
 
 Essas dicas de decoração foram criadas pela equipe [Viva Decora](https://www.vivadecora.com.br/).
-        

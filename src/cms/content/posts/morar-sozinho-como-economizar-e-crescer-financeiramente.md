@@ -1,14 +1,14 @@
 ---
-        titulo: Morar sozinho: como economizar e crescer financeiramente
-        slug: morar-sozinho-como-economizar-e-crescer-financeiramente
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/morar-sozinho-como-economizar-e-crescer-financeiramente.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A maioridade chegou e com ela as responsabilidades? Você sente que está ficando para trás dos seus amigos que já [pagam o próprio aluguel](https://www.embracon.com.br/blog/como-sair-do-aluguel-definitivamente)? Seus pais já mandaram diversas indiretas para você se mudar e você finge que não ouviu? Sim, sair da casa dos pais é um grande desafio, deixar para trás todo o conforto e mordomia principalmente. Mas para te auxiliar nesse momento, acompanhe aqui algumas dicas que vão te ajudar nessa nova jornada.
+titulo: Morar sozinho: como economizar e crescer financeiramente
+slug: morar-sozinho-como-economizar-e-crescer-financeiramente
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/morar-sozinho-como-economizar-e-crescer-financeiramente.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A maioridade chegou e com ela as responsabilidades? Você sente que está ficando para trás dos seus amigos que já [pagam o próprio aluguel](https://www.embracon.com.br/blog/como-sair-do-aluguel-definitivamente)? Seus pais já mandaram diversas indiretas para você se mudar e você finge que não ouviu? Sim, sair da casa dos pais é um grande desafio, deixar para trás todo o conforto e mordomia principalmente. Mas para te auxiliar nesse momento, acompanhe aqui algumas dicas que vão te ajudar nessa nova jornada.
 
 Dando o primeiro passo 
 -----------------------
@@ -61,4 +61,3 @@ Controle os gastos na hora das compras como alimentação, você não terá algu
 O que achou deste artigo? Continue nos acompanhando para ter acesso aos melhores conteúdos da [Embracon](https://www.embracon.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div></figure>
-        

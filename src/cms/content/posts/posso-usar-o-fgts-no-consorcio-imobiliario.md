@@ -1,14 +1,14 @@
 ---
-        titulo: Posso usar o FGTS no consórcio imobiliário?
-        slug: posso-usar-o-fgts-no-consorcio-imobiliario
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/posso-usar-o-fgts-no-consorcio-imobiliario.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O [consórcio imobiliário](https://www.embracon.com.br/blog/guia-completo-consorcio-imobiliario), ou consórcio de imóveis, é uma das melhores formas de se organizar para comprar a sua nova casa, apartamento ou até mesmo um empreendimento comercial. Você não precisa ter valor de entrada, como [acontece com o financiamento, por exemplo](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). E, o melhor de tudo: [você não paga juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) nas parcelas ao selecionar o consórcio como modalidade!
+titulo: Posso usar o FGTS no consórcio imobiliário?
+slug: posso-usar-o-fgts-no-consorcio-imobiliario
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/posso-usar-o-fgts-no-consorcio-imobiliario.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O [consórcio imobiliário](https://www.embracon.com.br/blog/guia-completo-consorcio-imobiliario), ou consórcio de imóveis, é uma das melhores formas de se organizar para comprar a sua nova casa, apartamento ou até mesmo um empreendimento comercial. Você não precisa ter valor de entrada, como [acontece com o financiamento, por exemplo](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). E, o melhor de tudo: [você não paga juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) nas parcelas ao selecionar o consórcio como modalidade!
 
 Com o consórcio, você não recebe o bem na hora porque se trata de um [autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo): é você que escolhe o valor do bem que deseja comprar - que, além de casa ou apê, inclui [terrenos e imóveis na planta](https://www.embracon.com.br/blog/15-duvidas-sobre-consorcio-de-imoveis), por exemplo - e a quantidade de parcelas que deseja pagar.
 
@@ -60,4 +60,3 @@ Se o valor da carta for maior que o bem, você pode utilizar até 10% do saldo p
 E aí, está esperando o quê para investir na realização do seu sonho? [Faça uma simulação do consórcio de imóveis ](https://www.embracon.com.br/consorcio-de-imoveis)e aproveite as vantagens de uma modalidade que realiza sonhos dos brasileiros há mais de 50 anos
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Carro hatch ou sedan: entenda as diferenças
-        slug: hatch-ou-sedan-diferencas
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/hatch-ou-sedan-diferencas.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Decidir pelo melhor [modelo de um carro](https://www.embracon.com.br/blog/carros-mais-baratos-os-modelos-de-ate-r-40-mil) é, sem dúvidas, uma tarefa complicada — especialmente se você não for experiente nesse assunto.
+titulo: Carro hatch ou sedan: entenda as diferenças
+slug: hatch-ou-sedan-diferencas
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/hatch-ou-sedan-diferencas.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Decidir pelo melhor [modelo de um carro](https://www.embracon.com.br/blog/carros-mais-baratos-os-modelos-de-ate-r-40-mil) é, sem dúvidas, uma tarefa complicada — especialmente se você não for experiente nesse assunto.
 
 Seja um [veículo novo ou usado](https://www.embracon.com.br/blog/comprar-carro-usado-com-a-carta-de-credito-do-consorcio), existem centenas de opções disponíveis e cada uma delas têm uma funcionalidade ou característica bem específica.
 
@@ -88,4 +88,3 @@ Concluindo, escolher entre um carro hatch ou sedan é uma decisão que precisa s
 O que achou das dicas e informações que trouxemos para você neste texto? Caso elas tenham sido úteis, não deixe de acompanhar nossos conteúdos. Para isso, assine a nossa newsletter ou curta a nossa página no [Facebook](http://www.facebook.com/embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

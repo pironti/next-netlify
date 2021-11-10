@@ -1,14 +1,14 @@
 ---
-        titulo: Guia definitivo de como começar a poupar
-        slug: guia-definitivo-de-como-comecar-a-poupar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-definitivo-de-como-comecar-a-poupar.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quando se fala sobre poupar, qual a primeira coisa que vem à sua mente? Ter dinheiro na sua conta corrente? Se organizar para [fazer a sua poupança](https://www.embracon.com.br/blog/vale-a-pena-guardar-dinheiro-na-poupanca)? Ou guardar as suas economias no bom e velho colchão de casa?
+titulo: Guia definitivo de como começar a poupar
+slug: guia-definitivo-de-como-comecar-a-poupar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-definitivo-de-como-comecar-a-poupar.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quando se fala sobre poupar, qual a primeira coisa que vem à sua mente? Ter dinheiro na sua conta corrente? Se organizar para [fazer a sua poupança](https://www.embracon.com.br/blog/vale-a-pena-guardar-dinheiro-na-poupanca)? Ou guardar as suas economias no bom e velho colchão de casa?
 
 A verdade é que todos sabem da [importância de ter que poupar o dinheiro](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos), mas a grande maioria tem uma dificuldade enorme de colocar esse hábito em prática, por diversos motivos.
 
@@ -322,4 +322,3 @@ O ideal é iniciar com a renda fixa, que dá previsibilidade de retorno e, aos p
 Quer saber mais sobre o assunto? Confira [nossos artigos sobre finanças pessoais no blog da Embracon](https://www.embracon.com.br/category/financas-pessoais).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=guia_definitivo_poupar&utm_campaign=publicacoes_blog)</figure>
-        

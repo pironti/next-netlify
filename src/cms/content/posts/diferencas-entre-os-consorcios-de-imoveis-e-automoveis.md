@@ -1,14 +1,14 @@
 ---
-        titulo: Diferenças entre os consórcios de imóveis e automóveis
-        slug: diferencas-entre-os-consorcios-de-imoveis-e-automoveis
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/diferencas-entre-os-consorcios-de-imoveis-e-automoveis.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Você sabe o que é o consórcio? E você sabia que existem diferentes tipos de consórcio? Por esse motivo preparamos esse artigo para mostrar o que difere o consórcio de imóveis e automóveis.
+titulo: Diferenças entre os consórcios de imóveis e automóveis
+slug: diferencas-entre-os-consorcios-de-imoveis-e-automoveis
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/diferencas-entre-os-consorcios-de-imoveis-e-automoveis.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Você sabe o que é o consórcio? E você sabia que existem diferentes tipos de consórcio? Por esse motivo preparamos esse artigo para mostrar o que difere o consórcio de imóveis e automóveis.
 
 O que é consórcio? 
 -------------------
@@ -161,4 +161,3 @@ No Consórcio Embracon as assembleias são feitas via aproveitamento dos prêmio
 > Se quiser saber mais e conhecer as opções do Consórcio Embracon, [entre em contato conosco](https://www.embracon.com.br/) agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

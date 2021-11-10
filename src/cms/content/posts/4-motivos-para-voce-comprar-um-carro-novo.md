@@ -1,14 +1,14 @@
 ---
-        titulo: 4 motivos para você comprar um carro novo
-        slug: 4-motivos-para-voce-comprar-um-carro-novo
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-motivos-para-voce-comprar-um-carro-novo.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Investir no futuro ou pensar mais no presente? Esse é um dilema que muitos enfrentam e talvez seja o seu caso. Se planejar para o que pode vir e para alcançar suas metas, com certeza, é uma atitude inteligente do ponto de vista financeiro. Justamente esse motivo faz com que algumas pessoas prefiram não trocar o carro ou comprar um veículo usado.
+titulo: 4 motivos para você comprar um carro novo
+slug: 4-motivos-para-voce-comprar-um-carro-novo
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-motivos-para-voce-comprar-um-carro-novo.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Investir no futuro ou pensar mais no presente? Esse é um dilema que muitos enfrentam e talvez seja o seu caso. Se planejar para o que pode vir e para alcançar suas metas, com certeza, é uma atitude inteligente do ponto de vista financeiro. Justamente esse motivo faz com que algumas pessoas prefiram não trocar o carro ou comprar um veículo usado.
 
 A pergunta é: vale a pena comprar um carro novo? Sim, vale. Ao contrário do que você talvez pense, um [**automóvel 0 km**](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon) pode ajudar no [planejamento financeiro](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul). Como? Confira os 4 principais motivos a seguir.
 
@@ -49,4 +49,3 @@ Deu para notar que há bons motivos para comprar um carro novo? Falamos apenas d
 Nosso blog está sempre com ótimas dicas financeiras e queremos que você tenha acesso a todas elas. Assine nossa newsletter e não perca nenhum conteúdo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

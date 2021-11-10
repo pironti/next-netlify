@@ -1,14 +1,14 @@
 ---
-        titulo: 3 tendências em cores Pantone de parede para 2019
-        slug: 3-tendencias-em-cores-pantone-para-2019
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-tendencias-em-cores-pantone-para-2019.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Quem se interessa por decoração e design certamente já ouviu falar do sistema **Pantone**. Além de ser uma empresa especializada no ramo gráfico e têxtil, anualmente revela as tendências de cor a partir de um estudo detalhado.
+titulo: 3 tendências em cores Pantone de parede para 2019
+slug: 3-tendencias-em-cores-pantone-para-2019
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-tendencias-em-cores-pantone-para-2019.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Quem se interessa por decoração e design certamente já ouviu falar do sistema **Pantone**. Além de ser uma empresa especializada no ramo gráfico e têxtil, anualmente revela as tendências de cor a partir de um estudo detalhado.
 
 As tendências ajudam a identificar o que deve ser explorado nos meses seguintes em pinturas e design de interiores, com influência até mesmo no universo fashion.
 
@@ -51,4 +51,3 @@ A versatilidade das cores Pantone pode deixar o seu novo cômodo incrível, com 
 ‍
 
 ‍
-        

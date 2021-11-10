@@ -1,14 +1,14 @@
 ---
-        titulo: 7 erros comuns ao contratar consórcios de veículos e como evitá-los
-        slug: 7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O [consórcio é um investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) muito atrativo e uma ótima alternativa para quem quer comprar carros, motos e até veículos pesados com [parcelas mais baixas](https://www.embracon.com.br/blog/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio) do que as dos financiamentos. Entretanto, essa modalidade pode ser perigosa se você não estiver atento a [alguns erros comuns](https://www.embracon.com.br/blog/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros) ao contratar [consórcios de veículos](https://www.embracon.com.br/consorcio-de-carros). Na hora da contratação, faça uma boa pesquisa e assegure-se de fazer o melhor investimento. Para ajudar nessa tarefa, listamos alguns desses erros que podem comprometer a sua experiência com um consórcio. Continue acompanhando para saber quais são!
+titulo: 7 erros comuns ao contratar consórcios de veículos e como evitá-los
+slug: 7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-erros-comuns-ao-contratar-consorcios-de-veiculos-e-como-evita-los.jpg
+meta_summary: 
+date: 06/10/2021
+---
+O [consórcio é um investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) muito atrativo e uma ótima alternativa para quem quer comprar carros, motos e até veículos pesados com [parcelas mais baixas](https://www.embracon.com.br/blog/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio) do que as dos financiamentos. Entretanto, essa modalidade pode ser perigosa se você não estiver atento a [alguns erros comuns](https://www.embracon.com.br/blog/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros) ao contratar [consórcios de veículos](https://www.embracon.com.br/consorcio-de-carros). Na hora da contratação, faça uma boa pesquisa e assegure-se de fazer o melhor investimento. Para ajudar nessa tarefa, listamos alguns desses erros que podem comprometer a sua experiência com um consórcio. Continue acompanhando para saber quais são!
 
 1. Não pesquisar sobre a administradora do consórcio
 ----------------------------------------------------
@@ -50,4 +50,3 @@ Muitas pessoas acreditam, erroneamente, que quem opta por essa modalidade não p
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

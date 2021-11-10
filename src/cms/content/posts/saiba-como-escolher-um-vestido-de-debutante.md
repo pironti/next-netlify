@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como escolher um vestido de debutante
-        slug: saiba-como-escolher-um-vestido-de-debutante
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-escolher-um-vestido-de-debutante.jpeg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Planejar uma festa de quinze anos não é nada simples. A escolha do **vestido de debutante** é uma das tarefas que estão incluídas nessa organização e deve ser feita pensando em diversos fatores. Isso ajuda a garantir o modelo ideal para a aniversariante.
+titulo: Saiba como escolher um vestido de debutante
+slug: saiba-como-escolher-um-vestido-de-debutante
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-escolher-um-vestido-de-debutante.jpeg
+meta_summary: 
+date: 28/09/2021
+---
+Planejar uma festa de quinze anos não é nada simples. A escolha do **vestido de debutante** é uma das tarefas que estão incluídas nessa organização e deve ser feita pensando em diversos fatores. Isso ajuda a garantir o modelo ideal para a aniversariante.
 
 O vestido deve ser capaz de unir os traços da personalidade da menina à decoração da festa como um todo, combinando nos elementos, no estilo, nas cores e, até mesmo, no tecido de produção. Por causa disso, deve ser planejado com cuidado.
 
@@ -58,4 +58,3 @@ Para as meninas que não querem abrir mão de um modelo longo e clássico, uma a
 Agora que você já sabe como escolher o melhor vestido de debutante, assine a nossa newsletter! Assim, receberá nossos conteúdos frequentemente!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

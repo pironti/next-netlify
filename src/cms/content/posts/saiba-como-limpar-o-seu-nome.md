@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como limpar o seu nome
-        slug: saiba-como-limpar-o-seu-nome
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-limpar-o-seu-nome.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        O Brasil é um país que tem um sério problema com endividamento das pessoas. Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), esses números tiveram uma alta ainda maior.
+titulo: Saiba como limpar o seu nome
+slug: saiba-como-limpar-o-seu-nome
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-limpar-o-seu-nome.jpg
+meta_summary: 
+date: 09/11/2021
+---
+O Brasil é um país que tem um sério problema com endividamento das pessoas. Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), esses números tiveram uma alta ainda maior.
 
 De acordo com o Serasa, [cerca de 62 milhões de brasileiros se tornaram inadimplentes com suas dívidas em 2021](https://www.cnnbrasil.com.br/business/numero-de-brasileiros-endividados-tem-nova-alta-em-abril/). Isso significa que o dinheiro ganho mensalmente não é o suficiente para que essas pessoas consigam pagar tudo o que devem.
 
@@ -181,4 +181,3 @@ Com calma, organização e conhecimento, em pouco tempo você pode ir de um deve
 [Confira nosso passo a passo para você começar a sua vida como investidor](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos) e dar uma nova guinada em sua vida financeira.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

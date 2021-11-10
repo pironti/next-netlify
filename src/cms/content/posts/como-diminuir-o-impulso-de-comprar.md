@@ -1,14 +1,14 @@
 ---
-        titulo: Como diminuir o impulso de comprar?
-        slug: como-diminuir-o-impulso-de-comprar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-diminuir-o-impulso-de-comprar.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O brasileiro gosta de consumir e, por mais que isso impulsione bastante a economia, muitas vezes [acaba prejudicando o próprio bolso](https://www.embracon.com.br/blog/as-dicas-mais-valiosas-para-sair-do-vermelho) - especialmente quando as pessoas realizam compras por impulso.
+titulo: Como diminuir o impulso de comprar?
+slug: como-diminuir-o-impulso-de-comprar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-diminuir-o-impulso-de-comprar.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O brasileiro gosta de consumir e, por mais que isso impulsione bastante a economia, muitas vezes [acaba prejudicando o próprio bolso](https://www.embracon.com.br/blog/as-dicas-mais-valiosas-para-sair-do-vermelho) - especialmente quando as pessoas realizam compras por impulso.
 
 Um estudo feito pelo Serviço de Proteção ao Crédito (SPC) identificou que pouco mais da metade dos brasileiros assumiu já ter feito algum tipo de compra por impulso, principalmente em itens como roupas, calçados e eletrônicos.
 
@@ -81,4 +81,3 @@ Além da paciência, peça ajuda caso lidar com essa situação seja extremament
 Para mais dicas de finanças pessoais, veja [como você pode começar guardando dinheiro começando com R$ 50 por mês](https://www.embracon.com.br/blog/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=impulso_de_comprar&utm_campaign=publicacoes_blog)</figure>
-        

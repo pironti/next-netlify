@@ -1,14 +1,14 @@
 ---
-        titulo: Qual o melhor investimento para R$ 50, R$ 500 ou R$ 5000
-        slug: qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Muitos falam que [guardar dinheiro](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos) é a melhor forma de adquirir bens de alto valor, mas a verdade é que [poupar](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos) não é algo assim tão simples. Segundo levantamento realizado pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), atualmente 61% das famílias brasileiras estão endividadas. Esse dado, por si só, mostra que nós não temos o hábito de poupar - muito menos fazer algum tipo de investimento.
+titulo: Qual o melhor investimento para R$ 50, R$ 500 ou R$ 5000
+slug: qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Muitos falam que [guardar dinheiro](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos) é a melhor forma de adquirir bens de alto valor, mas a verdade é que [poupar](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos) não é algo assim tão simples. Segundo levantamento realizado pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), atualmente 61% das famílias brasileiras estão endividadas. Esse dado, por si só, mostra que nós não temos o hábito de poupar - muito menos fazer algum tipo de investimento.
 
 Isso porque existe um mito de que é preciso guardar uma grande quantia de dinheiro para que ele renda bem. Na verdade, para chegar ao [melhor investimento](http://embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), é preciso ir guardando aos poucos.
 
@@ -76,4 +76,3 @@ Seu perfil melhora a cada investimento realizado e, quando achar que a hora cheg
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

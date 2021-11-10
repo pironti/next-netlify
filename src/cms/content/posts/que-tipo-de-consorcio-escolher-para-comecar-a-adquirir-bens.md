@@ -1,14 +1,14 @@
 ---
-        titulo: Que tipo de consórcio escolher para começar a adquirir bens
-        slug: que-tipo-de-consorcio-escolher-para-comecar-a-adquirir-bens
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/que-tipo-de-consorcio-escolher-para-comecar-a-adquirir-bens.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A maioria das pessoas não sabem, mas existem vários[ tipos de consórcios](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio). O surgimento do consórcio no Brasil começou na década de 1960 e também é comum em outros países, permitindo a compra de diversos bens e serviços, o que se constitui em um método de investimento muito interessante.
+titulo: Que tipo de consórcio escolher para começar a adquirir bens
+slug: que-tipo-de-consorcio-escolher-para-comecar-a-adquirir-bens
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/que-tipo-de-consorcio-escolher-para-comecar-a-adquirir-bens.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A maioria das pessoas não sabem, mas existem vários[ tipos de consórcios](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio). O surgimento do consórcio no Brasil começou na década de 1960 e também é comum em outros países, permitindo a compra de diversos bens e serviços, o que se constitui em um método de investimento muito interessante.
 
 Ao reunir pessoas com interesses comuns, pode-se criar um fundo igualitário, que torna as compras possíveis e dá aos membros do consórcio a oportunidade de se organizarem financeiramente e com regularidade, economizar uma determinada quantia para atingir objetivos, como o sonho de possuir um imóvel ou um carro novo.
 
@@ -132,4 +132,3 @@ Para esclarecer suas dúvidas, fazer simulações e estabelecer parcerias, dispo
 > [Entre em contato](https://www.embracon.com.br/) conosco para começar a adquirir bens hoje mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

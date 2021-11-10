@@ -1,14 +1,14 @@
 ---
-        titulo: Formas de economizar combustível
-        slug: formas-de-economizar-combustivel
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/formas-de-economizar-combustivel.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Dirigir pode ser uma tarefa muito prazerosa, mas muitos motoristas têm feito queixas nos últimos anos no que se refere ao ***combustível***, que vem aumentando significativamente os ***preços***, principalmente do [etanol e da gasolina](https://www.embracon.com.br/blog/como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens).
+titulo: Formas de economizar combustível
+slug: formas-de-economizar-combustivel
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/formas-de-economizar-combustivel.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Dirigir pode ser uma tarefa muito prazerosa, mas muitos motoristas têm feito queixas nos últimos anos no que se refere ao ***combustível***, que vem aumentando significativamente os ***preços***, principalmente do [etanol e da gasolina](https://www.embracon.com.br/blog/como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens).
 
 Em tempos de preços de gasolina, etanol e diesel nas alturas, algumas atitudes simples te ajudarão a visitar o posto com menos frequência.
 
@@ -76,4 +76,3 @@ São muitos os fatores que fazem com que um veículo gaste mais combustível que
 Gostou dessas dicas? Sabemos que ter um carro pode dar muitos gastos, mas se for usado do jeito certo ele é uma excelente ferramenta no dia a dia. E se já chegou no seu limite e percebeu que está na hora de trocar seu carro, entre em contato com a [Embracon](https://www.embracon.com.br/a-embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

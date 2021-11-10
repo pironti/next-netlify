@@ -1,14 +1,14 @@
 ---
-        titulo: Casamento na praia: Guia completo para uma celebração
-        slug: casamento-na-praia-guia-completo-para-uma-celebracao
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/casamento-na-praia-guia-completo-para-uma-celebracao.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Casar é a realização de um sonho! E para essa hora, nada melhor do que[ fazer as coisas exatamente como você sempre quis](https://www.embracon.com.br/blog/10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento). E você sabia que os **casamentos na praia estão ficando cada vez mais populares**? Não dá para competir com um pôr do sol com a água do mar refletindo nas fotos, né? Além da vantagem de poder reunir a família e os amigos em uma viagem inesquecível.
+titulo: Casamento na praia: Guia completo para uma celebração
+slug: casamento-na-praia-guia-completo-para-uma-celebracao
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/casamento-na-praia-guia-completo-para-uma-celebracao.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Casar é a realização de um sonho! E para essa hora, nada melhor do que[ fazer as coisas exatamente como você sempre quis](https://www.embracon.com.br/blog/10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento). E você sabia que os **casamentos na praia estão ficando cada vez mais populares**? Não dá para competir com um pôr do sol com a água do mar refletindo nas fotos, né? Além da vantagem de poder reunir a família e os amigos em uma viagem inesquecível.
 
 Montamos uma [lista de dicas](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento) para quem tem esse sonho. Boa leitura!
 
@@ -53,4 +53,3 @@ Não esqueça de avisar com antecedência sobre o casamento para os convidados c
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Casamento](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) de Consórcio de Serviços e planeje a festa de casamento dos seus sonhos! Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 ‍
-        

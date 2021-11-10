@@ -1,14 +1,14 @@
 ---
-        titulo: Dia de Festa: 5 coisas que não podem faltar no seu casamento
-        slug: dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Muitos noivos ficam tão ansiosos quando [planejam o casamento](https://www.embracon.com.br/blog/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento), que acabam tomando algumas decisões impulsivas que podem comprometer o dia mais feliz na vida dos dois.
+titulo: Dia de Festa: 5 coisas que não podem faltar no seu casamento
+slug: dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Muitos noivos ficam tão ansiosos quando [planejam o casamento](https://www.embracon.com.br/blog/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento), que acabam tomando algumas decisões impulsivas que podem comprometer o dia mais feliz na vida dos dois.
 
 Por isso, os dois devem ter em mente o que realmente desejam, para evitar que o desvio de rota acabe arruinando tudo.
 
@@ -62,4 +62,3 @@ Para esses dois momentos, o casal pode contar com o consórcio. Dentro da catego
 [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e conte com a credibilidade de uma [administradora especializada](https://www.embracon.com.br/) em realizar sonhos há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

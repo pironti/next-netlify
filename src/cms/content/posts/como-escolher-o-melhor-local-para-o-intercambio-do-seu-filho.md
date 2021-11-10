@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher o melhor local para o intercâmbio do seu filho?
-        slug: como-escolher-o-melhor-local-para-o-intercambio-do-seu-filho
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-o-melhor-local-para-o-intercambio-do-seu-filho.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        [Fazer intercâmbio](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos) é uma decisão que muda a vida das pessoas. Estudar em outro país é uma experiência incrível e pode ser um marco para qualquer pessoa, principalmente para os mais jovens. Isso porque o jovem tem a chance de aprender e entender, desde cedo, novas culturas, conhecer diferentes nacionalidades e ser mais independente. Além disso, é uma ótima [oportunidade de aprender novas línguas](https://www.embracon.com.br/blog/entenda-a-importancia-de-aprender-a-falar-ingles) e fazer cursos e ter possibilidades de [estágios fora do Brasil](https://www.embracon.com.br/blog/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens).
+titulo: Como escolher o melhor local para o intercâmbio do seu filho?
+slug: como-escolher-o-melhor-local-para-o-intercambio-do-seu-filho
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-o-melhor-local-para-o-intercambio-do-seu-filho.jpg
+meta_summary: 
+date: 28/09/2021
+---
+[Fazer intercâmbio](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos) é uma decisão que muda a vida das pessoas. Estudar em outro país é uma experiência incrível e pode ser um marco para qualquer pessoa, principalmente para os mais jovens. Isso porque o jovem tem a chance de aprender e entender, desde cedo, novas culturas, conhecer diferentes nacionalidades e ser mais independente. Além disso, é uma ótima [oportunidade de aprender novas línguas](https://www.embracon.com.br/blog/entenda-a-importancia-de-aprender-a-falar-ingles) e fazer cursos e ter possibilidades de [estágios fora do Brasil](https://www.embracon.com.br/blog/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens).
 
 Apesar de ser uma ótima escolha para o seu filho, pode ser um momento com muitas dúvidas e medos, principalmente para os pais. Então, quanto mais preparado você estiver para essa decisão, melhor. Mas como descobrir qual o melhor país e consequentemente a melhor cultura para o seu filho? Fizemos uma lista com dicas para quem tem essa vontade, mas não sabe como decidir. Veja a seguir:
 
@@ -52,4 +52,3 @@ Quando a contemplação do seu crédito chegar, você pode deixar seu sonho aind
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e conte com a Embracon para ajudar a realizar o sonho do seu filho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

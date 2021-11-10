@@ -1,14 +1,14 @@
 ---
-        titulo: Por que viajar para as Ilhas Maldivas? Entenda aqui!
-        slug: por-que-viajar-para-as-ilhas-maldivas-entenda-aqui
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-viajar-para-as-ilhas-maldivas-entenda-aqui.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Como seriam as suas [férias perfeitas](https://www.embracon.com.br/blog/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias)? Um lugar paradisíaco com praias deslumbrantes, muito sol e calor, além de momentos de relaxamento e contemplação da natureza? Se a resposta é sim, então lá vem outra pergunta: já pensou em viajar para as Ilhas Maldivas?
+titulo: Por que viajar para as Ilhas Maldivas? Entenda aqui!
+slug: por-que-viajar-para-as-ilhas-maldivas-entenda-aqui
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-viajar-para-as-ilhas-maldivas-entenda-aqui.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Como seriam as suas [férias perfeitas](https://www.embracon.com.br/blog/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias)? Um lugar paradisíaco com praias deslumbrantes, muito sol e calor, além de momentos de relaxamento e contemplação da natureza? Se a resposta é sim, então lá vem outra pergunta: já pensou em viajar para as Ilhas Maldivas?
 
 Se ainda não passou pela sua cabeça ir para esse lugar com [cenários de tirar o fôlego](https://www.embracon.com.br/blog/5-melhores-destinos-para-visitar-na-sua-lua-de-mel), é melhor pensar nessa ideia. Quer mais motivos para conhecer o arquipélago de mais de 1200 ilhas? Continue a leitura deste post, pois trazemos várias razões para esse ser o seu [próximo destino](https://www.embracon.com.br/blog/saiba-o-que-levar-na-sua-proxima-viagem). Confira!
 
@@ -47,4 +47,3 @@ E você, gostou do nosso artigo? Sabe de algum amigo que está planejando uma vi
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb048b308e2cb691b1e8c13_CTA-VIAGEM.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

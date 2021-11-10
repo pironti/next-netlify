@@ -1,14 +1,14 @@
 ---
-        titulo: Como começar 2021 com a conta no azul
-        slug: como-comecar-2021-com-a-conta-no-azul
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comecar-2021-com-a-conta-no-azul.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Falar de 2020 é lembrar de [tempos desafiadores para todo mundo](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica). Enquanto alguns tiveram a perda de parentes próximos por conta da Covid-19, outros [tiveram que se reinventar](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) por conta da drástica diminuição de empregos ou por conta da redução de salários de alguns setores, o que impactou bastante os[ rendimentos mensais](https://www.embracon.com.br/blog/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia) de cada um.
+titulo: Como começar 2021 com a conta no azul
+slug: como-comecar-2021-com-a-conta-no-azul
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comecar-2021-com-a-conta-no-azul.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Falar de 2020 é lembrar de [tempos desafiadores para todo mundo](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica). Enquanto alguns tiveram a perda de parentes próximos por conta da Covid-19, outros [tiveram que se reinventar](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) por conta da drástica diminuição de empregos ou por conta da redução de salários de alguns setores, o que impactou bastante os[ rendimentos mensais](https://www.embracon.com.br/blog/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia) de cada um.
 
 Diante de tantos desafios, falar sobre manter a conta no azul pode soar algo distante para boa parte das pessoas. Porém, é preciso manter o foco e o otimismo, para não apenas [conseguir superar os tempos difíceis](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro), como aprender com eles.
 
@@ -170,4 +170,3 @@ Os resultados irão beneficiar a todos da sua família, que vão aprender mais s
 > Como você já sabe, o consórcio é uma ótima forma de investimento. [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja todas as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

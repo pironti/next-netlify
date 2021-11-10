@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, quais são os carros mais econômicos do mercado?
-        slug: afinal-quais-sao-os-carros-mais-economicos-do-mercado
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-quais-sao-os-carros-mais-economicos-do-mercado.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Independentemente do segmento — popular, médio ou de luxo — os fabricantes de automóveis passaram a priorizar conjuntos mecânicos que consomem menos, dotados de[ tecnologias mais modernas e eficazes](https://www.embracon.com.br/blog/carro-manual-ou-automatico-qual-e-a-melhor-opcao), resultando em carros mais econômicos e menos poluentes.
+titulo: Afinal, quais são os carros mais econômicos do mercado?
+slug: afinal-quais-sao-os-carros-mais-economicos-do-mercado
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-quais-sao-os-carros-mais-economicos-do-mercado.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Independentemente do segmento — popular, médio ou de luxo — os fabricantes de automóveis passaram a priorizar conjuntos mecânicos que consomem menos, dotados de[ tecnologias mais modernas e eficazes](https://www.embracon.com.br/blog/carro-manual-ou-automatico-qual-e-a-melhor-opcao), resultando em carros mais econômicos e menos poluentes.
 
 A maioria das pessoas, aliás, não faz nem ideia de que pode ser proprietária de um dos carros mais econômicos do Brasil. Você, por acaso, saberia dizer quais são esses modelos?
 
@@ -109,4 +109,3 @@ Por essa razão, é importante que você faça as suas próprias pesquisas antes
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebda2b6735c676da2d9e861_CTA-Automoveis2.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

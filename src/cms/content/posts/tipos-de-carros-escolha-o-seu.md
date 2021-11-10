@@ -1,14 +1,14 @@
 ---
-        titulo: Tipos de carros: escolha o seu
-        slug: tipos-de-carros-escolha-o-seu
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tipos-de-carros-escolha-o-seu.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Desde que o [automóvel chegou ao Brasil ](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio)de vez, tornou-se uma paixão nacional. Muito provavelmente seus pais ou avós se lembram do tão sonhado Fusca. Veio a geração seguinte, e logo o Fiat 147 e o famigerado Gol quadrado passaram a integrar parte do imaginário do trabalhador brasileiro.
+titulo: Tipos de carros: escolha o seu
+slug: tipos-de-carros-escolha-o-seu
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tipos-de-carros-escolha-o-seu.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Desde que o [automóvel chegou ao Brasil ](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio)de vez, tornou-se uma paixão nacional. Muito provavelmente seus pais ou avós se lembram do tão sonhado Fusca. Veio a geração seguinte, e logo o Fiat 147 e o famigerado Gol quadrado passaram a integrar parte do imaginário do trabalhador brasileiro.
 
 O consórcio tem parte importante nessa história. Afinal, foi em meados dos anos 1950 que funcionários do Banco do Brasil se reuniram para dar a possibilidade de todos os integrantes comprarem um carro e formarem um único fundo. Com a ampla adesão, não demorou para que as fabricantes e as concessionárias começassem a [oferecer o consórcio como possibilidade](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio) em uma época em que o acesso ao crédito era bem mais difícil.
 
@@ -151,4 +151,3 @@ Após assinar o [contrato de adesão](https://www.embracon.com.br/blog/saiba-o-q
 Como deu para perceber, são múltiplas as vantagens de um consórcio. [Faça uma simulação agora mesmo](https://www.embracon.com.br/consorcio-de-carros) e invista o quanto antes no seu próximo automóvel.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

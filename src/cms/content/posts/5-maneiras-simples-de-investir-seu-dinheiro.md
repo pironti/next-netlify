@@ -1,14 +1,14 @@
 ---
-        titulo: 5 maneiras simples de investir seu dinheiro
-        slug: 5-maneiras-simples-de-investir-seu-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-maneiras-simples-de-investir-seu-dinheiro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Por onde andamos, tem alguém nos dando alguma dica sobre a [melhor forma de investir o nosso dinheiro](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir). Embora seja um assunto muito discutido, o brasileiro passa por muitos desafios quando o assunto é poupar.
+titulo: 5 maneiras simples de investir seu dinheiro
+slug: 5-maneiras-simples-de-investir-seu-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-maneiras-simples-de-investir-seu-dinheiro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Por onde andamos, tem alguém nos dando alguma dica sobre a [melhor forma de investir o nosso dinheiro](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir). Embora seja um assunto muito discutido, o brasileiro passa por muitos desafios quando o assunto é poupar.
 
 Uma pesquisa realizada pela startup Acordo Certo identificou que [56% dos brasileiros não conseguiram juntar dinheiro nos últimos meses](https://exame.com/invest/56-dos-brasileiros-tem-dificuldades-para-guardar-dinheiro/). O agravamento da [pandemia de Covid-19](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia) tornou as coisas ainda mais difíceis, especialmente para setores que dependem da presença de pessoas, como parques, restaurantes, casas de eventos, entre outros.
 
@@ -82,4 +82,3 @@ Reserve um percentual dos seus rendimentos para investir em algo que você e sua
 > [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=maneiras_de_investir_seu_dinheiro&utm_campaign=publicacoes_blog) e conte com as vantagens de uma modalidade que realiza sonhos dos brasileiros há mais de 50 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=maneiras_de_investir_seu_dinheiro&utm_campaign=publicacoes_blog)</figure>
-        

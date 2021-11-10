@@ -1,14 +1,14 @@
 ---
-        titulo: Procedimentos e cirurgias estéticas mais famosas do momento
-        slug: procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Poucas sensações são tão boas do que se sentir bonito, jovem e com a auto estima elevada. Com o avanço da medicina, diversos tipos de procedimentos estão ficando mais modernos e seguros para garantir que você fique com a aparência da maneira que você deseja. Nos últimos dois anos, houve um aumento de 5% no total de procedimentos cirúrgicos, segundo estudo publicado pela Sociedade Internacional de Cirurgia Plástica e Estética (ISAPS). Isso significa que mais gente tem deixado o medo de lado na hora de realizar o seu sonho.
+titulo: Procedimentos e cirurgias estéticas mais famosas do momento
+slug: procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Poucas sensações são tão boas do que se sentir bonito, jovem e com a auto estima elevada. Com o avanço da medicina, diversos tipos de procedimentos estão ficando mais modernos e seguros para garantir que você fique com a aparência da maneira que você deseja. Nos últimos dois anos, houve um aumento de 5% no total de procedimentos cirúrgicos, segundo estudo publicado pela Sociedade Internacional de Cirurgia Plástica e Estética (ISAPS). Isso significa que mais gente tem deixado o medo de lado na hora de realizar o seu sonho.
 
 "As cirurgias plásticas, quando realizadas com segurança e em ambiente hospitalar com boa infraestrutura, podem melhorar e muito a aparência dos pacientes, colaborando para que tenham uma melhor autoestima e qualidade de vida", afirma o cirurgião plástico do Hospital 9 de Julho, Otávio Machado de Almeida, em um artigo sobre o tema.
 
@@ -85,4 +85,3 @@ Um dos métodos mais modernos de preenchimento facial do mundo. O MD Codes (Medi
 > E você? Tem interesse em ficar mais bonito e jovem? Sabia que a [Embracon tem planos](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon) para quem quer realizar os procedimentos estéticos dos sonhos? [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) no nosso site e saiba mais detalhes para realizar esse desejo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

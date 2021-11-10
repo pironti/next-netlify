@@ -1,14 +1,14 @@
 ---
-        titulo: Quais as opções de consórcio para CNPJ
-        slug: quais-as-opcoes-de-consorcio-para-cnpj
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-as-opcoes-de-consorcio-para-cnpj.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        As empresas precisam considerar constantemente o [aumento de seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e a economia de custos. A gestão [financeira](https://www.embracon.com.br/blog/vantagens-financeiras-de-um-consorcio) é fundamental neste processo, mas existem outras ideias que podem ser colocadas em prática. Um deles é um consórcio de pessoas jurídicas (**consórcio para CNPJ**).
+titulo: Quais as opções de consórcio para CNPJ
+slug: quais-as-opcoes-de-consorcio-para-cnpj
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-as-opcoes-de-consorcio-para-cnpj.jpg
+meta_summary: 
+date: 20/10/2021
+---
+As empresas precisam considerar constantemente o [aumento de seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e a economia de custos. A gestão [financeira](https://www.embracon.com.br/blog/vantagens-financeiras-de-um-consorcio) é fundamental neste processo, mas existem outras ideias que podem ser colocadas em prática. Um deles é um consórcio de pessoas jurídicas (**consórcio para CNPJ**).
 
 Muitos empreendedores não sabem das atividades do consórcio, mas acredite que esta é uma forma de fazer sua [empresa](https://www.embracon.com.br/blog/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher) crescer sem passar por acontecimentos difíceis e imprevistos. Ao mesmo tempo, realizar mais economia e garantir o acúmulo de riqueza.
 
@@ -97,4 +97,3 @@ Como funciona a contemplação? Realiza-se uma vez por mês, em reuniões ordin�
 Agora que você sabe que é possível e como fazer um consórcio para sua CNPJ, faça sua [simulação](https://www.embracon.com.br/servicos/simulacao-de-consorcio) com o Consórcio [Embracon](https://www.embracon.com.br/a-embracon) e aumente seu patrimônio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div></figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Posso fazer uma cirurgia plástica com o consórcio?
-        slug: posso-fazer-uma-cirurgia-plastica-com-o-consorcio
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/posso-fazer-uma-cirurgia-plastica-com-o-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Por muitos anos, o consórcio ficou conhecido como uma modalidade para a [compra de automóveis](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar). Por volta dos anos 1960, quando o país começou a adotar cada vez mais o carro como transporte particular, muitos brasileiros puderam realizar seu sonho por meio do consórcio.
+titulo: Posso fazer uma cirurgia plástica com o consórcio?
+slug: posso-fazer-uma-cirurgia-plastica-com-o-consorcio
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/posso-fazer-uma-cirurgia-plastica-com-o-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Por muitos anos, o consórcio ficou conhecido como uma modalidade para a [compra de automóveis](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar). Por volta dos anos 1960, quando o país começou a adotar cada vez mais o carro como transporte particular, muitos brasileiros puderam realizar seu sonho por meio do consórcio.
 
 Com o passar dos anos, o segmento se modernizou, dando a possibilidade de comprar eletrodomésticos e, mais tarde, [até mesmo imóveis](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel). Sim, com a [lei do consórcio](https://www.embracon.com.br/blog/o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia), o brasileiro pôde ter uma alternativa de pagamento pela [compra do seu terreno](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir), casa, apartamento ou até mesmo empreendimento comercial.
 
@@ -63,4 +63,3 @@ Se o [valor da carta de crédito for maior](https://www.embracon.com.br/blog/e-p
 > Quer saber mais sobre os benefícios de um consórcio para cirurgia? [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e aproveite as vantagens da melhor modalidade de compra parcelada para o seu bem-estar.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=)</figure>
-        

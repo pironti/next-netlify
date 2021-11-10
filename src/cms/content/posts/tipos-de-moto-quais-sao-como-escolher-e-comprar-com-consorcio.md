@@ -1,14 +1,14 @@
 ---
-        titulo: Tipos de moto: quais são, como escolher e comprar com consórcio
-        slug: tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        [Comprar uma moto](https://www.embracon.com.br/blog/quais-sao-as-formas-de-comprar-uma-moto) é o objetivo comum de muitas das pessoas. Seja para trabalhar ou viajar de forma mais econômica e flexível, este é um bem muito útil para quem vive principalmente nas grandes cidades. Hoje, existem várias maneiras de comprar sua motocicleta. Uma delas é por meio do consórcio de motos, que é uma opção segura, simples e econômica para quem não tem recursos para comprar à vista ou pagar um empréstimo.
+titulo: Tipos de moto: quais são, como escolher e comprar com consórcio
+slug: tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+[Comprar uma moto](https://www.embracon.com.br/blog/quais-sao-as-formas-de-comprar-uma-moto) é o objetivo comum de muitas das pessoas. Seja para trabalhar ou viajar de forma mais econômica e flexível, este é um bem muito útil para quem vive principalmente nas grandes cidades. Hoje, existem várias maneiras de comprar sua motocicleta. Uma delas é por meio do consórcio de motos, que é uma opção segura, simples e econômica para quem não tem recursos para comprar à vista ou pagar um empréstimo.
 
 Embora o [consórcio de motos](https://www.embracon.com.br/blog/saiba-tudo-sobre-consorcio-de-motos) tenha grandes vantagens, ainda não é conhecido de todos. Por esse motivo, naturalmente surgirão algumas dúvidas em relação às suas operações e custos, principalmente. Portanto, com o objetivo de esclarecer melhor as vantagens da compra de uma moto pelo consórcio, elaboramos este artigo, relacionando e respondendo algumas questões mais frequentes sobre esse tipo de compra. Continue lendo.
 
@@ -279,4 +279,3 @@ Este tipo de motocicleta é adequada para as pessoas que procuram motocicletas b
 Conferiu a lista e identificou a moto perfeita pra você? Então [faça agora uma simulação com a Embracon](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=), administradora de consórcios, escolha um plano que melhor atenda suas condições financeiras e adquira sua moto.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

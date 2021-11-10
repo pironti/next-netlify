@@ -1,14 +1,14 @@
 ---
-        titulo: 4 dicas incríveis de decoração
-        slug: 4-dicas-incriveis-de-decoracao
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-dicas-incriveis-de-decoracao.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        É quase impossível não considerar uma decoração importante no ambiente, seja em empresas ou na residência.
+titulo: 4 dicas incríveis de decoração
+slug: 4-dicas-incriveis-de-decoracao
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-dicas-incriveis-de-decoracao.jpg
+meta_summary: 
+date: 27/09/2021
+---
+É quase impossível não considerar uma decoração importante no ambiente, seja em empresas ou na residência.
 
 Uma sala, cozinha, e até mesmo área externa podem causar impressões através da decoração.
 
@@ -93,4 +93,3 @@ E aí, com qual tipo de decoração você se identificou e deseja fazer na sua r
 Esse artigo foi escrito por Thais Teixeira, Criadora de Conteúdo do [Soluções Industriais](http://solucoesindustriais.com.br).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=4_dicas_incriveis_de_decoracao&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quando e como eu devo pedir a revisão de ITBI?
-        slug: quando-e-como-eu-devo-pedir-a-revisao-de-itbi
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quando-e-como-eu-devo-pedir-a-revisao-de-itbi.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Uma das taxas que deve ser prevista na [compra de uma casa](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel), apartamento ou terreno é o [Imposto de Transmissão de Bens Imóveis (ITBI)](https://www.embracon.com.br/blog/entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago). De competência municipal, ele assegura a transferência do imóvel ao novo comprador. Mas você sabia que é possível pedir a revisão de ITBI?
+titulo: Quando e como eu devo pedir a revisão de ITBI?
+slug: quando-e-como-eu-devo-pedir-a-revisao-de-itbi
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quando-e-como-eu-devo-pedir-a-revisao-de-itbi.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Uma das taxas que deve ser prevista na [compra de uma casa](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel), apartamento ou terreno é o [Imposto de Transmissão de Bens Imóveis (ITBI)](https://www.embracon.com.br/blog/entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago). De competência municipal, ele assegura a transferência do imóvel ao novo comprador. Mas você sabia que é possível pedir a revisão de ITBI?
 
 Por ser cobrado pela prefeitura, esse imposto varia em cada cidade. No entanto, normalmente ele se refere a 2% do valor do imóvel. O que vem ocorrendo é que muitos municípios estão colocando a avaliação do preço venal superior à do real, o que aumenta o valor de cobrança do ITBI.
 
@@ -45,4 +45,3 @@ Enfim, agora que você sabe como funciona a revisão de ITBI, a compra do seu im
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

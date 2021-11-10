@@ -1,14 +1,14 @@
 ---
-        titulo: Aprenda em poucos passos como empreender na crise
-        slug: aprenda-em-poucos-passos-como-empreender-na-crise
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/aprenda-em-poucos-passos-como-empreender-na-crise.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Uma das áreas mais atingidas em 2020 foi a economia. Em um primeiro momento, muitas empresas demitiram seus funcionários e o desemprego chegou a um nível alarmante. Mas como achar soluções para empreender dentro desse cenário tão incerto?
+titulo: Aprenda em poucos passos como empreender na crise
+slug: aprenda-em-poucos-passos-como-empreender-na-crise
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/aprenda-em-poucos-passos-como-empreender-na-crise.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Uma das áreas mais atingidas em 2020 foi a economia. Em um primeiro momento, muitas empresas demitiram seus funcionários e o desemprego chegou a um nível alarmante. Mas como achar soluções para empreender dentro desse cenário tão incerto?
 
 Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE) cerca de 700 mil pessoas foram desligadas do seus empregos nas duas primeiras semanas de junho no Brasil, o que aumentou o índice de desemprego de 11,8% para 12,4%. Esse número é muito assustador, mas como os brasileiros sempre se reinventam, entre março e julho de 2020, mais de 550 mil novos registros de microempreendedores foram solicitados no Portal do Empreendedor.
 
@@ -61,4 +61,3 @@ Se você deseja começar a planejar seu novo empreendimento, nós podemos te aju
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e realize esse sonho!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

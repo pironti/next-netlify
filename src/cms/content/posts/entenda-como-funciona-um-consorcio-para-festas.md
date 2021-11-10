@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como funciona um consórcio para festas
-        slug: entenda-como-funciona-um-consorcio-para-festas
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-funciona-um-consorcio-para-festas.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Presentear sua filha com evento de 15 anos dos sonhos dela ou realizar uma cerimônia de casamento inesquecível parecem conquistas distantes? Pois saiba que não são! Com o consórcio para festas, esses desejos viram realidade — e o melhor de tudo: sem comprometer o seu orçamento.
+titulo: Entenda como funciona um consórcio para festas
+slug: entenda-como-funciona-um-consorcio-para-festas
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-funciona-um-consorcio-para-festas.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Presentear sua filha com evento de 15 anos dos sonhos dela ou realizar uma cerimônia de casamento inesquecível parecem conquistas distantes? Pois saiba que não são! Com o consórcio para festas, esses desejos viram realidade — e o melhor de tudo: sem comprometer o seu orçamento.
 
 Para entender melhor como o consórcio funciona e como ele pode ajudar você a dar uma festa memorável, resolvemos reunir, neste post, tudo o que você precisa saber sobre o assunto. Para conferir, acompanhe a leitura!
 
@@ -62,4 +62,3 @@ Gostou de saber como funciona o consórcio para festas? Quer entender melhor com
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

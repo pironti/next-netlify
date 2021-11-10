@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda quais são as 6 maiores desvantagens do financiamento
-        slug: entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Não é fácil para muitas pessoas [adquirirem um imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) ou um outro bem ([carro](https://www.embracon.com.br/consorcio-de-carros), [moto](https://www.embracon.com.br/consorcio-motos) etc.) pagando à vista. Esse é um dos fatores que contribui para a adoção do financiamento. Essa modalidade de compra permite a entrega do item de maneira rápida com o pagamento sendo feito em prestações.
+titulo: Entenda quais são as 6 maiores desvantagens do financiamento
+slug: entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Não é fácil para muitas pessoas [adquirirem um imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) ou um outro bem ([carro](https://www.embracon.com.br/consorcio-de-carros), [moto](https://www.embracon.com.br/consorcio-motos) etc.) pagando à vista. Esse é um dos fatores que contribui para a adoção do financiamento. Essa modalidade de compra permite a entrega do item de maneira rápida com o pagamento sendo feito em prestações.
 
 No entanto, é necessário ter muita atenção para investir e não comprometer o [orçamento familiar](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos). Dependendo do valor, as prestações afetam a capacidade de pagar contas importantes, como condomínio, luz, água e escola dos filhos.
 
@@ -61,4 +61,3 @@ Você percebeu que as desvantagens do financiamento não podem ser desconsiderad
 Se deseja adquirir bens e serviços com mais prudência, vale a pena assinar a newsletter da Embracon. Afinal, o conhecimento é peça-chave para investir com sabedoria!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

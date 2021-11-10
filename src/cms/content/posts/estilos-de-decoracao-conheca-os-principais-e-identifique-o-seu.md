@@ -1,14 +1,14 @@
 ---
-        titulo: Estilos de decoração: conheça os principais e identifique o seu
-        slug: estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quer [decorar a casa](https://www.embracon.com.br/blog/consorcio-de-servicos-para-reformas-e-decoracao) e não sabe por onde começar? Pois tenha em mente que, antes de mais nada, você precisa definir a atmosfera que pretende criar. Sendo assim, conhecer os estilos de decoração que estão em alta e [escolher qual se adapta mais ao seu gosto](https://www.embracon.com.br/blog/4-vantagens-de-usar-o-piso-vinilico-na-casa) e às suas necessidades é fundamental.
+titulo: Estilos de decoração: conheça os principais e identifique o seu
+slug: estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Quer [decorar a casa](https://www.embracon.com.br/blog/consorcio-de-servicos-para-reformas-e-decoracao) e não sabe por onde começar? Pois tenha em mente que, antes de mais nada, você precisa definir a atmosfera que pretende criar. Sendo assim, conhecer os estilos de decoração que estão em alta e [escolher qual se adapta mais ao seu gosto](https://www.embracon.com.br/blog/4-vantagens-de-usar-o-piso-vinilico-na-casa) e às suas necessidades é fundamental.
 
 Afinal, são esses toques de personalidade que deixarão a casa com a sua cara e possibilitarão beleza, conforto e aconchego no lar.
 
@@ -68,4 +68,3 @@ Agora, você já conhece alguns dos principais estilos de decoração. Escolha o
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

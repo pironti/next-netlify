@@ -1,14 +1,14 @@
 ---
-        titulo: O que é o lance livre?
-        slug: o-que-e-o-lance-livre
-        categoria: Lance
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-o-lance-livre.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Diferentemente de qualquer modalidade de compra, o [consórcio funciona como um autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) para que você tenha acesso a um bem. Por conta disso, não exige valor de entrada ou cobrança de juros nas mensalidades.
+titulo: O que é o lance livre?
+slug: o-que-e-o-lance-livre
+categoria: Lance
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-o-lance-livre.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Diferentemente de qualquer modalidade de compra, o [consórcio funciona como um autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) para que você tenha acesso a um bem. Por conta disso, não exige valor de entrada ou cobrança de juros nas mensalidades.
 
 É muito simples investir em bens como automóveis, imóveis e serviços por meio do consórcio: basta fazer uma [simulação do seu bem](https://www.embracon.com.br/blog/simulacao-de-consorcio), inserindo o valor da carta de crédito (que seria o total para a compra do bem) e a quantidade de parcelas que deseja pagar.
 
@@ -75,4 +75,3 @@ Além do lance livre, que é a modalidade mais comum para ofertar um lance no co
 Agora que você já sabe como funciona o lance, [confira dicas de como fazer um planejamento financeiro para ser contemplado mais rapidamente no consórcio](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher o tamanho ideal de apartamento?
-        slug: como-escolher-o-tamanho-ideal-de-apartamento
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-o-tamanho-ideal-de-apartamento.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Sair à procura de imóveis é um processo complexo, porque envolve muitos detalhes. Além dos trâmites legais e das questões financeiras, há um item que precisa ser determinante no momento da decisão: o [tamanho do apartamento](https://www.embracon.com.br/blog/qual-a-diferenca-entre-flat-e-kitnet).
+titulo: Como escolher o tamanho ideal de apartamento?
+slug: como-escolher-o-tamanho-ideal-de-apartamento
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-o-tamanho-ideal-de-apartamento.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+Sair à procura de imóveis é um processo complexo, porque envolve muitos detalhes. Além dos trâmites legais e das questões financeiras, há um item que precisa ser determinante no momento da decisão: o [tamanho do apartamento](https://www.embracon.com.br/blog/qual-a-diferenca-entre-flat-e-kitnet).
 
 Ninguém deseja viver em um ambiente apertado, mas também não deseja gastar muito dinheiro ou ter um espaço exagerado.
 
@@ -101,4 +101,3 @@ Agora que você conheceu algumas dicas para escolher o tamanho do seu apartament
 • 8 dicas que vão te ajudar na compra do primeiro imóvel
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

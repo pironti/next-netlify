@@ -1,14 +1,14 @@
 ---
-        titulo: Tire todas as suas dúvidas sobre transferência de consórcio
-        slug: tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O consórcio é um investimento a longo prazo. É preciso [planejamento e uma boa organização das finanças pessoais](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira), para que você consiga ter acesso à carta de crédito para o bem que tanto deseja comprar.
+titulo: Tire todas as suas dúvidas sobre transferência de consórcio
+slug: tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tire-todas-as-suas-duvidas-sobre-transferencia-de-consorcio.jpg
+meta_summary: 
+date: 05/10/2021
+---
+O consórcio é um investimento a longo prazo. É preciso [planejamento e uma boa organização das finanças pessoais](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira), para que você consiga ter acesso à carta de crédito para o bem que tanto deseja comprar.
 
 Porém, pode acontecer algum imprevisto: seja por desemprego, momento econômico apertado, mudança de planos, aumento da família, enfim, algumas pessoas podem acabar desistindo do consórcio após a contratação.
 
@@ -259,4 +259,3 @@ Por mais que tenha etapas complexas, a transferência de consórcio garante mais
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simule Agora](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> É por isso e muito mais que o consórcio é tido como uma modalidade flexível, que tem ajudado milhares de pessoas a realizarem os seus sonhos. Para entender melhor como funciona a modalidade, [confira nosso e-book completo sobre consórcio](https://www.embracon.com.br/materiais-gratuitos/e-book-completo-de-a-a-z-sobre-consorcio-de-automoveis-imoveis-e-motos).
 
 > ‍
-        

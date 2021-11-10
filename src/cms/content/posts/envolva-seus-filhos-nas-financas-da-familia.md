@@ -1,14 +1,14 @@
 ---
-        titulo: Envolva seus filhos nas finanças da família
-        slug: envolva-seus-filhos-nas-financas-da-familia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/envolva-seus-filhos-nas-financas-da-familia.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Nos últimos anos o brasileiro tem se interessado bastante por [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida). Apesar de ser um tema que não costuma ser discutido nas escolas, cada vez mais os pais têm se preocupado em orientar os filhos desde cedo para começar a utilizar melhor o dinheiro.
+titulo: Envolva seus filhos nas finanças da família
+slug: envolva-seus-filhos-nas-financas-da-familia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/envolva-seus-filhos-nas-financas-da-familia.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Nos últimos anos o brasileiro tem se interessado bastante por [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida). Apesar de ser um tema que não costuma ser discutido nas escolas, cada vez mais os pais têm se preocupado em orientar os filhos desde cedo para começar a utilizar melhor o dinheiro.
 
 Quando os [pais estão preocupados com a educação financeira desde o início](https://www.embracon.com.br/blog/como-ensinar-educacao-financeira-aos-filhos) podem dar a possibilidade de colocar os aprendizados em prática.
 
@@ -83,4 +83,3 @@ Sabemos que nem todas as famílias podem conseguir [multiplicar seu patrimônio]
 > E você sabe que o consórcio é uma ótima forma de investimento, né? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

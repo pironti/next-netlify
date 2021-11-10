@@ -1,14 +1,14 @@
 ---
-        titulo: Escritura de imóvel: o que eu preciso saber sobre o tema?
-        slug: escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Fundamental para comprovar a propriedade, a escritura de imóvel é um documento que gera muitas dúvidas. Esta é a única comprovação legal capaz de atestar a efetiva transferência do bem após a [compra do imóvel.](https://www.embracon.com.br/blog/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel)
+titulo: Escritura de imóvel: o que eu preciso saber sobre o tema?
+slug: escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Fundamental para comprovar a propriedade, a escritura de imóvel é um documento que gera muitas dúvidas. Esta é a única comprovação legal capaz de atestar a efetiva transferência do bem após a [compra do imóvel.](https://www.embracon.com.br/blog/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel)
 
 Contratos, recibos de compra e venda, mesmo com registro em cartório, não são suficientes. A escritura de imóvel é a forma mais garantida de comprovar que você é o dono de um apartamento, casa ou[ terreno](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir). Neste artigo você vai tirar as suas dúvidas sobre a escritura de imóvel. Entenda como ela é feita, quais os documentos necessários e como calcular o valor. Continue a leitura para compreender.m
 
@@ -57,4 +57,3 @@ Após o pagamento do ITBI e da escritura do imóvel, é realizada a leitura da e
 Agora que entendeu mais sobre a [escritura de imóvel](https://www.embracon.com.br/blog/qual-e-a-documentacao-necessaria-para-a-compra-de-um-imovel), confira quais são todos os documentos necessários para a compra do seu bem.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

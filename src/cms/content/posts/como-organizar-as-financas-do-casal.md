@@ -1,14 +1,14 @@
 ---
-        titulo: Como organizar as finanças do casal?
-        slug: como-organizar-as-financas-do-casal
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-organizar-as-financas-do-casal.png
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Dizem que o casamento ajuda a ter grandes conquistas, não é mesmo? Mas, para que tudo dê certo, é preciso união e racionalidade na hora de juntar as contas e organizar as finanças do casal.
+titulo: Como organizar as finanças do casal?
+slug: como-organizar-as-financas-do-casal
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-organizar-as-financas-do-casal.png
+meta_summary: 
+date: 04/10/2021
+---
+Dizem que o casamento ajuda a ter grandes conquistas, não é mesmo? Mas, para que tudo dê certo, é preciso união e racionalidade na hora de juntar as contas e organizar as finanças do casal.
 
 É preciso muita conversa e um bom tempo revendo gastos, analisando os boletos e contabilizando o que entra e o que sai, para que, juntos, atinjam seus verdadeiros objetivos – seja a compra de um carro, a casa própria ou, até mesmo, o planejamento financeiro para a chegada do primeiro filho.
 
@@ -99,4 +99,3 @@ E aí, gostou das nossas dicas de como organizar as finanças do casal? Assine a
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

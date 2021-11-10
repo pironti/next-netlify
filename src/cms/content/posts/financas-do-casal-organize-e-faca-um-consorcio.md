@@ -1,14 +1,14 @@
 ---
-        titulo: Finanças do casal: organize e faça um consórcio
-        slug: financas-do-casal-organize-e-faca-um-consorcio
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/financas-do-casal-organize-e-faca-um-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A vida não é mais a mesma a partir do momento que você passa a viver com um(a) companheiro(a). Muitas pessoas passam por[ diferentes experiências de vida](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), mas a partir do momento em que deixa de ser solteiro para viver uma vida a dois, muitas coisas passam a mudar.
+titulo: Finanças do casal: organize e faça um consórcio
+slug: financas-do-casal-organize-e-faca-um-consorcio
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/financas-do-casal-organize-e-faca-um-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A vida não é mais a mesma a partir do momento que você passa a viver com um(a) companheiro(a). Muitas pessoas passam por[ diferentes experiências de vida](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), mas a partir do momento em que deixa de ser solteiro para viver uma vida a dois, muitas coisas passam a mudar.
 
 Assim como existe o companheirismo físico, quando o assunto é[ finanças](https://www.embracon.com.br/category/financas-pessoais), esta palavra adquire um novo sentido: o que antes era a vida financeira de um indivíduo passa a ser denominado[ finanças do casal](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal), em que tudo deve ser compartilhado, incluindo sonhos, vontades, gastos do dia a dia e, claro, as[ contas de casa](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica).
 
@@ -167,4 +167,3 @@ Portanto, comece o quanto antes a identificar os gastos, eliminar o que é supé
 > Para entender na prática como o consórcio pode ajudar nessa empreitada,[ faça uma simulação do bem que deseja adquirir.](https://www.embracon.com.br/consorcio)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>[](https://www.embracon.com.br/)
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como utilizar os modelos de tapetes na decoração de casa
-        slug: ideias-e-sugestoes-decoracao-com-tapetes
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/ideias-e-sugestoes-decoracao-com-tapetes.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        5 segredos para arrasar na decoração usando os tapetes certos 
+titulo: Como utilizar os modelos de tapetes na decoração de casa
+slug: ideias-e-sugestoes-decoracao-com-tapetes
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/ideias-e-sugestoes-decoracao-com-tapetes.jpg
+meta_summary: 
+date: 27/09/2021
+---
+5 segredos para arrasar na decoração usando os tapetes certos 
 --------------------------------------------------------------
 
 Atualmente, os profissionais que trabalham com decoração de interiores podem contar com diversas peças diferentes para a composição de ambientes.
@@ -84,4 +84,3 @@ São muitos tipos de tapetes e, com certeza, alguns vão ficar incríveis em sua
 Essas dicas de decoração com tapetes foram criadas pela equipe [Viva Decora](https://www.vivadecora.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

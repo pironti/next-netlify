@@ -1,14 +1,14 @@
 ---
-        titulo: 4 coisas que você precisa fazer se quiser viajar todo ano
-        slug: 4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quem não quer viajar todo ano? A resposta para essa pergunta é fácil, já que viajar está entre os principais sonhos dos brasileiros, segundo uma [pesquisa do SPC](http://meubolsofeliz.com.br/pesquisas/comportamento-de-consumo/) — a casa própria e o carro novo também figuram no Top 5.
+titulo: 4 coisas que você precisa fazer se quiser viajar todo ano
+slug: 4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Quem não quer viajar todo ano? A resposta para essa pergunta é fácil, já que viajar está entre os principais sonhos dos brasileiros, segundo uma [pesquisa do SPC](http://meubolsofeliz.com.br/pesquisas/comportamento-de-consumo/) — a casa própria e o carro novo também figuram no Top 5.
 
 Esse amor pelas viagens é fácil de entender, afinal, é uma ótima [oportunidade para sair da rotina](https://www.embracon.com.br/blog/4-roteiros-de-viagem-em-minas-gerais), conhecer novas culturas, novas pessoas e novos lugares. É a chance de ganhar experiência em diferentes aspectos. Porém, para tornar tudo isso realidade, é preciso muito mais do que vontade.
 
@@ -56,4 +56,3 @@ Em suma, viajar todo ano é possível sim, mas não é tarefa simples. Muito mai
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

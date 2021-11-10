@@ -1,14 +1,14 @@
 ---
-        titulo: 3 dicas para passar na imigração de qualquer país sem problemas
-        slug: 3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Uma das maiores preocupações de quem [viaja para fora do país](https://www.embracon.com.br/blog/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce) é a imigração. Um momento que todos precisam enfrentar, mas que nada mais é do que uma checagem padrão para que você [entre no país](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua). No entanto, em alguns lugares, esse processo é mais temido por conta do histórico, como nos [Estados Unidos](https://www.embracon.com.br/blog/viajar-para-miami-confira-5-dicas), Inglaterra e [Canadá](https://www.embracon.com.br/blog/entenda-as-vantagens-de-fazer-um-intercambio-no-canada).
+titulo: 3 dicas para passar na imigração de qualquer país sem problemas
+slug: 3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Uma das maiores preocupações de quem [viaja para fora do país](https://www.embracon.com.br/blog/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce) é a imigração. Um momento que todos precisam enfrentar, mas que nada mais é do que uma checagem padrão para que você [entre no país](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua). No entanto, em alguns lugares, esse processo é mais temido por conta do histórico, como nos [Estados Unidos](https://www.embracon.com.br/blog/viajar-para-miami-confira-5-dicas), Inglaterra e [Canadá](https://www.embracon.com.br/blog/entenda-as-vantagens-de-fazer-um-intercambio-no-canada).
 
 Passar na imigração, no geral, não é problema para a maioria das pessoas. Basta fazer tudo de forma natural, confirmar suas reais intenções, manter uma boa postura e falar a verdade. Mas, para que você não tenha uma viagem frustrada, vamos ajudar e te tranquilizar. Confira as dicas para superar essa etapa da viagem sem problemas.
 
@@ -65,4 +65,3 @@ Bom, agora já está mais fácil passar na imigração sem problemas. Saiba que 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

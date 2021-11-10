@@ -1,14 +1,14 @@
 ---
-        titulo: Fornecedores para casamentos: escolha bem e negocie os preços
-        slug: fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Escolher fornecedores para casamentos é uma tarefa muito importante. Eles serão os responsáveis por executar cada passo do seu grande dia e fazer com que tudo saia como você planejou. Por isso, é fundamental ter muito cuidado na hora de pesquisar e contratar essas empresas.
+titulo: Fornecedores para casamentos: escolha bem e negocie os preços
+slug: fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Escolher fornecedores para casamentos é uma tarefa muito importante. Eles serão os responsáveis por executar cada passo do seu grande dia e fazer com que tudo saia como você planejou. Por isso, é fundamental ter muito cuidado na hora de pesquisar e contratar essas empresas.
 
 Se você não quer errar na escolha de seus fornecedores, confira abaixo o passo a passo que você deve seguir antes de contratá-los!
 
@@ -59,4 +59,3 @@ Uma dica para visualizar melhor a diferença entre os preços é criar uma tabel
 Seguindo as nossas dicas, você tem tudo o que precisa para escolher os melhores profissionais. E, ainda, garantir os melhores preços na hora de contratá-los. Assim, você vai ter a sua festa dos sonhos sem precisar extrapolar seu orçamento. Mas, se ainda tiver dúvidas, basta fazer[ uma simulação](http://www.embracon.com.br/consorcio) no Consórcio Embracon. Parcelas que cabem no seu bolso!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube.](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ)
-        

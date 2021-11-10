@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, quais são as diferenças entre poupar, economizar e investir?
-        slug: afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Você já reparou como muita gente quer [tirar o orçamento do vermelho](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), ter um pé de meia para o futuro e alcançar a estabilidade financeira, mas não sabe por onde começar? Isso acontece porque essas pessoas não entendem — ou ainda pior, confundem — o que, de fato, significa [economizar, poupar e investir](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos).
+titulo: Afinal, quais são as diferenças entre poupar, economizar e investir?
+slug: afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Você já reparou como muita gente quer [tirar o orçamento do vermelho](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), ter um pé de meia para o futuro e alcançar a estabilidade financeira, mas não sabe por onde começar? Isso acontece porque essas pessoas não entendem — ou ainda pior, confundem — o que, de fato, significa [economizar, poupar e investir](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos).
 
 Para completar, elas não fazem ideia de que essas três ações se influenciam entre si e é preciso haver um equilíbrio entre elas para alcançar os objetivos financeiros. Pensando nisso, preparamos um post para explicar a definição de cada um desses três termos. Acompanhe!
 
@@ -44,4 +44,3 @@ Agora que você já sabe o que realmente significa economizar, poupar e investir
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

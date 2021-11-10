@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que fazer para evitar infiltração na sua casa
-        slug: saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A **infiltração** geralmente é a [parte da reforma que mais dá dor de cabeça](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas) aos proprietários de um imóvel.
+titulo: Saiba o que fazer para evitar infiltração na sua casa
+slug: saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+A **infiltração** geralmente é a [parte da reforma que mais dá dor de cabeça](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas) aos proprietários de um imóvel.
 
 Isso porque pode surgir em qualquer ambiente — especialmente em cômodos úmidos — e causar grandes estragos. Entre eles, a degradação de revestimentos, o deslocamento de reboco etc. Diante disso, fica evidente que a **infiltração** é um problema corriqueiro na vida de muita gente, não é mesmo? Pensando nisso, reunimos neste post [informações para você](https://www.embracon.com.br/blog/os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma) entender como evitá-la. Confira!
 
@@ -90,4 +90,3 @@ Gostou de saber como evitar infiltração? Quer ficar por dentro de mais conteú
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

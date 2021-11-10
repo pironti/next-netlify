@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que avaliar antes de assinar um contrato de consórcio
-        slug: saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Para muitas pessoas, não é fácil [adquirir um carro](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana) ou concretizar o sonho da [casa própria](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar). Um dos motivos é a dificuldade de guardar dinheiro para finalizar a compra de um bem que exige um [grande investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Se você não tem condições de pagar à vista, uma boa opção é fazer o [contrato de consórcio](https://www.embracon.com.br/blog/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio), que se caracteriza por ter um grande número de parcelas e [não tem juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
+titulo: Saiba o que avaliar antes de assinar um contrato de consórcio
+slug: saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Para muitas pessoas, não é fácil [adquirir um carro](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana) ou concretizar o sonho da [casa própria](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar). Um dos motivos é a dificuldade de guardar dinheiro para finalizar a compra de um bem que exige um [grande investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Se você não tem condições de pagar à vista, uma boa opção é fazer o [contrato de consórcio](https://www.embracon.com.br/blog/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio), que se caracteriza por ter um grande número de parcelas e [não tem juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
 
 Essa iniciativa tem como principal vantagem fugir dos juros elevados e da burocracia para conseguir um carro, por exemplo. Para ter sucesso com essa modalidade de compra, a recomendação é ter muito cuidado ao fixar o valor das prestações, o que ajuda a evitar a inadimplência e o endividamento.
 
@@ -79,4 +79,3 @@ Ter consciência das responsabilidades envolvidas e dos procedimentos ideais par
 Se quer mais informações sobre [consórcios](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio), deixe o seu comentário neste post. A equipe da Embracon está à disposição para tirar todas as suas dúvidas e deixá-lo mais tranquilo sobre essa modalidade de investimento. Queremos contribuir para você usar melhor o seu dinheiro e ter mais qualidade de vida!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda as vantagens de fazer um intercâmbio no Canadá
-        slug: entenda-as-vantagens-de-fazer-um-intercambio-no-canada
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-as-vantagens-de-fazer-um-intercambio-no-canada.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Morar em outros países e conhecer culturas diferentes é um desejo de muitas pessoas. Inclusive, existem alguns locais que parecem ser ainda mais interessantes para realizar esse sonho. Sendo assim, conhecer as maiores [vantagens de fazer um **intercâmbio**](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos) **no Canadá** pode ser exatamente o que você estava precisando.
+titulo: Entenda as vantagens de fazer um intercâmbio no Canadá
+slug: entenda-as-vantagens-de-fazer-um-intercambio-no-canada
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-as-vantagens-de-fazer-um-intercambio-no-canada.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Morar em outros países e conhecer culturas diferentes é um desejo de muitas pessoas. Inclusive, existem alguns locais que parecem ser ainda mais interessantes para realizar esse sonho. Sendo assim, conhecer as maiores [vantagens de fazer um **intercâmbio**](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos) **no Canadá** pode ser exatamente o que você estava precisando.
 
 Essa não apenas é uma nação próspera. Também pode ser o cenário perfeito para desenvolver suas capacidades na língua inglesa, aproveitar a natureza ou, simplesmente, criar memórias inesquecíveis. Continue a leitura e veja alguns bons motivos para fazer essa escolha.
 
@@ -51,4 +51,3 @@ Como você pôde ver, não faltam[ vantagens ](https://www.embracon.com.br/blog/
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>E agora, pronto para arrumar as malas e fazer o seu intercâmbio no Canadá? Quer conferir outros artigos como esse? Então não deixe de assinar a nossa newsletter!
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

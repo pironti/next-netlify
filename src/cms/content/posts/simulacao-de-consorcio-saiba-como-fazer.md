@@ -1,14 +1,14 @@
 ---
-        titulo: Simulação de consórcio: saiba como fazer
-        slug: simulacao-de-consorcio-saiba-como-fazer
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/simulacao-de-consorcio-saiba-como-fazer.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        [Consórcio é uma forma de investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento-saiba-o-porque) em que o contratante se compromete a pagar um determinado valor em prestações em um prazo pré-determinado por ele mesmo.
+titulo: Simulação de consórcio: saiba como fazer
+slug: simulacao-de-consorcio-saiba-como-fazer
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/simulacao-de-consorcio-saiba-como-fazer.jpg
+meta_summary: 
+date: 19/10/2021
+---
+[Consórcio é uma forma de investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento-saiba-o-porque) em que o contratante se compromete a pagar um determinado valor em prestações em um prazo pré-determinado por ele mesmo.
 
 Para ajudar nesse tipo de [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), as chamadas simulações de consórcio são essenciais. Por meio dele, você pode planejar seu [orçamento ](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos)pessoal, evitar surpresas, honrar pagamentos até o final do grupo, e ainda organizar licitações e parcelamentos antecipados.
 
@@ -68,4 +68,3 @@ A simulação de consórcio pode ser feita no site, mas também é possível enc
 Não perca tempo, consulte o site da Embracon e [faça sua simulação de consórcio](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

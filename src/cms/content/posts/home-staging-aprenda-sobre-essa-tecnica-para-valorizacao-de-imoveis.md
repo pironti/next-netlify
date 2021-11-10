@@ -1,14 +1,14 @@
 ---
-        titulo: Home Staging: aprenda sobre essa técnica para valorização de imóveis
-        slug: home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Se você ainda não conhece a técnica de home staging, está no lugar certo, pois vamos te explicar como funciona!
+titulo: Home Staging: aprenda sobre essa técnica para valorização de imóveis
+slug: home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Se você ainda não conhece a técnica de home staging, está no lugar certo, pois vamos te explicar como funciona!
 
 O home staging é fundamental para a valorização do seu imóvel porque permite que o seu local seja mais atraente aos olhos dos interessados, assim aumentando a possibilidade de futuras negociações.
 
@@ -89,4 +89,3 @@ Sem dúvida, essa prática é muito eficiente para os proprietários, principalm
 Esse‌ ‌artigo‌ ‌foi‌ ‌escrito‌ ‌por‌ Thais Teixeira,‌ ‌Criadora‌ ‌de‌ ‌Conteúdo‌ ‌do‌ ‌‌[**Soluções‌ ‌Industriais‌**](https://www.solucoesindustriais.com.br/).‌
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=home_staging&utm_campaign=publicacoes_blog)</figure>
-        

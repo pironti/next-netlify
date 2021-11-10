@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio é seguro? Saiba mais
-        slug: consorcio-e-seguro-saiba-mais
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-e-seguro-saiba-mais.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        As pessoas não costumam utilizar o consórcio para as compras do dia a dia. Mas, quando consideram a[ compra de um bem de alto valor](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio), como um apartamento, um carro ou até mesmo um serviço, geralmente procuram por opções que não apenas viabilizem a aquisição, como permitam o pagamento de uma forma simples e prática.
+titulo: Consórcio é seguro? Saiba mais
+slug: consorcio-e-seguro-saiba-mais
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-e-seguro-saiba-mais.jpg
+meta_summary: 
+date: 23/09/2021
+---
+As pessoas não costumam utilizar o consórcio para as compras do dia a dia. Mas, quando consideram a[ compra de um bem de alto valor](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio), como um apartamento, um carro ou até mesmo um serviço, geralmente procuram por opções que não apenas viabilizem a aquisição, como permitam o pagamento de uma forma simples e prática.
 
 Há mais de 50 anos o consórcio ajuda milhões de brasileiros a realizarem o sonho de[ comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha), a casa dos sonhos, entre muitas outras conquistas.
 
@@ -61,4 +61,3 @@ Se o valor da carta for maior que o bem, é possível utilizar até 10% do valor
 > Portanto, pode confiar. O consórcio é seguro e pode ajudar a realizar os seus sonhos.[ Faça uma simulação](https://www.embracon.com.br/) e confira suas múltiplas vantagens!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

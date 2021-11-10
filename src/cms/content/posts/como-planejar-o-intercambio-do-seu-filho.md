@@ -1,14 +1,14 @@
 ---
-        titulo: Como planejar o intercâmbio do seu filho
-        slug: como-planejar-o-intercambio-do-seu-filho
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-planejar-o-intercambio-do-seu-filho.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Estudar em outro país é uma experiência incrível e pode ser um marco na vida de qualquer pessoa, principalmente para os mais jovens. Isso porque o jovem tem a chance de [aprender e entender, desde cedo, novas culturas e conhecer diferentes nacionalidades](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos). Além disso, é uma ótima oportunidade de aprender novas línguas e fazer cursos e ter possibilidades de estágios fora do Brasil.
+titulo: Como planejar o intercâmbio do seu filho
+slug: como-planejar-o-intercambio-do-seu-filho
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-planejar-o-intercambio-do-seu-filho.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Estudar em outro país é uma experiência incrível e pode ser um marco na vida de qualquer pessoa, principalmente para os mais jovens. Isso porque o jovem tem a chance de [aprender e entender, desde cedo, novas culturas e conhecer diferentes nacionalidades](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos). Além disso, é uma ótima oportunidade de aprender novas línguas e fazer cursos e ter possibilidades de estágios fora do Brasil.
 
 Apesar de ser uma [ótima escolha para o seu filho](https://www.embracon.com.br/blog/4-motivos-para-investir-em-intercambio-para-os-filhos) (a), pode ser um momento com muitas dúvidas e medos, principalmente para os pais. Então quanto mais preparado você estiver para essa decisão, melhor. Para te ajudar nesse momento, fizemos uma lista de como se [planejar para o intercâmbio](https://www.embracon.com.br/blog/7-dicas-essenciais-para-organizar-um-intercambio) do (a) seu (sua) filho (a). Confira:
 
@@ -60,4 +60,3 @@ Contrate um consórcio
 > O consórcio é uma excelente forma de levantar a quantia que você pretende gastar com planos que cabem no seu bolso. Faça uma [simulação em nosso site](https://www.embracon.com.br/consorcio-servicos) e conte com a Embracon para ajudar a realizar o sonho do (a) seu (sua) filho (a).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Procedimento estético: vantagens e desvantagens
-        slug: procedimento-estetico-vantagens-e-desvantagens
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/procedimento-estetico-vantagens-e-desvantagens.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Muitas pessoas gostariam de corrigir o que consideram ‘imperfeições’ do corpo. Pode ser ajustar o [nariz](https://www.embracon.com.br/blog/6-coisas-sobre-a-rinoplastia), tirar as rugas ou reduzir o estômago. O fato é que existem inúmeras justificativas para considerar uma cirurgia plástica, seja por motivos estéticos ou de saúde.
+titulo: Procedimento estético: vantagens e desvantagens
+slug: procedimento-estetico-vantagens-e-desvantagens
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/procedimento-estetico-vantagens-e-desvantagens.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Muitas pessoas gostariam de corrigir o que consideram ‘imperfeições’ do corpo. Pode ser ajustar o [nariz](https://www.embracon.com.br/blog/6-coisas-sobre-a-rinoplastia), tirar as rugas ou reduzir o estômago. O fato é que existem inúmeras justificativas para considerar uma cirurgia plástica, seja por motivos estéticos ou de saúde.
 
 Essas cirurgias são complexas. Antes de tudo, exigem um atendimento especializado: é preciso que o médico seja especialista em [procedimentos estéticos](https://www.embracon.com.br/blog/procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores) para prosseguir com esses tipos de tratamento.
 
@@ -138,4 +138,3 @@ Procure se informar sobre as precauções a serem tomadas nos períodos pré e p
 > Faça sua simulação com a Embracon e programe sua cirurgia plástica.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

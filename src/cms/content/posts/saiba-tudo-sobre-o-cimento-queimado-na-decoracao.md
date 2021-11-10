@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba tudo sobre o cimento queimado na decoração
-        slug: saiba-tudo-sobre-o-cimento-queimado-na-decoracao
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-tudo-sobre-o-cimento-queimado-na-decoracao.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O **cimento queimado** tem sido o preferido dos brasileiros quando se trata de design de interiores, se tornando uma das maiores tendências atuais. Se, antigamente, era um estilo comumente visto em casas de campo mais humildes, hoje aparece com frequência em residências modernas e luxuosas.
+titulo: Saiba tudo sobre o cimento queimado na decoração
+slug: saiba-tudo-sobre-o-cimento-queimado-na-decoracao
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-tudo-sobre-o-cimento-queimado-na-decoracao.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+O **cimento queimado** tem sido o preferido dos brasileiros quando se trata de design de interiores, se tornando uma das maiores tendências atuais. Se, antigamente, era um estilo comumente visto em casas de campo mais humildes, hoje aparece com frequência em residências modernas e luxuosas.
 
 Seu efeito e a aparência de obra inacabada que traz a qualquer ambiente é o favorito de quem gosta de estilos contemporâneos e industriais, ao mesmo tempo em que admira um visual rústico. Esse revestimento combina com inúmeros elementos, desde que aliados aos itens certos.
 
@@ -61,4 +61,3 @@ O **cimento queimado** tem suas vantagens e desvantagens. Ele combina com tudo, 
 Cabe a você pesar os prós e contras e decidir se vale ou não a pena utilizá-lo para decorar a sua casa. Agora que você já está familiarizado com esse estilo de decoração, confira o que mais você pode fazer para reformar a sua casa!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

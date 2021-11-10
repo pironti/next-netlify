@@ -1,14 +1,14 @@
 ---
-        titulo: Pensando em comprar um carro? Saiba o que levar em consideração!
-        slug: pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        [Comprar um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) é uma decisão muito importante. Seu preço elevado em conjunto com outras taxas — IPVA, manutenção, revisão — comprometem uma parcela relativamente grande do orçamento familiar. É preciso, portanto, fazer uma escolha consciente e muito bem analisada.
+titulo: Pensando em comprar um carro? Saiba o que levar em consideração!
+slug: pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao.jpg
+meta_summary: 
+date: 24/09/2021
+---
+[Comprar um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) é uma decisão muito importante. Seu preço elevado em conjunto com outras taxas — IPVA, manutenção, revisão — comprometem uma parcela relativamente grande do orçamento familiar. É preciso, portanto, fazer uma escolha consciente e muito bem analisada.
 
 Outro ponto importante a ser considerado é a[ forma de pagamento](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro) desse veículo.
 
@@ -128,4 +128,3 @@ Além disso, quando o consorciado for adquirir o bem, terá poder de compra à v
 Com alguns cuidados, é possível [comprar um veículo](https://www.embracon.com.br/blog/o-que-e-como-funciona-o-consorcio-de-carros-e-motos) e evitar problemas futuros. Para saber mais sobre consórcios e outras informações sobre finanças, assine a nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

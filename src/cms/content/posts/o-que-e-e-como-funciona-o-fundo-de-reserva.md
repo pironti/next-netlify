@@ -1,14 +1,14 @@
 ---
-        titulo: O que é e como funciona o fundo de reserva?
-        slug: o-que-e-e-como-funciona-o-fundo-de-reserva
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-o-fundo-de-reserva.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Muitos consorciados têm dúvidas quando [começam a pagar por suas cotas](https://www.embracon.com.br/blog/o-que-e-uma-cota-de-consorcio). Embora o [contrato de adesão](https://www.embracon.com.br/blog/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio) explique todo o mecanismo de como funciona o consórcio, é comum que alguns questionamentos surjam, principalmente quando se fala na [forma de pagamento pelo seu bem](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro).
+titulo: O que é e como funciona o fundo de reserva?
+slug: o-que-e-e-como-funciona-o-fundo-de-reserva
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-o-fundo-de-reserva.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Muitos consorciados têm dúvidas quando [começam a pagar por suas cotas](https://www.embracon.com.br/blog/o-que-e-uma-cota-de-consorcio). Embora o [contrato de adesão](https://www.embracon.com.br/blog/saiba-o-que-avaliar-antes-de-assinar-um-contrato-de-consorcio) explique todo o mecanismo de como funciona o consórcio, é comum que alguns questionamentos surjam, principalmente quando se fala na [forma de pagamento pelo seu bem](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro).
 
 Em resumo, com o consórcio você realiza uma [espécie de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) para a compra do bem que realmente deseja. A administradora facilita todo esse processo ao criar os grupos, que reúnem outros consorciados com interesses semelhantes, com a [realização das assembleias](https://www.embracon.com.br/blog/assembleia-de-consorcio-como-funciona), onde acontecem as contemplações por sorteio, e com a entrega das cartas de crédito, que correspondem ao valor final do bem.
 
@@ -65,4 +65,3 @@ Para o processo de reajuste, a administradora segue índices específicos de aco
 Agora que você leu mais sobre a composição das mensalidades, que tal fazer uma [simulação de consórcio](https://www.embracon.com.br/)? Basta entrar no site, escolher o bem que deseja e verificar o valor de parcela que faz mais sentido para os seus rendimentos mensais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

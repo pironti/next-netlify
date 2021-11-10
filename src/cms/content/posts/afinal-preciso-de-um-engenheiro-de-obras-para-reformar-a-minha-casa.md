@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, preciso de um engenheiro de obras para reformar a minha casa?
-        slug: afinal-preciso-de-um-engenheiro-de-obras-para-reformar-a-minha-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-preciso-de-um-engenheiro-de-obras-para-reformar-a-minha-casa.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Em toda reforma surgem diversas dúvidas: em relação ao material, à [mão de obra](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas), aos prazos etc. Outra questão importante está relacionada a quais profissionais contratar. Inclusive, se é necessário contar com um engenheiro de obras.
+titulo: Afinal, preciso de um engenheiro de obras para reformar a minha casa?
+slug: afinal-preciso-de-um-engenheiro-de-obras-para-reformar-a-minha-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-preciso-de-um-engenheiro-de-obras-para-reformar-a-minha-casa.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Em toda reforma surgem diversas dúvidas: em relação ao material, à [mão de obra](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas), aos prazos etc. Outra questão importante está relacionada a quais profissionais contratar. Inclusive, se é necessário contar com um engenheiro de obras.
 
 Esse profissional é responsável por realizar estudos da obra em relação à infraestrutura e aos cronogramas. Para conhecer mais sobre a área de atuação desse profissional e quando é necessária a sua contratação, confira este post. Boa leitura!
 
@@ -50,4 +50,3 @@ Contar com esse profissional pode ser fundamental para que a reforma ou a constr
 Gostou deste post? Viu que em alguns casos é obrigatório contratar um engenheiro de obras? É importante ficar por dentro do assunto para não cometer erros. Assine a nossa newsletter e receba outros conteúdos como este diretamente na sua caixa de e-mail!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

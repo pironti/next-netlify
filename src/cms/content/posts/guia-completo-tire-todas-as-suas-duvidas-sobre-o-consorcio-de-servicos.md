@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo: tire todas as suas dúvidas sobre o consórcio de serviços
-        slug: guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Quando você ouve a palavra consórcio, o que você imagina?
+titulo: Guia completo: tire todas as suas dúvidas sobre o consórcio de serviços
+slug: guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Quando você ouve a palavra consórcio, o que você imagina?
 
 Muito provavelmente você deve ter um bem de alto valor em mente, que pode ser parcelado em diversas vezes. Quem nunca ouviu falar de um amigo, quem sabe um parente próximo ou distante que tenha feito [consórcio para comprar um carro](https://www.embracon.com.br/blog/o-que-e-como-funciona-o-consorcio-de-carros-e-motos), um eletrodoméstico - ou, há alguns anos, até mesmo um videocassete?
 
@@ -322,4 +322,3 @@ E, se possível, envolva a família ao longo de todo o processo. Seja para prese
 > [Faça já uma simulação](https://www.embracon.com.br/consorcio) e aproveite os benefícios de uma modalidade que está conquistando cada vez mais os brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

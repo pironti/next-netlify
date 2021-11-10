@@ -1,14 +1,14 @@
 ---
-        titulo: O consórcio de imóveis é para todos?
-        slug: o-consorcio-de-imoveis-e-para-todos
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-consorcio-de-imoveis-e-para-todos.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Por ser uma compra de altíssimo valor, que ultrapassa os seis dígitos, muitas pessoas se perguntam se a possibilidade de [comprar um novo imóvel](https://www.embracon.com.br/blog/hora-certa-comprar-imovel) é realmente acessível.
+titulo: O consórcio de imóveis é para todos?
+slug: o-consorcio-de-imoveis-e-para-todos
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-consorcio-de-imoveis-e-para-todos.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Por ser uma compra de altíssimo valor, que ultrapassa os seis dígitos, muitas pessoas se perguntam se a possibilidade de [comprar um novo imóvel](https://www.embracon.com.br/blog/hora-certa-comprar-imovel) é realmente acessível.
 
 Bom, existe um histórico para essa desconfiança. Na maioria das vezes, as pessoas consideram a [compra por meio do financiamento](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento) que, além de exigir uma grande burocracia para liberação de crédito, permite o pagamento por um imóvel incluindo um alto valor de juros.
 
@@ -61,4 +61,3 @@ Seja via sorteio ou por lance, ao ser contemplado você tem acesso à carta de c
 > Portanto, não perca tempo e faça o quanto antes a [simulação do seu consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

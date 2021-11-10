@@ -1,14 +1,14 @@
 ---
-        titulo: Quais os gadgets queridinhos do momento
-        slug: quais-os-gadgets-queridinhos-do-momento
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-os-gadgets-queridinhos-do-momento.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Você sabe o que é um gadget? Gadget é uma gíria do mundo da tecnologia para denominar aparelhos eletrônicos portáteis, com funções para facilitar o dia a dia. E mais do nunca, eles estão super presentes no cotidiano dos brasileiros, principalmente esse ano em que ficamos mais dentro de casa por causa da [pandemia do novo coronavírus.](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia)
+titulo: Quais os gadgets queridinhos do momento
+slug: quais-os-gadgets-queridinhos-do-momento
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-os-gadgets-queridinhos-do-momento.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Você sabe o que é um gadget? Gadget é uma gíria do mundo da tecnologia para denominar aparelhos eletrônicos portáteis, com funções para facilitar o dia a dia. E mais do nunca, eles estão super presentes no cotidiano dos brasileiros, principalmente esse ano em que ficamos mais dentro de casa por causa da [pandemia do novo coronavírus.](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia)
 
 Com certeza, isso impulsionou as compras e fez com que o mercado produzisse mais os modernos aparelhos e que eles virassem os objetos de desejo de todo mundo. Quer saber quais foram os mais procurados durante esse último ano e se inspirar para deixar a sua casa mais moderna e tecnológica? Confira a seguir a nossa lista:
 
@@ -61,4 +61,3 @@ Gostou das dicas e já pensa em trocar tudo? Mas que tal você elaborar a[ refor
 > Deixe a sua casa do jeito que quiser com o consórcio de serviços da Embracon, [faça uma simulação](https://www.embracon.com.br/consorcio) no site.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

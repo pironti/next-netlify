@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena investir em renda fixa?
-        slug: vale-a-pena-investir-em-renda-fixa
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-investir-em-renda-fixa.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Você já se perguntou se é possível [fazer um investimento](https://www.embracon.com.br/blog/investimentos-rentaveis) com segurança e que seja rentável? Na teoria, o investimento na renda fixa traz esse conforto pra você, confira neste artigo as principais formas de investir e esclareça suas dúvidas sobre o tema.
+titulo: Vale a pena investir em renda fixa?
+slug: vale-a-pena-investir-em-renda-fixa
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-investir-em-renda-fixa.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Você já se perguntou se é possível [fazer um investimento](https://www.embracon.com.br/blog/investimentos-rentaveis) com segurança e que seja rentável? Na teoria, o investimento na renda fixa traz esse conforto pra você, confira neste artigo as principais formas de investir e esclareça suas dúvidas sobre o tema.
 
 **Mas o que é a renda fixa?** 
 ------------------------------
@@ -91,4 +91,3 @@ Embora sejam mais previsíveis do que os [investimentos](https://www.embracon.co
 Gostou desse artigo? Continue nos acompanhando para ter acesso a mais conteúdos como esse.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

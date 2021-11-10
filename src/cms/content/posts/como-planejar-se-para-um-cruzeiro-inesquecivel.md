@@ -1,14 +1,14 @@
 ---
-        titulo: Como planejar-se para um cruzeiro inesquecível
-        slug: como-planejar-se-para-um-cruzeiro-inesquecivel
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-planejar-se-para-um-cruzeiro-inesquecivel.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Cada dia estamos mais perto de viajar novamente sem preocupações. Para quem está morrendo de saudade de viver novas experiências esse é o momento certo para começar a planejar sua próxima viagem, e se a ideia for um cruzeiro, melhor ainda.
+titulo: Como planejar-se para um cruzeiro inesquecível
+slug: como-planejar-se-para-um-cruzeiro-inesquecivel
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-planejar-se-para-um-cruzeiro-inesquecivel.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Cada dia estamos mais perto de viajar novamente sem preocupações. Para quem está morrendo de saudade de viver novas experiências esse é o momento certo para começar a planejar sua próxima viagem, e se a ideia for um cruzeiro, melhor ainda.
 
 O primeiro passo para pensar em uma viagem dessa forma é levar em consideração a estação do ano que você pretende viajar. Se você quer fazer o cruzeiro no Brasil, os melhores meses são entre setembro e março. [Já se for para a Europa](https://www.embracon.com.br/blog/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias), por exemplo, o ideal é pensar no verão de lá, que acontece entre junho e agosto. Isso, claro, pensando nos cruzeiros regados a paradas no mar e piscina.
 
@@ -54,4 +54,3 @@ Não esqueça de fazer uma check list para não esquecer nada importante para a 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> Que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 ‍
-        

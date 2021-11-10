@@ -1,14 +1,14 @@
 ---
-        titulo: Como conseguir alcançar a independência financeira
-        slug: como-conseguir-alcancar-a-independencia-financeira
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-conseguir-alcancar-a-independencia-financeira.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O que é [independência financeira](https://www.embracon.com.br/blog/como-conquistar-a-independencia-financeira-morando-sozinho) para você? Independência financeira normalmente significa ter renda suficiente para pagar suas despesas para o resto de sua vida sem que você tenha que trabalhar para isso.
+titulo: Como conseguir alcançar a independência financeira
+slug: como-conseguir-alcancar-a-independencia-financeira
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-conseguir-alcancar-a-independencia-financeira.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O que é [independência financeira](https://www.embracon.com.br/blog/como-conquistar-a-independencia-financeira-morando-sozinho) para você? Independência financeira normalmente significa ter renda suficiente para pagar suas despesas para o resto de sua vida sem que você tenha que trabalhar para isso.
 
 Existem muitas maneiras de alcançar a independência financeira, e isso não é só para os ricos. Mas, antes mesmo de você alcançar a independência financeira, é necessário saber o que é administração financeira.
 
@@ -185,4 +185,3 @@ Não importa o que aconteça, você pode contar com essas receitas todos os mese
 Mas, para chegar ao ponto em que você não dependa desse dinheiro, a renda passiva deve ser suficiente para cobrir suas despesas e sustentar seu estilo de vida - na verdade, chamamos isso de independência financeira. Portanto, você precisa de um bom plano para atingir esse objetivo, que envolve organizar suas metas financeiras, de poupança e de investimento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

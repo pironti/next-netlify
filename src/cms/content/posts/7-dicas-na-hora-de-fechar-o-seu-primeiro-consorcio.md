@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas na hora de fechar o seu primeiro consórcio
-        slug: 7-dicas-na-hora-de-fechar-o-seu-primeiro-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-na-hora-de-fechar-o-seu-primeiro-consorcio.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Quem considera comprar um bem de alto valor, como um carro, uma casa ou até mesmo adquirir um serviço, geralmente [fica preocupado com a forma de pagamento](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio). Afinal, nem todos têm condições de pagar à vista por um bem - e, mesmo quem tem todo esse montante, pensa muito bem se vale a pena realizar uma transação dessa magnitude.
+titulo: 7 dicas na hora de fechar o seu primeiro consórcio
+slug: 7-dicas-na-hora-de-fechar-o-seu-primeiro-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-na-hora-de-fechar-o-seu-primeiro-consorcio.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Quem considera comprar um bem de alto valor, como um carro, uma casa ou até mesmo adquirir um serviço, geralmente [fica preocupado com a forma de pagamento](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio). Afinal, nem todos têm condições de pagar à vista por um bem - e, mesmo quem tem todo esse montante, pensa muito bem se vale a pena realizar uma transação dessa magnitude.
 
 É então que brasileiro começa a considerar a compra parcelada. A primeira opção que vem à cabeça é o [cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) - mas, como ter um limite que ultrapasse os cinco dígitos, por exemplo?
 
@@ -90,4 +90,3 @@ Vale lembrar que a transferência é feita diretamente pela administradora, ou s
 > Como deu pra perceber, é muito fácil começar a investir em seu próximo bem por meio do consórcio. [Faça uma simulação](https://www.embracon.com.br/consorcio) e comece desde já a realizar o seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

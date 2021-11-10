@@ -1,14 +1,14 @@
 ---
-        titulo: Motivos para ter um barco
-        slug: motivos-para-ter-um-barco
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/motivos-para-ter-um-barco.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Alguma vez você já pensou em investir em um barco? E se pra você isso é uma novidade, pode ficar despreocupado. Vamos te apresentar 5 bons motivos para [comprar um barco](https://www.embracon.com.br/blog/como-diminuir-o-impulso-de-comprar).
+titulo: Motivos para ter um barco
+slug: motivos-para-ter-um-barco
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/motivos-para-ter-um-barco.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Alguma vez você já pensou em investir em um barco? E se pra você isso é uma novidade, pode ficar despreocupado. Vamos te apresentar 5 bons motivos para [comprar um barco](https://www.embracon.com.br/blog/como-diminuir-o-impulso-de-comprar).
 
 Confira!
 
@@ -74,4 +74,3 @@ Além disso, pode-se optar pelas embarcações seminovas, que têm um preço ain
 Ainda é possível aderir à compra compartilhada de embarcações. Você pode comprar a lancha em parceira com um ou mais amigos, ou procurar uma empresa que trabalha com a venda de cotas de embarcações. Assim você paga apenas uma parte do preço do barco e ainda divide os gastos com manutenção, marina, [combustível ](https://www.embracon.com.br/blog/como-economizar-em-tempos-de-gasolina-tao-cara)etc.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

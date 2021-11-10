@@ -1,14 +1,14 @@
 ---
-        titulo: Saia do vermelho no final do mês
-        slug: saia-do-vermelho-no-final-do-mes
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saia-do-vermelho-no-final-do-mes.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Já aconteceu de você se programar ao longo de todo o seu mês os seus gastos para, no fim, ver que não sobrou praticamente nada para conseguir guardar?
+titulo: Saia do vermelho no final do mês
+slug: saia-do-vermelho-no-final-do-mes
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saia-do-vermelho-no-final-do-mes.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Já aconteceu de você se programar ao longo de todo o seu mês os seus gastos para, no fim, ver que não sobrou praticamente nada para conseguir guardar?
 
 Infelizmente, essa é uma situação mais recorrente do que deveria na vida do brasileiro. Segundo [pesquisa realizada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/cnc-percentual-de-familias-com-dividas-chega-729), cerca de 73% da população brasileira é vista como altamente endividada. Para se ter uma ideia, um em cada quatro brasileiros tem dificuldade de pagar as suas dívidas no prazo.
 
@@ -81,4 +81,3 @@ Só faça uso deste valor em momentos bem específicos, como [perda de renda](ht
 Com essas dicas, além de conseguir sair do vermelho, você pode finalmente dar um passo além e começar a investir. [Quer saber por onde começar? Confira nossas dicas neste post ](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir)e dê uma reviravolta positiva em suas finanças.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

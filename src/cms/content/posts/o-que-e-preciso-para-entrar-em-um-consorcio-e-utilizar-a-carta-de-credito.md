@@ -1,14 +1,14 @@
 ---
-        titulo: O que é preciso para entrar em um consórcio e utilizar a carta de crédito?
-        slug: o-que-e-preciso-para-entrar-em-um-consorcio-e-utilizar-a-carta-de-credito
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-preciso-para-entrar-em-um-consorcio-e-utilizar-a-carta-de-credito.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Realizar a compra de um bem de alto valor exige tomar uma decisão importante a longo prazo. Isso porque, diferentemente da compra de um eletrodoméstico, por exemplo, que pode ser parcelado por meio de boleto ou cartão de crédito sem passar por aval de alguma instituição financeira, a compra de um carro ou uma casa depende de muitos fatores.
+titulo: O que é preciso para entrar em um consórcio e utilizar a carta de crédito?
+slug: o-que-e-preciso-para-entrar-em-um-consorcio-e-utilizar-a-carta-de-credito
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-preciso-para-entrar-em-um-consorcio-e-utilizar-a-carta-de-credito.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Realizar a compra de um bem de alto valor exige tomar uma decisão importante a longo prazo. Isso porque, diferentemente da compra de um eletrodoméstico, por exemplo, que pode ser parcelado por meio de boleto ou cartão de crédito sem passar por aval de alguma instituição financeira, a compra de um carro ou uma casa depende de muitos fatores.
 
 Se você possui o [valor à vista](https://www.embracon.com.br/blog/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado) para pagar, ótimo. Porém, não é bem assim que acontece com a maioria dos brasileiros. Boa parte procura a **melhor forma de parcelar os valores do carro ou da casa dos sonhos**.
 
@@ -69,4 +69,3 @@ Por exemplo, se você investiu em um [consórcio imobiliário](https://www.embra
 > Vale lembrar que a carta de crédito dá poder de compra à vista, gerando uma boa margem de negociação com o proprietário. Por isso, invista no seu sonho. [Faça uma simulação](https://www.embracon.com.br/consorcio) e confira as múltiplas vantagens do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

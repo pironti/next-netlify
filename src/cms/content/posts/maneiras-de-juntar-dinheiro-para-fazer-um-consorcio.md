@@ -1,14 +1,14 @@
 ---
-        titulo: Maneiras de juntar dinheiro para fazer um consórcio
-        slug: maneiras-de-juntar-dinheiro-para-fazer-um-consorcio
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/maneiras-de-juntar-dinheiro-para-fazer-um-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Muitas pessoas procuram o [consórcio como forma de investir](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em algum bem por conta de sua flexibilidade. Afinal, não é preciso pagar entrada ao optar pela compra de um carro, casa, moto ou qualquer tipo de serviço. E, melhor ainda: as [parcelas do consórcio não têm juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros), como acontece no financiamento.
+titulo: Maneiras de juntar dinheiro para fazer um consórcio
+slug: maneiras-de-juntar-dinheiro-para-fazer-um-consorcio
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/maneiras-de-juntar-dinheiro-para-fazer-um-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Muitas pessoas procuram o [consórcio como forma de investir](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em algum bem por conta de sua flexibilidade. Afinal, não é preciso pagar entrada ao optar pela compra de um carro, casa, moto ou qualquer tipo de serviço. E, melhor ainda: as [parcelas do consórcio não têm juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros), como acontece no financiamento.
 
 Dessa forma, é mais fácil se organizar para conseguir investir em um sonho.
 
@@ -74,4 +74,3 @@ Vale lembrar que a mera oferta do lance não garante a contemplação. Mas, se v
 > E aí, preparado para organizar suas finanças e iniciar a jornada de realizar seus sonhos? [Faça uma simulação de consórcio](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=maneiras_de_juntar_dinheiro_consorcio&utm_campaign=publicacoes_blog) e acompanhe desde já suas vantagens!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=maneiras_de_juntar_dinheiro_consorcio&utm_campaign=publicacoes_blog)</figure>> 
-        

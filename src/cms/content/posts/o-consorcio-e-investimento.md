@@ -1,14 +1,14 @@
 ---
-        titulo: O consórcio é investimento?
-        slug: o-consorcio-e-investimento
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-consorcio-e-investimento.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Há mais de 50 anos, os brasileiros contam com o consórcio para a realização de seus sonhos.
+titulo: O consórcio é investimento?
+slug: o-consorcio-e-investimento
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-consorcio-e-investimento.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Há mais de 50 anos, os brasileiros contam com o consórcio para a realização de seus sonhos.
 
 Quando tudo começou, o maior desafio era proporcionar uma maneira facilitada para que as pessoas pudessem [comprar o primeiro automóvel](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha). Foi assim que os [funcionários do Banco do Brasil criaram um sistema](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio) em que várias pessoas se reuniam e tinham as mesmas chances de contemplação por meio do sorteio.
 
@@ -172,4 +172,3 @@ O consórcio é uma modalidade de compra voltada para quem quer planejar a compr
 Portanto, mantenha as suas contas em dia, deixe sempre a sua planilha de orçamentos mensais bem atualizada e comece desde já a [fazer uma simulação do bem que tanto deseja](https://www.embracon.com.br/). Logo, você conseguirá aumentar o seu patrimônio e contar com uma modalidade flexível e transparente para a realização dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

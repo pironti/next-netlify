@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo sobre o consórcio de viagens
-        slug: guia-completo-sobre-o-consorcio-de-viagens
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-viagens.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Viajar é um dos maiores desejos dos brasileiros, seja para conhecer mais as [cidades do nosso país ou ir para o exterior](https://www.embracon.com.br/blog/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo). Por mais que o número de viajantes tenha aumentado nos últimos anos, muitas pessoas ainda têm dificuldades de planejar um [roteiro com a família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos).
+titulo: Guia completo sobre o consórcio de viagens
+slug: guia-completo-sobre-o-consorcio-de-viagens
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-viagens.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Viajar é um dos maiores desejos dos brasileiros, seja para conhecer mais as [cidades do nosso país ou ir para o exterior](https://www.embracon.com.br/blog/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo). Por mais que o número de viajantes tenha aumentado nos últimos anos, muitas pessoas ainda têm dificuldades de planejar um [roteiro com a família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos).
 
 De acordo com a Pnad (Pesquisa Nacional por Amostra de Domicílios) Contínua Turismo, divulgada pelo IBGE (Instituto Brasileiro de Geografia e Estatística), apenas [duas em cada 10 famílias conseguem viajar](https://www.uol.com.br/nossa/noticias/agencia-estado/2020/08/12/brasileiros-nao-tem-dinheiro-para-viajar-ibge.htm), independente do período do ano. Muitas delas alegam que o dinheiro é o principal problema.
 
@@ -200,4 +200,3 @@ Seja para relaxar, ir com o espírito aventureiro de conhecer novas pessoas e lu
 > Portanto, [faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e inicie desde já o planejamento para uma viagem que, certamente, ficará marcada para sempre!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

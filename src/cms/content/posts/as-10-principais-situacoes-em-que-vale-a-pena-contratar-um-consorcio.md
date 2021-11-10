@@ -1,14 +1,14 @@
 ---
-        titulo: As 10 principais situações em que vale a pena contratar um consórcio
-        slug: as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        As pessoas começam a [pagar pelo consórcio](https://www.embracon.com.br/blog/quanto-preciso-pagar-para-fazer-um-consorcio) por diversos motivos. Seja para a compra de um automóvel, uma casa ou mesmo a aquisição de um serviço, a modalidade é bastante flexível e tem ajudado milhares de pessoas a realizarem diferentes tipos de sonhos, ano após ano.
+titulo: As 10 principais situações em que vale a pena contratar um consórcio
+slug: as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio.jpg
+meta_summary: 
+date: 29/09/2021
+---
+As pessoas começam a [pagar pelo consórcio](https://www.embracon.com.br/blog/quanto-preciso-pagar-para-fazer-um-consorcio) por diversos motivos. Seja para a compra de um automóvel, uma casa ou mesmo a aquisição de um serviço, a modalidade é bastante flexível e tem ajudado milhares de pessoas a realizarem diferentes tipos de sonhos, ano após ano.
 
 Isso porque o consórcio não exige valor de entrada, não conta com a burocracia do financiamento e, o principal deles: [não faz cobrança de juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). De forma parcelada, você realiza um [autofinanciamento ](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo)em prol de um bem de alto valor.
 
@@ -97,4 +97,3 @@ Caso já tenha uma data em mente, pode se organizar para fazer a oferta de lance
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios da modalidade.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

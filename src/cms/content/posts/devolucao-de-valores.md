@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como funciona a devolução do valor pago no consórcio
-        slug: devolucao-de-valores
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/devolucao-de-valores.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Como um [consórcio é um investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) de longo prazo, é de se esperar que todos os envolvidos tenham se planejado bem para pagar todo o valor no decorrer dos anos. Porém, justamente por ser um período extenso, há muita coisa que pode intervir na sua vida, exigindo que você peça a devolução de valor no consórcio. E, caso você ainda não saiba, esse é um direito seu.
+titulo: Entenda como funciona a devolução do valor pago no consórcio
+slug: devolucao-de-valores
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/devolucao-de-valores.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Como um [consórcio é um investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) de longo prazo, é de se esperar que todos os envolvidos tenham se planejado bem para pagar todo o valor no decorrer dos anos. Porém, justamente por ser um período extenso, há muita coisa que pode intervir na sua vida, exigindo que você peça a devolução de valor no consórcio. E, caso você ainda não saiba, esse é um direito seu.
 
 Nenhuma administradora pode negar seu direito de receber o valor de volta. Essa é uma regra imposta pelo Banco Central. Afinal, é seu dinheiro também. Porém, você ainda precisa saber como proceder.
 
@@ -44,4 +44,3 @@ Agora que você entende melhor como funciona a devolução de valor no consórci
 Quer se informar mais e começar seu consórcio agora? Então entre em [contato com a Embracon ](https://www.embracon.com.br/blog/canais-de-atendimento-embracon)e veja como podemos ajudar.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

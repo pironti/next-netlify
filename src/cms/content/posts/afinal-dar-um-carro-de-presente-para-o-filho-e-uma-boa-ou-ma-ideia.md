@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, dar um carro de presente para o filho é uma boa ou má ideia?
-        slug: afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Muitos pais sonham em dar um carro de presente para o filho quando ele atingir a maioridade. Contudo, é preciso avaliar se o[ veículo](https://www.embracon.com.br/consorcio-de-carros) realmente é necessário e, principalmente, quais os reflexos que isso pode trazer para a [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) do jovem a longo prazo.
+titulo: Afinal, dar um carro de presente para o filho é uma boa ou má ideia?
+slug: afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Muitos pais sonham em dar um carro de presente para o filho quando ele atingir a maioridade. Contudo, é preciso avaliar se o[ veículo](https://www.embracon.com.br/consorcio-de-carros) realmente é necessário e, principalmente, quais os reflexos que isso pode trazer para a [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) do jovem a longo prazo.
 
 Ao longo deste texto vamos trazer algumas dicas que vão lhe ajudar a tomar essa decisão da melhor forma, sem comprometer a educação financeira e a independência de seu filho. Confira!
 
@@ -46,4 +46,3 @@ Independentemente de tudo o que foi apresentado, antes de dar um carro de presen
 Conversou com o seu filho e decidiram que está na hora de ele ter o carro próprio? Então, faça uma [simulação de consórcio](https://www.embracon.com.br/consorcio) e veja como ele é uma boa opção!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

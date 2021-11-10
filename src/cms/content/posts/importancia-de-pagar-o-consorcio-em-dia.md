@@ -1,14 +1,14 @@
 ---
-        titulo: Importância de pagar o consórcio em dia
-        slug: importancia-de-pagar-o-consorcio-em-dia
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/importancia-de-pagar-o-consorcio-em-dia.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        O consórcio é uma forma coletiva de[ investir em um bem de alto valor](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Diferentemente de outras formas de pagamento, com o consórcio você escolhe o bem em que deseja investir seu dinheiro e pode selecionar o valor para a compra.
+titulo: Importância de pagar o consórcio em dia
+slug: importancia-de-pagar-o-consorcio-em-dia
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/importancia-de-pagar-o-consorcio-em-dia.jpg
+meta_summary: 
+date: 20/10/2021
+---
+O consórcio é uma forma coletiva de[ investir em um bem de alto valor](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Diferentemente de outras formas de pagamento, com o consórcio você escolhe o bem em que deseja investir seu dinheiro e pode selecionar o valor para a compra.
 
 Este valor é representado pela [carta de crédito](https://www.embracon.com.br/blog/o-que-e-a-carta-de-credito-como-funciona-e-como-usar), que equivale ao valor do bem que deseja comprar. Por exemplo, ao [fazer um consórcio de imóveis](https://www.embracon.com.br/blog/6-coisas-contratar-consorcio-de-imoveis), digamos que você escolha uma carta de R$ 300 mil. Este valor deve ser utilizado para a compra de um imóvel, que pode ser materializada com a aquisição de uma casa, apartamento, terreno ou até mesmo um empreendimento comercial.
 
@@ -60,4 +60,3 @@ Com planejamento e organização, você pode pagar pelo seu consórcio sem ter q
 Para mais dicas de finanças pessoais, [veja nosso guia para ter um bom planejamento financeiro ainda em 2021.](https://www.embracon.com.br/blog/como-fazer-um-planejamento-financeiro-em-2021)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulador](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

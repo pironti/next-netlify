@@ -1,14 +1,14 @@
 ---
-        titulo: 4 conselhos para escolher o menu de festa de casamento
-        slug: 4-conselhos-para-escolher-o-menu-de-festa-de-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-conselhos-para-escolher-o-menu-de-festa-de-casamento.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Menu de f**esta de casamento**: está aí um dos aspectos mais importantes da celebração e que por isso merece toda a sua atenção! Antes de dizer o "sim" no altar, os noivos têm a responsabilidade de garantir a satisfação dos seus convidados no que se refere às delícias que serão servidas.
+titulo: 4 conselhos para escolher o menu de festa de casamento
+slug: 4-conselhos-para-escolher-o-menu-de-festa-de-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-conselhos-para-escolher-o-menu-de-festa-de-casamento.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Menu de f**esta de casamento**: está aí um dos aspectos mais importantes da celebração e que por isso merece toda a sua atenção! Antes de dizer o "sim" no altar, os noivos têm a responsabilidade de garantir a satisfação dos seus convidados no que se refere às delícias que serão servidas.
 
 É por essa razão que a escolha do cardápio não pode ser feita de qualquer maneira. Nesse processo, é fundamental combiná-lo com o estilo da festa, procurando oferecer opções que possam agradar a todos.
 
@@ -62,4 +62,3 @@ Por último, é interessante que você saiba que, apesar de não existir uma reg
 Em relação às opções de comida para cada etapa, procure seguir as orientações acima e não se esqueça de considerar a experiência da equipe responsável pelo serviço.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div></figure>> Gostou deste artigo? Então siga e acompanhe as nossas redes sociais. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), [Twitter](https://twitter.com/embracon) e [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ)!
-        

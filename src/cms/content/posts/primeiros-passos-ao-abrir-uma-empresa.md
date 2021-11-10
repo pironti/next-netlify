@@ -1,14 +1,14 @@
 ---
-        titulo: Primeiros passos ao abrir uma empresa
-        slug: primeiros-passos-ao-abrir-uma-empresa
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/primeiros-passos-ao-abrir-uma-empresa.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quem nunca quis ser o seu próprio patrão? Conseguir trabalhar da forma que realmente acredita, sem ter que prestar contas para alguém do que está fazendo pode parecer um sonho, não é mesmo?
+titulo: Primeiros passos ao abrir uma empresa
+slug: primeiros-passos-ao-abrir-uma-empresa
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/primeiros-passos-ao-abrir-uma-empresa.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quem nunca quis ser o seu próprio patrão? Conseguir trabalhar da forma que realmente acredita, sem ter que prestar contas para alguém do que está fazendo pode parecer um sonho, não é mesmo?
 
 O fato é que [ser um empreendedor é um desafio maior do que muita gente imagina](https://www.embracon.com.br/blog/use-o-consorcio-para-empreender). E não apenas pelo fato de ter que ser responsável por tudo o que é feito em sua empresa. Nos primeiros anos, você pode ter bastante dificuldade para ter um bom volume de clientes, [manter fluxo de caixa](https://www.embracon.com.br/blog/o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo) e manter tudo pago, para funcionar de forma sustentável.
 
@@ -195,4 +195,3 @@ Com organização e muita dedicação, o seu negócio pode prosperar e garantir 
 E você sabia que pode contar com o consórcio para impulsionar o seu negócio? [Confira nosso post especial explicando como os empreendedores podem se beneficiar com o consórcio](https://www.embracon.com.br/blog/consorcio-para-crescimento-da-empresa).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

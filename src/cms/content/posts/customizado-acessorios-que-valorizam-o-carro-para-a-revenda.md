@@ -1,14 +1,14 @@
 ---
-        titulo: Customizado: acessórios que valorizam o carro para a revenda
-        slug: customizado-acessorios-que-valorizam-o-carro-para-a-revenda
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/customizado-acessorios-que-valorizam-o-carro-para-a-revenda.png
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Quem não gostaria de ter um veículo que, de longe, seja percebido como único? Por causa disso, muitos consumidores já se organizam para [comprar um carro](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana) com diversos acessórios. Eles têm funções múltiplas. Podem deixar o carro mais ‘agressivo’, mais confortável e, até mesmo, mais preparado para situações adversas, como estradas escuras ou locais perigosos.
+titulo: Customizado: acessórios que valorizam o carro para a revenda
+slug: customizado-acessorios-que-valorizam-o-carro-para-a-revenda
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/customizado-acessorios-que-valorizam-o-carro-para-a-revenda.png
+meta_summary: 
+date: 04/10/2021
+---
+Quem não gostaria de ter um veículo que, de longe, seja percebido como único? Por causa disso, muitos consumidores já se organizam para [comprar um carro](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana) com diversos acessórios. Eles têm funções múltiplas. Podem deixar o carro mais ‘agressivo’, mais confortável e, até mesmo, mais preparado para situações adversas, como estradas escuras ou locais perigosos.
 
 Montadoras de automóveis zero km costumam oferecer aos compradores acessórios à parte.
 
@@ -98,4 +98,3 @@ Para mais dicas sobre automóveis, continue acompanhando o blog da Embracon.
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

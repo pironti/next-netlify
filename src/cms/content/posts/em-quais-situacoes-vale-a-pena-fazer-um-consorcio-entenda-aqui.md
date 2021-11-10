@@ -1,14 +1,14 @@
 ---
-        titulo: Em quais situações vale a pena fazer um consórcio? Entenda aqui!
-        slug: em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Se o seu orçamento foi parar no vermelho e as dívidas continuam atrasadas acumulando juros, o melhor é se organizar e tentar uma renegociação de valores, evitando a famosa bola de neve. Diante desse cenário, o[ consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) vale a pena para quitar os débitos à vista.
+titulo: Em quais situações vale a pena fazer um consórcio? Entenda aqui!
+slug: em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Se o seu orçamento foi parar no vermelho e as dívidas continuam atrasadas acumulando juros, o melhor é se organizar e tentar uma renegociação de valores, evitando a famosa bola de neve. Diante desse cenário, o[ consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) vale a pena para quitar os débitos à vista.
 
 Caso tenha pensado em fazer um empréstimo para investir na reforma de um imóvel ou na compra de um bem, talvez essa não seja a melhor solução do ponto de vista econômico.
 
@@ -121,4 +121,3 @@ Gostou do post? Aproveite, entre em [contato conosco](https://www.embracon.com.b
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

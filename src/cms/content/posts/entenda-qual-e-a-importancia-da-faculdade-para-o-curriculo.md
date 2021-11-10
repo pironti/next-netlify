@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda qual é a importância da faculdade para o currículo
-        slug: entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Muitas pessoas ainda questionam a importância da faculdade para o currículo, talvez por terem dúvidas em relação a qual curso fazer ou até mesmo porque estão na zona de conforto do atual emprego. No entanto, é importante ressaltar o que não é mais novidade: o mercado de trabalho está cada vez mais competitivo.
+titulo: Entenda qual é a importância da faculdade para o currículo
+slug: entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Muitas pessoas ainda questionam a importância da faculdade para o currículo, talvez por terem dúvidas em relação a qual curso fazer ou até mesmo porque estão na zona de conforto do atual emprego. No entanto, é importante ressaltar o que não é mais novidade: o mercado de trabalho está cada vez mais competitivo.
 
 A cada dia, mais profissionais se inserem nesse cenário, disputando vagas em empresas. Não é à toa que, para ter sucesso na carreira, é preciso muito estudo e um diploma reconhecido. Afinal, o curso superior tem a capacidade de preparar o estudante para os desafios que ele encontrará no mercado, inserindo-o em uma posição diferenciada.
 
@@ -71,4 +71,3 @@ Enfim, a importância da faculdade para o currículo se torna evidente após ess
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do post? Quer conhecer outras dicas sobre planejamento? Então siga as nossas redes sociais e acompanhe todas as nossas atualizações. Estamos no [Facebook](https://www.facebook.com/embracon/), [Linkedin](https://www.linkedin.com/company/1018875/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [Youtube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ)!
-        

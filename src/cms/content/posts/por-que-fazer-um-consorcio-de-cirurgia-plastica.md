@@ -1,14 +1,14 @@
 ---
-        titulo: Por que fazer um consórcio de cirurgia plástica
-        slug: por-que-fazer-um-consorcio-de-cirurgia-plastica
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-fazer-um-consorcio-de-cirurgia-plastica.png
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Muitas pessoas gostariam de corrigir o que consideram ‘imperfeições’ do corpo. Pode ser ajustar o [nariz](https://www.embracon.com.br/blog/6-coisas-sobre-a-rinoplastia), tirar as rugas ou reduzir o estômago. O fato é que existem inúmeras justificativas para considerar uma cirurgia plástica, seja por motivos estéticos ou de saúde.
+titulo: Por que fazer um consórcio de cirurgia plástica
+slug: por-que-fazer-um-consorcio-de-cirurgia-plastica
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-fazer-um-consorcio-de-cirurgia-plastica.png
+meta_summary: 
+date: 30/09/2021
+---
+Muitas pessoas gostariam de corrigir o que consideram ‘imperfeições’ do corpo. Pode ser ajustar o [nariz](https://www.embracon.com.br/blog/6-coisas-sobre-a-rinoplastia), tirar as rugas ou reduzir o estômago. O fato é que existem inúmeras justificativas para considerar uma cirurgia plástica, seja por motivos estéticos ou de saúde.
 
 Essas cirurgias são complexas. Antes de tudo, exigem um atendimento especializado: é preciso que o médico seja especialista em [procedimentos estéticos](https://www.embracon.com.br/blog/procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores) para prosseguir com esses tipos de tratamento.
 
@@ -71,4 +71,3 @@ Se a carta for inferior, você pode completar com os seus próprios recursos.
 > ‍
 
 ‍
-        

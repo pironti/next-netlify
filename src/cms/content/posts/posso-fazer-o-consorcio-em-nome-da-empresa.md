@@ -1,14 +1,14 @@
 ---
-        titulo: Posso fazer o consórcio em nome da empresa?
-        slug: posso-fazer-o-consorcio-em-nome-da-empresa
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/posso-fazer-o-consorcio-em-nome-da-empresa.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Em mais de 50 anos de história, o consórcio ajudou milhões de brasileiros a realizarem o sonho de[ comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha). Com o tempo, mais produtos foram incorporados ao portfólio: imóveis, serviços e até mesmo [veículos pesados](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon), como ônibus, maquinários agrícolas e caminhões.
+titulo: Posso fazer o consórcio em nome da empresa?
+slug: posso-fazer-o-consorcio-em-nome-da-empresa
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/posso-fazer-o-consorcio-em-nome-da-empresa.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Em mais de 50 anos de história, o consórcio ajudou milhões de brasileiros a realizarem o sonho de[ comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha). Com o tempo, mais produtos foram incorporados ao portfólio: imóveis, serviços e até mesmo [veículos pesados](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon), como ônibus, maquinários agrícolas e caminhões.
 
 E, assim como o comprador pessoa física pôde desfrutar dos benefícios de comprar parcelado sem ter que se [preocupar com juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), com o tempo até mesmo pessoas jurídicas passaram a utilizar o consórcio.
 
@@ -189,4 +189,3 @@ Portanto, aproveite os benefícios de uma modalidade flexível, que pode ajudar 
 Entre em contato com um especialista em consórcio ou [confira mais vantagens indiscutíveis](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio) da modalidade que, além de ajudar pessoas físicas, tem tudo para impulsionar o seu negócio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

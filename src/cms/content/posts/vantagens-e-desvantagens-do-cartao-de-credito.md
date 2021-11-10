@@ -1,14 +1,14 @@
 ---
-        titulo: Vantagens e desvantagens do cartão de crédito
-        slug: vantagens-e-desvantagens-do-cartao-de-credito
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vantagens-e-desvantagens-do-cartao-de-credito.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Em um mundo cada vez mais digital, os [***cartões de crédito***](https://www.embracon.com.br/blog/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar) se tornam uma parte indispensável da vida das pessoas. Excelente provedor de serviços de compras, se usado corretamente, este método de pagamento pode trazer mais ***benefícios***.
+titulo: Vantagens e desvantagens do cartão de crédito
+slug: vantagens-e-desvantagens-do-cartao-de-credito
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vantagens-e-desvantagens-do-cartao-de-credito.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Em um mundo cada vez mais digital, os [***cartões de crédito***](https://www.embracon.com.br/blog/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar) se tornam uma parte indispensável da vida das pessoas. Excelente provedor de serviços de compras, se usado corretamente, este método de pagamento pode trazer mais ***benefícios***.
 
 Os cartões de crédito são uma excelente ferramenta que abre muitas possibilidades ao consumidor. No entanto, usá-lo descontroladamente pode causar muitas dores de cabeça e fazer com que entre em [dívidas ](https://www.embracon.com.br/blog/dicas-para-sair-das-dividas)que você não está preparado para pagar. O uso de cartão de crédito tem lados positivos e negativos, assim como todas as coisas na vida. Mas como saber se o uso do cartão está sendo vantajoso ou apenas um “furo” no seu bolso? Como utilizá-lo de maneira correta?
 
@@ -99,4 +99,3 @@ O cartão de crédito pode ser um grande aliado se for utilizado da forma corret
 Caso tenha gostado deste artigo, continue nos acompanhando para mais dicas.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

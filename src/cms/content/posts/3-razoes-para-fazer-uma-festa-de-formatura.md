@@ -1,14 +1,14 @@
 ---
-        titulo: 3 razões para fazer uma festa de formatura
-        slug: 3-razoes-para-fazer-uma-festa-de-formatura
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-razoes-para-fazer-uma-festa-de-formatura.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Com o término da faculdade, muitos compartilham a mesma dúvida: devo ou não fazer uma festa de formatura? Afinal, se por um lado essa comemoração requer tempo e um bom planejamento financeiro, por outro ela é uma oportunidade de celebrar o ingresso na vida profissional. E, também, na construção da carreira que tanto desejaram.
+titulo: 3 razões para fazer uma festa de formatura
+slug: 3-razoes-para-fazer-uma-festa-de-formatura
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-razoes-para-fazer-uma-festa-de-formatura.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Com o término da faculdade, muitos compartilham a mesma dúvida: devo ou não fazer uma festa de formatura? Afinal, se por um lado essa comemoração requer tempo e um bom planejamento financeiro, por outro ela é uma oportunidade de celebrar o ingresso na vida profissional. E, também, na construção da carreira que tanto desejaram.
 
 Por isso, se você também fica dividido a respeito do que deve fazer, não se preocupe. Neste texto, nós vamos dar 3 motivos do porquê investir nesse tipo de [comemoração](https://www.embracon.com.br/blog/fique-por-dentro-de-4-tendencias-de-festas-de-formatura). Confira!
 
@@ -45,4 +45,3 @@ Como você viu, não faltam motivos para fazer uma festa de formatura. Por isso,
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

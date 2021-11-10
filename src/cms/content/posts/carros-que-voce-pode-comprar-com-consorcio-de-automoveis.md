@@ -1,14 +1,14 @@
 ---
-        titulo: Carros que você pode comprar com consórcio de automóveis
-        slug: carros-que-voce-pode-comprar-com-consorcio-de-automoveis
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carros-que-voce-pode-comprar-com-consorcio-de-automoveis.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Cada vez mais pessoas têm se convencido de que fazer [um consórcio é vantajoso](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta) e pode ser uma boa alternativa em relação ao financiamento. Até porque, não existe incidência de juros nesse tipo de contratação. O que muitos têm dúvidas sobre essa [modalidade de compra](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é o que se pode fazer a partir da obtenção da carta de crédito.
+titulo: Carros que você pode comprar com consórcio de automóveis
+slug: carros-que-voce-pode-comprar-com-consorcio-de-automoveis
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carros-que-voce-pode-comprar-com-consorcio-de-automoveis.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Cada vez mais pessoas têm se convencido de que fazer [um consórcio é vantajoso](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta) e pode ser uma boa alternativa em relação ao financiamento. Até porque, não existe incidência de juros nesse tipo de contratação. O que muitos têm dúvidas sobre essa [modalidade de compra](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é o que se pode fazer a partir da obtenção da carta de crédito.
 
 Vale a pena comprar carro agora? 
 ---------------------------------
@@ -73,4 +73,3 @@ Há também a versão Onix Plus LTZ Turbo (R$67.390), que tem como diferencial a
 > Gostou dos [modelos](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020) e quer comprar o seu? [Faça uma simulação na Embracon](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

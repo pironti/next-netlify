@@ -1,14 +1,14 @@
 ---
-        titulo: Guia de como transferir veículo?
-        slug: guia-de-como-transferir-veiculo
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-de-como-transferir-veiculo.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Normalmente, os processos ligados ao Departamento Estadual de Trânsito (Detran) são reconhecidos como demorados e burocráticos demais, apesar de serem essenciais para a regularização do condutor. Por esse motivo, nesse artigo vamos desmistificar um desses temas! Até porque, você já sabe como é feita uma [transferência de veículo](https://www.embracon.com.br/blog/transferencia-de-veiculo-como-funciona)?
+titulo: Guia de como transferir veículo?
+slug: guia-de-como-transferir-veiculo
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-de-como-transferir-veiculo.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Normalmente, os processos ligados ao Departamento Estadual de Trânsito (Detran) são reconhecidos como demorados e burocráticos demais, apesar de serem essenciais para a regularização do condutor. Por esse motivo, nesse artigo vamos desmistificar um desses temas! Até porque, você já sabe como é feita uma [transferência de veículo](https://www.embracon.com.br/blog/transferencia-de-veiculo-como-funciona)?
 
 Fato é que, tanto ao vender como ao [comprar carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), esse é um procedimento totalmente necessário! Dessa forma, criamos este artigo especial sobre o tema. Irá notar durante a leitura, que basta seguir os passos com atenção, reunindo a [documentação](https://www.embracon.com.br/blog/documentacao-para-consorcio-tire-suas-principais-duvidas) que for preciso para que tudo seja resolvido da forma mais rápida possível. Agora, para ter acesso a todas as informações, continue acompanhando a leitura!
 
@@ -96,4 +96,3 @@ E aí, você gostou deste post especial ensinando a como fazer transferência de
 No final das contas, é claro que ter um carro na garagem traz inúmeros benefícios, e para isso você só precisa ter um bom [planejamento financeiro](https://www.embracon.com.br/blog/organize-suas-financas-antes-de-comprar-seu-primeiro-carro) para arcar com os custos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=transferir_veiculo&utm_campaign=publicacoes_blog)</figure>
-        

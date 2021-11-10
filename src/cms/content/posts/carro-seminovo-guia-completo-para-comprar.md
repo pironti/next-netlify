@@ -1,14 +1,14 @@
 ---
-        titulo: O guia completo para você comprar seu carro seminovo
-        slug: carro-seminovo-guia-completo-para-comprar
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carro-seminovo-guia-completo-para-comprar.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Muitas pessoas ainda têm receio de comprar um [carro seminovo](https://www.embracon.com.br/consorcio-de-carros), geralmente porque não têm informações sobre o seu histórico ou porque não confiam nos vendedores.
+titulo: O guia completo para você comprar seu carro seminovo
+slug: carro-seminovo-guia-completo-para-comprar
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carro-seminovo-guia-completo-para-comprar.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Muitas pessoas ainda têm receio de comprar um [carro seminovo](https://www.embracon.com.br/consorcio-de-carros), geralmente porque não têm informações sobre o seu histórico ou porque não confiam nos vendedores.
 
 No entanto, é possível contratar um bom profissional para fazer uma [vistoria no veículo](https://www.embracon.com.br/blog/saiba-como-funciona-o-laudo-de-vistoria-no-consorcio).
 
@@ -262,4 +262,3 @@ Siga as nossas dicas para fazer uma compra consciente. E, claro, opte pela forma
 E aí, gostou deste post sobre comprar um carro seminovo? Assine a nossa newsletter para receber atualizações sobre consórcio na sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb0496a32c6d0cc4f85d292_CTA-AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=guia_completo_carro_seminovo&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

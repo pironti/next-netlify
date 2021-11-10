@@ -1,14 +1,14 @@
 ---
-        titulo: 8 dicas para ajudar você na compra do primeiro imóvel
-        slug: 8-dicas-compra-primeiro-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/8-dicas-compra-primeiro-imovel.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Adquirir o primeiro imóvel é um marco muito especial na vida de qualquer pessoa. Seja para conquistar mais independência e morar sozinho, seja para [aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), é necessário muito [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para escolher o imóvel ideal.
+titulo: 8 dicas para ajudar você na compra do primeiro imóvel
+slug: 8-dicas-compra-primeiro-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/8-dicas-compra-primeiro-imovel.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Adquirir o primeiro imóvel é um marco muito especial na vida de qualquer pessoa. Seja para conquistar mais independência e morar sozinho, seja para [aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), é necessário muito [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para escolher o imóvel ideal.
 
 É importante garantir que a propriedade atenda às suas expectativas e se concretize em um bom negócio. Afinal, ninguém quer correr o risco de se arrepender da aquisição ou comprometer o orçamento de forma indevida.
 
@@ -101,4 +101,3 @@ Gostou das dicas que separamos? Então, compartilhe essas informações com os s
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebc30b41bf0862933922aad_CTA-Casamento2.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>​
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

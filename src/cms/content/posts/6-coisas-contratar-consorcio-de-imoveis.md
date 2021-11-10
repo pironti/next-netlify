@@ -1,14 +1,14 @@
 ---
-        titulo: 6 coisas a saber antes de contratar um consórcio de imóveis
-        slug: 6-coisas-contratar-consorcio-de-imoveis
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-coisas-contratar-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Muitos sonham em comprar a sua casa própria. No entanto, quando pensam nos juros do financiamento, na burocracia e, principalmente, no tamanho da entrada, é comum o desânimo bater. Pois é exatamente aí que entra a vantagem de se contratar um **consórcio** de imóveis**,** afinal, trata-se de uma opção totalmente segura de pagamento, ideal para aqueles que não têm condições de fazer a aquisição à vista.
+titulo: 6 coisas a saber antes de contratar um consórcio de imóveis
+slug: 6-coisas-contratar-consorcio-de-imoveis
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-coisas-contratar-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Muitos sonham em comprar a sua casa própria. No entanto, quando pensam nos juros do financiamento, na burocracia e, principalmente, no tamanho da entrada, é comum o desânimo bater. Pois é exatamente aí que entra a vantagem de se contratar um **consórcio** de imóveis**,** afinal, trata-se de uma opção totalmente segura de pagamento, ideal para aqueles que não têm condições de fazer a aquisição à vista.
 
 O [consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) é uma excelente opção para a aquisição de bens.
 
@@ -103,4 +103,3 @@ O que achou destas dicas? Ficou interessado e quer investir em um [consórcio de
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

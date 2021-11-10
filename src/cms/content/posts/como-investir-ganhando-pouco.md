@@ -1,14 +1,14 @@
 ---
-        titulo: Como investir ganhando pouco?
-        slug: como-investir-ganhando-pouco
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-investir-ganhando-pouco.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Para muitas pessoas, investir só é possível quando sobra algum dinheiro no fim do mês. Em [tempos de pandemia de Covid-19](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia), em que muitos perderam o emprego ou viram [diminuir a sua renda](https://www.embracon.com.br/blog/perda-de-renda-como-lidar) por conta do isolamento social, falar em investimento se tornou uma barreira ainda maior.
+titulo: Como investir ganhando pouco?
+slug: como-investir-ganhando-pouco
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-investir-ganhando-pouco.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Para muitas pessoas, investir só é possível quando sobra algum dinheiro no fim do mês. Em [tempos de pandemia de Covid-19](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia), em que muitos perderam o emprego ou viram [diminuir a sua renda](https://www.embracon.com.br/blog/perda-de-renda-como-lidar) por conta do isolamento social, falar em investimento se tornou uma barreira ainda maior.
 
 Porém, o brasileiro tem se interessado cada vez mais no assunto. Só em 2020, a B3, a principal bolsa de valores do país, registrou um salto de mais de 90% de novos entrantes. Ou seja, significa que o brasileiro está investindo no mercado de ações que, embora [seja uma forma de investimento mais arriscada do que outros tipos de produtos](https://www.embracon.com.br/blog/investimentos-alto-risco-vale-a-pena), por outro lado evidencia o interesse em ter cada vez mais controle de suas aplicações.
 
@@ -73,4 +73,3 @@ Mantenha [controle de seus gastos com a ajuda de uma planilha](https://www.embra
 Agora que você já sabe como começar,[ confira nosso artigo sobre o que considerar em seus primeiros investimentos](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

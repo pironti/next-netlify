@@ -1,14 +1,14 @@
 ---
-        titulo: Quais as vantagens financeiras de fazer um consórcio? Aprenda aqui!
-        slug: vantagens-financeiras-de-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vantagens-financeiras-de-um-consorcio.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Juntar dinheiro para adquirir um bem à vista ou fazer um financiamento? Nem uma e nem alternativa. Assim que você passa a conhecer as vantagens financeiras de fazer um consórcio, você esquece essas opções. Essa modalidade, sem dúvidas, pode ser a chance que você precisa para resolver as suas necessidades. E, também, tirar os seus sonhos do papel.
+titulo: Quais as vantagens financeiras de fazer um consórcio? Aprenda aqui!
+slug: vantagens-financeiras-de-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vantagens-financeiras-de-um-consorcio.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Juntar dinheiro para adquirir um bem à vista ou fazer um financiamento? Nem uma e nem alternativa. Assim que você passa a conhecer as vantagens financeiras de fazer um consórcio, você esquece essas opções. Essa modalidade, sem dúvidas, pode ser a chance que você precisa para resolver as suas necessidades. E, também, tirar os seus sonhos do papel.
 
 Com planos de vários valores e prazos, é sempre possível escolher um consórcio que caiba no seu orçamento. É por isso que a quantidade de participantes e de contemplados aumenta ano após ano, bem como as oportunidades para aqueles que pensam em comprar uma cota.
 
@@ -122,4 +122,3 @@ Gostou do texto e deseja continuar aprendendo com os nossos conteúdos? Então, 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

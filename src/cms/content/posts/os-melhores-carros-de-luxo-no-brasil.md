@@ -1,14 +1,14 @@
 ---
-        titulo: Os melhores carros de luxo no Brasil
-        slug: os-melhores-carros-de-luxo-no-brasil
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-melhores-carros-de-luxo-no-brasil.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O Brasil não tem um histórico na produção de carros de luxo muito extenso, até porque no fim dos anos 90 começou um ciclo que durou muito pouco.
+titulo: Os melhores carros de luxo no Brasil
+slug: os-melhores-carros-de-luxo-no-brasil
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-melhores-carros-de-luxo-no-brasil.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O Brasil não tem um histórico na produção de carros de luxo muito extenso, até porque no fim dos anos 90 começou um ciclo que durou muito pouco.
 
 Contudo, nos últimos anos, tivemos uma nova onda de fabricação de [carros de luxo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), agora vimos um novo gás nas operações de fábricas de marcas premium, entre elas Land Rover, Mercedes-Benz (segunda fábrica dedicada), BMW e Audi (novamente em conjunto com a VW).
 
@@ -73,4 +73,3 @@ Logo, veja se as administradoras pesquisadas contam com produtos que realmente c
 > Tem interesse em algum dos carros de luxo disponíveis no Brasil? [Faça sua simulação](https://www.embracon.com.br/consorcio-de-carros) de consórcio agora mesmo no site da Embracon!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carros](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>
-        

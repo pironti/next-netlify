@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona e quais são as vantagens da direção elétrica?
-        slug: como-funciona-e-quais-sao-as-vantagens-da-direcao-eletrica
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-e-quais-sao-as-vantagens-da-direcao-eletrica.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Em busca de conforto, segurança e desempenho, o setor automotivo está sempre trazendo novas tecnologias e reduzindo custos. O que era antes um privilégio apenas dos veículos mais luxuosos, vem se popularizando e, atualmente, a direção elétrica já é encontrada até nos automóveis mais baratos, além de se tornar um diferencial na hora de comprar um carro.
+titulo: Como funciona e quais são as vantagens da direção elétrica?
+slug: como-funciona-e-quais-sao-as-vantagens-da-direcao-eletrica
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-e-quais-sao-as-vantagens-da-direcao-eletrica.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Em busca de conforto, segurança e desempenho, o setor automotivo está sempre trazendo novas tecnologias e reduzindo custos. O que era antes um privilégio apenas dos veículos mais luxuosos, vem se popularizando e, atualmente, a direção elétrica já é encontrada até nos automóveis mais baratos, além de se tornar um diferencial na hora de comprar um carro.
 
 Mas será que ela realmente é melhor que a versão hidráulica? Como funciona e quais são as suas vantagens? Continue conosco e veja as respostas dessas e de outras perguntas!
 
@@ -54,4 +54,3 @@ A direção elétrica veio para ficar e é bem provável que ela venha a substit
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebda2b6735c676da2d9e861_CTA-Automoveis2.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

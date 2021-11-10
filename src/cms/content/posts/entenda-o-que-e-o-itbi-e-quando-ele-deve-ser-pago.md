@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda o que é o ITBI: e quando ele deve ser pago
-        slug: entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A transmissão de bens imóveis envolve diversas questões burocráticas e todas elas merecem bastante atenção para você garantir um processo mais ágil e seguro. Uma delas é o ITBI, um imposto obrigatório que é importante para garantir o registro da venda às autoridades.
+titulo: Entenda o que é o ITBI: e quando ele deve ser pago
+slug: entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A transmissão de bens imóveis envolve diversas questões burocráticas e todas elas merecem bastante atenção para você garantir um processo mais ágil e seguro. Uma delas é o ITBI, um imposto obrigatório que é importante para garantir o registro da venda às autoridades.
 
 Para entender o que é ITBI e todos os pormenores que ele envolve, continue lendo nosso post!
 
@@ -51,4 +51,3 @@ Quem financia o imóvel por meio do Sistema Financeiro de Habitação (SFH) ou a
 Agora que você já sabe o que é ITBI e todos os seus detalhes, que tal receber mais conteúdos como este?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

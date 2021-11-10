@@ -1,14 +1,14 @@
 ---
-        titulo: 4 dicas para conseguir uma boa negociação na hora de adquirir o seu bem
-        slug: 4-dicas-para-conseguir-uma-boa-negociacao-na-hora-de-adquirir-o-seu-bem
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-dicas-para-conseguir-uma-boa-negociacao-na-hora-de-adquirir-o-seu-bem.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Poder de negociação é um aspecto importantíssimo para compra - principalmente quando se trata de bens de alto valor, como imóveis, automóveis e diferentes tipos de serviços.
+titulo: 4 dicas para conseguir uma boa negociação na hora de adquirir o seu bem
+slug: 4-dicas-para-conseguir-uma-boa-negociacao-na-hora-de-adquirir-o-seu-bem
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-dicas-para-conseguir-uma-boa-negociacao-na-hora-de-adquirir-o-seu-bem.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Poder de negociação é um aspecto importantíssimo para compra - principalmente quando se trata de bens de alto valor, como imóveis, automóveis e diferentes tipos de serviços.
 
 Quanto mais alto o valor de um bem, mais importante e significativa é a [negociação a ser feita](https://www.embracon.com.br/blog/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio).
 
@@ -71,4 +71,3 @@ E o melhor é que, com o consórcio, o valor remanescente pode ser utilizado par
 > São muitas vantagens, não é mesmo? Portanto,[ faça agora uma simulação](https://www.embracon.com.br/consorcio) e comece a planejar a compra do seu bem de alto valor. Com o consórcio, você paga por um valor mais justo pelo bem e sai com a certeza de uma boa negociação no final.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

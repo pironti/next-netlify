@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça as melhores motos do mercado
-        slug: conheca-as-melhores-motos-do-mercado
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-as-melhores-motos-do-mercado.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O brasileiro já é um apaixonado por motos há muitos anos. Seja na hora de passear pelas cidades, pegar a estrada ou até mesmo para trabalhar, existem diversos modelos que atendem a diferentes objetivos.
+titulo: Conheça as melhores motos do mercado
+slug: conheca-as-melhores-motos-do-mercado
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-as-melhores-motos-do-mercado.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O brasileiro já é um apaixonado por motos há muitos anos. Seja na hora de passear pelas cidades, pegar a estrada ou até mesmo para trabalhar, existem diversos modelos que atendem a diferentes objetivos.
 
 A cada ano que passa, as montadoras renovam seu portfólio, a fim de atender a demanda cada vez mais crescente de [interessados por novas motos](https://www.embracon.com.br/blog/como-escolher-um-consorcio-de-moto).
 
@@ -85,4 +85,3 @@ Ao ser contemplado, você pode utilizar a carta de crédito para comprar a moto 
 Portanto, dê o primeiro passo para investir em seu novo modelo. [Faça uma simulação de consórcio de moto](https://www.embracon.com.br/consorcio-motos) e comece desde já a realizar o seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

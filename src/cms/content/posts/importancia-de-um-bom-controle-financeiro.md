@@ -1,14 +1,14 @@
 ---
-        titulo: Importância de um bom controle financeiro
-        slug: importancia-de-um-bom-controle-financeiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/importancia-de-um-bom-controle-financeiro.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Para que você [consiga colocar a sua vida em ordem](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) e possa investir em seus sonhos, ter o controle financeiro é essencial. Porém, esse é um desafio que atinge a grande maioria dos brasileiros.
+titulo: Importância de um bom controle financeiro
+slug: importancia-de-um-bom-controle-financeiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/importancia-de-um-bom-controle-financeiro.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Para que você [consiga colocar a sua vida em ordem](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) e possa investir em seus sonhos, ter o controle financeiro é essencial. Porém, esse é um desafio que atinge a grande maioria dos brasileiros.
 
 Isso porque, para ter um bom controle de tudo o que acontece em sua vida, [educação financeira é fundamental](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida). E, infelizmente, isso é algo que pouquíssimas pessoas tiveram oportunidade de aprender, seja na escola ou em algum momento de sua trajetória pessoal e profissional.
 
@@ -157,4 +157,3 @@ O bom é que você já sabe quanto teria que pagar pela parcela já com o valor 
 Para saber mais sobre como investir em um consórcio de imóveis, além das opções de lance e como se planejar para aumentar o seu patrimônio, [confira nosso guia completo](https://www.embracon.com.br/blog/guia-completo-consorcio-imobiliario).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 4 dicas essenciais para quem quer casar em uma fazenda
-        slug: 4-dicas-essenciais-para-quem-quer-casar-em-uma-fazenda
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-dicas-essenciais-para-quem-quer-casar-em-uma-fazenda.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Se está nos [seus planos ](https://www.embracon.com.br/blog/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento)dizer "sim" e começar uma nova etapa na sua vida, certamente você já ouviu falar da opção de **casar** em uma fazenda. Essa ideia se tornou uma das grandes tendências quando o assunto é cerimonial. Isso porque o ambiente conta um espaço amplo, um cenário mais integrado à natureza — o que dá um ar bucólico. E permite [decorações diferenciadas](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento) (rústica, country, boho etc.). Ou seja, dá para desfrutar do ar fresco e ainda garantir fotos lindas!
+titulo: 4 dicas essenciais para quem quer casar em uma fazenda
+slug: 4-dicas-essenciais-para-quem-quer-casar-em-uma-fazenda
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-dicas-essenciais-para-quem-quer-casar-em-uma-fazenda.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Se está nos [seus planos ](https://www.embracon.com.br/blog/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento)dizer "sim" e começar uma nova etapa na sua vida, certamente você já ouviu falar da opção de **casar** em uma fazenda. Essa ideia se tornou uma das grandes tendências quando o assunto é cerimonial. Isso porque o ambiente conta um espaço amplo, um cenário mais integrado à natureza — o que dá um ar bucólico. E permite [decorações diferenciadas](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento) (rústica, country, boho etc.). Ou seja, dá para desfrutar do ar fresco e ainda garantir fotos lindas!
 
 No entanto, nem tudo são flores, viu? É preciso considerar alguns aspectos importantes para evitar transtornos na recepção dos convidados e na realização da festa ao optar por esse tipo de local. Pensando nisso, reunimos algumas dicas que ajudarão na organização do seu casamento. Acompanhe!
 
@@ -56,4 +56,3 @@ Como você viu, optar por **casar** em uma fazenda é uma escolha que envolve um
 **‍**Aproveite e assine a nossa newsletter para conferir mais dicas sobre como planejar o seu casamento e como o [consórcio](https://www.embracon.com.br/consorcio) pode ajudá-lo a tornar essa data ainda mais inesquecível!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

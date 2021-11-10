@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como é feito o preenchimento labial
-        slug: saiba-como-e-feito-o-preenchimento-labial
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-e-feito-o-preenchimento-labial.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Técnica queridinha de celebridades, o preenchimento labial ganhou fama entre quem quer ter uma boca marcante e um sorriso bonito. Para minimizar os sinais de envelhecimento ou, simplesmente, dar volume aos lábios, são injetadas substâncias por meio de seringas. Sem necessidade de ser feito em um centro cirúrgico, é considerado minimamente invasivo.
+titulo: Saiba como é feito o preenchimento labial
+slug: saiba-como-e-feito-o-preenchimento-labial
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-e-feito-o-preenchimento-labial.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Técnica queridinha de celebridades, o preenchimento labial ganhou fama entre quem quer ter uma boca marcante e um sorriso bonito. Para minimizar os sinais de envelhecimento ou, simplesmente, dar volume aos lábios, são injetadas substâncias por meio de seringas. Sem necessidade de ser feito em um centro cirúrgico, é considerado minimamente invasivo.
 
 O preenchimento labial pode ser feito por quem precisa reconstruir o lábio ou, apenas, por uma questão estética. A técnica deixa o rosto com expressão mais alegre e jovial, combatendo os efeitos do envelhecimento e da aparência cansada e estressada.
 
@@ -63,4 +63,3 @@ Gostou de saber mais sobre esse procedimento? Então aproveite a visita ao nosso
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

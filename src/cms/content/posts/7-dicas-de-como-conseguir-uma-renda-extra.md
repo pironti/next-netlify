@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas de como conseguir uma renda extra
-        slug: 7-dicas-de-como-conseguir-uma-renda-extra
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-de-como-conseguir-uma-renda-extra.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Há muitos anos o Brasil vive uma situação complicada em relação ao emprego formal. Ainda antes da [pandemia](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), muitos lutavam para não só ter um bom emprego, mas ir atrás de uma renda extra.
+titulo: 7 dicas de como conseguir uma renda extra
+slug: 7-dicas-de-como-conseguir-uma-renda-extra
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-de-como-conseguir-uma-renda-extra.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Há muitos anos o Brasil vive uma situação complicada em relação ao emprego formal. Ainda antes da [pandemia](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), muitos lutavam para não só ter um bom emprego, mas ir atrás de uma renda extra.
 
 Em um momento em que superamos o índice de 12 milhões de desempregados, muitos brasileiros procuraram por uma ocupação extra. Uma [pesquisa da Fundação Getúlio Vargas (FGV)](https://revistapegn.globo.com/Como-abrir-uma-empresa/noticia/2016/09/com-crise-55-buscam-renda-extra-mostra-pesquisa.html) recente mostrou que 55% dos brasileiros procuraram trabalho extra após o início deste longo período de recessão. E, desse percentual, 29% não conseguiram encontrar formas de ter renda complementar.
 
@@ -89,4 +89,3 @@ E, se quiser investir a longo prazo com a compra de um empreendimento comercial,
 > [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_conseguir_uma_renda_extra&utm_campaign=publicacoes_blog) e conte com a flexibilidade do consórcio em busca de uma renda extra.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_conseguir_uma_renda_extra&utm_campaign=publicacoes_blog)</figure>
-        

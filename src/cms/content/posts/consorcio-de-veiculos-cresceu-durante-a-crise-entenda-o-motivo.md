@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de veículos cresceu durante a crise: entenda o motivo
-        slug: consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Em tempos de crise, a reação dos mercados, de modo geral, é de retração. Afinal, além das questões reais, relacionadas à economia, ainda aparecem diversas incertezas quanto à segurança dos investimentos e ao futuro do país.
+titulo: Consórcio de veículos cresceu durante a crise: entenda o motivo
+slug: consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Em tempos de crise, a reação dos mercados, de modo geral, é de retração. Afinal, além das questões reais, relacionadas à economia, ainda aparecem diversas incertezas quanto à segurança dos investimentos e ao futuro do país.
 
 Conforme apontado pela [ABAC (Associação Brasileira de Administradores de Consórcio)](https://abac.org.br/), as vendas em torno do consórcio de veículos estão em crescimento no Brasil. Até porque, o setor de veículos corresponde a cerca de 80% de todas as cotas vendidas pelo sistema de consórcio, que também reveste outros setores, como imóveis e serviços.
 
@@ -68,4 +68,3 @@ Viu como é simples? Não é à toa que o consórcio de veículos cresceu tanto 
 > [Faça sua simulação conosco](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=) e confira todos os benefícios que podemos oferecer!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div></figure>
-        

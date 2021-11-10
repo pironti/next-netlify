@@ -1,14 +1,14 @@
 ---
-        titulo: Compre seu veículo com consórcio
-        slug: compre-seu-veiculo-com-consorcio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/compre-seu-veiculo-com-consorcio.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        O sonho de muitas pessoas é comprar um carro ou motocicleta. Mas poucas pessoas têm esse [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) para se adquirir e muitas vezes não conseguem [empréstimos](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes). No entanto, existe outro tipo de crédito que pode ajudá-lo a realizar esse sonho O consórcio de veículos pode fornecer uma solução.
+titulo: Compre seu veículo com consórcio
+slug: compre-seu-veiculo-com-consorcio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/compre-seu-veiculo-com-consorcio.jpg
+meta_summary: 
+date: 08/10/2021
+---
+O sonho de muitas pessoas é comprar um carro ou motocicleta. Mas poucas pessoas têm esse [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) para se adquirir e muitas vezes não conseguem [empréstimos](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes). No entanto, existe outro tipo de crédito que pode ajudá-lo a realizar esse sonho O consórcio de veículos pode fornecer uma solução.
 
 O que é um consórcio de veículos? 
 ----------------------------------
@@ -48,4 +48,3 @@ Contudo, além das vantagens do[ consórcio de automóveis](https://www.embracon
 Já pensou em fazer um [consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)? Visite o site da Embracon e saiba mais sobre a modalidade!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

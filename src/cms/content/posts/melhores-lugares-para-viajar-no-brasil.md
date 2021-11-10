@@ -1,14 +1,14 @@
 ---
-        titulo: Melhores lugares para viajar no Brasil 
-        slug: melhores-lugares-para-viajar-no-brasil
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/melhores-lugares-para-viajar-no-brasil.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O Brasil não tem falta de atrações [turísticas](https://www.embracon.com.br/blog/futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo). Nosso país possui uma diversidade maravilhosa, paisagens de tirar o fôlego e cidades que existem com as mais diversas qualidades. Alguns destinos se destacam pela boa estrutura, enquanto outros se destacam pelos diversos atrativos e com tantas opções, o país sempre terá um novo destino para ***explorar*** e se apaixonar.
+titulo: Melhores lugares para viajar no Brasil 
+slug: melhores-lugares-para-viajar-no-brasil
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/melhores-lugares-para-viajar-no-brasil.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O Brasil não tem falta de atrações [turísticas](https://www.embracon.com.br/blog/futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo). Nosso país possui uma diversidade maravilhosa, paisagens de tirar o fôlego e cidades que existem com as mais diversas qualidades. Alguns destinos se destacam pela boa estrutura, enquanto outros se destacam pelos diversos atrativos e com tantas opções, o país sempre terá um novo destino para ***explorar*** e se apaixonar.
 
 Neste artigo, listamos alguns [destinos para viajar no Brasil](https://www.embracon.com.br/blog/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina) e como fazer isso sem gastar muito. Leia até o final e se surpreenda.
 
@@ -174,4 +174,3 @@ Este é o maior segredo: planejamento, ainda mais se for feito a longo prazo. Ex
 Gostou das nossas dicas?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

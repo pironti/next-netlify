@@ -1,14 +1,14 @@
 ---
-        titulo: 5 motivos para investir em consórcio
-        slug: 5-motivos-para-investir-em-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-motivos-para-investir-em-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Grande parte dos brasileiros [sonha em ter casa própria](https://www.embracon.com.br/blog/o-que-analisar-antes-de-comprar-um-imovel), principalmente quem mora em casa alugada. No entanto, nem todo mundo tem uma disciplina rígida para economizar uma quantia fixa de dinheiro todo dia e escrever o plano no papel.
+titulo: 5 motivos para investir em consórcio
+slug: 5-motivos-para-investir-em-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-motivos-para-investir-em-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Grande parte dos brasileiros [sonha em ter casa própria](https://www.embracon.com.br/blog/o-que-analisar-antes-de-comprar-um-imovel), principalmente quem mora em casa alugada. No entanto, nem todo mundo tem uma disciplina rígida para economizar uma quantia fixa de dinheiro todo dia e escrever o plano no papel.
 
 Algumas pessoas entendem que o consórcio é um investimento e uma das formas mais fáceis de ajudar na [conquista de um imóvel](https://www.embracon.com.br/blog/como-fazer-um-consorcio-de-imoveis-ainda-em-2021). O consórcio garante um investimento seguro e, claro, uma das melhores opções do mercado. Atualmente, é também um dos produtos mais procurados para esse fim.
 
@@ -65,4 +65,3 @@ Então, assim que for fazer o seu consórcio, não deixe de buscar uma administr
 E aí, ficou interessado em investir por meio de um consórcio? Então, [entre em contato conosco](https://www.embracon.com.br/) agora mesmo e conheça os nossos serviços. Somos uma empresa reconhecida e com tradição no mercado de consórcios!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

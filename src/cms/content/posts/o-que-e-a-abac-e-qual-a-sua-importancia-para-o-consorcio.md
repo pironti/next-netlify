@@ -1,14 +1,14 @@
 ---
-        titulo: O que é a ABAC e qual a sua importância para o consórcio?
-        slug: o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        O consórcio é uma modalidade de compra a longo prazo de um bem ou serviço. Funciona como uma [espécie de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo): você seleciona o bem que deseja comprar, que é representado pela [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), que pode ser dividido em mensalidades a serem pagas.
+titulo: O que é a ABAC e qual a sua importância para o consórcio?
+slug: o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-a-abac-e-qual-a-sua-importancia-para-o-consorcio.jpg
+meta_summary: 
+date: 08/10/2021
+---
+O consórcio é uma modalidade de compra a longo prazo de um bem ou serviço. Funciona como uma [espécie de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo): você seleciona o bem que deseja comprar, que é representado pela [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), que pode ser dividido em mensalidades a serem pagas.
 
 Diferentemente do [financiamento](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento), por exemplo, você não tem acesso ao bem na hora que fecha o contrato. Porém, participa de [grupos de consórcio](https://www.embracon.com.br/blog/o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam), onde pode ser contemplado com o bem pelo sorteio ou com a oferta de lances.
 
@@ -58,4 +58,3 @@ A informação é um mecanismo importante para o consórcio. Além de evitar fra
 E, além da ABAC, você também pode contar com o [blog da Embracon](https://www.embracon.com.br/blog) para saber tudo sobre o consórcio e munir-se de informações antes de se tornar um consorciado e investir em seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

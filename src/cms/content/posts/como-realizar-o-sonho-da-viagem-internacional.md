@@ -1,14 +1,14 @@
 ---
-        titulo: Como realizar o sonho da viagem internacional?
-        slug: como-realizar-o-sonho-da-viagem-internacional
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-realizar-o-sonho-da-viagem-internacional.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        A cada ano que passa, cada vez mais os brasileiros têm se mobilizado para [fazer uma viagem internacional](https://www.embracon.com.br/blog/6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional). Seja para conhecer novos países, visitar parentes que moram no exterior, fazer um mochilão ou até mesmo a trabalho, as viagens internacionais têm se tornado uma constante em nossa economia.
+titulo: Como realizar o sonho da viagem internacional?
+slug: como-realizar-o-sonho-da-viagem-internacional
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-realizar-o-sonho-da-viagem-internacional.jpg
+meta_summary: 
+date: 27/09/2021
+---
+A cada ano que passa, cada vez mais os brasileiros têm se mobilizado para [fazer uma viagem internacional](https://www.embracon.com.br/blog/6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional). Seja para conhecer novos países, visitar parentes que moram no exterior, fazer um mochilão ou até mesmo a trabalho, as viagens internacionais têm se tornado uma constante em nossa economia.
 
 Embora muitas pessoas incluam a viagem internacional como um dos objetivos a serem atingidos, o brasileiro ainda tem grandes desafios quando o assunto é se deslocar de sua cidade natal.
 
@@ -176,4 +176,3 @@ O valor da carta de crédito é transferido diretamente para a empresa responsá
 > Está esperando o quê para organizar a sua próxima viagem internacional? [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e dê início à realização de um sonho importante em sua vida.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

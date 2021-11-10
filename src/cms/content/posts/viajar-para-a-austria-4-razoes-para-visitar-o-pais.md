@@ -1,14 +1,14 @@
 ---
-        titulo: Viajar para a Áustria: 4 razões para visitar o país
-        slug: viajar-para-a-austria-4-razoes-para-visitar-o-pais
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/viajar-para-a-austria-4-razoes-para-visitar-o-pais.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Depois de montar um orçamento familiar, percebeu que vai dar para fazer aquele passeio especial? Considere viajar para a Áustria, pois, se você gosta de muita história, conhecer o passado de famílias majestosas e, de quebra, apreciar saborosas refeições, esse é o país certo.Ao longo deste texto, vamos apresentar quatro ótimos motivos para viajar para a Áustria. Continue com a sua leitura e não perca a oportunidade de aprender mais sobre esse belo país!
+titulo: Viajar para a Áustria: 4 razões para visitar o país
+slug: viajar-para-a-austria-4-razoes-para-visitar-o-pais
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/viajar-para-a-austria-4-razoes-para-visitar-o-pais.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Depois de montar um orçamento familiar, percebeu que vai dar para fazer aquele passeio especial? Considere viajar para a Áustria, pois, se você gosta de muita história, conhecer o passado de famílias majestosas e, de quebra, apreciar saborosas refeições, esse é o país certo.Ao longo deste texto, vamos apresentar quatro ótimos motivos para viajar para a Áustria. Continue com a sua leitura e não perca a oportunidade de aprender mais sobre esse belo país!
 
 1. O país é rico em museus e palácios que trazem muita história
 ---------------------------------------------------------------
@@ -35,4 +35,3 @@ Aliás, a própria cidade de Viena é um dos motivos para você viajar para a Á
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

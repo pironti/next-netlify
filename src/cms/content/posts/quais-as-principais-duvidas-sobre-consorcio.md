@@ -1,14 +1,14 @@
 ---
-        titulo: Quais as principais dúvidas sobre consórcio?
-        slug: quais-as-principais-duvidas-sobre-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-as-principais-duvidas-sobre-consorcio.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        O consórcio é uma modalidade de compra de bens de alto valor que [já existe há mais de 50 anos](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio). Foi criado no Brasil, em um momento em que as pessoas tinham dificuldade de acesso ao crédito para a [compra de um automóvel](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao).
+titulo: Quais as principais dúvidas sobre consórcio?
+slug: quais-as-principais-duvidas-sobre-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-as-principais-duvidas-sobre-consorcio.jpg
+meta_summary: 
+date: 09/11/2021
+---
+O consórcio é uma modalidade de compra de bens de alto valor que [já existe há mais de 50 anos](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio). Foi criado no Brasil, em um momento em que as pessoas tinham dificuldade de acesso ao crédito para a [compra de um automóvel](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao).
 
 Com o passar dos anos, as instituições financeiras e as [administradoras de consórcio](https://www.embracon.com.br/blog/afinal-o-que-uma-administradora-de-consorcio-faz) se modernizaram e passaram a permitir a compra de uma série de bens, seja por meio da concessão de crédito, empréstimo ou com o consórcio.
 
@@ -266,4 +266,3 @@ Faça uma boa organização financeira antes de decidir o valor da sua cota. Afi
 Portanto, não espere demais para dar o primeiro passo. [Faça uma simulação agora mesmo](https://www.embracon.com.br/) do bem que deseja comprar e conte com a credibilidade de uma administradora que há mais de 30 anos realiza sonhos dos brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 35 coisas para fazer quando a pandemia passar
-        slug: 35-coisas-para-fazer-quando-a-pandemia-passar
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/35-coisas-para-fazer-quando-a-pandemia-passar.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        2020 nos trouxe uma nova perspectiva. Com a [pandemia do novo coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitos paradigmas foram quebrados e aprendemos a viver de formas diferentes. Também vivenciamos como é ficar em casa, mas com saudades do mundo antigo, claro. Saudades de conhecer lugares, pessoas e viver novas experiências e passear pelo mundo.
+titulo: 35 coisas para fazer quando a pandemia passar
+slug: 35-coisas-para-fazer-quando-a-pandemia-passar
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/35-coisas-para-fazer-quando-a-pandemia-passar.jpg
+meta_summary: 
+date: 30/09/2021
+---
+2020 nos trouxe uma nova perspectiva. Com a [pandemia do novo coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitos paradigmas foram quebrados e aprendemos a viver de formas diferentes. Também vivenciamos como é ficar em casa, mas com saudades do mundo antigo, claro. Saudades de conhecer lugares, pessoas e viver novas experiências e passear pelo mundo.
 
 Com o sentimento de que o fim da pandemia está próximo, só podemos comemorar e nos programar para viver tudo o que 2020 não tinha deixado ainda. Por isso, preparamos uma lista com algumas sugestões para fazer assim que a pandemia acabar. Para todos os gostos e bolsos. Confere aqui e já comece a se programar:
 
@@ -208,4 +208,3 @@ Que tal começar a planejar uma viagem para conhecer algum dos lugares da lista 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

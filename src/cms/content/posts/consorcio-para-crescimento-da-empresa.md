@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para crescimento da empresa 
-        slug: consorcio-para-crescimento-da-empresa
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-para-crescimento-da-empresa.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Os consórcios já estão em operação no Brasil há mais de 50 anos, e não é por acaso que eles se tornaram uma das modalidades de aquisição de bens mais procuradas pelos brasileiros. Desde a criação do sistema, milhares de pessoas já conseguiram realizar seus sonhos, como a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) e o carro tão desejado.
+titulo: Consórcio para crescimento da empresa 
+slug: consorcio-para-crescimento-da-empresa
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-para-crescimento-da-empresa.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Os consórcios já estão em operação no Brasil há mais de 50 anos, e não é por acaso que eles se tornaram uma das modalidades de aquisição de bens mais procuradas pelos brasileiros. Desde a criação do sistema, milhares de pessoas já conseguiram realizar seus sonhos, como a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) e o carro tão desejado.
 
 Por ser uma modalidade com diversos benefícios, que entrega diferenciais como a agilidade no processo de contratação e facilidade no planejamento, [o consórcio já é considerado como um verdadeiro investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), permitindo que as pessoas economizem de forma mais eficiente e direcionem seus recursos para a realização de grandes conquistas.
 
@@ -92,4 +92,3 @@ Não importa qual seja a meta para o seu negócio, a Embracon tem o consórcio p
 > Faça sua simulação conosco!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

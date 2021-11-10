@@ -1,14 +1,14 @@
 ---
-        titulo: O que muda na economia com o novo governo?
-        slug: o-que-muda-na-economia-com-o-novo-governo
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-muda-na-economia-com-o-novo-governo.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Toda mudança de gestão pública apresenta um cenário de incertezas. Por mais que se apresente parte da equipe técnica ainda antes da posse, economistas, especialistas e, principalmente, a população fica apreensiva com o que pode acontecer com a economia.
+titulo: O que muda na economia com o novo governo?
+slug: o-que-muda-na-economia-com-o-novo-governo
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-muda-na-economia-com-o-novo-governo.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Toda mudança de gestão pública apresenta um cenário de incertezas. Por mais que se apresente parte da equipe técnica ainda antes da posse, economistas, especialistas e, principalmente, a população fica apreensiva com o que pode acontecer com a economia.
 
 Atualmente, o país apresenta alto nível de desemprego, que atinge mais de 14 milhões de pessoas. Embora índices como[ inflação e taxa Selic](https://www.embracon.com.br/blog/entenda-a-importancia-da-taxa-selic-e-da-inflacao) tenham melhorado nos últimos meses, o Brasil ainda está longe de apresentar sinais de estabilidade política e econômica.
 
@@ -44,4 +44,3 @@ Existe uma expectativa de que o novo governo diminua a burocratização - algo q
 De qualquer forma, é preciso ficar atento ao noticiário, para ver se as previsões - muitas delas otimistas, é claro - realmente vão se concretizar.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

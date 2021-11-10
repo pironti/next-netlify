@@ -1,14 +1,14 @@
 ---
-        titulo: Casa Inteligente: como automatizar sua casa
-        slug: casa-inteligente-como-automatizar-sua-casa
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/casa-inteligente-como-automatizar-sua-casa.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ter uma casa automatizada tem se tornado tendência e é uma grande vantagem da atualidade, justamente por conta do [desenvolvimento tecnológico](https://www.embracon.com.br/blog/quais-os-gadgets-queridinhos-do-momento). Com a automatização, o morador pode controlar remotamente praticamente todo sistema doméstico básico.
+titulo: Casa Inteligente: como automatizar sua casa
+slug: casa-inteligente-como-automatizar-sua-casa
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/casa-inteligente-como-automatizar-sua-casa.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ter uma casa automatizada tem se tornado tendência e é uma grande vantagem da atualidade, justamente por conta do [desenvolvimento tecnológico](https://www.embracon.com.br/blog/quais-os-gadgets-queridinhos-do-momento). Com a automatização, o morador pode controlar remotamente praticamente todo sistema doméstico básico.
 
 Entretanto, é fundamental destacar a diferença entre a casa automatizada e a inteligente. Quando falamos de casa automatizada, trata-se de automações isoladas que você controla para ter mais conforto, segurança e [economia de custos](https://www.embracon.com.br/blog/economia-colaborativa-saiba-tudo-sobre-o-assunto). Agora, no segundo, é como se a sua casa tomasse uma decisão por você.
 
@@ -99,4 +99,3 @@ Agora que você já sabe como deixar a sua casa automatizada, que tal começar a
 > Independente do que escolher, a Embracon está preparada para te ajudar nesse planejamento financeiro para realizar o seu sonho. [Faça sua simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=casa_inteligente&utm_campaign=publicacoes_blog) conosco agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=casa_inteligente&utm_campaign=publicacoes_blog)</figure>
-        

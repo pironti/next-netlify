@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba qual a importância de realizar as revisões regulares do carro
-        slug: saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Manter a manutenção do carro sempre em dia é tão importante para o funcionamento de um veículo quanto[ colocar gasolina](https://www.embracon.com.br/blog/afinal-quais-sao-os-carros-mais-economicos-do-mercado) e óleo no motor. Isso porque a sua vida útil depende proporcionalmente a esse cuidado. Além de ajudar na redução dos custos de eventuais consertos, a revisão regular faz com que o carro gere menos poluentes, tenha um melhor desempenho e menos peças danificadas com o passar do tempo.
+titulo: Saiba qual a importância de realizar as revisões regulares do carro
+slug: saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Manter a manutenção do carro sempre em dia é tão importante para o funcionamento de um veículo quanto[ colocar gasolina](https://www.embracon.com.br/blog/afinal-quais-sao-os-carros-mais-economicos-do-mercado) e óleo no motor. Isso porque a sua vida útil depende proporcionalmente a esse cuidado. Além de ajudar na redução dos custos de eventuais consertos, a revisão regular faz com que o carro gere menos poluentes, tenha um melhor desempenho e menos peças danificadas com o passar do tempo.
 
 A segurança sempre foi um dos maiores motivos na hora de[ comprar um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo). Poder se deslocar com tranquilidade sem precisar depender do transporte público ou[ aplicativo](https://www.embracon.com.br/blog/motorista-de-aplicativo-faca-um-consorcio), ganhou um novo peso em 2020. A[ pandemia](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) fez com que as pessoas se sentissem mais inseguras em compartilhar espaços e mais gente começou a optar por adquirir o seu automóvel próprio. Por isso, já foi registrado um aumento de[ compra de automóveis](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar) em 2020, e a tendência é aumentar. Contas fixas e grandes responsabilidades vêm com esse momento e, para isso, trouxemos algumas dicas que vão fazer toda a diferença nessa hora.
 
@@ -57,4 +57,3 @@ Um ponto importantíssimo que sempre deve ser considerado é que a falta de manu
 > Gostou? Está pensando em comprar um carro novo? A Embracon pode te ajudar, [faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>‍
-        

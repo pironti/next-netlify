@@ -1,14 +1,14 @@
 ---
-        titulo: Investimento na crise? O consórcio sempre é um bom negócio!
-        slug: investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Em tempos de pandemia, muitas pessoas têm freado o consumo por conta da incerteza. Isso mostra que diminuíram as compras por impulsão e, consequentemente, muitas delas devem pensar em [planejar o futuro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) com mais cautela.
+titulo: Investimento na crise? O consórcio sempre é um bom negócio!
+slug: investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Em tempos de pandemia, muitas pessoas têm freado o consumo por conta da incerteza. Isso mostra que diminuíram as compras por impulsão e, consequentemente, muitas delas devem pensar em [planejar o futuro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) com mais cautela.
 
 Exatamente por isso, o [consórcio pode ser a melhor forma para comprar](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio) automóveis, imóveis e adquirir serviços. Sem a cobrança de juros ou entrada, o [consórcio é a melhor opção para se investir](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) a longo prazo em um bem que deseja.
 
@@ -45,4 +45,3 @@ Como você pode perceber, o consórcio é a melhor forma de planejar a compra do
 > [Faça uma simulação em nosso site](https://www.embracon.com.br/) e invista já no seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

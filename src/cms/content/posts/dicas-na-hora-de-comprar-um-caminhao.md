@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas na hora de comprar um caminhão
-        slug: dicas-na-hora-de-comprar-um-caminhao
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-na-hora-de-comprar-um-caminhao.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quando se pensa na [compra de um automóvel](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro), é preciso analisar muitos fatores: se é novo, usado, marca, consumo, mecânica. Vale o mesmo raciocínio na hora de avaliar a compra de um caminhão - com atenção, claro, a detalhes específicos da categoria.
+titulo: Dicas na hora de comprar um caminhão
+slug: dicas-na-hora-de-comprar-um-caminhao
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-na-hora-de-comprar-um-caminhao.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quando se pensa na [compra de um automóvel](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro), é preciso analisar muitos fatores: se é novo, usado, marca, consumo, mecânica. Vale o mesmo raciocínio na hora de avaliar a compra de um caminhão - com atenção, claro, a detalhes específicos da categoria.
 
 Também é preciso analisar conforto, facilidade na direção, recursos adicionais, entre outros aspectos.
 
@@ -86,4 +86,3 @@ Não há nenhuma burocracia, nem exigência de entrada ou pagamento de juros pel
 [Faça uma simulação de consórcio de caminhão](https://www.embracon.com.br/consorcio-de-veiculos-pesados) e aproveite as vantagens de uma modalidade que realiza sonhos de milhares de pessoas há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/609ae880f3663b32254a9c64_EMBRACON_CTA_PESADOS_2.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

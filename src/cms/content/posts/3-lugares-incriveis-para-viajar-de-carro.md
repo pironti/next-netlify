@@ -1,14 +1,14 @@
 ---
-        titulo: 3 lugares incríveis para viajar de carro
-        slug: 3-lugares-incriveis-para-viajar-de-carro
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-lugares-incriveis-para-viajar-de-carro.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Nos últimos 20 anos aumentou consideravelmente a quantidade de pessoas que passaram a viajar em seus [períodos de férias](https://www.embracon.com.br/blog/conheca-4-destinos-incriveis-para-passar-ferias-em-familia), feriado prolongado e afins. Isso porque as companhias aéreas se tornaram mais acessíveis à boa parte da população.
+titulo: 3 lugares incríveis para viajar de carro
+slug: 3-lugares-incriveis-para-viajar-de-carro
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-lugares-incriveis-para-viajar-de-carro.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Nos últimos 20 anos aumentou consideravelmente a quantidade de pessoas que passaram a viajar em seus [períodos de férias](https://www.embracon.com.br/blog/conheca-4-destinos-incriveis-para-passar-ferias-em-familia), feriado prolongado e afins. Isso porque as companhias aéreas se tornaram mais acessíveis à boa parte da população.
 
 Porém, isso não acabou com o prazer de sair, fazer um mochilão e pegar as estradas para conhecer novos [lugares incríveis](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil).
 
@@ -57,4 +57,3 @@ Em Gramado, vale a pena conhecer o Mini Mundo, com suas construções até quatr
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

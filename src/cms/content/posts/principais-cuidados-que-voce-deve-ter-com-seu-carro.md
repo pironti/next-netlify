@@ -1,14 +1,14 @@
 ---
-        titulo: Principais cuidados que você deve ter com seu carro
-        slug: principais-cuidados-que-voce-deve-ter-com-seu-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/principais-cuidados-que-voce-deve-ter-com-seu-carro.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Não há como negar que muitos brasileiros sonham em ter o[ ***próprio carro***](https://www.embracon.com.br/blog/como-escolher-o-carro-ideal). Além de proporcionar bons momentos de lazer, é uma forma de ter mais autonomia na hora de se deslocar.
+titulo: Principais cuidados que você deve ter com seu carro
+slug: principais-cuidados-que-voce-deve-ter-com-seu-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/principais-cuidados-que-voce-deve-ter-com-seu-carro.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Não há como negar que muitos brasileiros sonham em ter o[ ***próprio carro***](https://www.embracon.com.br/blog/como-escolher-o-carro-ideal). Além de proporcionar bons momentos de lazer, é uma forma de ter mais autonomia na hora de se deslocar.
 
 Depois de conquistar e levar o veículo para a garagem, muitos compradores acabam se esquecendo de que é preciso muito cuidado para ter um carro. Por sua vez, esse entusiasmo requer tempo e atenção, mas é a melhor maneira de mantê-lo e evitar muitos problemas. Se você deseja[ conhecer alguns cuidados diários com os veículos](https://www.embracon.com.br/blog/entenda-os-gastos-fixos-e-variaveis-de-um-carro) que devem ser utilizados, então você veio ao lugar certo
 
@@ -157,4 +157,3 @@ Se estiver andando em trilhas, baixe os pneus para aumentar a tração. Não se 
 Gostou deste artigo? Você também pode adquirir seu automóvel através do consórcio, [confira as opções do consórcio Embracon e realize seu sonho](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

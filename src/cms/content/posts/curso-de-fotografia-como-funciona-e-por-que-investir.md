@@ -1,14 +1,14 @@
 ---
-        titulo: Curso de fotografia: como funciona e por que investir
-        slug: curso-de-fotografia-como-funciona-e-por-que-investir
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/curso-de-fotografia-como-funciona-e-por-que-investir.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A **fotografia** é uma arte muito respeitada, assim como um passatempo para muitas pessoas ao redor do mundo. Mas engana-se quem acha que a câmera do celular tem tudo que você precisa para ser um grande fotógrafo. Se você quer um ponto de partida, um **curso de fotografia** pode ser um bom lugar para começar.
+titulo: Curso de fotografia: como funciona e por que investir
+slug: curso-de-fotografia-como-funciona-e-por-que-investir
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/curso-de-fotografia-como-funciona-e-por-que-investir.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+A **fotografia** é uma arte muito respeitada, assim como um passatempo para muitas pessoas ao redor do mundo. Mas engana-se quem acha que a câmera do celular tem tudo que você precisa para ser um grande fotógrafo. Se você quer um ponto de partida, um **curso de fotografia** pode ser um bom lugar para começar.
 
 Ao fazer um curso de fotografia, você não vai aprender só sobre filtros e ângulos. Há muito conhecimento acumulado ao longo de décadas sobre essa arte, e as aulas podem se provar muito mais úteis e interessantes do que você imagina.
 
@@ -70,4 +70,3 @@ Agora que você já entende melhor por que fazer um curso de fotografia, é hora
 > Faça uma [Simulação de Consórcio](https://www.embracon.com.br/consorcio-servicos) para Educação
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

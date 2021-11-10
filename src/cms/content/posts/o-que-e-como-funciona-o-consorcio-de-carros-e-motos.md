@@ -1,14 +1,14 @@
 ---
-        titulo: O que é como funciona o consórcio de carros e motos
-        slug: o-que-e-como-funciona-o-consorcio-de-carros-e-motos
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-como-funciona-o-consorcio-de-carros-e-motos.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Todo consorciado deseja saber como funciona o consórcio de [carros](http://embracon.com.br/consorcio-de-carros) e [motos](https://www.embracon.com.br/consorcio-motos). Ao fazer um[ consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), você entra em um tipo de compra em conjunto para participar de um grupo em que pessoas com o mesmo interesse se unem para adquirir seus bens. O contratante adquire uma cota dentro desse grupo, que é administrado por uma [**empresa de consórcio**](https://www.embracon.com.br/a-embracon).
+titulo: O que é como funciona o consórcio de carros e motos
+slug: o-que-e-como-funciona-o-consorcio-de-carros-e-motos
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-como-funciona-o-consorcio-de-carros-e-motos.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Todo consorciado deseja saber como funciona o consórcio de [carros](http://embracon.com.br/consorcio-de-carros) e [motos](https://www.embracon.com.br/consorcio-motos). Ao fazer um[ consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), você entra em um tipo de compra em conjunto para participar de um grupo em que pessoas com o mesmo interesse se unem para adquirir seus bens. O contratante adquire uma cota dentro desse grupo, que é administrado por uma [**empresa de consórcio**](https://www.embracon.com.br/a-embracon).
 
 Juntos, eles formam uma poupança a fim de financiar os [carros](https://www.embracon.com.br/consorcio-de-carros) e as [motos](https://www.embracon.com.br/consorcio-motos) contratados pelos cotistas. Dessa maneira, o consórcio ajuda a [construir o sonho do veículo próprio](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon) em parcelas menores do que em outras escolhas financeiras e sem juros. Quem opta pela espera ao realizar o plano acaba efetuando grande economia.
 
@@ -117,4 +117,3 @@ Agora que você já sabe como funciona o consórcio de carros e motos, certifiqu
 Gostou do post? Aproveite para receber artigos atualizados periodicamente ao assinar nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb0496a32c6d0cc4f85d292_CTA-AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como comprar um terreno
-        slug: como-comprar-um-terreno
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comprar-um-terreno.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        [Encontrar um terreno](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir) que atenda aos recursos básicos pode ser complicado. Além disso, a turbulência no mercado imobiliário e a recente crise no Brasil levaram a um aumento variável no valor dos novos terrenos.
+titulo: Como comprar um terreno
+slug: como-comprar-um-terreno
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comprar-um-terreno.jpg
+meta_summary: 
+date: 09/11/2021
+---
+[Encontrar um terreno](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir) que atenda aos recursos básicos pode ser complicado. Além disso, a turbulência no mercado imobiliário e a recente crise no Brasil levaram a um aumento variável no valor dos novos terrenos.
 
 Portanto, uma escolha errada pode causar dores de cabeça futuras.[ Vários fatores são necessários e devem ser estudados para fazer a melhor escolha](https://www.embracon.com.br/blog/saiba-como-organizar-as-suas-financas-pessoais). Para ajudar e simplificar essa decisão difícil, decidimos coletar algumas informações para fornecer algumas dicas que podem ajudar nesta tarefa.
 
@@ -121,4 +121,3 @@ Essas pessoas podem ser contempladas de duas maneiras (para receber uma carta de
 Saiba mais sobre o [consórcio](https://www.embracon.com.br/consorcio) e suas maiores vantagens de investimento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

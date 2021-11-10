@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo que você precisa saber sobre renovação de frotas
-        slug: tudo-que-voce-precisa-saber-sobre-renovacao-de-frotas
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-que-voce-precisa-saber-sobre-renovacao-de-frotas.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        As organizações que utilizam o transporte rodoviário em suas operações normalmente enfrentam um verdadeiro dilema quando o assunto é renovação de frota. Até porque, qual é o melhor momento para [trocar os veículos](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), uma vez que esse não é um processo fácil e nem acessível?
+titulo: Tudo que você precisa saber sobre renovação de frotas
+slug: tudo-que-voce-precisa-saber-sobre-renovacao-de-frotas
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-que-voce-precisa-saber-sobre-renovacao-de-frotas.jpg
+meta_summary: 
+date: 28/09/2021
+---
+As organizações que utilizam o transporte rodoviário em suas operações normalmente enfrentam um verdadeiro dilema quando o assunto é renovação de frota. Até porque, qual é o melhor momento para [trocar os veículos](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), uma vez que esse não é um processo fácil e nem acessível?
 
 Apesar de tudo, realizar o procedimento é essencial para garantir a segurança dos motoristas e assegurar que as atividades da companhia tenham cada vez mais eficiência.
 
@@ -81,4 +81,3 @@ O consórcio é uma excelente modalidade de compra que não compromete seu orça
 > A Embracon tem mais de 30 anos de experiência no mercado e pode te ajudar com esse processo. [Faça sua simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=renovacao_de_frotas&utm_campaign=publicacoes_blog) com a gente e confira!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=renovacao_de_frotas&utm_campaign=publicacoes_blog)</figure>> ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Compre um apartamento com o consórcio de imóveis
-        slug: compre-um-apartamento-com-o-consorcio-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/compre-um-apartamento-com-o-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        A cada ano que passa, as pessoas têm se interessado mais pela [compra de apartamentos](https://www.embracon.com.br/imoveis/comprar-apartamento-consorcio) - principalmente nas cidades grandes, em que esse tipo de construção tem sido bastante estimulado há décadas, ainda mais nos [bairros mais próximos à região central da cidade](https://www.embracon.com.br/blog/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar).
+titulo: Compre um apartamento com o consórcio de imóveis
+slug: compre-um-apartamento-com-o-consorcio-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/compre-um-apartamento-com-o-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 20/10/2021
+---
+A cada ano que passa, as pessoas têm se interessado mais pela [compra de apartamentos](https://www.embracon.com.br/imoveis/comprar-apartamento-consorcio) - principalmente nas cidades grandes, em que esse tipo de construção tem sido bastante estimulado há décadas, ainda mais nos [bairros mais próximos à região central da cidade](https://www.embracon.com.br/blog/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar).
 
 Segundo um estudo realizado pela Datastore, [mais de 14 milhões de famílias pretendem fazer a aquisição de um novo imóvel](https://imoveis.estadao.com.br/compra/mercado-imobiliario-no-brasil-pode-crescer-ate-30-este-ano/) nos próximos dois anos. Existem diversos fatores para isso: em 2020, por exemplo, a baixa histórica da [taxa Selic](https://www.embracon.com.br/blog/entenda-a-importancia-da-taxa-selic-e-da-inflacao), que é a principal taxa de juros do país, favoreceu bastante o preço dos imóveis para o consumidor final.
 
@@ -59,4 +59,3 @@ Portanto, invista desde já no seu sonho de comprar um novo apartamento.
 [Faça uma simulação de consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e economize bastante na compra. Você não precisa dar entrada, [nem paga juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros), e conta com um sistema que permite pagar por um valor a prazo mais justo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as despesas supérfluas que podem ser cortadas do dia a dia?
-        slug: quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Muita gente quebra a cabeça procurando formas de [organizar o próprio orçamento](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) para ter dinheiro livre, todos os meses, [para investir, poupar](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos), mobiliar a casa, viajar etc. Os objetivos são inúmeros. Mas são poucas as pessoas que conseguem levar isso adiante de forma bem-sucedida. Isso acontece porque elas se esquecem de um ponto crucial: reconhecer e reduzir (ou mesmo cortar) as [**despesas supérfluas**](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios) que têm.
+titulo: Quais são as despesas supérfluas que podem ser cortadas do dia a dia?
+slug: quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Muita gente quebra a cabeça procurando formas de [organizar o próprio orçamento](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) para ter dinheiro livre, todos os meses, [para investir, poupar](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos), mobiliar a casa, viajar etc. Os objetivos são inúmeros. Mas são poucas as pessoas que conseguem levar isso adiante de forma bem-sucedida. Isso acontece porque elas se esquecem de um ponto crucial: reconhecer e reduzir (ou mesmo cortar) as [**despesas supérfluas**](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios) que têm.
 
 Esses gastos costumam passar despercebidos por força do hábito. Ou mesmo porque, quando analisados isoladamente, parecem valores sem importância. Por essa razão, preparamos um post que vai ajudá-lo não só a identificá-los, mas também a pensar em alternativas mais em conta para o seu bolso. Acompanhe!
 
@@ -48,4 +48,3 @@ Não faltam despesas supérfluas que você pode reduzir e até mesmo cortar de u
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Qual a melhor época para contratar um consórcio?
-        slug: qual-a-melhor-epoca-para-contratar-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-a-melhor-epoca-para-contratar-um-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Todo mundo tem um sonho que adoraria realizar. Quando se pensa em bens de alto valor, como a compra do [carro que sempre quis](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao), o desejo de ter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) ou até mesmo o seu próprio empreendimento, na maioria das vezes surge a seguinte barreira: como fazer para pagar por algo que está distante dos meus rendimentos mensais?
+titulo: Qual a melhor época para contratar um consórcio?
+slug: qual-a-melhor-epoca-para-contratar-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-a-melhor-epoca-para-contratar-um-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Todo mundo tem um sonho que adoraria realizar. Quando se pensa em bens de alto valor, como a compra do [carro que sempre quis](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao), o desejo de ter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) ou até mesmo o seu próprio empreendimento, na maioria das vezes surge a seguinte barreira: como fazer para pagar por algo que está distante dos meus rendimentos mensais?
 
 Nesse caso, o consórcio se apresenta como uma ótima opção. Ele funciona como uma [compra planejada](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) de um bem de alto valor, sem ter que pagar juros ou entrada.
 
@@ -75,4 +75,3 @@ Como deu para perceber, você pode planejar muitas coisas antes de contratar um 
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e conte com as vantagens de uma modalidade que realiza os sonhos dos brasileiros há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: O que é o devedor solidário e como ele te ajuda?
-        slug: o-que-e-o-devedor-solidario-e-como-ele-te-ajuda
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-o-devedor-solidario-e-como-ele-te-ajuda.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Quem procura entender melhor como funciona o segmento de consórcio sabe muito bem que é preciso [oferecer garantias à administradora](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio), para que consiga realizar o pagamento das mensalidades.
+titulo: O que é o devedor solidário e como ele te ajuda?
+slug: o-que-e-o-devedor-solidario-e-como-ele-te-ajuda
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-o-devedor-solidario-e-como-ele-te-ajuda.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Quem procura entender melhor como funciona o segmento de consórcio sabe muito bem que é preciso [oferecer garantias à administradora](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio), para que consiga realizar o pagamento das mensalidades.
 
 Por ser um [tipo de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) a longo prazo para a compra de um bem, o consórcio é um compromisso entre o cliente a administradora: o consorciado precisa estar com as mensalidades em dia, mesmo depois da contemplação, até ter toda a sua cota paga; e a administradora precisa garantir a formação dos grupos, os sorteios mensais, a contemplação e a [entrega da carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios).
 
@@ -64,4 +64,3 @@ Quer mais dicas de como se planejar melhor para as mensalidades do consórcio? E
 > Tem interesse em consórcio?[ Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

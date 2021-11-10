@@ -1,14 +1,14 @@
 ---
-        titulo: Curso de artes cênicas: como funciona e por que fazer
-        slug: curso-de-artes-cenicas-como-funciona-e-por-que-fazer
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/curso-de-artes-cenicas-como-funciona-e-por-que-fazer.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        O curso de Artes Cênicas oferece ao discente um conjunto de técnicas utilizadas para montagem, interpretação e direção de espetáculos. O aluno aprende a desenvolver suas habilidades corporais e de voz, além de conhecer assuntos específicos sobre história, filosofia etc.
+titulo: Curso de artes cênicas: como funciona e por que fazer
+slug: curso-de-artes-cenicas-como-funciona-e-por-que-fazer
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/curso-de-artes-cenicas-como-funciona-e-por-que-fazer.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+O curso de Artes Cênicas oferece ao discente um conjunto de técnicas utilizadas para montagem, interpretação e direção de espetáculos. O aluno aprende a desenvolver suas habilidades corporais e de voz, além de conhecer assuntos específicos sobre história, filosofia etc.
 
 Para sanar as suas dúvidas sobre o assunto, neste artigo apresentamos as principais informações sobre o curso de artes cênicas. Continue a leitura e confira!
 
@@ -76,4 +76,3 @@ Para receber informações como essas no seu e-mail, assine a nossa newsletter p
 ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

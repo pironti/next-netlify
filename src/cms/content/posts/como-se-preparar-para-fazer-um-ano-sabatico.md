@@ -1,14 +1,14 @@
 ---
-        titulo: Como se preparar para fazer um ano sabático
-        slug: como-se-preparar-para-fazer-um-ano-sabatico
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-se-preparar-para-fazer-um-ano-sabatico.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Pode parecer até coisa de filme: fazer uma mala, traçar um destino e sair pelo mundo conhecendo países e conquistando experiências. Tanto nos [Estados Unidos](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua), na Europa ou na Ásia, o sonho de parar um ano e viver as próprias vontades parece realmente utópico, mas com planejamento ele pode estar mais perto do que você imagina.
+titulo: Como se preparar para fazer um ano sabático
+slug: como-se-preparar-para-fazer-um-ano-sabatico
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-se-preparar-para-fazer-um-ano-sabatico.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Pode parecer até coisa de filme: fazer uma mala, traçar um destino e sair pelo mundo conhecendo países e conquistando experiências. Tanto nos [Estados Unidos](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua), na Europa ou na Ásia, o sonho de parar um ano e viver as próprias vontades parece realmente utópico, mas com planejamento ele pode estar mais perto do que você imagina.
 
 O seu ano sabático pode ter um objetivo muito bem definido ou apenas fazer parte de um plano de vida de conhecer novos lugares e viver novas experiências. Fizemos uma lista com alguns itens necessários para você começar a programar o seu ano sabático.
 
@@ -68,4 +68,3 @@ O [consórcio é uma modalidade de investimento](https://www.embracon.com.br/blo
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 ‍
-        

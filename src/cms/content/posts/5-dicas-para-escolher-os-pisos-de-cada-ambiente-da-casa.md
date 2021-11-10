@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para escolher os pisos de cada ambiente da casa
-        slug: 5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A gente sabe que cada [casa](https://www.embracon.com.br/consorcio-de-imoveis) tem um estilo próprio, cada cômodo uma personalidade, e cada um de nós as próprias prioridades. Por isso, escolher os pisos para casa é uma etapa muito importante, seja na [construção](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar) ou na reforma. Quando a escolha é certa, tudo fica mais prático e fácil, desde a limpeza do dia a dia, aconchego e até ter mais facilidade de movimentação. São várias características que devem ser consideradas nesse momento.
+titulo: 5 dicas para escolher os pisos de cada ambiente da casa
+slug: 5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa.jpg
+meta_summary: 
+date: 04/10/2021
+---
+A gente sabe que cada [casa](https://www.embracon.com.br/consorcio-de-imoveis) tem um estilo próprio, cada cômodo uma personalidade, e cada um de nós as próprias prioridades. Por isso, escolher os pisos para casa é uma etapa muito importante, seja na [construção](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar) ou na reforma. Quando a escolha é certa, tudo fica mais prático e fácil, desde a limpeza do dia a dia, aconchego e até ter mais facilidade de movimentação. São várias características que devem ser consideradas nesse momento.
 
 Por isso, preparamos este artigo com as principais orientações de especialistas sobre pisos para a casa. Aqui, você aprenderá sobre pisos para cozinhas, salas, banheiros, quartos e áreas externas. Fique atento às dicas, elas são fundamentais para a escolha correta. Acompanhe e boa leitura!
 
@@ -62,4 +62,3 @@ Na hora de definir os pisos para a casa leve em consideração esses fatores. Fa
 Gostou de nossas dicas? Aproveite para assinar nossa newsletter e receber em sua caixa de e-mail muito mais temas interessantes para seu dia a dia.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

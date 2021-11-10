@@ -1,14 +1,14 @@
 ---
-        titulo: Os 5 primeiros passos para quem vai começar uma reforma
-        slug: os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Antes de começar uma reforma é preciso checar e tomar certas atitudes para que tudo aconteça conforme o planejado. Caso a situação saia do controle, ela pode causar prejuízo e muita dor de cabeça.
+titulo: Os 5 primeiros passos para quem vai começar uma reforma
+slug: os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Antes de começar uma reforma é preciso checar e tomar certas atitudes para que tudo aconteça conforme o planejado. Caso a situação saia do controle, ela pode causar prejuízo e muita dor de cabeça.
 
 Portanto, para evitar qualquer problema, confira os 5 primeiros passos na hora de [começar uma reforma](https://www.embracon.com.br/blog/quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar). Boa leitura!
 
@@ -54,4 +54,3 @@ No entanto, vale a pena fazer orçamentos com cada profissional para ter noção
 Muitas situações podem fazer com que seja necessário começar uma reforma, sejam problemas estruturais ou a insatisfação com a atual situação do [imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel). Nessa hora, é importante tomar as devidas precauções e fazer o planejamento, item fundamental para evitar problemas futuros. Assim, é possível finalizar a obra o mais rápido possível e desfrutar de bons momentos nesse novo lar.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

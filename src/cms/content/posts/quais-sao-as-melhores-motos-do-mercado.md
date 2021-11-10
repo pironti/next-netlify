@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as melhores motos do mercado?
-        slug: quais-sao-as-melhores-motos-do-mercado
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-melhores-motos-do-mercado.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quem está no momento de conquistar e aumentar o patrimônio precisa considerar as suas opções com atenção. Uma sugestão para quem está começando é [escolher uma motocicleta](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio) entre as melhores do mercado. Além de possuir um ótimo custo-benefício, uma moto é uma forma de transporte que facilita e agiliza o dia a dia. Fala verdade, quem nunca pensou em investir em uma moto?
+titulo: Quais são as melhores motos do mercado?
+slug: quais-sao-as-melhores-motos-do-mercado
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-melhores-motos-do-mercado.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quem está no momento de conquistar e aumentar o patrimônio precisa considerar as suas opções com atenção. Uma sugestão para quem está começando é [escolher uma motocicleta](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio) entre as melhores do mercado. Além de possuir um ótimo custo-benefício, uma moto é uma forma de transporte que facilita e agiliza o dia a dia. Fala verdade, quem nunca pensou em investir em uma moto?
 
 Porém, existe uma infinidade de modelos no mercado, a grande questão é saber quais estão enquadrados entre as melhores, além de saber quais são as suas características. Fazer uma avaliação de todos esses pontos podem ajudar a definir a [melhor moto para o seu momento de vida](https://www.embracon.com.br/blog/confira-5-vantagens-de-ter-uma-moto)!
 
@@ -83,4 +83,3 @@ Se for necessário fazer pequenas viagens e gosta de aproveitar a natureza, a XR
 > E aí, já decidiu o melhor modelo para você? Com o consórcio de veículos você pode realizar o sonho da moto 0km. [Faça sua simulação com a Embracon](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=melhores_motos_do_mercado&utm_campaign=publicacoes_blog)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb63e29dc666ab0c974caa_CTA-Motocicletas.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=melhores_motos_do_mercado&utm_campaign=publicacoes_blog)</figure>
-        

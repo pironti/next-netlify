@@ -1,14 +1,14 @@
 ---
-        titulo: Quanto da minha renda posso investir?
-        slug: quanto-da-minha-renda-posso-investir
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quanto-da-minha-renda-posso-investir.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Quando se fala em investimento, o que vem à sua cabeça? Muitos podem surgir com o termo [poupança](https://www.embracon.com.br/blog/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher), que se popularizou enormemente nos anos 1980 e 1990 pela facilidade de resgate, sem perder a liquidez.
+titulo: Quanto da minha renda posso investir?
+slug: quanto-da-minha-renda-posso-investir
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quanto-da-minha-renda-posso-investir.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Quando se fala em investimento, o que vem à sua cabeça? Muitos podem surgir com o termo [poupança](https://www.embracon.com.br/blog/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher), que se popularizou enormemente nos anos 1980 e 1990 pela facilidade de resgate, sem perder a liquidez.
 
 Hoje, vivemos um momento diferente. Enquanto especialistas em finanças pessoais vivem trazendo argumentos para abandonar de vez a famosa ‘caderneta de poupança’, muitos brasileiros ainda têm como barreira as [dívidas do dia a dia](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica).
 
@@ -190,4 +190,3 @@ E aí, já sabe por onde começar a investir? Caso queira se preparar ainda mais
 > [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=quanto_da_minha_renda_posso_investir&utm_campaign=publicacoes_blog) do consórcio da Embracon!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=quanto_da_minha_renda_posso_investir&utm_campaign=publicacoes_blog)</figure>###   
-        

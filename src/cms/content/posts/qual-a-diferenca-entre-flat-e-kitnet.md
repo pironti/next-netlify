@@ -1,14 +1,14 @@
 ---
-        titulo: Qual a diferença entre flat e kitnet?
-        slug: qual-a-diferenca-entre-flat-e-kitnet
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-a-diferenca-entre-flat-e-kitnet.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O [principal sonho da maioria dos brasileiros](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é ter a casa própria. Porém, quando pensamos em uma propriedade, logo imaginamos um grande espaço que cabe toda a família, propício para encontros aos fins de semana e para o sossego após um dia cansativo de trabalho.
+titulo: Qual a diferença entre flat e kitnet?
+slug: qual-a-diferenca-entre-flat-e-kitnet
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-a-diferenca-entre-flat-e-kitnet.jpg
+meta_summary: 
+date: 05/10/2021
+---
+O [principal sonho da maioria dos brasileiros](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é ter a casa própria. Porém, quando pensamos em uma propriedade, logo imaginamos um grande espaço que cabe toda a família, propício para encontros aos fins de semana e para o sossego após um dia cansativo de trabalho.
 
 As últimas décadas geraram um boom de edifícios, principalmente nas grandes cidades do nosso país.
 
@@ -48,4 +48,3 @@ Com o consórcio imobiliário, você seleciona o valor total do imóvel e faz um
 Após entrar no consórcio, você participa de um grupo e acompanha os sorteios dos bens mensalmente. Você pode ser contemplado tanto no primeiro, quanto no último mês de pagamento da cota. Não perca tempo! [Faça uma simulação no site da Embracon](http://www.embracon.com.br/consorcio) e invista já no sonho de comprar seu novo flat ou kitnet.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb04ecd82cd6e55181d1097_CTA-CASA.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

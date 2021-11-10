@@ -1,14 +1,14 @@
 ---
-        titulo: Use o consórcio para empreender
-        slug: use-o-consorcio-para-empreender
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/use-o-consorcio-para-empreender.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O Brasil vive um momento diferente em relação ao [mercado de trabalho](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira). Comparado há cerca de 10 anos, por exemplo, quando o país tinha um índice de desemprego considerado baixo (na casa dos 7% em 2010), muitos tentavam se recolocar no mercado formal porque viam como a única forma de manter uma boa [estabilidade financeira](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira).
+titulo: Use o consórcio para empreender
+slug: use-o-consorcio-para-empreender
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/use-o-consorcio-para-empreender.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O Brasil vive um momento diferente em relação ao [mercado de trabalho](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira). Comparado há cerca de 10 anos, por exemplo, quando o país tinha um índice de desemprego considerado baixo (na casa dos 7% em 2010), muitos tentavam se recolocar no mercado formal porque viam como a única forma de manter uma boa [estabilidade financeira](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira).
 
 Hoje em dia, as coisas são um pouco diferentes. O país registra uma [alta de mais de 14% de desemprego](https://noticias.uol.com.br/ultimas-noticias/afp/2020/11/27/desemprego-no-brasil-sobe-a-146-novo-recorde-historico.htm), percentual que tem se agravado por conta dos desafios da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Isso tem feito com que muitos busquem novas alternativas de garantir seus rendimentos mensais.
 
@@ -177,4 +177,3 @@ Para aprender mais sobre finanças, confira [nosso post ensinando como investir 
 > E ficou interessado no consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja todas as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

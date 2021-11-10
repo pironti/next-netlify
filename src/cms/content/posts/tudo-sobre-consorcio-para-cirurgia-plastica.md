@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo sobre consórcio para cirurgia plástica
-        slug: tudo-sobre-consorcio-para-cirurgia-plastica
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-sobre-consorcio-para-cirurgia-plastica.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio para realizar [procedimentos cirúrgicos](https://www.embracon.com.br/blog/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento) está sendo cada vez mais procurado. Ou seja, se você está em busca de uma intervenção estética mas nunca conseguiu se planejar para isso, você está cada vez mais perto de conquistar esse sonho, mesmo com o orçamento reduzido. A solução se chama [consórcio de cirurgia plástica](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon).
+titulo: Tudo sobre consórcio para cirurgia plástica
+slug: tudo-sobre-consorcio-para-cirurgia-plastica
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-sobre-consorcio-para-cirurgia-plastica.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio para realizar [procedimentos cirúrgicos](https://www.embracon.com.br/blog/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento) está sendo cada vez mais procurado. Ou seja, se você está em busca de uma intervenção estética mas nunca conseguiu se planejar para isso, você está cada vez mais perto de conquistar esse sonho, mesmo com o orçamento reduzido. A solução se chama [consórcio de cirurgia plástica](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio-de-cirurgia-plastica-embracon).
 
 Com o consórcio para serviços estéticos, é possível realizar qualquer procedimento de maneira mais econômica. Mesmo o pagamento sendo feito em prestações, não existe incidência de juros e o investimento tem segurança garantida.
 
@@ -157,4 +157,3 @@ Não existe uma fórmula ideal para estar bem preparado psicologicamente para re
 > Gostou de saber mais sobre o assunto e quer realizar a sua tão sonhada[ cirurgia plástica](https://www.embracon.com.br/blog/saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil)? Visite nosso site e confira as opções disponíveis! A plataforma também possibilita [fazer simulações](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_cirurgia_plastica&utm_campaign=publicacoes_blog) para calcular os valores de parcelas e prazos mais adequados às suas necessidades e capacidades de pagamento. Então aproveite para saber mais sobre o consórcio de serviços Embracon agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_cirurgia_plastica&utm_campaign=publicacoes_blog)</figure>
-        

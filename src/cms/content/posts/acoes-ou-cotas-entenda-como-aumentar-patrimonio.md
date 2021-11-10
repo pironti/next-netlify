@@ -1,14 +1,14 @@
 ---
-        titulo: Ações ou cotas? Entenda como aumentar patrimônio
-        slug: acoes-ou-cotas-entenda-como-aumentar-patrimonio
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/acoes-ou-cotas-entenda-como-aumentar-patrimonio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Você sabe o que são ações ou cotas? Consegue discernir as suas diferenças?
+titulo: Ações ou cotas? Entenda como aumentar patrimônio
+slug: acoes-ou-cotas-entenda-como-aumentar-patrimonio
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/acoes-ou-cotas-entenda-como-aumentar-patrimonio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Você sabe o que são ações ou cotas? Consegue discernir as suas diferenças?
 
 Em primeiro lugar, temos que esclarecer que não há diferença entre quotas e cotas. Ambas as formas gráficas estão corretas e referem-se à mesma coisa.
 
@@ -200,4 +200,3 @@ Ainda que seja uma excelente opção para quem quer empreender, a escolha pelo c
 Comparado a outras linhas de crédito, o modelo de consórcio é ótimo pela flexibilidade e baixo custo. Com isso, o consórcio, principalmente consórcio de imóveis, tornou-se mais atraente para investimentos. No entanto, é muito importante desenvolver um planejamento financeiro sólido para aumentar o patrimônio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

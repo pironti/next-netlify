@@ -1,14 +1,14 @@
 ---
-        titulo: Qual é o consórcio ideal?
-        slug: qual-e-o-consorcio-ideal
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-e-o-consorcio-ideal.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        O [consórcio é um método de investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento) cada vez mais popular. Uma de suas grandes vantagens é que, ao contrário do financiamento, [não há juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
+titulo: Qual é o consórcio ideal?
+slug: qual-e-o-consorcio-ideal
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-e-o-consorcio-ideal.jpg
+meta_summary: 
+date: 09/11/2021
+---
+O [consórcio é um método de investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento) cada vez mais popular. Uma de suas grandes vantagens é que, ao contrário do financiamento, [não há juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
 
 Em última análise, isso reduz o valor do pagamento parcelado. Mas também é necessário estudar qual consórcio tem a menor[ taxa de administração](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), pois isso também afetará a escolha. Na hora de escolher o consórcio ideal, o melhor é ficar atento a esses e vários outros fatores importantes.
 
@@ -75,4 +75,3 @@ Nem todo o consórcio aceita todos os tipos de lances. Além disso, o valor tamb
 Faça uma [simulação](https://www.embracon.com.br/blog/simulacao-de-consorcio) e saiba qual o [consórcio](https://www.embracon.com.br/consorcio) ideal para o seu bolso.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

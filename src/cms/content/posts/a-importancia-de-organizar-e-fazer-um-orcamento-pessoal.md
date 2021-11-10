@@ -1,14 +1,14 @@
 ---
-        titulo: A importância de organizar e fazer um orçamento pessoal
-        slug: a-importancia-de-organizar-e-fazer-um-orcamento-pessoal
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Como você [controla os seus gastos](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro)? E quanto aos seus investimentos?
+titulo: A importância de organizar e fazer um orçamento pessoal
+slug: a-importancia-de-organizar-e-fazer-um-orcamento-pessoal
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Como você [controla os seus gastos](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro)? E quanto aos seus investimentos?
 
 Existem diferentes formas de responder a essas perguntas. Afinal, cada um sabe onde o calo aperta quando se trata de [despesas](https://www.embracon.com.br/blog/quais-sao-as-despesas-superfluas-que-podem-ser-cortadas-do-dia-a-dia).
 
@@ -237,4 +237,3 @@ Nesse sentido, você pode considerar o consórcio de diferentes formas: para[ in
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) do consórcio e veja todos os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que levar na sua próxima viagem
-        slug: saiba-o-que-levar-na-sua-proxima-viagem
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-levar-na-sua-proxima-viagem.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Imagine que você já está com o hotel e as passagens reservadas para curtir a sua próxima viagem. Agora, é preciso ter muito cuidado para não se esquecer de nenhum item importante. Nesse caso, vale saber o que levar em uma viagem e fazer uma lista.
+titulo: Saiba o que levar na sua próxima viagem
+slug: saiba-o-que-levar-na-sua-proxima-viagem
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-levar-na-sua-proxima-viagem.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Imagine que você já está com o hotel e as passagens reservadas para curtir a sua próxima viagem. Agora, é preciso ter muito cuidado para não se esquecer de nenhum item importante. Nesse caso, vale saber o que levar em uma viagem e fazer uma lista.
 
 Dessa forma, você fica mais tranquilo e pode aproveitar a companhia de familiares e amigos em um lugar especial. Afinal, viajar deve ser sinônimo de alegria, descanso, prazer e momentos inesquecíveis.
 
@@ -68,4 +68,3 @@ Se você tem dúvida ou uma experiência interessante relacionada a algum passei
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

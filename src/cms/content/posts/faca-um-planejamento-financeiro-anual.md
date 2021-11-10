@@ -1,14 +1,14 @@
 ---
-        titulo: Faça um planejamento financeiro anual
-        slug: faca-um-planejamento-financeiro-anual
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faca-um-planejamento-financeiro-anual.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Início de ano é momento de [pensar a longo prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo) e estabelecer os principais objetivos a serem conquistados. Claro que [algumas contas são herdadas do ano anterior](https://www.embracon.com.br/blog/como-comecar-2021-com-a-conta-no-azul), mas a motivação para pensar em como realizar os sonhos - dos pequenos aos maiores - deve ser mantida para se ter um bom [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle).
+titulo: Faça um planejamento financeiro anual
+slug: faca-um-planejamento-financeiro-anual
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faca-um-planejamento-financeiro-anual.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Início de ano é momento de [pensar a longo prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo) e estabelecer os principais objetivos a serem conquistados. Claro que [algumas contas são herdadas do ano anterior](https://www.embracon.com.br/blog/como-comecar-2021-com-a-conta-no-azul), mas a motivação para pensar em como realizar os sonhos - dos pequenos aos maiores - deve ser mantida para se ter um bom [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle).
 
 Ainda mais em um ano difícil, como foi 2020, por conta da[ pandemia de coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitos sonhos tiveram que ser adiados. Portanto, não haveria momento mais oportuno do que aproveitar para fazer um novo planejamento para ter um 2021 mais próspero.
 
@@ -79,4 +79,3 @@ Com o consórcio, você não sai com o bem na hora - mas [não paga juros](https
 > Portanto, não perca tempo! [Faça uma simulação](https://www.embracon.com.br/consorcio) desde já e inclua a realização dos seus sonhos no seu planejamento anual.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas na hora de comprar o seu primeiro carro
-        slug: dicas-na-hora-de-comprar-o-seu-primeiro-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-na-hora-de-comprar-o-seu-primeiro-carro.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Anos passam, e os modelos de carro vão adaptando a diferentes realidades, com o objetivo de atender às necessidades dos clientes. Porém, uma coisa não muda: a paixão do brasileiro com os [diferentes tipos de veículos que surgem no mercado](https://www.embracon.com.br/blog/carro-ideal-para-familia).
+titulo: Dicas na hora de comprar o seu primeiro carro
+slug: dicas-na-hora-de-comprar-o-seu-primeiro-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-na-hora-de-comprar-o-seu-primeiro-carro.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Anos passam, e os modelos de carro vão adaptando a diferentes realidades, com o objetivo de atender às necessidades dos clientes. Porém, uma coisa não muda: a paixão do brasileiro com os [diferentes tipos de veículos que surgem no mercado](https://www.embracon.com.br/blog/carro-ideal-para-familia).
 
 Para se ter uma ideia, em 2021, ano ainda marcado pela pandemia, o brasileiro ainda se mostrou bastante interessado em comprar carro. Uma [pesquisa realizada pela ANFAVEA (Associação Nacional dos Fabricantes de Veículos Automotores) em parceria com o site Webmotors](https://agenciabrasil.ebc.com.br/economia/noticia/2021-07/pesquisa-anfavea-e-webmotors-mostra-otimismo-para-compra-de-automoveis) revelou que 75% dos brasileiros revelaram interesse em comprar ou trocar de carro neste ano.
 
@@ -159,4 +159,3 @@ Saiba o que conferir antes da compra do seu carro com este checklist básico - v
 Com pesquisa e paciência, você tem tudo para acertar na escolha do seu primeiro carro. [Faça uma simulação do consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros) desde já e economize bastante no planejamento do seu próximo veículo na garagem.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

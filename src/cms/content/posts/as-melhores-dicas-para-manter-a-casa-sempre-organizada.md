@@ -1,14 +1,14 @@
 ---
-        titulo: As melhores dicas para manter a casa sempre organizada
-        slug: as-melhores-dicas-para-manter-a-casa-sempre-organizada
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-melhores-dicas-para-manter-a-casa-sempre-organizada.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        2021 chegou trazendo novas esperanças e oportunidades. Nesse momento, nada melhor do que renovar energias para ter uma começo de ano mais tranquilo e com novas possibilidades. E que tal para organizar a casa nesse [começo de 2021](https://www.embracon.com.br/blog/como-comecar-2021-com-a-conta-no-azul)?
+titulo: As melhores dicas para manter a casa sempre organizada
+slug: as-melhores-dicas-para-manter-a-casa-sempre-organizada
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-melhores-dicas-para-manter-a-casa-sempre-organizada.jpg
+meta_summary: 
+date: 28/09/2021
+---
+2021 chegou trazendo novas esperanças e oportunidades. Nesse momento, nada melhor do que renovar energias para ter uma começo de ano mais tranquilo e com novas possibilidades. E que tal para organizar a casa nesse [começo de 2021](https://www.embracon.com.br/blog/como-comecar-2021-com-a-conta-no-azul)?
 
 Essa é a hora perfeita de aproveitar para separar coisas que não fazem mais sentido, doar roupas e objetos e deixar a casa mais limpa. Aproveite que os dias no começo do ano são mais tranquilos e separe alguns minutos por dia para não acumular. Faça disso uma rotina e em pouco tempo você verá como faz diferença. Então, para começar o ano com o pé direito, fizemos uma lista de dicas de como manter seu lar mais organizado em [2021.](https://www.embracon.com.br/blog/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021)
 
@@ -57,4 +57,3 @@ Essa já é uma dica que pode ser um pouquinho mais complicada. Realizar uma [re
 > Acha que chegou a hora de dar uma reorganizada na sua casa? O consórcio de serviços pode te ajudar. [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site para redecorar seu lar e conheça todos os planos disponíveis para o seu bolso!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

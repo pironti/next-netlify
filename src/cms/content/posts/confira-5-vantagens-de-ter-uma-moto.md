@@ -1,14 +1,14 @@
 ---
-        titulo: Confira 5 vantagens de ter uma moto
-        slug: confira-5-vantagens-de-ter-uma-moto
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-5-vantagens-de-ter-uma-moto.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Está cansado de andar de ônibus, mas, ainda não tem dinheiro para [comprar um carro](https://www.embracon.com.br/blog/carro-ou-moto-qual-e-melhor-para-voce)? Então, já pensou nas [vantagens de ter uma moto](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto)? Econômica, eficiente e muito mais ágil, a motocicleta tem sido a opção de muitas pessoas. Isso porque, além de usar menos combustível também permite deslocamento muito mais rápido, principalmente nas grandes cidades.
+titulo: Confira 5 vantagens de ter uma moto
+slug: confira-5-vantagens-de-ter-uma-moto
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-5-vantagens-de-ter-uma-moto.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Está cansado de andar de ônibus, mas, ainda não tem dinheiro para [comprar um carro](https://www.embracon.com.br/blog/carro-ou-moto-qual-e-melhor-para-voce)? Então, já pensou nas [vantagens de ter uma moto](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto)? Econômica, eficiente e muito mais ágil, a motocicleta tem sido a opção de muitas pessoas. Isso porque, além de usar menos combustível também permite deslocamento muito mais rápido, principalmente nas grandes cidades.
 
 Mas, antes de tomar uma decisão, também é preciso conhecer as desvantagens de optar por esse meio de transporte. Entre elas, estão, por exemplo, a exposição às mudanças do tempo e a falta de espaço para bagagens.
 
@@ -57,4 +57,3 @@ E você, o que achou de conhecer todas essas **vantagens de ter uma moto**? Sent
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ecd6c61ccc52cec0b84e9ff_CTA-Motocicletas.png)</div>](https://embracon.com.br/consorcio?motocicleta&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=motocicletas)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

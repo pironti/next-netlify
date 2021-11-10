@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, o que uma administradora de consórcio faz?
-        slug: afinal-o-que-uma-administradora-de-consorcio-faz
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-o-que-uma-administradora-de-consorcio-faz.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Consórcio diz respeito a uma reunião de pessoas físicas ou jurídicas em grupo, com número de [cotas](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-a-cota-de-consorcio) e prazo de duração previamente determinados, promovida por uma administradora. O objetivo é garantir que seus participantes adquiram bens ou serviços por meio de autofinanciamento e de forma isonômica.
+titulo: Afinal, o que uma administradora de consórcio faz?
+slug: afinal-o-que-uma-administradora-de-consorcio-faz
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-o-que-uma-administradora-de-consorcio-faz.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Consórcio diz respeito a uma reunião de pessoas físicas ou jurídicas em grupo, com número de [cotas](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-a-cota-de-consorcio) e prazo de duração previamente determinados, promovida por uma administradora. O objetivo é garantir que seus participantes adquiram bens ou serviços por meio de autofinanciamento e de forma isonômica.
 
 A **administradora de consórcio** é a pessoa jurídica que vai prestar os serviços focado na administração dos grupos. Escolher a melhor [administradora de consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-uma-administradora-de-consorcio) entre as várias opções disponíveis no mercado é fundamental para fazer um negócio que proporcione vantagens para o investidor.
 
@@ -103,4 +103,3 @@ Quer uma dica de empresa confiável e responsável para que você possa investir
 • Fraude em consórcio? Aprenda a não cair em golpes
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

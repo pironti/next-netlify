@@ -1,14 +1,14 @@
 ---
-        titulo: Como o consórcio pode te ajudar na hora de abrir seu negócio?
-        slug: como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Ter um negócio próprio é o sonho de muitos brasileiros atualmente, prova disso é o imenso aumento de pessoas que se declararam [autônomas](https://www.embracon.com.br/blog/autonomo-tambem-pode-guardar-dinheiro) nos últimos anos. As áreas profissionais dessas pessoas [empreendedoras](https://www.embracon.com.br/blog/aprenda-em-poucos-passos-como-empreender-na-crise) são as mais variadas possíveis, e para cada uma das pessoas que desejam investir em um empreendimento existe uma saída que pode ser muito vantajosa, o consórcio para ajudar a abrir empresa.
+titulo: Como o consórcio pode te ajudar na hora de abrir seu negócio?
+slug: como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Ter um negócio próprio é o sonho de muitos brasileiros atualmente, prova disso é o imenso aumento de pessoas que se declararam [autônomas](https://www.embracon.com.br/blog/autonomo-tambem-pode-guardar-dinheiro) nos últimos anos. As áreas profissionais dessas pessoas [empreendedoras](https://www.embracon.com.br/blog/aprenda-em-poucos-passos-como-empreender-na-crise) são as mais variadas possíveis, e para cada uma das pessoas que desejam investir em um empreendimento existe uma saída que pode ser muito vantajosa, o consórcio para ajudar a abrir empresa.
 
 Saiba mais sobre como o[ consórcio para abrir empresa](https://www.embracon.com.br/blog/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher) funciona e quais são as possibilidades desse planejamento de negócios.
 
@@ -61,4 +61,3 @@ Se você preza pela organização financeira, o consórcio é uma boa alternativ
 > Quer fazer um consórcio? [Faça uma simulação!](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=abrir_negocio_com_consorcio&utm_campaign=publicacoes_blog)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=abrir_negocio_com_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

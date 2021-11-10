@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo de como comprar uma moto com consórcio
-        slug: guia-completo-de-como-comprar-uma-moto-com-consorcio
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-de-como-comprar-uma-moto-com-consorcio.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Qual a primeira coisa que vem na sua cabeça quando [pensa em uma motocicleta](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto)? Em finalmente ter a liberdade de viajar com um modelo maior? Em conseguir manter uma rotina mais prática, utilizando-a para o trabalho e para a faculdade? Em ter um modelo para começar seu próprio negócio ou, quem sabe, se juntar a algum aplicativo de entrega para ganhar um dinheiro extra?
+titulo: Guia completo de como comprar uma moto com consórcio
+slug: guia-completo-de-como-comprar-uma-moto-com-consorcio
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-de-como-comprar-uma-moto-com-consorcio.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Qual a primeira coisa que vem na sua cabeça quando [pensa em uma motocicleta](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto)? Em finalmente ter a liberdade de viajar com um modelo maior? Em conseguir manter uma rotina mais prática, utilizando-a para o trabalho e para a faculdade? Em ter um modelo para começar seu próprio negócio ou, quem sabe, se juntar a algum aplicativo de entrega para ganhar um dinheiro extra?
 
 Existem diversos motivos que levam uma pessoa a querer [comprar uma moto](https://www.embracon.com.br/consorcio-motos). Comparado ao carro, a [moto é muito mais econômica](https://www.embracon.com.br/blog/carro-ou-moto-qual-e-melhor-para-voce) por conta do modelo, prática, gasta menos combustível e, em cidades grandes, por exemplo, transita melhor entre os engarrafamentos.
 
@@ -265,4 +265,3 @@ Escolha o seu consórcio de acordo com as características e o valor da sua moto
 > Agora que você viu como escolher um consórcio de moto, aproveite para [fazer uma simulação de consórcio](https://www.embracon.com.br/consorcio-motos) e aproveitar, o quanto antes, a oportunidade de investir no modelo que sempre sonhou!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Moto](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb63e29dc666ab0c974caa_CTA-Motocicletas.png)</div>](https://www.embracon.com.br/consorcio-motos)</figure>
-        

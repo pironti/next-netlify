@@ -1,14 +1,14 @@
 ---
-        titulo: Suba um degrau fazendo consórcio imobiliário
-        slug: suba-um-degrau-fazendo-consorcio-imobiliario
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/suba-um-degrau-fazendo-consorcio-imobiliario.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Aumentar os ativos líquidos que representam a verdadeira riqueza é uma forma de dar um passo além do que a maioria das pessoas. A quantidade de dinheiro que você ganha a cada mês é apenas um dos fatores para entender a melhor maneira de [aumentar um patrimônio investindo](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui).
+titulo: Suba um degrau fazendo consórcio imobiliário
+slug: suba-um-degrau-fazendo-consorcio-imobiliario
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/suba-um-degrau-fazendo-consorcio-imobiliario.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Aumentar os ativos líquidos que representam a verdadeira riqueza é uma forma de dar um passo além do que a maioria das pessoas. A quantidade de dinheiro que você ganha a cada mês é apenas um dos fatores para entender a melhor maneira de [aumentar um patrimônio investindo](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui).
 
 Portanto, se você ficar preso a condições de aumento salarial, pode perder a oportunidade de fazer uma escolha certa e de prosperidade financeira. Uma forma de aumentar o patrimônio é por meio de [consórcios imobiliários](https://www.embracon.com.br/blog/como-fazer-um-consorcio-de-imoveis-ainda-em-2021). Pensando nisso, elaboramos este artigo e, ao final da leitura, você entenderá como escolher o melhor consórcio imobiliário de acordo com suas condições e necessidade.
 
@@ -70,4 +70,3 @@ Com tudo em mãos, você deve entregá-los à empresa, ler o contrato e, estando
 > Está procurando os melhores consórcios imobiliários? Então[ simule online agora, estamos prontos para realizar seu sonho](https://www.embracon.com.br/servicos/planos-de-consorcio-imobiliario)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

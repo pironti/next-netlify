@@ -1,14 +1,14 @@
 ---
-        titulo: Guardar, poupar ou investir: qual a diferença entre os termos?
-        slug: guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos.png
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Não importa a classe social: todos, mais cedo ou mais tarde, precisam deixar um dinheiro à parte dos gastos.
+titulo: Guardar, poupar ou investir: qual a diferença entre os termos?
+slug: guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos.png
+meta_summary: 
+date: 04/10/2021
+---
+Não importa a classe social: todos, mais cedo ou mais tarde, precisam deixar um dinheiro à parte dos gastos.
 
 Seja para efetuar a compra de um bem, se preparar para imprevistos ou mesmo para aumentar o patrimônio, nossa relação com o dinheiro é determinante para garantir um futuro mais próspero.
 
@@ -63,4 +63,3 @@ Para mais dicas sobre como poupar ou investir, baixe o nosso e-book gratuito de 
 ‍
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 10 passos fundamentais para a organização de uma festa de casamento
-        slug: 10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Na hora de pensar em um casamento dos sonhos, provavelmente os noivos não tenham ideia de quanto trabalho uma festa desse porte dá. Além de ser um momento muito importante para ambos, um evento desse traz uma responsabilidade enorme. São centenas de pessoas envolvidas e muitos de detalhes que não podem ser esquecidos ou deixados de lado.
+titulo: 10 passos fundamentais para a organização de uma festa de casamento
+slug: 10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/10-passos-fundamentais-para-a-organizacao-de-uma-festa-de-casamento.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Na hora de pensar em um casamento dos sonhos, provavelmente os noivos não tenham ideia de quanto trabalho uma festa desse porte dá. Além de ser um momento muito importante para ambos, um evento desse traz uma responsabilidade enorme. São centenas de pessoas envolvidas e muitos de detalhes que não podem ser esquecidos ou deixados de lado.
 
 É fato: [organizar um casamento não é fácil](https://www.embracon.com.br/blog/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento). São tantos detalhes que pode parecer impossível. Mas para facilitar sua vida, enumeramos os 10 passos fundamentais para planejar uma festa de casamento. Confira aqui:
 
@@ -85,4 +85,3 @@ Planejar o casamento com tempo permite que você possa se planejar financeiramen
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Consórcio Casamento](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> Ficou interessado? [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) conosco e se prepare para o casamento dos seus sonhos.
 
 ‍
-        

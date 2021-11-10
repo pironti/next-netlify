@@ -1,14 +1,14 @@
 ---
-        titulo: Por que viajar para a Tailândia nas suas férias?
-        slug: por-que-viajar-para-a-tailandia-nas-suas-ferias
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-viajar-para-a-tailandia-nas-suas-ferias.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Depois de economizar e trabalhar o ano inteiro, finalmente chegou a hora de tirar aquelas tão [sonhadas férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil)! Tempo para descansar e conhecer uma cultura totalmente nova. Para aproveitar esse momento, **viajar para a Tailândia** pode ser uma excelente opção. Afinal, o país tem muito a oferecer e reserva excelentes experiências. Entre elas, comidas inusitadas e belíssimos espetáculos ao ar livre.
+titulo: Por que viajar para a Tailândia nas suas férias?
+slug: por-que-viajar-para-a-tailandia-nas-suas-ferias
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-viajar-para-a-tailandia-nas-suas-ferias.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Depois de economizar e trabalhar o ano inteiro, finalmente chegou a hora de tirar aquelas tão [sonhadas férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil)! Tempo para descansar e conhecer uma cultura totalmente nova. Para aproveitar esse momento, **viajar para a Tailândia** pode ser uma excelente opção. Afinal, o país tem muito a oferecer e reserva excelentes experiências. Entre elas, comidas inusitadas e belíssimos espetáculos ao ar livre.
 
 Ao longo deste texto, você vai conhecer um pouco desse país maravilhoso. Assim, entenderá porquê a Tailândia é um bom local para uma viagem de férias.
 
@@ -47,4 +47,3 @@ A Tailândia tem muito mais a oferecer além das opções de lazer e diversão. 
 Viajar para a Tailândia é uma experiência única e todos deveriam fazer isso em algum momento da vida. Organize bem o passeio, verifique se todos os seus documentos estão em ordem para não ter problemas com a imigração, planeje bem os seus gastos e desfrute de uma das culturas mais incríveis do mundo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda as vantagens de usar aparelho nos dentes
-        slug: entenda-as-vantagens-de-usar-aparelho-nos-dentes
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-as-vantagens-de-usar-aparelho-nos-dentes.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        **Usar aparelho** nos dentes é a alternativa mais eficiente oferecida pela [ortodontia](https://www.embracon.com.br/blog/entenda-como-e-o-curso-e-o-mercado-de-odontologia). Com ele, dá para corrigir dentição torta, mal alinhada, sobreposta ou espaçada no maxilar e na boca. De fato, não é um item muito agradável de ser usado, mas ao considerar os benefícios estéticos e saúde melhor, os incômodos são superados.
+titulo: Entenda as vantagens de usar aparelho nos dentes
+slug: entenda-as-vantagens-de-usar-aparelho-nos-dentes
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-as-vantagens-de-usar-aparelho-nos-dentes.jpg
+meta_summary: 
+date: 05/10/2021
+---
+**Usar aparelho** nos dentes é a alternativa mais eficiente oferecida pela [ortodontia](https://www.embracon.com.br/blog/entenda-como-e-o-curso-e-o-mercado-de-odontologia). Com ele, dá para corrigir dentição torta, mal alinhada, sobreposta ou espaçada no maxilar e na boca. De fato, não é um item muito agradável de ser usado, mas ao considerar os benefícios estéticos e saúde melhor, os incômodos são superados.
 
 Além disso, temos que considerar que há uma série de benefícios relacionados a usar aparelho que ultrapassam a correção da dentição. Se você está curioso para conhecê-los, continue a leitura e conheça todas as vantagens.
 
@@ -63,4 +63,3 @@ Ao contrário do que muitas pessoas pensam há uma série de modelos de aparelho
 Então, gostou de conhecer algumas das vantagens sobre **usar aparelho** nos dentes? Aproveite e se inscreva em nossa newsletter para se manter sempre atualizado em sua caixa de mensagens!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

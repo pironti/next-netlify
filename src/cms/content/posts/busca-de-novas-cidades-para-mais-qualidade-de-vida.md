@@ -1,14 +1,14 @@
 ---
-        titulo: Busca de novas cidades para mais qualidade de vida
-        slug: busca-de-novas-cidades-para-mais-qualidade-de-vida
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/busca-de-novas-cidades-para-mais-qualidade-de-vida.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        [A pandemia do coronavírus fez todo mundo repensar a própria vida](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Em um primeiro momento, os grandes escritórios precisaram achar resoluções para um novo normal. Equipes inteiras foram alocadas em casa e todo o cotidiano que estávamos acostumados foi por água abaixo.
+titulo: Busca de novas cidades para mais qualidade de vida
+slug: busca-de-novas-cidades-para-mais-qualidade-de-vida
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/busca-de-novas-cidades-para-mais-qualidade-de-vida.jpg
+meta_summary: 
+date: 30/09/2021
+---
+[A pandemia do coronavírus fez todo mundo repensar a própria vida](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Em um primeiro momento, os grandes escritórios precisaram achar resoluções para um novo normal. Equipes inteiras foram alocadas em casa e todo o cotidiano que estávamos acostumados foi por água abaixo.
 
 Todo esse movimento resultou em grandes questões pessoais que precisaram ser revistas. Entre as grandes incertezas que nasceram nesse momento foi: será que eu quero continuar a viver em uma cidade grande sem qualidade de vida, com poluição, inseguranças etc? Um outro fator que fez com que esse fenômeno se agravasse foi que as pessoas pararam de se preocupar tanto com o [deslocamento](https://www.embracon.com.br/blog/8-motivos-para-voce-morar-perto-do-trabalho), já que muitos trabalhos viraram cem por cento remotos.
 
@@ -75,4 +75,3 @@ Uma das maiores vantagens de morar em São Caetano é que a cidade tem um [custo
 > Independentemente da etapa em que você estiver na realização do sonho de sua nova casa, conte com as facilidades do consórcio. [Faça uma simulação no nosso site](https://www.embracon.com.br/consorcio-de-imoveis) e invista em seu novo lar, sem precisar pagar juros ou entrada.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebc30b41bf0862933922aad_CTA-Casamento2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>‍
-        

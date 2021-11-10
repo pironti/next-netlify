@@ -1,14 +1,14 @@
 ---
-        titulo: Faça o seu fundo de emergência (reserva)
-        slug: faca-o-seu-fundo-de-emergencia-reserva
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faca-o-seu-fundo-de-emergencia-reserva.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Você sabia que mais da metade dos brasileiros não tem uma [reserva de emergência](https://www.embracon.com.br/blog/como-fazer-uma-reserva-de-emergencia)? Os dados são da [Anbima, Associação Brasileira dos Mercados Financeiro e de Capitais](https://www.anbima.com.br/lumis-theme/br/com/anbima/portal/theme/portal-anbima/faq.html).
+titulo: Faça o seu fundo de emergência (reserva)
+slug: faca-o-seu-fundo-de-emergencia-reserva
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faca-o-seu-fundo-de-emergencia-reserva.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Você sabia que mais da metade dos brasileiros não tem uma [reserva de emergência](https://www.embracon.com.br/blog/como-fazer-uma-reserva-de-emergencia)? Os dados são da [Anbima, Associação Brasileira dos Mercados Financeiro e de Capitais](https://www.anbima.com.br/lumis-theme/br/com/anbima/portal/theme/portal-anbima/faq.html).
 
 O estabelecimento dessa reserva de emergência é uma das diferenças entre investidores experientes e novatos, e isso não é acidental. No entanto, é preciso enfatizar que uma reserva de emergência ou [fundo de reserva](https://www.embracon.com.br/blog/como-fazer-uma-reserva-de-emergencia) é fundamental para todos, pois não podemos prever o futuro.
 
@@ -135,4 +135,3 @@ Quanto maior sua reserva, mais tranquilidade você terá na hora de enfrentar os
 Você também pode investir seu fundo de emergência em um [consórcio](https://www.embracon.com.br/consorcio), a fim de adquirir propriedades e outros bens e [serviços](https://www.embracon.com.br/consorcio-servicos) e [aumentar o seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), gerando mais capital financeiro para o futuro. Consulte a [Embracon](https://www.embracon.com.br/a-embracon), administradora de consórcios e saiba tudo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

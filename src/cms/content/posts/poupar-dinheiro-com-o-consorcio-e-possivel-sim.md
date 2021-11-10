@@ -1,14 +1,14 @@
 ---
-        titulo: Poupar dinheiro com o consórcio? É possível, sim!
-        slug: poupar-dinheiro-com-o-consorcio-e-possivel-sim
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/poupar-dinheiro-com-o-consorcio-e-possivel-sim.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Desde criança muitas pessoas ouviram dos pais sobre a importância de[ poupar dinheiro para o futuro](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos).
+titulo: Poupar dinheiro com o consórcio? É possível, sim!
+slug: poupar-dinheiro-com-o-consorcio-e-possivel-sim
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/poupar-dinheiro-com-o-consorcio-e-possivel-sim.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Desde criança muitas pessoas ouviram dos pais sobre a importância de[ poupar dinheiro para o futuro](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos).
 
 Ter um bom montante guardado ajuda a planejar melhor o futuro e se precaver de imprevistos indesejáveis. Sem falar na segurança garantida para toda a família, que pode conquistar bens para um futuro mais próspero.
 
@@ -214,4 +214,3 @@ Ajude a preparar um futuro melhor para você com o consórcio. Não deixe de[ in
 > O importante é fazer com que seu dinheiro renda mais. Para isso, não dá mais para contar com a poupança, não é mesmo? Se quiser conhecer a fundo as vantagens de se fazer um consórcio, [confira nosso passo a passo](https://www.embracon.com.br/blog/como-fazer-um-consorcio) na hora de investir em seu próximo automóvel, imóvel ou serviço.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

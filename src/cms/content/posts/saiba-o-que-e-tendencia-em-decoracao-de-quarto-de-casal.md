@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que é tendência em decoração de quarto de casal
-        slug: saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        O cômodo mais especial da sua casa merece um tratamento diferenciado. Cada vez mais [as pessoas têm buscado ousar na decoração](https://www.embracon.com.br/blog/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu) e na forma de arrumá-los.
+titulo: Saiba o que é tendência em decoração de quarto de casal
+slug: saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal.jpg
+meta_summary: 
+date: 04/10/2021
+---
+O cômodo mais especial da sua casa merece um tratamento diferenciado. Cada vez mais [as pessoas têm buscado ousar na decoração](https://www.embracon.com.br/blog/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu) e na forma de arrumá-los.
 
 A seguir, apresentamos algumas dicas que são tendência para quartos de casal:
 
@@ -41,4 +41,3 @@ Como investir em decoração de quarto
 Quanto a isso, conte com a facilidade do consórcio. Com o consórcio de reforma, você pode investir para repaginar o seu cômodo. A carta de crédito ajuda, inclusive, a custear o trabalho de um profissional como arquiteto ou designer. O melhor de tudo é que você não precisa pagar entrada ou juros nas parcelas. [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e invista desde já na reforma do seu quarto.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

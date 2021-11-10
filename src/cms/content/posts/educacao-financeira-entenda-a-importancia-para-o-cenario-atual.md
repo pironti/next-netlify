@@ -1,14 +1,14 @@
 ---
-        titulo: Educação financeira: entenda a importância para o cenário atual
-        slug: educacao-financeira-entenda-a-importancia-para-o-cenario-atual
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/educacao-financeira-entenda-a-importancia-para-o-cenario-atual.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Nos últimos meses vivemos na pele uma verdadeira crise financeira: atualmente, a crise global causada pelo vírus Covid-19 deixou tudo mais complicado, além de aumentar os temores sobre o futuro econômico de pessoas e empresas.
+titulo: Educação financeira: entenda a importância para o cenário atual
+slug: educacao-financeira-entenda-a-importancia-para-o-cenario-atual
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/educacao-financeira-entenda-a-importancia-para-o-cenario-atual.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Nos últimos meses vivemos na pele uma verdadeira crise financeira: atualmente, a crise global causada pelo vírus Covid-19 deixou tudo mais complicado, além de aumentar os temores sobre o futuro econômico de pessoas e empresas.
 
 Com essas mudanças, tornou-se essencial aplicar os principais conceitos e boas práticas de **educação financeira em tempos de crise**.
 
@@ -97,4 +97,3 @@ Viu só? Educação financeira não é nenhum bicho de sete cabeças, e seguindo
 > Se você está se programando para comprar um imóvel, ou um carro, essa pode ser uma forma de se organizar financeiramente para conseguir um bem de valor. A Embracon pode te ajudar nesse processo, [faça uma simulação](https://www.embracon.com.br/consorcio) com a gente.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

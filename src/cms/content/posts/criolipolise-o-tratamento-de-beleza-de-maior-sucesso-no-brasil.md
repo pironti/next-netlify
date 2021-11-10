@@ -1,14 +1,14 @@
 ---
-        titulo: Criolipólise: o tratamento de beleza de maior sucesso no Brasil
-        slug: criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Devido a nova onda de informações nos canais digitais, muitas pessoas estão à procura de um[ tratamento de beleza](https://www.embracon.com.br/blog/conheca-a-relacao-entre-estresse-e-beleza-agora-mesmo) eficaz, capaz de resolver aquele incômodo da gordurinha localizada.
+titulo: Criolipólise: o tratamento de beleza de maior sucesso no Brasil
+slug: criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Devido a nova onda de informações nos canais digitais, muitas pessoas estão à procura de um[ tratamento de beleza](https://www.embracon.com.br/blog/conheca-a-relacao-entre-estresse-e-beleza-agora-mesmo) eficaz, capaz de resolver aquele incômodo da gordurinha localizada.
 
 Graças a internet, estudar esses procedimentos fica mais fácil, e quem busca métodos para eliminar a gordura acaba se deparando com tudo, desde rigorosas dietas a shakes que prometem soluções rápidas e milagrosas, até as coisas que funcionam de fato. Afinal, na maioria das vezes, **algumas dietas milagrosas acabam sendo frustrantes.**
 
@@ -84,4 +84,3 @@ Funciona da seguinte forma: primeiramente o consorciado deve ter em mente o valo
 > O que você está esperando? [Simule um consórcio](https://www.embracon.com.br/consorcio-servicos) com a Embracon e conquiste o corpo dos sonhos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como acompanhar meu consórcio
-        slug: como-acompanhar-meu-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-acompanhar-meu-consorcio.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        [Acompanhar um consórcio é simples](https://www.embracon.com.br/blog/como-entrar-em-um-consorcio), mas nem todas as pessoas fazem da forma correta. Pensando nisso, fizemos este artigo com algumas dicas sobre como acompanhar seu consórcio, desde a escolha da administradora à aquisição do bem. Leia até o final e se surpreenda com a simplicidade.
+titulo: Como acompanhar meu consórcio
+slug: como-acompanhar-meu-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-acompanhar-meu-consorcio.jpg
+meta_summary: 
+date: 09/11/2021
+---
+[Acompanhar um consórcio é simples](https://www.embracon.com.br/blog/como-entrar-em-um-consorcio), mas nem todas as pessoas fazem da forma correta. Pensando nisso, fizemos este artigo com algumas dicas sobre como acompanhar seu consórcio, desde a escolha da administradora à aquisição do bem. Leia até o final e se surpreenda com a simplicidade.
 
 O que devo acompanhar no meu consórcio? 
 ----------------------------------------
@@ -57,4 +57,3 @@ Basta acessar a[ página do cliente](https://www.embracon.com.br/clientes) no si
 Não deixe de acompanhar seu consórcio, entre em contato com a [Embracon ](https://www.embracon.com.br/a-embracon)sempre que necessário, estaremos prontos para atendê-lo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

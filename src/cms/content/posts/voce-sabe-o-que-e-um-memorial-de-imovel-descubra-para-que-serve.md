@@ -1,14 +1,14 @@
 ---
-        titulo: Você sabe o que é um memorial de imóvel? Descubra para que serve!
-        slug: voce-sabe-o-que-e-um-memorial-de-imovel-descubra-para-que-serve
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/voce-sabe-o-que-e-um-memorial-de-imovel-descubra-para-que-serve.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Além de ser uma exigência legal no momento da [negociação](https://blog.movingimoveis.com.br/entenda-como-funciona-o-contrato-de-compra-e-venda-de-imovel/), o memorial do imóvel é uma proteção para o comprador. Afinal, esse documento traz informações relevantes acerca da unidade negociada. Tudo que constar no imóvel deve estar detalhado no memorial.
+titulo: Você sabe o que é um memorial de imóvel? Descubra para que serve!
+slug: voce-sabe-o-que-e-um-memorial-de-imovel-descubra-para-que-serve
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/voce-sabe-o-que-e-um-memorial-de-imovel-descubra-para-que-serve.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Além de ser uma exigência legal no momento da [negociação](https://blog.movingimoveis.com.br/entenda-como-funciona-o-contrato-de-compra-e-venda-de-imovel/), o memorial do imóvel é uma proteção para o comprador. Afinal, esse documento traz informações relevantes acerca da unidade negociada. Tudo que constar no imóvel deve estar detalhado no memorial.
 
 Trata-se de uma das etapas de grande importância na hora de projetar determinado empreendimento, visto que todo o planejamento relacionado a detalhes da construção deverá constar no memorial descritivo, assim como todas as modificações que forem realizadas na execução da obra.
 
@@ -76,4 +76,3 @@ Como visto neste conteúdo, o memorial de imóvel é um documento essencial no p
 Este post elucidou suas dúvidas acerca do assunto? Compartilhe-o, então, nas suas redes sociais e divulgue o tema para outras pessoas interessadas!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=memorial_de_imovel&utm_campaign=publicacoes_blog)</figure>
-        

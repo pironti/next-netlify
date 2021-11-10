@@ -1,14 +1,14 @@
 ---
-        titulo: Destino para intercâmbio: como escolher a melhor opção?
-        slug: destino-para-intercambio-como-escolher-a-melhor-opcao
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/destino-para-intercambio-como-escolher-a-melhor-opcao.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Vários pais e mães já sabem que estudar no exterior figura como excelente alternativa para que os jovens garantam boa formação e um currículo diferenciado. Porém, a verdade é que escolher o **destino para intercâmbio** do filho nem sempre consiste em uma tarefa fácil.
+titulo: Destino para intercâmbio: como escolher a melhor opção?
+slug: destino-para-intercambio-como-escolher-a-melhor-opcao
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/destino-para-intercambio-como-escolher-a-melhor-opcao.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Vários pais e mães já sabem que estudar no exterior figura como excelente alternativa para que os jovens garantam boa formação e um currículo diferenciado. Porém, a verdade é que escolher o **destino para intercâmbio** do filho nem sempre consiste em uma tarefa fácil.
 
 Muitos se perguntam o que levar em conta ao tomar essa decisão e como assegurar que a estadia dele (ou dela) no local seja realmente proveitosa. Tanto para os estudos quanto para a vivência de mundo com culturas, tradições e costumes diferentes.
 
@@ -70,4 +70,3 @@ Que tal, então, aproveitar a deixa e assinar nossa newsletter para receber dica
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

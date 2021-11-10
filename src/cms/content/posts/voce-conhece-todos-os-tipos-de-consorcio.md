@@ -1,14 +1,14 @@
 ---
-        titulo: Você conhece todos os tipos de consórcio?
-        slug: voce-conhece-todos-os-tipos-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/voce-conhece-todos-os-tipos-de-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Será que você conhece todos os [**tipos de consórcio**](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio)? Para você que ainda não conhece, vamos explicar desde o começo. O consórcio funciona da seguinte maneira: um grupo de pessoas físicas e jurídicas se unem para formar uma poupança destinada à compra de bens móveis (carro ou moto), imóveis (casa, apartamento, empreendimento) e serviços (educação, festas etc).Este grupo é formado por meio de uma administradora de consórcios. Ela precisa ser devidamente regulamentada, com fiscalização e autorização do [Banco Central do Brasil](https://www.bcb.gov.br/pre/composicao/ac.asp) (Bacen).Para funcionar dentro da lei, a empresa de consórcio deve seguir normatizações específicas da modalidade.
+titulo: Você conhece todos os tipos de consórcio?
+slug: voce-conhece-todos-os-tipos-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/voce-conhece-todos-os-tipos-de-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Será que você conhece todos os [**tipos de consórcio**](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio)? Para você que ainda não conhece, vamos explicar desde o começo. O consórcio funciona da seguinte maneira: um grupo de pessoas físicas e jurídicas se unem para formar uma poupança destinada à compra de bens móveis (carro ou moto), imóveis (casa, apartamento, empreendimento) e serviços (educação, festas etc).Este grupo é formado por meio de uma administradora de consórcios. Ela precisa ser devidamente regulamentada, com fiscalização e autorização do [Banco Central do Brasil](https://www.bcb.gov.br/pre/composicao/ac.asp) (Bacen).Para funcionar dentro da lei, a empresa de consórcio deve seguir normatizações específicas da modalidade.
 
 Confira os tipos de consórcio
 -----------------------------
@@ -28,4 +28,3 @@ Outro [tipos de consórcio](https://www.embracon.com.br/blog/consorcio-de-imovei
 Com o passar dos anos, tem aumentado a contratação de outro **tipo de consórcio**: para [serviços diversos](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto). Entre eles, planejar a educação dos filhos, festas de aniversário e casamento, [viagens](https://www.embracon.com.br/blog/4-coisas-que-voce-precisa-fazer-se-quiser-viajar-todo-ano), [cirurgias plásticas e estéticas](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia), entre outros.É possível contratar o consórcio com parcelas de até 30 meses, para obter a carta de crédito com o valor correspondente ao serviço escolhido.Para saber mais detalhes sobre qualquer **tipo de consórcio**, entre em contato com a nossa Central de Atendimento. Você também pode fazer[ uma simulação em nosso site](http://www.embracon.com.br/ecommerce).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=tipos_de_consorcio&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

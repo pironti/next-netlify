@@ -1,14 +1,14 @@
 ---
-        titulo: 13 dúvidas mais frequentes sobre consórcio de carro
-        slug: duvidas-frequentes-consorcio-de-carro
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/duvidas-frequentes-consorcio-de-carro.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        O que acontece se as [parcelas](http://embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) deixarem de ser pagas? Como saber se a administradora é de confiança? Quais são os caminhos para ser contemplado com a carta de crédito? Enfim, essas são apenas algumas das dúvidas frequentes sobre [consórcio de carros](https://www.embracon.com.br/consorcio-de-carros).
+titulo: 13 dúvidas mais frequentes sobre consórcio de carro
+slug: duvidas-frequentes-consorcio-de-carro
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/duvidas-frequentes-consorcio-de-carro.jpg
+meta_summary: 
+date: 04/10/2021
+---
+O que acontece se as [parcelas](http://embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) deixarem de ser pagas? Como saber se a administradora é de confiança? Quais são os caminhos para ser contemplado com a carta de crédito? Enfim, essas são apenas algumas das dúvidas frequentes sobre [consórcio de carros](https://www.embracon.com.br/consorcio-de-carros).
 
 Por ser uma modalidade de compra que [funciona como](https://www.embracon.com.br/blog/vantagens-consorcio-automovel) uma espécie de poupança e que permite ao comprador planejar melhor seu orçamento, suas vantagens em relação aos financiamentos tradicionais são evidentes.
 
@@ -141,4 +141,3 @@ Está esperando o que para [entrar em contato com a Embracon](https://www.embrac
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebda2b6735c676da2d9e861_CTA-Automoveis2.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

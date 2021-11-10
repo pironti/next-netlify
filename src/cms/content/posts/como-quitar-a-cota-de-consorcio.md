@@ -1,14 +1,14 @@
 ---
-        titulo: Como quitar a cota de consórcio?
-        slug: como-quitar-a-cota-de-consorcio
-        categoria: Cotas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-quitar-a-cota-de-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Investir em um bem a longo prazo pode gerar ansiedade em algumas pessoas. Se você quer o quanto antes adquirir o bem que está investindo, seja um [apartamento, casa, carro, moto ou até diferentes tipos de serviços](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), muito provavelmente está considerando formas de quitar a sua cota de consórcio o quanto antes.
+titulo: Como quitar a cota de consórcio?
+slug: como-quitar-a-cota-de-consorcio
+categoria: Cotas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-quitar-a-cota-de-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Investir em um bem a longo prazo pode gerar ansiedade em algumas pessoas. Se você quer o quanto antes adquirir o bem que está investindo, seja um [apartamento, casa, carro, moto ou até diferentes tipos de serviços](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), muito provavelmente está considerando formas de quitar a sua cota de consórcio o quanto antes.
 
 Aliás, você sabe [o que é uma cota](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio)? Ela nada mais é do que um código de identificação individual do seu consórcio. É ela que serve como referência na hora de participar dos sorteios e abrange o plano selecionado, histórico de pagamentos e registro de participação nas assembleias.
 
@@ -69,4 +69,3 @@ Como se pôde perceber, existem muitos benefícios em antecipar as parcelas, sej
 > Pensando em um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div></figure>‍
-        

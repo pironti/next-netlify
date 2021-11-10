@@ -1,14 +1,14 @@
 ---
-        titulo: Quando reformar a casa: 5 sinais de que já chegou a hora
-        slug: quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        A nossa [casa](https://www.embracon.com.br/consorcio-de-imoveis) deve ser um lugar aconchegante e confortável, um ambiente onde possamos descansar após um longo dia de trabalho. No entanto, muitas vezes surgem problemas que deixam os moradores incomodados, como vazamentos, problemas elétricos, pinturas antigas, entre outros. Então, como saber quando [reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui)?
+titulo: Quando reformar a casa: 5 sinais de que já chegou a hora
+slug: quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora.jpg
+meta_summary: 
+date: 30/09/2021
+---
+A nossa [casa](https://www.embracon.com.br/consorcio-de-imoveis) deve ser um lugar aconchegante e confortável, um ambiente onde possamos descansar após um longo dia de trabalho. No entanto, muitas vezes surgem problemas que deixam os moradores incomodados, como vazamentos, problemas elétricos, pinturas antigas, entre outros. Então, como saber quando [reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui)?
 
 Os sinais de que é preciso reformar a casa certamente vão aparecer com o tempo, gradativamente. É fundamental que eles não sejam ignorados, já que podem se agravar ou até mesmo causar danos estruturais na residência. Portanto, é imprescindível que se identifique e conserte todos os problemas assim que eles aparecerem, sem hesitar.
 
@@ -64,4 +64,3 @@ Saber quando reformar a casa é fundamental para garantir um ambiente confortáv
 E aí, o que achou deste post? Percebeu que a sua casa está precisando de uma reforma? Quais são as partes que [gostaria de reformar](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui)? Conte para nós nos comentários!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

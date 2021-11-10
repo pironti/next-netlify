@@ -1,14 +1,14 @@
 ---
-        titulo: É possível transferir a cota para outra pessoa?
-        slug: e-possivel-transferir-a-cota-para-outra-pessoa
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-transferir-a-cota-para-outra-pessoa.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O[ consórcio é um investimento a longo prazo](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em um bem de alto valor. Diferentemente de bens de consumo, que podem ser comprados com uma simples transação no dia a dia, bens como automóveis, imóveis, moto e até mesmo alguns serviços são caracterizados como uma compra complexa, porque podem envolver terceiros, como instituições financeiras, avalistas etc.
+titulo: É possível transferir a cota para outra pessoa?
+slug: e-possivel-transferir-a-cota-para-outra-pessoa
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-transferir-a-cota-para-outra-pessoa.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O[ consórcio é um investimento a longo prazo](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em um bem de alto valor. Diferentemente de bens de consumo, que podem ser comprados com uma simples transação no dia a dia, bens como automóveis, imóveis, moto e até mesmo alguns serviços são caracterizados como uma compra complexa, porque podem envolver terceiros, como instituições financeiras, avalistas etc.
 
 A não ser que você tenha o valor à vista para[ pagar por um apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), por exemplo, ou o[ carro dos sonhos](https://www.embracon.com.br/blog/20-modelos-de-carros-mais-esperados-para-2021), na maioria dos casos é preciso ter um intermediário para começar a pagar por esses bens.
 
@@ -203,4 +203,3 @@ Para saber mais sobre todas as modalidades de consórcio,[ confira o nosso e-boo
 > Ficou interessado no consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

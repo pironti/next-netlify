@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como funciona e quando fazer um implante dentário
-        slug: entenda-como-funciona-um-implante-dentario
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-funciona-um-implante-dentario.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        A [odontologia avançou](https://www.embracon.com.br/blog/como-funciona-o-clareamento-dos-dentes) bastante nos últimos anos, com melhorias nos procedimentos e [novas técnicas](https://www.embracon.com.br/blog/dentes-manchados-conheca-as-principais-causas-e-como-tratar) para realizá-los. Um desses avanços, sem dúvida, foi o implante dentário, auxiliando pessoas que tiveram acidentes ou que extraíram algum dente. Com isso, foi possível melhorar a [qualidade de vida desses pacientes](https://www.embracon.com.br/blog/qual-e-a-real-importancia-de-um-sorriso-bonito). Porém, você sabe o que, de fato, é um implante dentário? Quais são suas vantagens e seus tipos? Para saber mais, confira este post. Boa leitura!
+titulo: Entenda como funciona e quando fazer um implante dentário
+slug: entenda-como-funciona-um-implante-dentario
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-funciona-um-implante-dentario.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+A [odontologia avançou](https://www.embracon.com.br/blog/como-funciona-o-clareamento-dos-dentes) bastante nos últimos anos, com melhorias nos procedimentos e [novas técnicas](https://www.embracon.com.br/blog/dentes-manchados-conheca-as-principais-causas-e-como-tratar) para realizá-los. Um desses avanços, sem dúvida, foi o implante dentário, auxiliando pessoas que tiveram acidentes ou que extraíram algum dente. Com isso, foi possível melhorar a [qualidade de vida desses pacientes](https://www.embracon.com.br/blog/qual-e-a-real-importancia-de-um-sorriso-bonito). Porém, você sabe o que, de fato, é um implante dentário? Quais são suas vantagens e seus tipos? Para saber mais, confira este post. Boa leitura!
 
 ### O que é um implante dentário?
 
@@ -46,4 +46,3 @@ Seja para [corrigir problemas de formação](https://www.embracon.com.br/blog/en
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou deste post? Agora que você está com um sorriso no rosto, que tal nos seguir nas redes sociais? Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), [Twitter ](https://twitter.com/embracon)e [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

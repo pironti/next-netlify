@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a desistência de um consórcio?
-        slug: como-funciona-a-desistencia-de-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-desistencia-de-um-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O consórcio é um[ planejamento de compra de bens de alto valor](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram) a longo prazo. No caso de imóveis, por exemplo, consorciados podem passar mais de 15 anos investindo no sonho da casa própria ou do apartamento decorado.
+titulo: Como funciona a desistência de um consórcio?
+slug: como-funciona-a-desistencia-de-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-desistencia-de-um-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O consórcio é um[ planejamento de compra de bens de alto valor](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram) a longo prazo. No caso de imóveis, por exemplo, consorciados podem passar mais de 15 anos investindo no sonho da casa própria ou do apartamento decorado.
 
 Mesmo quando se trata de bens intermediários, como moto e veículos, as pessoas passam por muitos meses comprometidas com as parcelas.
 
@@ -195,4 +195,3 @@ Portanto, mantenha seu orçamento mensal sempre em dia e comece a se planejar o 
 > E está interessado no consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=desistencia_consorcio&utm_campaign=publicacoes_blog) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=desistencia_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

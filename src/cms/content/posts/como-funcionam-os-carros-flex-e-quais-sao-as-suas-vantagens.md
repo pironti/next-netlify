@@ -1,14 +1,14 @@
 ---
-        titulo: Como funcionam os carros Flex e quais são as suas vantagens?
-        slug: como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Os **carros flex** chegaram ao Brasil em 2003, com o Volkswagen Gol 1.6. Atualmente, [correspondem a mais de 90% dos automóveis comercializados](http://g1.globo.com/carros/especial-publicitario/shell/mitos-e-verdades-do-combustivel/noticia/2014/09/carro-flex-aceita-mudanca-de-combustivel-em-qualquer-momento.html). Mas afinal, por que eles caíram tanto no gosto dos brasileiros? Quais características os fazem ideais para o nosso dia a dia?
+titulo: Como funcionam os carros Flex e quais são as suas vantagens?
+slug: como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funcionam-os-carros-flex-e-quais-sao-as-suas-vantagens.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Os **carros flex** chegaram ao Brasil em 2003, com o Volkswagen Gol 1.6. Atualmente, [correspondem a mais de 90% dos automóveis comercializados](http://g1.globo.com/carros/especial-publicitario/shell/mitos-e-verdades-do-combustivel/noticia/2014/09/carro-flex-aceita-mudanca-de-combustivel-em-qualquer-momento.html). Mas afinal, por que eles caíram tanto no gosto dos brasileiros? Quais características os fazem ideais para o nosso dia a dia?
 
 Ao longo deste texto, você vai conhecer algumas das vantagens dos **carros flex**, suas principais características e desvendar certos mitos que os rodeiam. Continue com a gente!
 
@@ -56,4 +56,3 @@ O consumo de combustível é um dos itens mais importantes na hora de escolher o
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

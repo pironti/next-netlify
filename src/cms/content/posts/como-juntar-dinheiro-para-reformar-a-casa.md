@@ -1,14 +1,14 @@
 ---
-        titulo: Como juntar dinheiro para reformar a casa?
-        slug: como-juntar-dinheiro-para-reformar-a-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-juntar-dinheiro-para-reformar-a-casa.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quem nunca sentiu aquela vontade de renovar o ambiente e [reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui)? No entanto, muita gente, pensando que não conseguirá juntar dinheiro para isso, acaba desistindo da ideia. Porém, não é tão difícil quanto parece. Um bom planejamento e escolhas certas podem ajudá-lo a economizar e transformar essa ideia em realidade.
+titulo: Como juntar dinheiro para reformar a casa?
+slug: como-juntar-dinheiro-para-reformar-a-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-juntar-dinheiro-para-reformar-a-casa.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Quem nunca sentiu aquela vontade de renovar o ambiente e [reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui)? No entanto, muita gente, pensando que não conseguirá juntar dinheiro para isso, acaba desistindo da ideia. Porém, não é tão difícil quanto parece. Um bom planejamento e escolhas certas podem ajudá-lo a economizar e transformar essa ideia em realidade.
 
 Sendo assim, preparamos este post com algumas [dicas preciosas](https://www.embracon.com.br/blog/quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar). Siga a leitura e descubra como ter a casa dos sonhos sem deixar que sua conta bancária vire um pesadelo. Confira!
 
@@ -60,4 +60,3 @@ Com essas dicas simples, você conseguirá juntar [dinheiro para reformar a casa
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Por que ter uma assessoria de casamento é importante?
-        slug: por-que-ter-uma-assessoria-de-casamento-e-importante
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-ter-uma-assessoria-de-casamento-e-importante.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O tão sonhado dia foi marcado. Com a data em vista, começam os primeiros preparativos! Nessa hora é essencial a [ajuda de um profissional](https://www.embracon.com.br/blog/cerimonial-de-casamento-vale-a-pena-contratar). Afinal, tudo é válido para transformar um dos dias mais esperados da sua vida em exatamente como você sonhou. Na prática, são tantos detalhes para resolver que a maioria das pessoas não sabe nem por onde começar, mas a assessora ou o assessor sabem - e muito!
+titulo: Por que ter uma assessoria de casamento é importante?
+slug: por-que-ter-uma-assessoria-de-casamento-e-importante
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-ter-uma-assessoria-de-casamento-e-importante.jpg
+meta_summary: 
+date: 05/10/2021
+---
+O tão sonhado dia foi marcado. Com a data em vista, começam os primeiros preparativos! Nessa hora é essencial a [ajuda de um profissional](https://www.embracon.com.br/blog/cerimonial-de-casamento-vale-a-pena-contratar). Afinal, tudo é válido para transformar um dos dias mais esperados da sua vida em exatamente como você sonhou. Na prática, são tantos detalhes para resolver que a maioria das pessoas não sabe nem por onde começar, mas a assessora ou o assessor sabem - e muito!
 
 Dentro desse modelo, existem vários tipos de assessorias que podem te ajudar. **Existe o profissional que te acompanha desde o começo do seu planejamento**, que faz a chamada assistência completa. **E há também os que te auxiliam durante o mês inteiro do casamento**; e por fim o que te acompanha apenas durante o dia especial, conhecido também como cerimonialista.
 
@@ -69,4 +69,3 @@ Para quem está planejando o grande dia e precisa tomar essa decisão, preparamo
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio Casamento](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> E você? [Quer realizar o casamento dos sonhos](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona)? [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) em nosso site e conte com a nossa ajuda para tirar seu sonho do papel!
 
 > ‍
-        

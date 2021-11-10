@@ -1,14 +1,14 @@
 ---
-        titulo: Cerimonial de casamento: vale a pena contratar?
-        slug: cerimonial-de-casamento-vale-a-pena-contratar
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cerimonial-de-casamento-vale-a-pena-contratar.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Uma dúvida da maioria dos noivos e noivas é saber se contratam ou não um cerimonial de casamento. Afinal, da festa mais simples a mais sofisticada, há diversos detalhes que devem ser observados — e um evento de sucesso necessita de planejamento.
+titulo: Cerimonial de casamento: vale a pena contratar?
+slug: cerimonial-de-casamento-vale-a-pena-contratar
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cerimonial-de-casamento-vale-a-pena-contratar.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Uma dúvida da maioria dos noivos e noivas é saber se contratam ou não um cerimonial de casamento. Afinal, da festa mais simples a mais sofisticada, há diversos detalhes que devem ser observados — e um evento de sucesso necessita de planejamento.
 
 Porém, saber se vale a pena ou não chamar uma empresa para ordenar tudo requer uma análise da real do evento. Assim, é possível evitar qualquer prejuízo.
 
@@ -79,4 +79,3 @@ E se a decisão for positiva, antes de assinar o contrato, analise as cláusulas
 Tomando esses cuidados, é possível contar com o assessoramento de um bom cerimonial de casamento e garantir sucesso no evento. A decisão de contratar ou não esse serviço não deve depender só de tendências, mas considerar as prioridades do casal.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

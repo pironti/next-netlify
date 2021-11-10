@@ -1,14 +1,14 @@
 ---
-        titulo: 4 aplicativos de finanças para te ajudar a economizar mais dinheiro
-        slug: 4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Você tem dificuldade para lidar com o seu orçamento? Todos os meses, fica com a impressão de que não sabe para onde foi o seu dinheiro? Então, saiba que a solução pode estar no seu smartphone. Isso mesmo! Os aplicativos de [finanças](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) são grandes aliados na [organização da sua renda](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira).
+titulo: 4 aplicativos de finanças para te ajudar a economizar mais dinheiro
+slug: 4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Você tem dificuldade para lidar com o seu orçamento? Todos os meses, fica com a impressão de que não sabe para onde foi o seu dinheiro? Então, saiba que a solução pode estar no seu smartphone. Isso mesmo! Os aplicativos de [finanças](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) são grandes aliados na [organização da sua renda](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira).
 
 A tecnologia é a maneira de facilitar o dia a dia, e ela está nas mais diversas áreas da nossa vida, inclusive no financeiro. Neste post, falamos sobre os apps mais populares que ajudam a monitorar e economizar a sua grana. Acompanhe a leitura e confira as 4 dicas que trouxemos para você!
 
@@ -41,4 +41,3 @@ Todos os aplicativos de finanças que explicamos aqui estão disponíveis tanto 
 Viu como os aplicativos de finanças podem ajudar você a ter uma vida [financeira mais saudável](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul)? Eles são ferramentas interessantes para controlar os gastos, [planejar o orçamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) e, de quebra, auxiliar a economizar dinheiro para realizar os seus projetos.
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

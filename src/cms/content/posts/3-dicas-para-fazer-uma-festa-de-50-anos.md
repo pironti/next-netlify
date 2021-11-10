@@ -1,14 +1,14 @@
 ---
-        titulo: 3 dicas para fazer uma festa de 50 anos
-        slug: 3-dicas-para-fazer-uma-festa-de-50-anos
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-dicas-para-fazer-uma-festa-de-50-anos.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Celebrar os bons momentos da vida é uma atitude muito importante. E ajuda não apenas a perceber o privilégio da passagem saudável do tempo, mas também serve para reforçar os laços de carinho com as pessoas que amamos. Por isso, conhecer algumas dicas para [**fazer uma festa de 50 anos**](https://www.embracon.com.br/blog/entenda-como-funciona-um-consorcio-para-festas) pode ser muito interessante.
+titulo: 3 dicas para fazer uma festa de 50 anos
+slug: 3-dicas-para-fazer-uma-festa-de-50-anos
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-dicas-para-fazer-uma-festa-de-50-anos.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Celebrar os bons momentos da vida é uma atitude muito importante. E ajuda não apenas a perceber o privilégio da passagem saudável do tempo, mas também serve para reforçar os laços de carinho com as pessoas que amamos. Por isso, conhecer algumas dicas para [**fazer uma festa de 50 anos**](https://www.embracon.com.br/blog/entenda-como-funciona-um-consorcio-para-festas) pode ser muito interessante.
 
 Definitivamente, essa data merece ser celebrada e pode oferecer uma bela oportunidade de comemorar as conquistas. Ainda mais se acertamos nas escolhas de comidas, temas, atrações e decoração. Confira o conteúdo a seguir e descubra como fazer isso!
 
@@ -40,4 +40,3 @@ Seguindo essas sugestões para fazer uma festa de 50 anos, você pode concretiza
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou de aprender essas dicas para fazer uma festa de 50 anos? Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

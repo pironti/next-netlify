@@ -1,14 +1,14 @@
 ---
-        titulo: Educação: gasto ou investimento?
-        slug: educacao-gasto-ou-investimento
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/educacao-gasto-ou-investimento.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Não é uma pergunta muito difícil de responder mas, quando observamos a relação que o brasileiro tem com a educação, muito provavelmente essa pergunta acaba ganhando outro sentido.
+titulo: Educação: gasto ou investimento?
+slug: educacao-gasto-ou-investimento
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/educacao-gasto-ou-investimento.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Não é uma pergunta muito difícil de responder mas, quando observamos a relação que o brasileiro tem com a educação, muito provavelmente essa pergunta acaba ganhando outro sentido.
 
 Vivemos em um país que investe pouco em educação. Em um levantamento realizado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE), de 2019, o [país aparece atrás de vizinhos](https://querobolsa.com.br/revista/paises-que-mais-investem-em-educacao-veja-a-situacao-do-brasil) como Chile e Argentina quando o assunto é investimento anual por aluno.
 
@@ -169,4 +169,3 @@ Se o valor de uma cota for insuficiente para o investimento em educação, [voc�
 > E aí, tá esperando o quê para investir na sua educação? [Faça um consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e inicie desde já a sua jornada ou a jornada para que seu filho garanta melhor desenvolvimento profissional.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

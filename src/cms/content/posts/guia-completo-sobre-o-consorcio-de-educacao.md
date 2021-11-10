@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo sobre o consórcio de educação
-        slug: guia-completo-sobre-o-consorcio-de-educacao
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-educacao.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Por muitas décadas o consórcio foi uma das formas mais buscadas pelo brasileiro para realizar o sonho da [compra de bens de alto valor](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio), como casa, carro e moto. Os anos se passaram, e a modalidade também teve que se atualizar. Em busca de atender às novas necessidades de consumo, o consórcio também passou a ofertar a [categoria de serviços](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto).
+titulo: Guia completo sobre o consórcio de educação
+slug: guia-completo-sobre-o-consorcio-de-educacao
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-sobre-o-consorcio-de-educacao.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Por muitas décadas o consórcio foi uma das formas mais buscadas pelo brasileiro para realizar o sonho da [compra de bens de alto valor](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio), como casa, carro e moto. Os anos se passaram, e a modalidade também teve que se atualizar. Em busca de atender às novas necessidades de consumo, o consórcio também passou a ofertar a [categoria de serviços](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto).
 
 Isso porque, além da compra de bens, as pessoas começaram a investir um valor considerável em [busca de novas experiências](https://www.embracon.com.br/blog/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio), seja para aprimorar o currículo, investir na autoestima, entreter-se com familiares e convidados com uma festa bem organizada ou até mesmo a organização do casamento dos sonhos, com a [lua de mel garantida](https://www.embracon.com.br/blog/viagem-de-lua-de-mel-como-escolher-o-destino-ideal).
 
@@ -182,4 +182,3 @@ Agora que você já conhece todas as oportunidades que pode desfrutar com o cons
 > [Faça uma simulação ](https://www.embracon.com.br/consorcio-servicos)do consórcio de serviços e invista já no seu desenvolvimento profissional ou na graduação dos seus filhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

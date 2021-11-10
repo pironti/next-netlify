@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer um consórcio de imóveis ainda em 2021
-        slug: como-fazer-um-consorcio-de-imoveis-ainda-em-2021
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-um-consorcio-de-imoveis-ainda-em-2021.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A maioria das pessoas no Brasil ainda não possuem casa própria, mas tem o sonho de realizar essa compra, ainda assim, não é tão simples para essas pessoas encontrarem formas mais simples para a aquisição de um imóvel, normalmente elas esbarram em valores altos e taxas de juros.
+titulo: Como fazer um consórcio de imóveis ainda em 2021
+slug: como-fazer-um-consorcio-de-imoveis-ainda-em-2021
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-um-consorcio-de-imoveis-ainda-em-2021.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A maioria das pessoas no Brasil ainda não possuem casa própria, mas tem o sonho de realizar essa compra, ainda assim, não é tão simples para essas pessoas encontrarem formas mais simples para a aquisição de um imóvel, normalmente elas esbarram em valores altos e taxas de juros.
 
 Durante muito tempo a forma mais procurada por pessoas com interesse em [adquirir um imóvel](https://www.embracon.com.br/blog/esse-e-o-momento-de-comprar-imoveis) que não tinha o valor total para compra à vista, era fazer a compra através de um financiamento. Com o financiamento, o interessado pega o dinheiro emprestado de alguma instituição financeira, compra o imóvel e paga o empréstimo por até 30 anos, contando com taxas de juros altas, na maioria das vezes.
 
@@ -81,4 +81,3 @@ A Embracon, por exemplo, é uma empresa baseada no compromisso com os clientes, 
 Agora que você já sabe como fazer consórcio de imóveis, o que acha de fazer uma simulação sem compromisso? Estamos totalmente preparados para passar todas as informações e tirar todas as dúvidas que você tenha.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

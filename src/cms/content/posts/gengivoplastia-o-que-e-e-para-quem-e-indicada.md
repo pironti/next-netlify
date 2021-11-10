@@ -1,14 +1,14 @@
 ---
-        titulo: Gengivoplastia: o que é e para quem é indicada
-        slug: gengivoplastia-o-que-e-e-para-quem-e-indicada
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/gengivoplastia-o-que-e-e-para-quem-e-indicada.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Muitas pessoas evitam sorrir porque se sentem incomodadas com a estética do sorriso, e tais problemas acabam afetando também a autoestima. Ter [um belo sorriso](https://www.embracon.com.br/blog/qual-e-a-real-importancia-de-um-sorriso-bonito) depende não apenas da saúde e da beleza dos dentes. Também há outros fatores: tamanho proporcional entre eles, os lábios e a gengiva, que pode ser conquistado de maneira rápida e sem dor, por meio de uma cirurgia plástica gengival, também conhecida como **gengivoplastia**.
+titulo: Gengivoplastia: o que é e para quem é indicada
+slug: gengivoplastia-o-que-e-e-para-quem-e-indicada
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/gengivoplastia-o-que-e-e-para-quem-e-indicada.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Muitas pessoas evitam sorrir porque se sentem incomodadas com a estética do sorriso, e tais problemas acabam afetando também a autoestima. Ter [um belo sorriso](https://www.embracon.com.br/blog/qual-e-a-real-importancia-de-um-sorriso-bonito) depende não apenas da saúde e da beleza dos dentes. Também há outros fatores: tamanho proporcional entre eles, os lábios e a gengiva, que pode ser conquistado de maneira rápida e sem dor, por meio de uma cirurgia plástica gengival, também conhecida como **gengivoplastia**.
 
 Esse tem sido um procedimento muito procurado por aqueles que têm o sorriso gengival. Uma característica que vem desde o nascimento, mas que pode acontecer caso a gengiva retraia (cresça) devido a uma inflamação (gengivite) ou por meio de algum uso de medicamento.
 
@@ -61,4 +61,3 @@ A **gengivoplastia**, normalmente, é feita em apenas uma consulta, por isso é 
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>
-        

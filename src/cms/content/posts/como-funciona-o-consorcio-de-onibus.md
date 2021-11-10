@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o consórcio de ônibus?
-        slug: como-funciona-o-consorcio-de-onibus
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-consorcio-de-onibus.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O consórcio surgiu como uma modalidade para [ajudar na compra de um carro](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro). Criada há mais de 50 anos no Brasil, essa modalidade de compra deu impulsão à compra de veículos em uma época em que a concessão de crédito era bem mais restrita do que os tempos atuais.
+titulo: Como funciona o consórcio de ônibus?
+slug: como-funciona-o-consorcio-de-onibus
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-consorcio-de-onibus.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O consórcio surgiu como uma modalidade para [ajudar na compra de um carro](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro). Criada há mais de 50 anos no Brasil, essa modalidade de compra deu impulsão à compra de veículos em uma época em que a concessão de crédito era bem mais restrita do que os tempos atuais.
 
 Com o passar dos anos, outros tipos de produtos puderam ser comprados por meio do consórcio. Afinal, é uma [modalidade bastante flexível](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira): você não sai com o bem na hora, mas pode selecionar o valor da carta de crédito, que corresponde ao bem que deseja comprar, e até mesmo a [quantidade de parcelas](https://www.embracon.com.br/blog/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio).
 
@@ -159,4 +159,3 @@ Com o consórcio, você consegue planejar melhor a compra do seu ônibus e paga 
 As vantagens são múltiplas, não é verdade? Portanto, [faça uma simulação de consórcio pesado](https://www.embracon.com.br/consorcio-de-veiculos-pesados) e aproveite as melhores condições para a compra do seu novo ônibus.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/609ae880f3663b32254a9c64_EMBRACON_CTA_PESADOS_2.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

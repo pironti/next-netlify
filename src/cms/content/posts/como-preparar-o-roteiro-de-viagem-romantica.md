@@ -1,14 +1,14 @@
 ---
-        titulo:  Como preparar o roteiro de viagem romântica
-        slug: como-preparar-o-roteiro-de-viagem-romantica
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-preparar-o-roteiro-de-viagem-romantica.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quem não sonha em conhecer lindas cidades pelo mundo ao lado de quem realmente ama? Viajar fortalece a relação e estimula ainda mais a vontade de viver juntos.
+titulo:  Como preparar o roteiro de viagem romântica
+slug: como-preparar-o-roteiro-de-viagem-romantica
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-preparar-o-roteiro-de-viagem-romantica.png
+meta_summary: 
+date: 06/10/2021
+---
+Quem não sonha em conhecer lindas cidades pelo mundo ao lado de quem realmente ama? Viajar fortalece a relação e estimula ainda mais a vontade de viver juntos.
 
 Um roteiro de [viagem romântica](https://www.embracon.com.br/blog/viagem-de-lua-de-mel-como-escolher-o-destino-ideal) inclui belos restaurantes, passeios para conhecer locais históricos, uma boa hospedagem e a segurança de que tudo sairá conforme o planejado.
 
@@ -98,4 +98,3 @@ Para mais conteúdo sobre dicas de viagens e finanças pessoais, assine a nossa 
 ‍
 
 ‍
-        

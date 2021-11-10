@@ -1,14 +1,14 @@
 ---
-        titulo: O que é a assembleia de consórcio?
-        slug: o-que-e-a-assembleia-de-consorcio
-        categoria: Assembleias
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-a-assembleia-de-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Uma das melhores formas de investir em um bem de alto valor, o consórcio é bem fácil de ser entendido.
+titulo: O que é a assembleia de consórcio?
+slug: o-que-e-a-assembleia-de-consorcio
+categoria: Assembleias
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-a-assembleia-de-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Uma das melhores formas de investir em um bem de alto valor, o consórcio é bem fácil de ser entendido.
 
 [Diferentemente do financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel), por exemplo, em que é preciso escolher o bem e pagar por um valor parcelado com [alto valor de juros](https://www.embracon.com.br/blog/como-os-juros-afetam-a-sua-vida), com o [consórcio você não precisa pagar entrada ou juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Você não sai com o bem na hora, porém. Para isso, precisa participar dos sorteios mensais ou fazer uma oferta de lance.
 
@@ -53,4 +53,3 @@ Para verificar as [formas de ofertar o lance](https://www.embracon.com.br/blog/c
 Para aumentar as suas chances, confira o [nosso post com dicas de como organizar para dar o seu lance](https://www.embracon.com.br/blog/saiba-como-definir-o-valor-de-lance-para-ser-contemplado-mais-rapido).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o consórcio de caminhão?
-        slug: como-funciona-o-consorcio-de-caminhao
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-consorcio-de-caminhao.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio é a melhor modalidade para compra de bens de alto valor porque não exige que o consumidor [guarde um valor considerável de dinheiro](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia) antes de começar a pagar ou tenha que passar por uma grande burocracia no momento de investir na realização de seu sonho.
+titulo: Como funciona o consórcio de caminhão?
+slug: como-funciona-o-consorcio-de-caminhao
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-consorcio-de-caminhao.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio é a melhor modalidade para compra de bens de alto valor porque não exige que o consumidor [guarde um valor considerável de dinheiro](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia) antes de começar a pagar ou tenha que passar por uma grande burocracia no momento de investir na realização de seu sonho.
 
 A modalidade cresceu bastante nos últimos anos por conta de diversos fatores, como dificuldade de acesso ao crédito, por facilitar quem planeja suas novas aquisições e, principalmente, pelas [vantagens que oferece para quem deseja parcelar a sua compra](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio).
 
@@ -163,4 +163,3 @@ Caso sobre valor da carta de crédito, é possível utilizar até 10% para despe
 > Portanto, não perca tempo! Faça desde já a [simulação do seu consórcio de veículo pesado e invista no sonho de comprar um caminhão](https://www.embracon.com.br/consorcio-de-veiculos-pesados).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/609ae880f3663b32254a9c64_EMBRACON_CTA_PESADOS_2.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Simulação de consórcio: saiba o que é e como ela pode ser feita
-        slug: simulacao-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/simulacao-de-consorcio.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Se você está convencido de que o [consórcio é a melhor opção](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram) para[ adquirir um bem](https://www.embracon.com.br/consorcio-de-imoveis) ou [serviço](https://www.embracon.com.br/consorcio-servicos), saiba que fazer uma [simulação de consórcio](https://www.embracon.com.br/consorcio) é fundamental para garantir um serviço de confiança e qualidade.
+titulo: Simulação de consórcio: saiba o que é e como ela pode ser feita
+slug: simulacao-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/simulacao-de-consorcio.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Se você está convencido de que o [consórcio é a melhor opção](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram) para[ adquirir um bem](https://www.embracon.com.br/consorcio-de-imoveis) ou [serviço](https://www.embracon.com.br/consorcio-servicos), saiba que fazer uma [simulação de consórcio](https://www.embracon.com.br/consorcio) é fundamental para garantir um serviço de confiança e qualidade.
 
 Portanto, para conhecer mais sobre o assunto e entender a importância em fazer uma simulação antes do contrato, confira as informações a seguir!
 
@@ -99,4 +99,3 @@ O resultado da simulação pode ser usado para fazer uma análise em relação a
 ‍[Simule e contrate a carta de crédito ](https://www.embracon.com.br/ecommerce)da Embracon, uma das 5 maiores administradoras de consórcios do Brasil! Você pode fazer isso pela internet. Não perca mais tempo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

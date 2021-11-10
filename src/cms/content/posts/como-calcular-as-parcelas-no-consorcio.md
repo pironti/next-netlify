@@ -1,14 +1,14 @@
 ---
-        titulo: Como calcular as parcelas do consórcio?
-        slug: como-calcular-as-parcelas-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-calcular-as-parcelas-no-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O financiamento em grupo é a melhor forma de planejar e adquirir um bem ou serviço hoje em dia. Sem juros e sem entrada, você pode conquistar, sem burocracia, [moto](https://www.embracon.com.br/consorcio-motos), [carro](https://www.embracon.com.br/consorcio-de-carros), [casa](https://www.embracon.com.br/consorcio-de-imoveis), reformas, <a href="">serviços, cirurgia plástica, viagem</a>, entre outras coisas. Porém, você sabe como [calcular as parcelas do consórcio](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio)? Sem essa informação, será bem difícil se planejar financeiramente para arcar com os custos.
+titulo: Como calcular as parcelas do consórcio?
+slug: como-calcular-as-parcelas-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-calcular-as-parcelas-no-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O financiamento em grupo é a melhor forma de planejar e adquirir um bem ou serviço hoje em dia. Sem juros e sem entrada, você pode conquistar, sem burocracia, [moto](https://www.embracon.com.br/consorcio-motos), [carro](https://www.embracon.com.br/consorcio-de-carros), [casa](https://www.embracon.com.br/consorcio-de-imoveis), reformas, <a href="">serviços, cirurgia plástica, viagem</a>, entre outras coisas. Porém, você sabe como [calcular as parcelas do consórcio](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio)? Sem essa informação, será bem difícil se planejar financeiramente para arcar com os custos.
 
 Felizmente, não há nenhum grande mistério envolvido aqui. Basta conhecer as regras que o consórcio segue e fazer algumas contas com base no valor do bem que você pretende adquirir. E, para ajudar com essa questão, vamos falar um pouco sobre [como o consórcio funciona](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio). E como você pode fazer o cálculo das parcelas com precisão. Confira.
 
@@ -94,4 +94,3 @@ Essa é apenas uma versão simplificada do cálculo. O seu consórcio ainda pode
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

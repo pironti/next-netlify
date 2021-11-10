@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio ou poupança: quais são as diferenças e como escolher?
-        slug: consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Juntar dinheiro, investir e atingir nossos objetivos pessoais e profissionais é uma tarefa muito difícil nos dias de hoje. É preciso ter disciplina, se esforçar arduamente e, principalmente, fazer boas escolhas.
+titulo: Consórcio ou poupança: quais são as diferenças e como escolher?
+slug: consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Juntar dinheiro, investir e atingir nossos objetivos pessoais e profissionais é uma tarefa muito difícil nos dias de hoje. É preciso ter disciplina, se esforçar arduamente e, principalmente, fazer boas escolhas.
 
 Dentre as mais difíceis, está o velho dilema: **consórcio ou poupança**?
 
@@ -133,4 +133,3 @@ Assine nossa newsletter e receba conteúdos atualizados e didáticos diretamente
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

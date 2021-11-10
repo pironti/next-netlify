@@ -1,14 +1,14 @@
 ---
-        titulo:  Os melhores destinos de viagem na América do Sul
-        slug: os-melhores-destinos-de-viagem-na-america-do-sul
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-melhores-destinos-de-viagem-na-america-do-sul.png
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quando você pensa para onde ir nas [próximas férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil), quais são os lugares que vêm à mente? [Paris](https://www.embracon.com.br/blog/5-razoes-para-viajar-para-paris), [Madri](https://www.embracon.com.br/blog/5-motivos-pelos-quais-voce-deve-viajar-para-a-espanha), Tóquio?
+titulo:  Os melhores destinos de viagem na América do Sul
+slug: os-melhores-destinos-de-viagem-na-america-do-sul
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-melhores-destinos-de-viagem-na-america-do-sul.png
+meta_summary: 
+date: 05/10/2021
+---
+Quando você pensa para onde ir nas [próximas férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil), quais são os lugares que vêm à mente? [Paris](https://www.embracon.com.br/blog/5-razoes-para-viajar-para-paris), [Madri](https://www.embracon.com.br/blog/5-motivos-pelos-quais-voce-deve-viajar-para-a-espanha), Tóquio?
 
 Que tal viajar para algum país vizinho? Muitos passaram a considerar essa opção por conta do preço das passagens. Para se ter uma ideia, às vezes sai mais barato comprar uma passagem de São Paulo ou Rio de Janeiro para Santiago ([Chile](https://www.embracon.com.br/blog/4-razoes-para-conhecer-o-chile-nas-suas-ferias)) do que para Maceió (Alagoas).
 
@@ -47,4 +47,3 @@ A cidade não tem asfalto, internet e, dependendo do lugar, nem mesmo energia el
 Além dos locais citados, a América do Sul possui dezenas de outros destinos de [viagem incríveis](https://www.embracon.com.br/blog/lua-de-mel-sem-cliches-4-destinos-alternativos-para-o-casal), como Machu Picchu (Peru), as místicas Ilhas Uros (que fica na divisa entre Peru e Bolívia), Ushuaia, Bariloche (ambas na Argentina), sem esquecer de Las Lajas e Parque Tayrona, na Colômbia. Ative já o senso aventureiro e confira nossas dicas de como [montar um roteiro](https://www.embracon.com.br/blog/saiba-como-montar-um-roteiro-de-viagem-em-7-passos) para a sua próxima viagem.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

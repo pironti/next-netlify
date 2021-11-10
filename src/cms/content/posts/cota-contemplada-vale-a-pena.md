@@ -1,14 +1,14 @@
 ---
-        titulo: Cota contemplada vale a pena?
-        slug: cota-contemplada-vale-a-pena
-        categoria: Cotas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cota-contemplada-vale-a-pena.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Se você está pensando em ingressar em um grupo de consórcio, com certeza em algum momento recebeu ofertas para comprar uma cota contemplada. Parece um ótimo negócio, não é verdade? Adquirir um consórcio tendo a certeza de receber seu bem logo de cara! Mas, na verdade, as coisas não funcionam bem assim.
+titulo: Cota contemplada vale a pena?
+slug: cota-contemplada-vale-a-pena
+categoria: Cotas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cota-contemplada-vale-a-pena.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Se você está pensando em ingressar em um grupo de consórcio, com certeza em algum momento recebeu ofertas para comprar uma cota contemplada. Parece um ótimo negócio, não é verdade? Adquirir um consórcio tendo a certeza de receber seu bem logo de cara! Mas, na verdade, as coisas não funcionam bem assim.
 
 Entenda melhor o que é a [cota contemplada](https://www.embracon.com.br/blog/saiba-o-que-fazer-quando-for-contemplado-no-consorcio) e o que você precisa saber, antes de se decidir finalizar a compra!
 
@@ -73,4 +73,3 @@ Por todos esses fatores, é mais vantajoso adquirir uma cota no começo do grupo
 Comprar uma carta de consórcio contemplada pode sair mais caro e perigoso do que você pensa. Em vez disso, a aquisição de uma cota novinha feita diretamente com a administradora traz diversos benefícios e a possibilidade de realizar o seu sonho com a devida proteção!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

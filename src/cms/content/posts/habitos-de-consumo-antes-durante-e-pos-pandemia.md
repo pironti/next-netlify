@@ -1,14 +1,14 @@
 ---
-        titulo: Hábitos de consumo: antes, durante e pós pandemia
-        slug: habitos-de-consumo-antes-durante-e-pos-pandemia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/habitos-de-consumo-antes-durante-e-pos-pandemia.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Desde que o Brasil registrou a primeira morte de coronavírus, em março de 2020, não demorou para que muitos estados brasileiros começassem a ficar alertas para tomar as primeiras medidas de isolamento social.
+titulo: Hábitos de consumo: antes, durante e pós pandemia
+slug: habitos-de-consumo-antes-durante-e-pos-pandemia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/habitos-de-consumo-antes-durante-e-pos-pandemia.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Desde que o Brasil registrou a primeira morte de coronavírus, em março de 2020, não demorou para que muitos estados brasileiros começassem a ficar alertas para tomar as primeiras medidas de isolamento social.
 
 Com isso, as pessoas tiveram que se acostumar a passar mais tempo em casa e sair apenas para fazer coisas mais urgentes, como ir ao supermercado ou à farmácia.
 
@@ -66,4 +66,3 @@ Com a abertura gradual do comércio nos próximos meses, é possível que as pes
 > Os hábitos de consumo mudaram e é por isso que você deve sempre ficar atento a sua saúde financeira. Uma boa dica é a realização de consórcio, [faça uma simulação](https://www.embracon.com.br/consorcio) no nosso site.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

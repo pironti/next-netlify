@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer um orçamento familiar sem erro
-        slug: como-fazer-um-orcamento-familiar-sem-erro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-um-orcamento-familiar-sem-erro.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Manter as contas do dia a dia pode representar um desafio para muitas pessoas. Além das despesas obrigatórias, os brasileiros costumam se [enrolar com cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais), compras compulsivas e falta de planejamento de gastos. Quando vai ver a conta no fim do mês, não sobra nada do salário.
+titulo: Como fazer um orçamento familiar sem erro
+slug: como-fazer-um-orcamento-familiar-sem-erro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-um-orcamento-familiar-sem-erro.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Manter as contas do dia a dia pode representar um desafio para muitas pessoas. Além das despesas obrigatórias, os brasileiros costumam se [enrolar com cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais), compras compulsivas e falta de planejamento de gastos. Quando vai ver a conta no fim do mês, não sobra nada do salário.
 
 Quando se trata de um ambiente familiar, esse hábito se torna ainda mais agravante. Se as pessoas responsáveis pelas contas de casa não têm [controle sobre o orçamento](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira), todos são comprometidos por uma decisão que pode, sim, ser decidida em conjunto.
 
@@ -76,4 +76,3 @@ Depois de fechar o contrato, é possível se organizar para fazer a[ oferta de u
 > Organize seu orçamento mensal e [conte com o consórcio](https://www.embracon.com.br/consorcio) para ajudar na realização dos sonhos de toda a sua família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

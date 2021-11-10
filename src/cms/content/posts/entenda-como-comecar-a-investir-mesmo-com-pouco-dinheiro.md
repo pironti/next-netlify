@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como começar a investir mesmo com pouco dinheiro
-        slug: entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        A recuperação da economia brasileira pode estar em um ritmo mais lento do que o esperado. Porém, isso não impede você de [começar a investir](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro). Sabe por quê? Não é necessário juntar muito dinheiro para [fazer aplicações](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-credito-pendente) que vão ajudá-lo no futuro.
+titulo: Entenda como começar a investir mesmo com pouco dinheiro
+slug: entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+A recuperação da economia brasileira pode estar em um ritmo mais lento do que o esperado. Porém, isso não impede você de [começar a investir](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro). Sabe por quê? Não é necessário juntar muito dinheiro para [fazer aplicações](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-credito-pendente) que vão ajudá-lo no futuro.
 
 Com planejamento e inteligência, é possível contar com recursos financeiros e multiplicá-los. Assim, você aumenta as chances de ter as famosas reservas, que podem ser usadas para concretizar sonhos ou solucionar imprevistos.
 
@@ -56,4 +56,3 @@ Você já percebeu que não faltam ótimas opções para começar a investir com
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

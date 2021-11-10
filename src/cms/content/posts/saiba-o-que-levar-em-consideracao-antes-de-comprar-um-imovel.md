@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que levar em consideração antes de comprar um imóvel
-        slug: saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        [Comprar um imóvel](https://www.imovelweb.com.br/noticias/mercado-imobiliario/4-dicas-para-realizar-um-bom-negocio-na-hora-de-comprar-um-imovel/?utm_source=blog&utm_medium=brand&utm_campaign=embraconum) é um [grande investimento](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) e demanda muito tempo de pesquisa e análise para garantir a melhor decisão.
+titulo: Saiba o que levar em consideração antes de comprar um imóvel
+slug: saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel.jpg
+meta_summary: 
+date: 24/09/2021
+---
+[Comprar um imóvel](https://www.imovelweb.com.br/noticias/mercado-imobiliario/4-dicas-para-realizar-um-bom-negocio-na-hora-de-comprar-um-imovel/?utm_source=blog&utm_medium=brand&utm_campaign=embraconum) é um [grande investimento](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) e demanda muito tempo de pesquisa e análise para garantir a melhor decisão.
 
 Desse modo, não se trata de uma decisão que se toma de um dia para o outro. É necessário ter muito planejamento e estar consciente para que tudo ocorra da melhor maneira possível, evitando problemas no futuro.
 
@@ -126,4 +126,3 @@ Após analisar essas dicas, tente refletir profundamente e compreender suas nece
 [Adquirir um imóvel](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo) é um investimento muito grande, e você vai precisar de tempo para garantir a melhor decisão. Boa sorte!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

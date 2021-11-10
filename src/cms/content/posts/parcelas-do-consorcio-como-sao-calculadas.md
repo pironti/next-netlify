@@ -1,14 +1,14 @@
 ---
-        titulo: Parcelas do consórcio: como são calculadas?
-        slug: parcelas-do-consorcio-como-sao-calculadas
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/parcelas-do-consorcio-como-sao-calculadas.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O consórcio é uma forma de investir em bens de alto valor sem ter que se comprometer com valor de entrada ou com o [pagamento de juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Isso porque, diferente do [financiamento](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes), por exemplo, que exige uma grande burocracia para liberação do crédito - e, ainda assim, cobra um alto valor de juros em seu processo de contratação - o consórcio é uma modalidade mais flexível, voltada para o seu [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos).
+titulo: Parcelas do consórcio: como são calculadas?
+slug: parcelas-do-consorcio-como-sao-calculadas
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/parcelas-do-consorcio-como-sao-calculadas.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O consórcio é uma forma de investir em bens de alto valor sem ter que se comprometer com valor de entrada ou com o [pagamento de juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Isso porque, diferente do [financiamento](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes), por exemplo, que exige uma grande burocracia para liberação do crédito - e, ainda assim, cobra um alto valor de juros em seu processo de contratação - o consórcio é uma modalidade mais flexível, voltada para o seu [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos).
 
 Com o consórcio, você não sai com o bem na hora. Na verdade, trata-se de uma [espécie de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo), em que o próprio interessado investe no valor que é necessário para a compra do bem que deseja.
 
@@ -59,4 +59,3 @@ Cada categoria de consórcio segue uma tabela em específico: o consórcio de im
 Para mais informações sobre como funcionam os reajustes, [confira o nosso post explicando todos os detalhes no blog da Embracon.](https://www.embracon.com.br/blog/reajuste-do-consorcio-entenda)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

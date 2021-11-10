@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo para uma viagem sustentável em praias paradisíacas
-        slug: guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O tempo de isolamento permitiu que o meio ambiente ficasse menos poluído. Isso porque, em um primeiro momento, no mundo inteiro a [maioria das pessoas ficou em casa](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado). Sem viagens, carro e avião, a natureza agradeceu com rios mais limpos, céus mais azuis e até o aparecimento de alguns animais silvestres no meio das cidades (que sempre estiveram distantes por causa da poluição ambiental e sonora).
+titulo: Guia completo para uma viagem sustentável em praias paradisíacas
+slug: guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas.jpg
+meta_summary: 
+date: 05/10/2021
+---
+O tempo de isolamento permitiu que o meio ambiente ficasse menos poluído. Isso porque, em um primeiro momento, no mundo inteiro a [maioria das pessoas ficou em casa](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado). Sem viagens, carro e avião, a natureza agradeceu com rios mais limpos, céus mais azuis e até o aparecimento de alguns animais silvestres no meio das cidades (que sempre estiveram distantes por causa da poluição ambiental e sonora).
 
 Aos poucos as pessoas estão voltando ao normal, e o plano é que tudo volte como era antes - isso depois da tão sonhada vacina. O turismo é o setor que está mais ansioso para esse momento. No mundo, o setor emprega uma em cada dez pessoas, além de movimentar trilhões de dólares em exportações ao ano e ser responsável por 10% do produto interno bruto mundial. Ou seja, o setor está mais preparado do que nunca para voltar, tomando todas as precauções para isso acontecer da melhor forma possível.
 
@@ -130,4 +130,3 @@ Não precisa nem dizer que aqui você encontra belas praias, cachoeiras e esport
 > Se você deseja começar a [planejar sua viagem](https://www.embracon.com.br/consorcio-servicos) sustentável para um desses paraísos, [faça uma simulação em nosso site](https://www.embracon.com.br/consorcio) e entenda como a Embracon pode te ajudar a realizar esse sonho!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 5 razões para viajar para Paris
-        slug: 5-razoes-para-viajar-para-paris
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-razoes-para-viajar-para-paris.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Você fez um planejamento financeiro e percebeu que, após muito trabalho, é possível se dar um belo presente? Que tal **viajar para Paris**? Esse é um dos destinos mais procurados do mundo e tem muito a oferecer, seja para quem pretende apenas descansar em uma bela paisagem ou conhecer uma cultura diferente.
+titulo: 5 razões para viajar para Paris
+slug: 5-razoes-para-viajar-para-paris
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-razoes-para-viajar-para-paris.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Você fez um planejamento financeiro e percebeu que, após muito trabalho, é possível se dar um belo presente? Que tal **viajar para Paris**? Esse é um dos destinos mais procurados do mundo e tem muito a oferecer, seja para quem pretende apenas descansar em uma bela paisagem ou conhecer uma cultura diferente.
 
 Leia este texto que preparamos especialmente para você e veja 5 razões porquê **viajar para Paris** é uma experiência única e inesquecível.
 
@@ -65,4 +65,3 @@ Gostou da leitura? Então, assine agora mesmo nossa newsletter e receba conteúd
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

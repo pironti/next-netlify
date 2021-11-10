@@ -1,14 +1,14 @@
 ---
-        titulo: Planejar aposentadoria com consórcio
-        slug: planejar-aposentadoria-com-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/planejar-aposentadoria-com-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Não importa qual seja seu momento, todos mais cedo ou mais tarde, precisam deixar um dinheiro à parte dos gastos.
+titulo: Planejar aposentadoria com consórcio
+slug: planejar-aposentadoria-com-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/planejar-aposentadoria-com-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Não importa qual seja seu momento, todos mais cedo ou mais tarde, precisam deixar um dinheiro à parte dos gastos.
 
 Seja para realizar a compra de um bem, se preparar para imprevistos ou mesmo para aumentar o patrimônio, a forma que nos relacionamos com o dinheiro é fundamental para garantir um futuro mais próspero.
 
@@ -229,4 +229,3 @@ Neste caso, o consórcio imobiliário se apresenta como uma ótima oportunidade 
 Você não precisa se preocupar com a contemplação de forma rápida. Como o segmento de imóveis costuma se valorizar, ao[ receber a sua carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) você tem poder de compra à vista para comprar o imóvel que deseja: seja uma casa ou apartamento, para alugar, ou até mesmo um empreendimento comercial, para que possa vender o ponto.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

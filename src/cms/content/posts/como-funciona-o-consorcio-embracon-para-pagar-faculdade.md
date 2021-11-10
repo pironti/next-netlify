@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o consórcio Embracon para pagar faculdade?
-        slug: como-funciona-o-consorcio-embracon-para-pagar-faculdade
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-consorcio-embracon-para-pagar-faculdade.jpeg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Você já pensou em usar o Consórcio para pagar faculdade dos seus filhos? É uma excelente opção para se planejar, preservar a renda familiar e, ainda, garantir acesso ao melhor ensino que você pode pagar.
+titulo: Como funciona o consórcio Embracon para pagar faculdade?
+slug: como-funciona-o-consorcio-embracon-para-pagar-faculdade
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-consorcio-embracon-para-pagar-faculdade.jpeg
+meta_summary: 
+date: 27/09/2021
+---
+Você já pensou em usar o Consórcio para pagar faculdade dos seus filhos? É uma excelente opção para se planejar, preservar a renda familiar e, ainda, garantir acesso ao melhor ensino que você pode pagar.
 
 Porém, claro, sempre existem muitas dúvidas com relação a esse tipo de serviço, não é mesmo? Você precisa saber como funciona o consórcio, quais são os prazos, o valor das parcelas e várias outras informações.
 
@@ -93,4 +93,3 @@ Para que toda essa informação fique ainda mais clara para você, temos uma dic
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

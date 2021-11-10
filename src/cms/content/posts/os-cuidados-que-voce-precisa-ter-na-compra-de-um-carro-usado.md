@@ -1,14 +1,14 @@
 ---
-        titulo: Os cuidados que você precisa ter na compra de um carro usado
-        slug: os-cuidados-que-voce-precisa-ter-na-compra-de-um-carro-usado
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-cuidados-que-voce-precisa-ter-na-compra-de-um-carro-usado.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A compra de um carro 0km na maioria das vezes está mais ligado ao status do que a praticidade de ter um veículo próprio. Claro que existem inúmeras vantagens de comprar um carro novinho em folha, mas também tem suas desvantagens com relação a diversos fatores.
+titulo: Os cuidados que você precisa ter na compra de um carro usado
+slug: os-cuidados-que-voce-precisa-ter-na-compra-de-um-carro-usado
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-cuidados-que-voce-precisa-ter-na-compra-de-um-carro-usado.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A compra de um carro 0km na maioria das vezes está mais ligado ao status do que a praticidade de ter um veículo próprio. Claro que existem inúmeras vantagens de comprar um carro novinho em folha, mas também tem suas desvantagens com relação a diversos fatores.
 
 Um dos grandes pontos é a **desvalorização do bem**, e nesse quesito, muitos optam por comprar um carro usado do que um novinho.
 
@@ -93,4 +93,3 @@ E aí, o que achou? Gostou deste post sobre os cuidados ao comprar carros usados
 > A Embracon está aqui para te ajudar. [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Guia: Tudo o que você precisa saber sobre o consórcio imobiliário
-        slug: guia-completo-consorcio-imobiliario
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-consorcio-imobiliario.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Comprar um imóvel próprio à vista é o sonho de muitas pessoas, mas não é uma realidade para a maioria. Mesmo assim, fazer a compra de uma casa está muito mais perto do que parece, afinal, há outras formas de tornar esse sonho possível. Uma delas é [fazer um consórcio imobiliário](https://www.embracon.com.br/consorcio-de-imoveis).
+titulo: Guia: Tudo o que você precisa saber sobre o consórcio imobiliário
+slug: guia-completo-consorcio-imobiliario
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-consorcio-imobiliario.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Comprar um imóvel próprio à vista é o sonho de muitas pessoas, mas não é uma realidade para a maioria. Mesmo assim, fazer a compra de uma casa está muito mais perto do que parece, afinal, há outras formas de tornar esse sonho possível. Uma delas é [fazer um consórcio imobiliário](https://www.embracon.com.br/consorcio-de-imoveis).
 
 **‍**Nele, um grupo de interessados se junta para fazer o financiamento do imóvel, pagando parcelas mensais para uma [administradora](https://www.embracon.com.br/blog/afinal-o-que-uma-administradora-de-consorcio-faz).
 
@@ -273,4 +273,3 @@ E aí, o que achou deste post sobre o [consórcio imobiliário](https://www.embr
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=guia_completo_consorcio_imobiliario&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

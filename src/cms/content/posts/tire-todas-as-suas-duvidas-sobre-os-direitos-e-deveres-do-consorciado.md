@@ -1,14 +1,14 @@
 ---
-        titulo: Tire todas as suas dúvidas sobre os direitos e deveres do consorciado
-        slug: tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado.png
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Se você pretende [investir](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em um bem a longo prazo, como um [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), o carro dos sonhos ou até mesmo uma [viagem para o exterior](https://www.embracon.com.br/blog/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce), muito provavelmente já ouviu falar nas [vantagens do consórcio](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio).
+titulo: Tire todas as suas dúvidas sobre os direitos e deveres do consorciado
+slug: tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado.png
+meta_summary: 
+date: 30/09/2021
+---
+Se você pretende [investir](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em um bem a longo prazo, como um [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), o carro dos sonhos ou até mesmo uma [viagem para o exterior](https://www.embracon.com.br/blog/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce), muito provavelmente já ouviu falar nas [vantagens do consórcio](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio).
 
 O consórcio é a melhor forma de investir no seu sonho a médio e longo prazo.
 
@@ -81,4 +81,3 @@ Pode parecer difícil, mas com transparência e acesso às informações que tra
 > [Faça uma simulação](https://www.embracon.com.br/) e comece desde já a trabalhar no sonho de ter um imóvel, automóvel ou adquirir serviços de viagens, reformas, educação, cirurgias, festas e até casamento. Para mais informações sobre consórcio, assine a nossa newsletter.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

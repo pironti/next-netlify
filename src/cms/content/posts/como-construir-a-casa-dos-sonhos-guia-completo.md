@@ -1,14 +1,14 @@
 ---
-        titulo: Como construir a casa dos sonhos: o guia absolutamente completo
-        slug: como-construir-a-casa-dos-sonhos-guia-completo
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-construir-a-casa-dos-sonhos-guia-completo.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Conseguir [**construir uma casa dos sonhos**](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo) é uma das realizações mais comemoradas pelos brasileiros. E não é para menos, afinal, garantir a [compra de um lar](https://www.embracon.com.br/blog/como-comprar-um-apartamento) seguro e confortável para toda a família é uma grande conquista.
+titulo: Como construir a casa dos sonhos: o guia absolutamente completo
+slug: como-construir-a-casa-dos-sonhos-guia-completo
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-construir-a-casa-dos-sonhos-guia-completo.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Conseguir [**construir uma casa dos sonhos**](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo) é uma das realizações mais comemoradas pelos brasileiros. E não é para menos, afinal, garantir a [compra de um lar](https://www.embracon.com.br/blog/como-comprar-um-apartamento) seguro e confortável para toda a família é uma grande conquista.
 
 Mas, antes da felicidade de ver a [casa pronta](https://www.embracon.com.br/blog/15-duvidas-sobre-consorcio-de-imoveis), você vai passar por um processo trabalhoso: o planejamento e a execução da obra. Para que tudo dê certo, é preciso pensar muito bem em como a [casa](https://www.embracon.com.br/blog/imoveis-usados-tem-garantia-no-consorcio) deve ser, calcular os gastos e [investir de forma certeira](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em [bons materiais e profissionais](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas).
 
@@ -234,4 +234,3 @@ Morar em um novo lugar também ajuda a tirar o que já não é mais necessário 
 Em resumo, agora sabemos todos os detalhes para se [construir uma casa](https://www.embracon.com.br/blog/vantagens-financeiras-de-um-consorcio). Basta seguir o nosso guia absolutamente completo para não errar e usufruir do lar que sempre desejou. Caso alguma das etapas não dê certo, poderá ocasionar problemas no futuro, que podem ser evitados, como uma má localização, terreno acidentado e outros pontos já comentados. Faça uma boa escolha seguindo os passos indicados e boa sorte! Gostou do post? Aproveite para receber nossos conteúdos periodicamente atualizados. Basta assinar a nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como aproveitar ao máximo sua viagem para a Disney em família
-        slug: entenda-como-aproveitar-ao-maximo-sua-viagem-para-a-disney-em-familia
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-aproveitar-ao-maximo-sua-viagem-para-a-disney-em-familia.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A **viagem para a Disney**[ em família](https://www.embracon.com.br/blog/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia) é um sonho de muitas pessoas e, quando ele se realiza, é preciso aproveitar ao máximo. Depois de resolver todos as questões imigratórias, é preciso pensar em como curtir a [viagem](https://www.embracon.com.br/blog/saiba-como-montar-um-roteiro-de-viagem-em-7-passos). Para isso, é fundamental conhecer as atrações com antecedência. E, também, ficar por dentro de todas as facilidades que existem no parque. Depois disso, é só usufruir o melhor dele!
+titulo: Entenda como aproveitar ao máximo sua viagem para a Disney em família
+slug: entenda-como-aproveitar-ao-maximo-sua-viagem-para-a-disney-em-familia
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-aproveitar-ao-maximo-sua-viagem-para-a-disney-em-familia.jpg
+meta_summary: 
+date: 04/10/2021
+---
+A **viagem para a Disney**[ em família](https://www.embracon.com.br/blog/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia) é um sonho de muitas pessoas e, quando ele se realiza, é preciso aproveitar ao máximo. Depois de resolver todos as questões imigratórias, é preciso pensar em como curtir a [viagem](https://www.embracon.com.br/blog/saiba-como-montar-um-roteiro-de-viagem-em-7-passos). Para isso, é fundamental conhecer as atrações com antecedência. E, também, ficar por dentro de todas as facilidades que existem no parque. Depois disso, é só usufruir o melhor dele!
 
 Neste post, você verá algumas das atrações principais e dicas para desfrutar essa viagem em família. Boa leitura!
 
@@ -59,4 +59,3 @@ Essa ferramenta permite que você, literalmente, fure a fila. Algumas atrações
 A [**viagem para a Disney** em família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos) é um evento que será guardado para sempre na memória de todos, mas, para ser mesmo especial, é preciso conhecer previamente as atrações e definir quais serão visitadas. Outra opção é usar as ferramentas fornecidas pelo Disney World. Além de evitarem dores de cabeça ainda permitem que você aproveite melhor o seu tempo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

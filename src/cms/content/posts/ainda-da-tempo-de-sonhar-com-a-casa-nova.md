@@ -1,14 +1,14 @@
 ---
-        titulo: Ainda dá tempo de sonhar com a casa nova
-        slug: ainda-da-tempo-de-sonhar-com-a-casa-nova
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/ainda-da-tempo-de-sonhar-com-a-casa-nova.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Há muitos anos o brasileiro tem como maior desejo a [realização do sonho de ter uma casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria). Muitas coisas mudaram ao longo das últimas décadas: surgiram novas necessidades com o avanço da tecnologia, incluindo novos itens do nosso dia a dia, como smartphones, por exemplo.
+titulo: Ainda dá tempo de sonhar com a casa nova
+slug: ainda-da-tempo-de-sonhar-com-a-casa-nova
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/ainda-da-tempo-de-sonhar-com-a-casa-nova.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Há muitos anos o brasileiro tem como maior desejo a [realização do sonho de ter uma casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria). Muitas coisas mudaram ao longo das últimas décadas: surgiram novas necessidades com o avanço da tecnologia, incluindo novos itens do nosso dia a dia, como smartphones, por exemplo.
 
 Por mais que o Brasil esteja passando por um momento difícil por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), muita gente ainda deve se esforçar para realizar o sonho de comprar uma nova casa ou apartamento.
 
@@ -62,4 +62,3 @@ Com o [consórcio de imóveis](https://www.embracon.com.br/blog/guia-completo-co
 Portanto, não deixe de sonhar com o seu novo lar. Com o consórcio, você pode dar início à realização do seu sonho agora mesmo. [Faça uma simulação de consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e invista já na sua casa ou apartamento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulações](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

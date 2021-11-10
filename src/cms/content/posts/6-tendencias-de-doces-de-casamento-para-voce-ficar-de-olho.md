@@ -1,14 +1,14 @@
 ---
-        titulo: 6 tendências de doces de casamento para você ficar de olho
-        slug: 6-tendencias-de-doces-de-casamento-para-voce-ficar-de-olho
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-tendencias-de-doces-de-casamento-para-voce-ficar-de-olho.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Uma coisa é verdade: os convidados começam a pensar nos doces de casamento desde o recebimento do convite. Ao lado do bolo, os tradicionais docinhos são responsáveis por trazer beleza, doçura, alegria e cor para a decoração de qualquer festa.
+titulo: 6 tendências de doces de casamento para você ficar de olho
+slug: 6-tendencias-de-doces-de-casamento-para-voce-ficar-de-olho
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-tendencias-de-doces-de-casamento-para-voce-ficar-de-olho.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Uma coisa é verdade: os convidados começam a pensar nos doces de casamento desde o recebimento do convite. Ao lado do bolo, os tradicionais docinhos são responsáveis por trazer beleza, doçura, alegria e cor para a decoração de qualquer festa.
 
 E os profissionais usam cada vez mais sua criatividade para trazer novas opções para o mercado, fazendo com que as possibilidades de escolha da noiva fiquem ainda maiores na hora de eleger os doces favoritos.
 
@@ -66,4 +66,3 @@ Há algumas opções para o mini bolo, como o de noiva com recheio de brigadeiro
 Lembre-se de que, antes de tomar a sua decisão e escolher os doces de casamento, é importante agendar degustações para ter certeza de que é exatamente o que você pensou e, claro, conhecer de perto o trabalho dos profissionais. Assim, você vai garantir que a sua mesa de doces se tornará um dos pontos mais gostosos do seu grande dia.
 
 > E aí, o que achou deste post? Aproveite para seguir as nossas redes sociais e acompanhar todas as nossas atualizações! Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [LinkedIn](https://www.linkedin.com/company/1018875/), [Twitter](https://twitter.com/embracon) e [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

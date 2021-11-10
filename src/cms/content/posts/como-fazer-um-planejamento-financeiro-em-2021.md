@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer um planejamento financeiro em 2021
-        slug: como-fazer-um-planejamento-financeiro-em-2021
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-um-planejamento-financeiro-em-2021.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Para conseguir realizar seus sonhos, é necessário ter um planejamento financeiro. O segredo é não esperar o mês terminar para ver quanto sobra, a proposta é [organizar as finanças](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) para garantir a conta sempre no azul, a fim de fazer seu dinheiro render e trabalhar por você.
+titulo: Como fazer um planejamento financeiro em 2021
+slug: como-fazer-um-planejamento-financeiro-em-2021
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-um-planejamento-financeiro-em-2021.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Para conseguir realizar seus sonhos, é necessário ter um planejamento financeiro. O segredo é não esperar o mês terminar para ver quanto sobra, a proposta é [organizar as finanças](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) para garantir a conta sempre no azul, a fim de fazer seu dinheiro render e trabalhar por você.
 
 Um dos pontos principais quando se trata de poupar é ter uma reserva financeira. Em primeiro lugar, ela pode ser uma alternativa diante de imprevistos, como perda do emprego, doenças e emergência familiar.
 
@@ -239,4 +239,3 @@ O planejamento financeiro pode ser mais simples do que parece. Ainda que tenha v
 > E aí, ficou interessado em investir por meio de um consórcio? Então, [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=planejamento_financeiro_2021&utm_campaign=publicacoes_blog) agora mesmo e conheça os nossos serviços. Somos uma empresa reconhecida e com tradição no mercado de consórcios!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=planejamento_financeiro_2021&utm_campaign=publicacoes_blog)</figure>
-        

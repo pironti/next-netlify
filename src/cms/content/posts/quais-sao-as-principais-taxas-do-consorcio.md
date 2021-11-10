@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as principais taxas do consórcio?
-        slug: quais-sao-as-principais-taxas-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-principais-taxas-do-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Diferentemente de qualquer modalidade de compra, o consórcio foi feito para quem busca planejar a aquisição de um bem de alto valor. Você não sai com o bem na hora, mas também [não precisa pagar por entrada, juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) ou qualquer tipo de burocracia para investir naquilo que tanto deseja.
+titulo: Quais são as principais taxas do consórcio?
+slug: quais-sao-as-principais-taxas-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-principais-taxas-do-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Diferentemente de qualquer modalidade de compra, o consórcio foi feito para quem busca planejar a aquisição de um bem de alto valor. Você não sai com o bem na hora, mas também [não precisa pagar por entrada, juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) ou qualquer tipo de burocracia para investir naquilo que tanto deseja.
 
 O consórcio funciona da seguinte maneira: primeiro, é preciso ter em mente o bem que deseja comprar. Você pode investir em uma [carta de crédito para automóveis](https://www.embracon.com.br/blog/guia-completo-para-a-compra-do-primeiro-carro), imóveis, serviços e até mesmo [veículos pesados](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon), como ônibus e caminhões.
 
@@ -195,4 +195,3 @@ Portanto, quando se trata de comprar a prazo, o [consórcio é a melhor soluçã
 Para saber melhor como funciona o consórcio, escolha o bem que deseja comprar e [faça uma simulação](https://www.embracon.com.br/). Com planejamento e flexibilidade, você conseguirá investir no seu sonho pagando por um valor justo a prazo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 8 séries e filmes para aprender lidar melhor com o seu dinheiro
-        slug: 8-series-e-filmes-para-aprender-lidar-melhor-com-o-seu-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/8-series-e-filmes-para-aprender-lidar-melhor-com-o-seu-dinheiro.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Uma das melhores formas de[ aprender a lidar com as suas finanças](https://www.embracon.com.br/category/financas-pessoais) é estudar sobre o assunto. Sempre tivemos à disposição livros e sites sobre o assunto, mas que tal aprender de uma forma prazerosa e usando séries e filmes como exemplos?
+titulo: 8 séries e filmes para aprender lidar melhor com o seu dinheiro
+slug: 8-series-e-filmes-para-aprender-lidar-melhor-com-o-seu-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/8-series-e-filmes-para-aprender-lidar-melhor-com-o-seu-dinheiro.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Uma das melhores formas de[ aprender a lidar com as suas finanças](https://www.embracon.com.br/category/financas-pessoais) é estudar sobre o assunto. Sempre tivemos à disposição livros e sites sobre o assunto, mas que tal aprender de uma forma prazerosa e usando séries e filmes como exemplos?
 
 Essas obras são interessantes porque mostram exemplos de erros e acertos de [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), que qualquer pessoa se identifica. Principalmente na hora de perceber que o sucesso e o dinheiro não vêm da noite pro dia, e sim com muita persistência e luta, e claro, com os [investimentos ](https://www.embracon.com.br/blog/diversificar-investimentos-financeiros-e-possivel)certos.
 
@@ -73,4 +73,3 @@ Série documental que narra várias histórias que envolvem cobiça, corrupção
 > Tem interesse em finanças e assuntos parecidos? Então você deve saber que consórcio é uma ótima forma para investir, [faça uma simulação](https://www.embracon.com.br/consorcio) com a gente e veja.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

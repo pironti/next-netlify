@@ -1,14 +1,14 @@
 ---
-        titulo: Cozinha pequena: como melhorar seu visual e sua organização
-        slug: dicas-de-organizacao-para-cozinha-pequena
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-de-organizacao-para-cozinha-pequena.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Cozinha é um local dentro de casa que concentra muitas das importantes atividades que exercemos todos os dias. E não tem como uma residência funcionar sem que este ambiente esteja sempre em boas condições.
+titulo: Cozinha pequena: como melhorar seu visual e sua organização
+slug: dicas-de-organizacao-para-cozinha-pequena
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-de-organizacao-para-cozinha-pequena.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Cozinha é um local dentro de casa que concentra muitas das importantes atividades que exercemos todos os dias. E não tem como uma residência funcionar sem que este ambiente esteja sempre em boas condições.
 
 Só que em meio a tantas tarefas, é difícil imaginar como nós podemos colocar as coisas devidamente em ordem dentro de um cômodo assim - principalmente se for uma [cozinha pequena](https://www.vivadecora.com.br/decoracao/cozinha-pequena).
 
@@ -78,4 +78,3 @@ No fim, são elementos como estes que fazem a arquitetura de interiores ser mais
 Essas dicas de organização para cozinha pequena foram criadas pela equipe [Viva Decora](https://www.vivadecora.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=dicas_de_organizacao_para_cozinha_pequena&utm_campaign=publicacoes_blog)</figure>‍
-        

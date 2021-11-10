@@ -1,14 +1,14 @@
 ---
-        titulo: Como aumentar o patrimônio de um jeito simples
-        slug: como-aumentar-o-patrimonio-de-um-jeito-simples
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-aumentar-o-patrimonio-de-um-jeito-simples.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        A maioria das pessoas associam sucesso a grandes salários. Geralmente, é incomum ouvir uma pergunta a respeito do valor que um indivíduo tem em termos de patrimônio.
+titulo: Como aumentar o patrimônio de um jeito simples
+slug: como-aumentar-o-patrimonio-de-um-jeito-simples
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-aumentar-o-patrimonio-de-um-jeito-simples.jpg
+meta_summary: 
+date: 27/09/2021
+---
+A maioria das pessoas associam sucesso a grandes salários. Geralmente, é incomum ouvir uma pergunta a respeito do valor que um indivíduo tem em termos de patrimônio.
 
 Aumentar o patrimônio líquido, ou seja, aquele que representa a verdadeira riqueza, é uma maneira de dar um passo muito além da maioria e comprometer-se com o bom [rendimento das finanças](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal).
 
@@ -155,4 +155,3 @@ Mesmo em um ano difícil como o de 2020, o setor de imóveis se manteve em cresc
 Esse interesse deve aquecer o mercado imobiliário e gerar oportunidades para quem quer ampliar o seu patrimônio por meio de imóveis. Portanto, comece a se organizar o quanto antes e já invista na compra do seu novo imóvel, seja um terreno, uma casa, apartamento ou empreendimento. De todas as formas, as chances de multiplicar o seu patrimônio são inúmeras.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

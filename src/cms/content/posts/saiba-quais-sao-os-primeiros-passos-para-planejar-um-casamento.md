@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba quais são os primeiros passos para planejar um casamento
-        slug: saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Não é novidade que [planejar um casamento](https://www.embracon.com.br/blog/como-fazer-um-planejamento-financeiro-para-o-casamento) exige bastante foco e atenção a vários detalhes. Para o momento ser inesquecível para o casal e os convidados, é fundamental pensar em todos os aspectos que envolvem a cerimônia e a festa.
+titulo: Saiba quais são os primeiros passos para planejar um casamento
+slug: saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Não é novidade que [planejar um casamento](https://www.embracon.com.br/blog/como-fazer-um-planejamento-financeiro-para-o-casamento) exige bastante foco e atenção a vários detalhes. Para o momento ser inesquecível para o casal e os convidados, é fundamental pensar em todos os aspectos que envolvem a cerimônia e a festa.
 
 Organizar um casamento perfeito é o sonho de qualquer noiva ou noivo. Para realizá-lo, é importante conversar com pessoas da família que já passaram por essa experiência e com profissionais do mercado de eventos.
 
@@ -77,4 +77,3 @@ Agora, você já conhece os primeiros passos para [planejar um casamento](https:
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

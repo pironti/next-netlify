@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena ter uma piscina em casa? Confira os prós e contras!
-        slug: afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quem não gostaria de ter uma **piscina em casa**? Se uma pesquisa sobre o assunto estivesse sendo realizada, a maioria diria sim!
+titulo: Vale a pena ter uma piscina em casa? Confira os prós e contras!
+slug: afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Quem não gostaria de ter uma **piscina em casa**? Se uma pesquisa sobre o assunto estivesse sendo realizada, a maioria diria sim!
 
 Diante da possibilidade de ter a própria área de lazer, ter a chance de receber os amigos e se divertir com a família, curtir um dia de sol à beira da piscina é uma ideia que agrada a todos.
 
@@ -57,4 +57,3 @@ A [casa com piscin](https://www.embracon.com.br/blog/o-que-nao-pode-faltar-na-ar
 Que tal? Gostou deste texto sobre os prós e contras de ter uma piscina em casa? Então, aproveite a visita para assinar a nossa newsletter e receber informações atualizadas na sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

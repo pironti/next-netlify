@@ -1,14 +1,14 @@
 ---
-        titulo: Como comprar imóveis para alugar
-        slug: como-comprar-imoveis-para-alugar
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comprar-imoveis-para-alugar.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quem já realizou o sonho de ter o [primeiro imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) geralmente não para por aí. Com o objetivo de[ ampliar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), muitas pessoas começam a dar os passos para investir no [segundo imóvel](https://www.embracon.com.br/blog/segunda-casa-o-consorcio-pode-te-ajudar).
+titulo: Como comprar imóveis para alugar
+slug: como-comprar-imoveis-para-alugar
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comprar-imoveis-para-alugar.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quem já realizou o sonho de ter o [primeiro imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) geralmente não para por aí. Com o objetivo de[ ampliar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), muitas pessoas começam a dar os passos para investir no [segundo imóvel](https://www.embracon.com.br/blog/segunda-casa-o-consorcio-pode-te-ajudar).
 
 A grande vantagem de investir em outra casa ou [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), até mesmo para fins comerciais, é que não existe a ansiedade da primeira moradia. Com mais tempo, você consegue fazer um [investimento inteligente](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), sem ter que gastar muito.
 
@@ -172,4 +172,3 @@ Mesmo em um ano difícil como o de 2020, o setor de imóveis se manteve em cresc
 Esse interesse deve aquecer o mercado imobiliário e gerar oportunidades para quem quer ampliar o seu patrimônio por meio de imóveis. Portanto, comece a se organizar o quanto antes e já invista na compra do seu novo imóvel, seja um terreno, uma casa, apartamento ou empreendimento. De todas as formas, as chances de multiplicar o seu patrimônio são inúmeras.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

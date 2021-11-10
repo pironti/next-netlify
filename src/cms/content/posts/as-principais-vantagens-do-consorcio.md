@@ -1,14 +1,14 @@
 ---
-        titulo: As principais vantagens do consórcio
-        slug: as-principais-vantagens-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-principais-vantagens-do-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Na hora de comprar um bem, como um carro, casa, moto ou até mesmo adquirir algum tipo de serviço, muitas pessoas pesquisam as melhores formas de fazer esse tipo de investimento.
+titulo: As principais vantagens do consórcio
+slug: as-principais-vantagens-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-principais-vantagens-do-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Na hora de comprar um bem, como um carro, casa, moto ou até mesmo adquirir algum tipo de serviço, muitas pessoas pesquisam as melhores formas de fazer esse tipo de investimento.
 
 Nem sempre o [pagamento à vista](https://www.embracon.com.br/blog/qual-a-vantagem-do-pagamento-a-vista) é viável quando o assunto é bens de alto valor. E, como forma de viabilizar a compra, as pessoas geralmente recorrem a duas formas: o [financiamento](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes), que permite a aquisição imediata do bem após o pagamento de entrada e consentimento de [pagamento de juros](https://www.embracon.com.br/blog/como-os-juros-afetam-a-sua-vida) (que podem fazer com que o bem custe quase o dobro de seu valor original); e o [consórcio, que funciona como o autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo) da compra do bem, revelando-se a forma mais justa de investir em um bem que custa mais de cinco dígitos.
 
@@ -300,4 +300,3 @@ Comece já o seu consórcio
 Para dar início ao pagamento do seu consórcio é muito fácil. [Comece fazendo uma simulação do bem que deseja](https://www.embracon.com.br/) e confira, na prática, as facilidades de uma categoria que realiza sonhos das pessoas há mais de 50 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

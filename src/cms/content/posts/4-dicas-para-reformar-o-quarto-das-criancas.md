@@ -1,14 +1,14 @@
 ---
-        titulo: 4 dicas para reformar o quarto das crianças
-        slug: 4-dicas-para-reformar-o-quarto-das-criancas
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-dicas-para-reformar-o-quarto-das-criancas.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Quando você pensa no quarto de uma criança alguns pontos precisam ser prioridades. Com a [necessidade abrupta de ficarmos mais em casa](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), nos últimos meses fomos obrigados a aprender a deixar os ambientes mais funcionais e organizados, e um dos maiores desafios com certeza foi o [quarto das crianças](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca).
+titulo: 4 dicas para reformar o quarto das crianças
+slug: 4-dicas-para-reformar-o-quarto-das-criancas
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-dicas-para-reformar-o-quarto-das-criancas.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Quando você pensa no quarto de uma criança alguns pontos precisam ser prioridades. Com a [necessidade abrupta de ficarmos mais em casa](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), nos últimos meses fomos obrigados a aprender a deixar os ambientes mais funcionais e organizados, e um dos maiores desafios com certeza foi o [quarto das crianças](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-crianca).
 
 Independente da idade, a maior parte dos pequenos passa grande parte do dia longe do cômodo. Ou na escola, no parquinho, ou fazendo atividades extra curriculares, [mas em 2020, mais do que nunca elas ficaram dentro de casa](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), no próprio quarto.
 
@@ -60,4 +60,3 @@ Você também pode [contar com o consórcio](https://www.embracon.com.br/consorc
 > Confira já as facilidades e [faça uma simulação](https://www.embracon.com.br/consorcio-servicos) no site da Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

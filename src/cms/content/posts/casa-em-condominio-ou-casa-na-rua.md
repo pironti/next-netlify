@@ -1,14 +1,14 @@
 ---
-        titulo: Casa em condomínio ou casa na rua?
-        slug: casa-em-condominio-ou-casa-na-rua
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/casa-em-condominio-ou-casa-na-rua.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Se procura a sua primeira propriedade ou está querendo [viver sozinho pela primeira vez](https://www.embracon.com.br/blog/morar-sozinho-como-economizar-e-crescer-financeiramente), deve ter pensado em algumas alternativas.
+titulo: Casa em condomínio ou casa na rua?
+slug: casa-em-condominio-ou-casa-na-rua
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/casa-em-condominio-ou-casa-na-rua.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Se procura a sua primeira propriedade ou está querendo [viver sozinho pela primeira vez](https://www.embracon.com.br/blog/morar-sozinho-como-economizar-e-crescer-financeiramente), deve ter pensado em algumas alternativas.
 
 Para quem procura mais espaço, pode se deparar com as seguintes questões: ***casa em condomínio ou casa na rua***?
 
@@ -211,4 +211,3 @@ Portanto, observe se as ruas e outros locais públicos (como praças e parques) 
 Se você gostou deste artigo, veja também “[o que considerar na hora de escolher um bairro para morar](https://www.embracon.com.br/blog/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar)”, acesse o link e fique por dentro, continue acompanhando o [blog ](https://www.embracon.com.br/blog)da Embracon, administradora de consórcios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

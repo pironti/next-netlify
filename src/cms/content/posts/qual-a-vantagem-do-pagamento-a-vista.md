@@ -1,14 +1,14 @@
 ---
-        titulo: Qual a vantagem do pagamento à vista?
-        slug: qual-a-vantagem-do-pagamento-a-vista
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-a-vantagem-do-pagamento-a-vista.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O [pagamento à vista](https://www.embracon.com.br/blog/pagar-a-vista-ou-parcelado-o-que-e-melhor) é a modalidade mais conhecida e prática de fazer uma compra. De forma simples, basta ter o dinheiro suficiente para a compra, e pronto! Você não precisa se preocupar em ter que pagar posteriormente. Fica [sem dívida](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) e pode desfrutar sem problemas do bem que acabou de comprar.
+titulo: Qual a vantagem do pagamento à vista?
+slug: qual-a-vantagem-do-pagamento-a-vista
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-a-vantagem-do-pagamento-a-vista.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O [pagamento à vista](https://www.embracon.com.br/blog/pagar-a-vista-ou-parcelado-o-que-e-melhor) é a modalidade mais conhecida e prática de fazer uma compra. De forma simples, basta ter o dinheiro suficiente para a compra, e pronto! Você não precisa se preocupar em ter que pagar posteriormente. Fica [sem dívida](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) e pode desfrutar sem problemas do bem que acabou de comprar.
 
 Claro que, para o pagamento à vista, é preciso ter o dinheiro ali, na hora.
 
@@ -56,4 +56,3 @@ O melhor de tudo é que, caso sobre dinheiro da sua carta de crédito, você pod
 Por isso e muito mais o consórcio é a melhor modalidade para a compra de bens de alto valor a longo prazo. [Faça uma simulação](https://www.embracon.com.br/) e invista desde já no bem que sempre quis.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

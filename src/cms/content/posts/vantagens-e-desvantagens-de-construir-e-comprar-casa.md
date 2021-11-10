@@ -1,14 +1,14 @@
 ---
-        titulo: Vantagens e desvantagens de construir e comprar casa
-        slug: vantagens-e-desvantagens-de-construir-e-comprar-casa
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vantagens-e-desvantagens-de-construir-e-comprar-casa.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Ao decidir onde morar, é normal ter dúvidas sobre como ***construir ou comprar*** sua própria casa, pronta ou do zero. Se você se encontrar nessa situação, não se preocupe.
+titulo: Vantagens e desvantagens de construir e comprar casa
+slug: vantagens-e-desvantagens-de-construir-e-comprar-casa
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vantagens-e-desvantagens-de-construir-e-comprar-casa.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Ao decidir onde morar, é normal ter dúvidas sobre como ***construir ou comprar*** sua própria casa, pronta ou do zero. Se você se encontrar nessa situação, não se preocupe.
 
 A verdade é que não há uma escolha melhor do que outras, tudo depende da situação da sua família, da disponibilidade de tempo, [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) para investir e dos seus planos para o futuro.
 
@@ -124,4 +124,3 @@ Obviamente, você não deve comprar o que vê para construir uma casa. Defina um
 Se o seu objetivo é construir ou comprar casa, veja também as opções de compra de casa ou terreno com o consórcio [Embracon](https://www.embracon.com.br/a-embracon). [Simule](https://www.embracon.com.br/servicos/simulador-de-consorcio) e adquira!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

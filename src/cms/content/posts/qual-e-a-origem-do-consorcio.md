@@ -1,14 +1,14 @@
 ---
-        titulo: Qual é a origem do consórcio?
-        slug: qual-e-a-origem-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-e-a-origem-do-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O consórcio é uma modalidade que foi criada pensando em [planejamento a longo prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo). Na verdade, trata-se da melhor maneira de investir em um bem de alto valor de forma parcelada.
+titulo: Qual é a origem do consórcio?
+slug: qual-e-a-origem-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-e-a-origem-do-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O consórcio é uma modalidade que foi criada pensando em [planejamento a longo prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo). Na verdade, trata-se da melhor maneira de investir em um bem de alto valor de forma parcelada.
 
 Diferentemente do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel), pelo consórcio não há cobrança de entrada, [nem juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Além disso, não existe a burocracia de ter que comprovar todo seu histórico para ter seu valor aprovado.
 
@@ -68,4 +68,3 @@ Devido a toda essa flexibilidade, atualmente o consórcio responde pela administ
 > Isso porque, por trás desses grandes números, existem muitas vantagens de investir no seu próximo bem com o consórcio. [Faça uma simulação](https://www.embracon.com.br/consorcio) e descubra como realizar o seu próximo sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

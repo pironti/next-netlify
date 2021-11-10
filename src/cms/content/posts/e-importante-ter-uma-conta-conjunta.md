@@ -1,14 +1,14 @@
 ---
-        titulo: É importante ter uma conta conjunta?
-        slug: e-importante-ter-uma-conta-conjunta
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-importante-ter-uma-conta-conjunta.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Assim que decidimos compartilhar qualquer coisa com alguém, é necessário confiar muito na pessoa. Isso vale para qualquer tipo de relação, entre amigos, membros da [família](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro) ou colegas de trabalho. Até porque, quando se trata de dinheiro, é mais sério ainda.
+titulo: É importante ter uma conta conjunta?
+slug: e-importante-ter-uma-conta-conjunta
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-importante-ter-uma-conta-conjunta.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Assim que decidimos compartilhar qualquer coisa com alguém, é necessário confiar muito na pessoa. Isso vale para qualquer tipo de relação, entre amigos, membros da [família](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro) ou colegas de trabalho. Até porque, quando se trata de dinheiro, é mais sério ainda.
 
 Por esse motivo, antes de tomar uma decisão com relação a abrir uma conta conjunta, é necessário, além de confiar muito na pessoa com quem está, entender como esse tipo de serviço financeiro é muito importante.
 
@@ -91,4 +91,3 @@ Aproveite a decisão de abrir conta conjunta para estudar educação financeira 
 Gostou desse artigo? Continue nos acompanhando para ter acesso a mais conteúdos como esse.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=conta_conjunta&utm_campaign=publicacoes_blog)</figure>
-        

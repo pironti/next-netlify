@@ -1,14 +1,14 @@
 ---
-        titulo: O que é e como funciona a carta de crédito?
-        slug: o-que-e-e-como-funciona-a-carta-de-credito
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-a-carta-de-credito.jpg
-        meta_summary: 
-        date: 29/10/2021
-        ---
-        Sempre que se menciona o consórcio, já imaginamos o [dia da contemplação do bem](https://www.embracon.com.br/blog/saiba-o-que-fazer-quando-for-contemplado-no-consorcio). Afinal, você investe por muitos meses, até anos, para a compra do bem que tanto sonhou.
+titulo: O que é e como funciona a carta de crédito?
+slug: o-que-e-e-como-funciona-a-carta-de-credito
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-a-carta-de-credito.jpg
+meta_summary: 
+date: 29/10/2021
+---
+Sempre que se menciona o consórcio, já imaginamos o [dia da contemplação do bem](https://www.embracon.com.br/blog/saiba-o-que-fazer-quando-for-contemplado-no-consorcio). Afinal, você investe por muitos meses, até anos, para a compra do bem que tanto sonhou.
 
 Isso porque o consórcio é a melhor forma de comprar parcelado por um bem de alto valor. [Diferentemente do financiamento](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta), por exemplo, em que a instituição financeira facilita a compra à vista do bem e parcela o valor, com acréscimo de juros e exigência de entrada, o consórcio é uma forma menos burocrática e facilita o pagamento de um valor mais justo pelo bem.
 
@@ -230,4 +230,3 @@ Além disso, ao dar poder de compra à vista, a carta de crédito facilita na ho
 > Portanto, comece desde já a investir no seu sonho. Você pode começar com uma [simulação de consórcio](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_funciona_a_carta_de_credito&utm_campaign=publicacoes_blog).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_funciona_a_carta_de_credito&utm_campaign=publicacoes_blog)</figure>### ‍  
-        

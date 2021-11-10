@@ -1,14 +1,14 @@
 ---
-        titulo: As melhores opções de consórcio em tempos de crise
-        slug: as-melhores-opcoes-de-consorcio-em-tempos-de-crise
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-melhores-opcoes-de-consorcio-em-tempos-de-crise.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Será que você conhece todos os [tipos de consórcio](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio)? Para você que ainda não conhece, vamos explicar desde o começo. O consórcio funciona da seguinte maneira: um grupo de pessoas físicas e jurídicas se unem para formar uma poupança destinada à compra de bens móveis (carro ou moto), imóveis (casa, apartamento, empreendimento) e serviços (educação, festas etc).
+titulo: As melhores opções de consórcio em tempos de crise
+slug: as-melhores-opcoes-de-consorcio-em-tempos-de-crise
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-melhores-opcoes-de-consorcio-em-tempos-de-crise.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Será que você conhece todos os [tipos de consórcio](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio)? Para você que ainda não conhece, vamos explicar desde o começo. O consórcio funciona da seguinte maneira: um grupo de pessoas físicas e jurídicas se unem para formar uma poupança destinada à compra de bens móveis (carro ou moto), imóveis (casa, apartamento, empreendimento) e serviços (educação, festas etc).
 
 Este grupo é formado por meio de uma [administradora de consórcios](https://www.embracon.com.br/blog/como-escolher-uma-administradora-de-consorcio). Ela precisa ser devidamente regulamentada, com fiscalização e autorização do [Banco Central do Brasil](https://www.bcb.gov.br/pre/composicao/ac.asp) (Bacen).Para funcionar dentro da lei, a empresa de consórcio deve seguir normatizações específicas da modalidade.
 
@@ -253,4 +253,3 @@ Você consegue saber se a empresa tem autorização do Banco Central por meio de
 > Gostou e quer fazer um consórcio? Faça uma simulação!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

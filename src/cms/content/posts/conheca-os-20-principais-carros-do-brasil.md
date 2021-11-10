@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça os 20 principais carros do Brasil
-        slug: conheca-os-20-principais-carros-do-brasil
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-os-20-principais-carros-do-brasil.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Desde que os primeiros modelos de Fusca passaram a ser fabricados no país, o brasileiro revelou-se um verdadeiro apaixonado por automóveis.
+titulo: Conheça os 20 principais carros do Brasil
+slug: conheca-os-20-principais-carros-do-brasil
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-os-20-principais-carros-do-brasil.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Desde que os primeiros modelos de Fusca passaram a ser fabricados no país, o brasileiro revelou-se um verdadeiro apaixonado por automóveis.
 
 E essa paixão tornou-se cada vez mais crescente. A própria [história do consórcio](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio) tem um papel bem importante nessa relação: afinal, com a invenção do modelo, há mais de 50 anos, milhões de pessoas puderam ter a oportunidade de realizar a [compra do seu primeiro automóvel](https://www.embracon.com.br/blog/guia-completo-para-a-compra-do-primeiro-carro).
 
@@ -200,4 +200,3 @@ A vantagem é que a carta de crédito dá poder de compra à vista, o que permit
 Portanto, invista desde já no seu sonho. [Faça uma simulação de consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros) e confira na prática as vantagens de uma modalidade que ajuda milhões de brasileiros a adquirirem o que desejam.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

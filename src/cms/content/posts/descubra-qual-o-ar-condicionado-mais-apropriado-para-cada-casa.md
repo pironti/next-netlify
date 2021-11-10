@@ -1,14 +1,14 @@
 ---
-        titulo: Descubra qual o ar-condicionado mais apropriado para cada casa
-        slug: descubra-qual-o-ar-condicionado-mais-apropriado-para-cada-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/descubra-qual-o-ar-condicionado-mais-apropriado-para-cada-casa.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A maior parte das cidades brasileiras já está sofrendo com aquele calor do [verão](https://www.embracon.com.br/blog/5-lugares-para-conhecer-no-verao). Ponteiros pelo país inteiro já estão beirando os 40 graus e esse ano isso está acontecendo justamente na época em que estamos ficando mais em casa, por causa da [pandemia ](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia)do novo coronavírus. E ficar em casa com 40 graus sem um ar condicionado apropriado é muito incômodo! A solução para esse transtorno pode parecer difícil, justamente porque escolher um ar condicionado pode parecer muito difícil. Mas não é!
+titulo: Descubra qual o ar-condicionado mais apropriado para cada casa
+slug: descubra-qual-o-ar-condicionado-mais-apropriado-para-cada-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/descubra-qual-o-ar-condicionado-mais-apropriado-para-cada-casa.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A maior parte das cidades brasileiras já está sofrendo com aquele calor do [verão](https://www.embracon.com.br/blog/5-lugares-para-conhecer-no-verao). Ponteiros pelo país inteiro já estão beirando os 40 graus e esse ano isso está acontecendo justamente na época em que estamos ficando mais em casa, por causa da [pandemia ](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia)do novo coronavírus. E ficar em casa com 40 graus sem um ar condicionado apropriado é muito incômodo! A solução para esse transtorno pode parecer difícil, justamente porque escolher um ar condicionado pode parecer muito difícil. Mas não é!
 
 Já que aquela promessa de adquirir ar condicionado para casa sempre é lembrada nos dias mais quentes do ano. Que tal resolver essa pendência de uma vez por todas e instalar o aparelho em vários cômodos da casa?
 
@@ -61,4 +61,3 @@ Outra dica legal de considerar é se você mora em uma [cidade ](https://www.emb
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](http://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 ‍
-        

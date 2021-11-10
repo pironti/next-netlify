@@ -1,14 +1,14 @@
 ---
-        titulo: Planejamento financeiro para iniciantes: os primeiros passos
-        slug: planejamento-financeiro-para-iniciantes-os-primeiros-passos
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/planejamento-financeiro-para-iniciantes-os-primeiros-passos.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Um dos maiores desafios dos brasileiros é dar início ao seu [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Ele é essencial para quem deseja fazer melhor uso do dinheiro e, assim, conseguir [ampliar seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e garantir uma vida confortável para a família e uma boa tranquilidade para a aposentadoria.
+titulo: Planejamento financeiro para iniciantes: os primeiros passos
+slug: planejamento-financeiro-para-iniciantes-os-primeiros-passos
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/planejamento-financeiro-para-iniciantes-os-primeiros-passos.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Um dos maiores desafios dos brasileiros é dar início ao seu [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Ele é essencial para quem deseja fazer melhor uso do dinheiro e, assim, conseguir [ampliar seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e garantir uma vida confortável para a família e uma boa tranquilidade para a aposentadoria.
 
 De fato, o brasileiro tem muita dificuldade de guardar dinheiro. Uma [pesquisa ](https://g1.globo.com/economia/noticia/2019/09/26/67percent-dos-brasileiros-nao-conseguem-poupar-dinheiro-aponta-pesquisa.ghtml)realizada pela Confederação Nacional de Dirigentes Lojistas (CNDL) e pelo Serviço de Proteção ao Crédito (SPC Brasil) identificou que 67% dos brasileiros acima de 16 anos não conseguem guardar nada do dinheiro que ganham mensalmente.
 
@@ -208,4 +208,3 @@ Agora que você já conhece os primeiros passos para começar a fazer melhor uso
 > No seu planejamento financeiro você pode considerar um consórcio. [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja com mais detalhes.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

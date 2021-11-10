@@ -1,14 +1,14 @@
 ---
-        titulo: Os melhores caminhões para fazer pequenas entregas
-        slug: os-melhores-caminhoes-para-fazer-pequenas-entregas
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-melhores-caminhoes-para-fazer-pequenas-entregas.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), tem aumentado significativamente o segmento de entregas em casa. Seja para a entrega de comida ou de pequenas mercadorias, tem-se apresentado uma ótima oportunidade para trabalhar com pequenas mercadorias.
+titulo: Os melhores caminhões para fazer pequenas entregas
+slug: os-melhores-caminhoes-para-fazer-pequenas-entregas
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-melhores-caminhoes-para-fazer-pequenas-entregas.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), tem aumentado significativamente o segmento de entregas em casa. Seja para a entrega de comida ou de pequenas mercadorias, tem-se apresentado uma ótima oportunidade para trabalhar com pequenas mercadorias.
 
 Para se ter uma ideia, só ao longo de 2020, [segundo a Statista](https://abolbrasil.org.br/posts/com-crescimento-do-delivery-durante-quarentena-logistica-de-entrega-se-destaca/), foi registrado um crescimento de 975% na recorrência de pedidos em todo o Brasil: isso inclui pedidos de comida e pequenos artigos, além, é claro, da compra de objetos maiores, como móveis, por exemplo.
 
@@ -81,4 +81,3 @@ E o consórcio pode ser um aliado importante nessa aquisição. Com a [categoria
 > [Faça uma simulação de veículos pesados](https://www.embracon.com.br/consorcio-de-veiculos-pesados) e organize-se o quanto antes para a compra de um novo caminhão.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/6058f873a0df67add1b7c900_EMBRACON_CTA_PESADOS_1.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

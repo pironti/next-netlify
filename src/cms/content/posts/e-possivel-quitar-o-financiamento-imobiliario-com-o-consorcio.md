@@ -1,14 +1,14 @@
 ---
-        titulo: É possível quitar o financiamento imobiliário com o consórcio!
-        slug: e-possivel-quitar-o-financiamento-imobiliario-com-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-quitar-o-financiamento-imobiliario-com-o-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Há muitos anos a [aquisição da casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) tem se destacado como o maior sonho do brasileiro. Felizmente, existem diversas possibilidades de começar a pagar por um bem de alto valor como uma [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce). Como forma de parcelamento, muitas vezes as pessoas acabam considerando opções como o [financiamento e o consórcio](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel).
+titulo: É possível quitar o financiamento imobiliário com o consórcio!
+slug: e-possivel-quitar-o-financiamento-imobiliario-com-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-quitar-o-financiamento-imobiliario-com-o-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Há muitos anos a [aquisição da casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) tem se destacado como o maior sonho do brasileiro. Felizmente, existem diversas possibilidades de começar a pagar por um bem de alto valor como uma [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce). Como forma de parcelamento, muitas vezes as pessoas acabam considerando opções como o [financiamento e o consórcio](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel).
 
 Como o financiamento permite ter acesso ao bem assim que o interessado tem a linha de crédito aprovada pela instituição financeira, muitas pessoas acabam recorrendo a essa opção.
 
@@ -174,4 +174,3 @@ São muitas as possibilidades de [investimento com o consórcio](https://www.emb
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e confira o melhor plano para você e para sua família!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

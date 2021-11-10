@@ -1,14 +1,14 @@
 ---
-        titulo: 4 motivos para fazer uma viagem para Istambul
-        slug: 4-motivos-para-fazer-uma-viagem-para-istambul
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-motivos-para-fazer-uma-viagem-para-istambul.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Está planejando as férias em família e ainda não decidiu qual o melhor destino? Você deve considerar uma **viagem para Istambul**, afinal, essa cidade histórica tem muita coisa a oferecer! Desde pontos turísticos maravilhosos a comidas extremamente saborosas e diferentes.
+titulo: 4 motivos para fazer uma viagem para Istambul
+slug: 4-motivos-para-fazer-uma-viagem-para-istambul
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-motivos-para-fazer-uma-viagem-para-istambul.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Está planejando as férias em família e ainda não decidiu qual o melhor destino? Você deve considerar uma **viagem para Istambul**, afinal, essa cidade histórica tem muita coisa a oferecer! Desde pontos turísticos maravilhosos a comidas extremamente saborosas e diferentes.
 
 Preparamos uma lista com 4 motivos para que você faça uma **viagem para Istambul** e aproveite ao máximo o tempo livre com a família. Continue conosco e confira!
 
@@ -64,4 +64,3 @@ Gostou de conhecer um pouco sobre Istambul?
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para economizar na hora de reformar
-        slug: dicas-para-economizar-na-hora-de-reformar
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-economizar-na-hora-de-reformar.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A [reforma de uma casa ou apartamento](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui) é crucial para deixar o ambiente do jeito que realmente gostaríamos. É nesse momento que você se prepara para deixar o seu cantinho de forma personalizada para quando os parentes e amigos chegarem ao seu lar se surpreenderem.
+titulo: Dicas para economizar na hora de reformar
+slug: dicas-para-economizar-na-hora-de-reformar
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-economizar-na-hora-de-reformar.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A [reforma de uma casa ou apartamento](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui) é crucial para deixar o ambiente do jeito que realmente gostaríamos. É nesse momento que você se prepara para deixar o seu cantinho de forma personalizada para quando os parentes e amigos chegarem ao seu lar se surpreenderem.
 
 Quando se fala em reforma, algumas pessoas já ficam receosas com o alto valor que podem gastar. Muitos detalhes, peças e elementos podem custar um valor elevado, principalmente se você for daquelas pessoas que se empolgam demais e acabam [comprando tudo aquilo que vê](https://www.embracon.com.br/blog/10-importantes-dicas-para-economizar-nas-compras-de-casa).
 
@@ -172,4 +172,3 @@ Caso mude de ideia na hora de utilizar o consórcio de serviços, você conta co
 Quer saber mais sobre todos os detalhes do consórcio de serviços? [Confira nosso post completo](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto) para aproveitar o melhor de uma categoria que tem conquistado cada vez mais os brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

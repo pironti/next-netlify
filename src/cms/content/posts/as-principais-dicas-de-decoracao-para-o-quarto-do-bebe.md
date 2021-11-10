@@ -1,14 +1,14 @@
 ---
-        titulo: As principais dicas de decoração para o quarto do bebê
-        slug: as-principais-dicas-de-decoracao-para-o-quarto-do-bebe
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-principais-dicas-de-decoracao-para-o-quarto-do-bebe.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O tão sonhado dia chegou. A hora de [receber seu bebê em casa](https://www.embracon.com.br/blog/como-se-preparar-para-a-chegada-do-bebe)! Todos os pais sonham com esse momento e querem poder recepcionar o pequeno com o que há de mais bonito, prático e melhor no mercado.
+titulo: As principais dicas de decoração para o quarto do bebê
+slug: as-principais-dicas-de-decoracao-para-o-quarto-do-bebe
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-principais-dicas-de-decoracao-para-o-quarto-do-bebe.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O tão sonhado dia chegou. A hora de [receber seu bebê em casa](https://www.embracon.com.br/blog/como-se-preparar-para-a-chegada-do-bebe)! Todos os pais sonham com esse momento e querem poder recepcionar o pequeno com o que há de mais bonito, prático e melhor no mercado.
 
 Mas quais são os itens essenciais para que seu filho aproveite o seu espaço da melhor maneira possível? Pensando nisso, fizemos uma lista de dicas para quem está planejando [decorar ](https://www.embracon.com.br/blog/6-dicas-de-como-decorar-gastando-pouco)ou [reformar ](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa)esse cômodo da casa. Confira a seguir:
 
@@ -63,4 +63,3 @@ Você também pode contar com o consórcio na hora de decorar seu lar e dar uma 
 > Confira já as facilidades e [faça uma simulação](https://www.embracon.com.br/consorcio) no site da Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Manutenção preventiva: vale a pena investir?
-        slug: manutencao-preventiva-vale-a-pena-investir
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/manutencao-preventiva-vale-a-pena-investir.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        É importante começar esse artigo falando que independente da marca ou da categoria, é sempre importante acompanhar a [manutenção preventiva de carros](https://www.embracon.com.br/blog/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro), com atenção aos itens que exigem a troca periódica.
+titulo: Manutenção preventiva: vale a pena investir?
+slug: manutencao-preventiva-vale-a-pena-investir
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/manutencao-preventiva-vale-a-pena-investir.jpg
+meta_summary: 
+date: 24/09/2021
+---
+É importante começar esse artigo falando que independente da marca ou da categoria, é sempre importante acompanhar a [manutenção preventiva de carros](https://www.embracon.com.br/blog/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro), com atenção aos itens que exigem a troca periódica.
 
 É por isso que listamos todos os itens de manutenção preventiva obrigatória para todos os carros. Leia este artigo para obter as condições mais recentes de [seu veículo](https://www.embracon.com.br/blog/guia-de-como-transferir-veiculo) e evitar recolhê-lo em uma oficina mecânica.
 
@@ -77,4 +77,3 @@ Compreender perfeitamente as necessidades do carro também ajuda o motorista a e
 E se está pensando que já fez todas as manutenções possíveis, e já está na hora de trocar seu carro, pode contar com a [Embracon](https://www.embracon.com.br/) nesse processo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

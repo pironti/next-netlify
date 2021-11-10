@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio ou empréstimo: o que é melhor?
-        slug: consorcio-ou-emprestimo-o-que-e-melhor
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-ou-emprestimo-o-que-e-melhor.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Na hora de comprar bens (como veículos ou imóveis), você já se perguntou se é melhor escolher um consórcio ou um empréstimo? Caso a resposta seja sim, saiba que isso pode ser comum porque existem diferentes maneiras de comprar.
+titulo: Consórcio ou empréstimo: o que é melhor?
+slug: consorcio-ou-emprestimo-o-que-e-melhor
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-ou-emprestimo-o-que-e-melhor.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Na hora de comprar bens (como veículos ou imóveis), você já se perguntou se é melhor escolher um consórcio ou um empréstimo? Caso a resposta seja sim, saiba que isso pode ser comum porque existem diferentes maneiras de comprar.
 
 Os problemas surgem quando as pessoas escolhem um método de compra que não é o mais adequado para o tipo de mercadoria que pretendem ou para o prazo de pagamento que se pode presumir. A tendência é usar o dinheiro de forma ineficiente, ou seja, pagar mais do que o necessário para comprar.
 
@@ -74,4 +74,3 @@ Porém, nada impede que a pessoa seja contemplada antes do término do plano, pa
 Pretende fazer um investimento de longo prazo para realizar os seus sonhos? Faça uma [simulação](https://www.embracon.com.br/servicos/simulacao-de-consorcio) com o consórcio Embracon e aproveite as vantagens que a administradora oferece.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

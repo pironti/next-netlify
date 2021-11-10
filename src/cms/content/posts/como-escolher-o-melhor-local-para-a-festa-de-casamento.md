@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher o melhor local para a festa de casamento?
-        slug: como-escolher-o-melhor-local-para-a-festa-de-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-o-melhor-local-para-a-festa-de-casamento.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Entre as várias decisões que precisam ser tomadas, a escolha do local para a festa de casamento é uma das primeiras e mais importantes. Afinal, a partir daí serão definidos os demais serviços que precisam ser contratados.
+titulo: Como escolher o melhor local para a festa de casamento?
+slug: como-escolher-o-melhor-local-para-a-festa-de-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-o-melhor-local-para-a-festa-de-casamento.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Entre as várias decisões que precisam ser tomadas, a escolha do local para a festa de casamento é uma das primeiras e mais importantes. Afinal, a partir daí serão definidos os demais serviços que precisam ser contratados.
 
 Por isso, todo cuidado é pouco no momento de definir o espaço do evento. Por se tratar de um dos itens que exigem mais investimento, é preciso evitar erros ao fazer a escolha do local, pois ele influenciará diretamente no sucesso da festa como um todo.
 
@@ -64,4 +64,3 @@ Como é possível perceber, existem vários fatores que precisam ser considerado
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

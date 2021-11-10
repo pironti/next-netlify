@@ -1,14 +1,14 @@
 ---
-        titulo:  Quer trocar de carro? Veja como o consórcio pode te ajudar
-        slug: quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Depois de muitos [passeios e viagens](https://www.embracon.com.br/blog/saiba-o-que-considerar-para-escolher-o-carro-ideal), a alta quilometragem do veículo costuma vir acompanhada de alguns problemas. Por mais que você cuide bem do seu carro, quanto mais velho ele fica, aumentam as chances de visitas indesejáveis ao mecânico.
+titulo:  Quer trocar de carro? Veja como o consórcio pode te ajudar
+slug: quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar.png
+meta_summary: 
+date: 06/10/2021
+---
+Depois de muitos [passeios e viagens](https://www.embracon.com.br/blog/saiba-o-que-considerar-para-escolher-o-carro-ideal), a alta quilometragem do veículo costuma vir acompanhada de alguns problemas. Por mais que você cuide bem do seu carro, quanto mais velho ele fica, aumentam as chances de visitas indesejáveis ao mecânico.
 
 Antes que isso possa acontecer, vale a pena trocar de carro.
 
@@ -53,4 +53,3 @@ Essa é a forma mais econômica de garantir a troca do seu carro. Afinal, no con
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

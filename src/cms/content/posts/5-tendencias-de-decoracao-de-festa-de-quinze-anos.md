@@ -1,14 +1,14 @@
 ---
-        titulo: 5 tendências de decoração de festa de quinze anos
-        slug: 5-tendencias-de-decoracao-de-festa-de-quinze-anos
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-tendencias-de-decoracao-de-festa-de-quinze-anos.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        A decoração de[ festa de quinze anos](https://www.embracon.com.br/blog/5-dicas-para-planejar-uma-festa-de-quinze-anos) é muito importante, pois é ela quem vai encher os olhos dos convidados e, é claro, da própria debutante. Por causa disso, é necessário planejar cada elemento em seus mínimos detalhes. Assim, tudo sairá da maneira mais perfeita possível.
+titulo: 5 tendências de decoração de festa de quinze anos
+slug: 5-tendencias-de-decoracao-de-festa-de-quinze-anos
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-tendencias-de-decoracao-de-festa-de-quinze-anos.jpg
+meta_summary: 
+date: 06/10/2021
+---
+A decoração de[ festa de quinze anos](https://www.embracon.com.br/blog/5-dicas-para-planejar-uma-festa-de-quinze-anos) é muito importante, pois é ela quem vai encher os olhos dos convidados e, é claro, da própria debutante. Por causa disso, é necessário planejar cada elemento em seus mínimos detalhes. Assim, tudo sairá da maneira mais perfeita possível.
 
 Se você está[ organizando uma festa de quinze anos](https://www.embracon.com.br/blog/festa-de-15-anos-confira-as-principais-tendencias) e quer saber quais são as principais [tendências de decoração](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento), continue lendo nosso post!
 
@@ -49,4 +49,3 @@ A tecnologia está cada vez mais presente em nossas vidas e pode tornar uma fest
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

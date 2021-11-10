@@ -1,14 +1,14 @@
 ---
-        titulo: Qual é a real importância de um sorriso bonito?
-        slug: qual-e-a-real-importancia-de-um-sorriso-bonito
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-e-a-real-importancia-de-um-sorriso-bonito.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Cuidar da saúde dos dentes é uma preocupação muito válida nos dias de hoje, afinal, esse cuidado com o corpo pode influenciar diretamente diversas áreas da nossa vida. Além de promover uma melhora na autoestima, [um sorriso bonito pode ser importante](https://www.embracon.com.br/blog/o-que-eu-preciso-saber-sobre-o-uso-do-botox-para-correcao-de-sorriso) até na hora de conquistar boas relações pessoais e profissionais.
+titulo: Qual é a real importância de um sorriso bonito?
+slug: qual-e-a-real-importancia-de-um-sorriso-bonito
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-e-a-real-importancia-de-um-sorriso-bonito.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Cuidar da saúde dos dentes é uma preocupação muito válida nos dias de hoje, afinal, esse cuidado com o corpo pode influenciar diretamente diversas áreas da nossa vida. Além de promover uma melhora na autoestima, [um sorriso bonito pode ser importante](https://www.embracon.com.br/blog/o-que-eu-preciso-saber-sobre-o-uso-do-botox-para-correcao-de-sorriso) até na hora de conquistar boas relações pessoais e profissionais.
 
 Ainda não está convencido sobre a importância de manter um belo sorriso? Então, continue a leitura do texto e compreenda como dentes saudáveis podem fazer total diferença na sua vida. Veja!
 
@@ -43,4 +43,3 @@ Gostou de conhecer mais sobre os benefícios de ter um sorriso bonito? Compartil
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

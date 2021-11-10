@@ -1,14 +1,14 @@
 ---
-        titulo: Guia para você comprar sua moto com o consórcio
-        slug: guia-para-voce-comprar-sua-moto-com-o-consorcio
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-para-voce-comprar-sua-moto-com-o-consorcio.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        A cada ano que passa, o brasileiro se mostra cada vez mais interessado na [compra de uma motocicleta](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio). Mesmo em tempos de pandemia, em que muitas pessoas se viram diante de dificuldades financeiras por conta do [isolamento social e da crise sanitária](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia), a intenção de comprar uma moto não diminuiu. Na verdade, aumentou.
+titulo: Guia para você comprar sua moto com o consórcio
+slug: guia-para-voce-comprar-sua-moto-com-o-consorcio
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-para-voce-comprar-sua-moto-com-o-consorcio.jpg
+meta_summary: 
+date: 19/10/2021
+---
+A cada ano que passa, o brasileiro se mostra cada vez mais interessado na [compra de uma motocicleta](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio). Mesmo em tempos de pandemia, em que muitas pessoas se viram diante de dificuldades financeiras por conta do [isolamento social e da crise sanitária](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia), a intenção de comprar uma moto não diminuiu. Na verdade, aumentou.
 
 Uma pesquisa realizada pela plataforma Mercado Livre revelou que [houve um crescimento de 35% na intenção de compra de moto](https://motorshow.com.br/pandemia-fez-crescer-em-35-a-intencao-de-compra-de-motos/) ao longo do segundo semestre de 2020, comparado ao mesmo período do ano anterior (2019).
 
@@ -161,4 +161,3 @@ Como deu para perceber, são múltiplas as vantagens de se investir em um consó
 [Faça uma simulação](https://www.embracon.com.br/consorcio-motos) e realize desde já o sonho de ter um veículo de duas rodas em sua garagem.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulador](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Garanta sua primeira moto com consórcio
-        slug: garanta-sua-primeira-moto-com-consorcio
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/garanta-sua-primeira-moto-com-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Cansado de usar o transporte público, mas ainda não tem dinheiro para [comprar um carro](https://www.embracon.com.br/blog/carro-ou-moto-qual-e-melhor-para-voce)? Então, você já avaliou todos os benefícios de [ter sua primeira moto](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto)?
+titulo: Garanta sua primeira moto com consórcio
+slug: garanta-sua-primeira-moto-com-consorcio
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/garanta-sua-primeira-moto-com-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Cansado de usar o transporte público, mas ainda não tem dinheiro para [comprar um carro](https://www.embracon.com.br/blog/carro-ou-moto-qual-e-melhor-para-voce)? Então, você já avaliou todos os benefícios de [ter sua primeira moto](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto)?
 
 Econômicas, eficientes e ágeis, as motos são a escolha de muitas pessoas. Isso porque, além de consumir menos combustível, também consegue viagens mais rápidas, principalmente nas grandes cidades.
 
@@ -67,4 +67,3 @@ Os clientes podem participar de sorteios mensais que ocorrem durante o período 
 Agora que você sabe como fazer um consórcio para sua primeira moto, como usar e fazer uma [simulação de consórcio](https://www.embracon.com.br/consorcio) que atenda às suas expectativas? Não guarde para mais tarde!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

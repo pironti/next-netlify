@@ -1,14 +1,14 @@
 ---
-        titulo: O que é a mentoplastia e quem deve fazer?
-        slug: o-que-e-a-mentoplastia-e-quem-deve-fazer
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-a-mentoplastia-e-quem-deve-fazer.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O padrão de beleza ocidental tende a enaltecer pessoas com o rosto angulado e queixo bem definido. Quando essa estrutura apresenta projeção ou retração, gera insatisfação e interfere na autoestima. A **mentoplastia** é uma cirurgia plástica que pode proporcionar a harmonia facial.
+titulo: O que é a mentoplastia e quem deve fazer?
+slug: o-que-e-a-mentoplastia-e-quem-deve-fazer
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-a-mentoplastia-e-quem-deve-fazer.jpg
+meta_summary: 
+date: 30/09/2021
+---
+O padrão de beleza ocidental tende a enaltecer pessoas com o rosto angulado e queixo bem definido. Quando essa estrutura apresenta projeção ou retração, gera insatisfação e interfere na autoestima. A **mentoplastia** é uma cirurgia plástica que pode proporcionar a harmonia facial.
 
 Pessoas que apresentam problemas quanto ao posicionamento do queixo buscam soluções, tanto para uma melhoria estética quanto funcional. Por meio do procedimento cirúrgico, é possível aumentar ou diminuir a região.
 
@@ -81,4 +81,3 @@ Normalmente, a mentoplastia oferece resultados satisfatórios, com a harmonizaç
 O queixo é uma das principais regiões da face que definem o formato do rosto, tendo uma importante função estética e funcional. A mentoplastia, quando precedida de análise correta e realizada por um bom cirurgião plástico, pode proporcionar uma mudança significativa na vida do paciente.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

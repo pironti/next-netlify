@@ -1,14 +1,14 @@
 ---
-        titulo: 4 roteiros de viagem em Minas Gerais
-        slug: 4-roteiros-de-viagem-em-minas-gerais
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-roteiros-de-viagem-em-minas-gerais.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Apesar de ser o 4º maior estado do país, Minas Gerais possui dezenas de cidades históricas, uma próxima da outra. Quem quer conhecer bem a fundo o estado pode aproveitar muito bem [uma viagem de carro](https://www.embracon.com.br/blog/3-lugares-incriveis-para-viajar-de-carro), de preferência com bastante tempo disponível, para aproveitar cada pedacinho de uma das grandes [belezas brasileiras](https://www.embracon.com.br/blog/conheca-as-melhores-cidades-para-se-viver-no-brasil-2).
+titulo: 4 roteiros de viagem em Minas Gerais
+slug: 4-roteiros-de-viagem-em-minas-gerais
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-roteiros-de-viagem-em-minas-gerais.png
+meta_summary: 
+date: 06/10/2021
+---
+Apesar de ser o 4º maior estado do país, Minas Gerais possui dezenas de cidades históricas, uma próxima da outra. Quem quer conhecer bem a fundo o estado pode aproveitar muito bem [uma viagem de carro](https://www.embracon.com.br/blog/3-lugares-incriveis-para-viajar-de-carro), de preferência com bastante tempo disponível, para aproveitar cada pedacinho de uma das grandes [belezas brasileiras](https://www.embracon.com.br/blog/conheca-as-melhores-cidades-para-se-viver-no-brasil-2).
 
 Claro que, para curtir o que há de melhor em cada cidade, é preciso tempo. O ideal é reservar [alguns dias para cada passeio](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica), sem muita pressa.
 
@@ -53,4 +53,3 @@ A viagem fica ainda mais agradável com uma passada no restaurante O Alquimista,
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

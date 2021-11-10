@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para pagar faculdade: o que é e como funciona
-        slug: consorcio-embracon-para-pagar-faculdade
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-embracon-para-pagar-faculdade.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Investir em educação é a melhor forma para garantir um futuro melhor. Hoje, uma das possibilidades para arcar com as despesas relacionadas aos estudos é fazer um [**consórcio para pagar faculdade**](https://www.embracon.com.br/consorcio-servicos).
+titulo: Consórcio para pagar faculdade: o que é e como funciona
+slug: consorcio-embracon-para-pagar-faculdade
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-embracon-para-pagar-faculdade.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Investir em educação é a melhor forma para garantir um futuro melhor. Hoje, uma das possibilidades para arcar com as despesas relacionadas aos estudos é fazer um [**consórcio para pagar faculdade**](https://www.embracon.com.br/consorcio-servicos).
 
 Essa modalidade está cada vez mais em alta, permitindo que um número crescente de pessoas possa adquirir um nível elevado de escolaridade.
 
@@ -66,4 +66,3 @@ Você gostou deste texto sobre [consórcio](https://www.embracon.com.br/consorci
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

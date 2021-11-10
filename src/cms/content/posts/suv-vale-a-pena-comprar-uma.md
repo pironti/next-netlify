@@ -1,14 +1,14 @@
 ---
-        titulo: SUV: vale a pena comprar uma?
-        slug: suv-vale-a-pena-comprar-uma
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/suv-vale-a-pena-comprar-uma.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Ao longo dos anos, o Brasil tem apresentado gostos peculiares quando o assunto é [popularidade de carros](https://www.embracon.com.br/carros/consorcio-de-carro-popular). Durante muito tempo, prevaleceram os [modelos hatch](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas) não apenas por seu preço, mas também por sua economia e mobilidade - tanto que tinham modelos de até duas portas, algo que era exclusivo do nosso mercado automotivo, para se ter uma ideia.
+titulo: SUV: vale a pena comprar uma?
+slug: suv-vale-a-pena-comprar-uma
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/suv-vale-a-pena-comprar-uma.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Ao longo dos anos, o Brasil tem apresentado gostos peculiares quando o assunto é [popularidade de carros](https://www.embracon.com.br/carros/consorcio-de-carro-popular). Durante muito tempo, prevaleceram os [modelos hatch](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas) não apenas por seu preço, mas também por sua economia e mobilidade - tanto que tinham modelos de até duas portas, algo que era exclusivo do nosso mercado automotivo, para se ter uma ideia.
 
 Nos últimos anos, porém, o brasileiro mostrou-se apaixonado pelos [modelos SUV](https://www.embracon.com.br/blog/conheca-os-melhores-suvs-do-mercado), que são os utilitários esportivos. São modelos maiores, mais robustos e que geram mais conforto no momento da direção por conta de seu maior espaçamento interno.
 
@@ -57,4 +57,3 @@ Ao ser contemplado, você pode usar a carta de crédito para a compra do SUV que
 Portanto, aproveite as vantagens do consórcio de automóveis e [faça uma simulação agora mesmo](https://www.embracon.com.br/consorcio-de-carros). Assim, você pode finalmente realizar o sonho de comprar o SUV dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

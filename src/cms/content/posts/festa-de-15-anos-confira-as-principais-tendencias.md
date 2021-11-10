@@ -1,14 +1,14 @@
 ---
-        titulo: Festa de 15 anos: confira as principais tendências
-        slug: festa-de-15-anos-confira-as-principais-tendencias
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/festa-de-15-anos-confira-as-principais-tendencias.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Para as jovens que estão prestes a completar 15 anos, está chegando o tão esperado momento: organizar o “baile de debutantes”! Essa tradicional comemoração marca uma passagem muito importante. Por isso, a decoração, o anel, o vestido brilhante, a dança com os amigos e todos os outros detalhes envolvidos na cerimônia precisam ser pesquisados com muito carinho.
+titulo: Festa de 15 anos: confira as principais tendências
+slug: festa-de-15-anos-confira-as-principais-tendencias
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/festa-de-15-anos-confira-as-principais-tendencias.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Para as jovens que estão prestes a completar 15 anos, está chegando o tão esperado momento: organizar o “baile de debutantes”! Essa tradicional comemoração marca uma passagem muito importante. Por isso, a decoração, o anel, o vestido brilhante, a dança com os amigos e todos os outros detalhes envolvidos na cerimônia precisam ser pesquisados com muito carinho.
 
 Porém, em meio a tantas opções de cerimoniais, como organizar uma festa inesquecível e que caiba no bolso? Nesse sentido, iniciar um planejamento financeiro com antecedência é uma prática indispensável para evitar imprevistos desagradáveis. Não sabe o que fazer para se organizar? Não se preocupe!
 
@@ -49,4 +49,3 @@ Na pista, a família pode apostar em uma valsa moderna: ao invés da música cl�
 Esse momento é especial para a sua filha e deve ser cuidado com todo o carinho. Investir na criatividade, primar pela organização e fazer pesquisas criteriosas são estratégias que possibilitam produzir uma festa de 15 anos linda e dentro do [orçamento estipulado](https://www.embracon.com.br/blog/entenda-como-funciona-um-consorcio-para-festas). Acompanhe as [tendências](https://www.embracon.com.br/blog/5-tendencias-de-decoracao-de-festa-de-quinze-anos) e fique atento a todos os detalhes. Com isso, nada vai ficar para a última hora.E então, o que achou das dicas que trouxemos para organizar um baile memorável? Já sabe quais as tendências seguir neste momento especial? Comente aqui e compartilhe conosco a sua experiência!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

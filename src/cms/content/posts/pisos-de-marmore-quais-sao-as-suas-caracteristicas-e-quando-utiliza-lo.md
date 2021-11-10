@@ -1,14 +1,14 @@
 ---
-        titulo: Pisos de mármore: suas características e quando utilizá-lo?
-        slug: pisos-de-marmore-quais-sao-as-suas-caracteristicas-e-quando-utiliza-lo
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pisos-de-marmore-quais-sao-as-suas-caracteristicas-e-quando-utiliza-lo.jpeg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Está pensando em [reformar a sua casa ](https://www.embracon.com.br/blog/consorcio-reforma-embracon-por-que-e-uma-boa-opcao)ou adquirir o tão sonhado[ lar doce lar](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo)? Então, você deve considerar o **piso de mármore** em [alguns ambientes](https://www.embracon.com.br/blog/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa)! Além de muito bonito, esse material traz um ar de elegância, requinte e sofisticação.Para que ele fique sempre novo, contudo, é preciso ter alguns cuidados. Quer saber quais são eles? Para lhe ajudar com isso, veremos neste post as suas características e para quais ambientes ele é mais indicado! Continue lendo e confira como esse piso pode ser uma bela opção para a sua casa.**Tá pensando em reformar? Com o**[ **consórcio**](https://www.embracon.com.br/)**, você consegue!**
+titulo: Pisos de mármore: suas características e quando utilizá-lo?
+slug: pisos-de-marmore-quais-sao-as-suas-caracteristicas-e-quando-utiliza-lo
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pisos-de-marmore-quais-sao-as-suas-caracteristicas-e-quando-utiliza-lo.jpeg
+meta_summary: 
+date: 08/10/2021
+---
+Está pensando em [reformar a sua casa ](https://www.embracon.com.br/blog/consorcio-reforma-embracon-por-que-e-uma-boa-opcao)ou adquirir o tão sonhado[ lar doce lar](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo)? Então, você deve considerar o **piso de mármore** em [alguns ambientes](https://www.embracon.com.br/blog/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa)! Além de muito bonito, esse material traz um ar de elegância, requinte e sofisticação.Para que ele fique sempre novo, contudo, é preciso ter alguns cuidados. Quer saber quais são eles? Para lhe ajudar com isso, veremos neste post as suas características e para quais ambientes ele é mais indicado! Continue lendo e confira como esse piso pode ser uma bela opção para a sua casa.**Tá pensando em reformar? Com o**[ **consórcio**](https://www.embracon.com.br/)**, você consegue!**
 
 Quais são as principais características desse piso?
 ---------------------------------------------------
@@ -33,4 +33,3 @@ Que cuidados devem ser tomados para mantê-lo sempre novo?
 Por fim, para que o mármore permaneça com um aspecto sempre novo é preciso ter cuidado com os materiais de limpeza que você usa, além da abrasividade de panos e esponjas. Não utilize óleo ou líquido corrosivo, por exemplo, pois eles podem manchar e deteriorar o seu revestimento.Sempre que for fazer a higienização, utilize um pano macio e úmido. O mármore não costuma dar trabalho para limpar, bastando apenas isso na maioria das vezes. Evite também arrastar móveis sobre esse revestimento, e tome bastante cuidado com o salto dos sapatos, para não marcar o material.Bom, além de todas as vantagens que já foram mencionadas, o **piso de mármore** tem ainda outro grande ponto a seu favor: ele nunca sai de moda. Então, faça um bom planejamento e utilize esse material tão versátil e requintado. Você vai perceber como ele faz diferença! E caso o seu orçamento fique apertado, que tal um consórcio para reformas?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

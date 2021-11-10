@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são os melhores tipos de investimentos atualmente? Confira!
-        slug: quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Guardar dinheiro é o objetivo de muitas pessoas que têm projetos pessoais ou querem criar uma [reserva para emergências](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul). O que você talvez não saiba é que há diferentes formas de fazer esse dinheiro render mais do que na[ poupança](https://www.embracon.com.br/blog/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher). Para isso, é muito importante conhecer os melhores tipos de investimentos para descobrir qual mais se encaixa no seu perfil.
+titulo: Quais são os melhores tipos de investimentos atualmente? Confira!
+slug: quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Guardar dinheiro é o objetivo de muitas pessoas que têm projetos pessoais ou querem criar uma [reserva para emergências](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul). O que você talvez não saiba é que há diferentes formas de fazer esse dinheiro render mais do que na[ poupança](https://www.embracon.com.br/blog/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher). Para isso, é muito importante conhecer os melhores tipos de investimentos para descobrir qual mais se encaixa no seu perfil.
 
 Existem [investimentos](https://www.embracon.com.br/blog/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000) de alto e de baixo risco, bem como de [curto, médio e longo prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo). Além disso, cada tipo tem uma taxa de rendimento diferente e exige questões diversas do investidor. Sendo assim, é fundamental pesquisar com bastante atenção para ter segurança antes de aplicar o seu dinheiro.
 
@@ -60,4 +60,3 @@ Agora que você já conhece as principais opções para investir, que tal consid
 > Leia mais: [8 motivos que comprovam que consórcio é investimento.](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

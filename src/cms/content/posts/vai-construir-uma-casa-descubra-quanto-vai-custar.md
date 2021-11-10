@@ -1,14 +1,14 @@
 ---
-        titulo: Vai construir uma casa? Descubra quanto vai custar
-        slug: vai-construir-uma-casa-descubra-quanto-vai-custar
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vai-construir-uma-casa-descubra-quanto-vai-custar.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        São comuns histórias de nossos pais e avós que tiveram que [construir as suas próprias casas](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo), com o suor de muito trabalho e, muitas vezes, com o apoio de amigos e parentes na mão de obra. No entanto, com o número crescente de ofertas de casas já construídas, cada vez menos as pessoas veem necessidade de começar uma obra do zero.
+titulo: Vai construir uma casa? Descubra quanto vai custar
+slug: vai-construir-uma-casa-descubra-quanto-vai-custar
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vai-construir-uma-casa-descubra-quanto-vai-custar.png
+meta_summary: 
+date: 06/10/2021
+---
+São comuns histórias de nossos pais e avós que tiveram que [construir as suas próprias casas](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo), com o suor de muito trabalho e, muitas vezes, com o apoio de amigos e parentes na mão de obra. No entanto, com o número crescente de ofertas de casas já construídas, cada vez menos as pessoas veem necessidade de começar uma obra do zero.
 
 Isso porque [construir uma casa](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo) envolve um planejamento muito bem detalhado: da planta até que se bata o último prego, muitos profissionais são envolvidos.
 
@@ -109,4 +109,3 @@ Você sabia que, além de ter a possibilidade de [investir em um imóvel](https:
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

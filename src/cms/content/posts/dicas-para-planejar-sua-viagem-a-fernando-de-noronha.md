@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para planejar sua viagem a Fernando de Noronha
-        slug: dicas-para-planejar-sua-viagem-a-fernando-de-noronha
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-planejar-sua-viagem-a-fernando-de-noronha.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Fernando de Noronha sem dúvida é um dos lugares mais bonitos do mundo, formada por 21 pequenas ilhas. Com uma natureza exuberante e pouco explorada, o arquipélago é considerado uma das viagens dos sonhos de muitos guias turísticos por todo o planeta.
+titulo: Dicas para planejar sua viagem a Fernando de Noronha
+slug: dicas-para-planejar-sua-viagem-a-fernando-de-noronha
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-planejar-sua-viagem-a-fernando-de-noronha.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Fernando de Noronha sem dúvida é um dos lugares mais bonitos do mundo, formada por 21 pequenas ilhas. Com uma natureza exuberante e pouco explorada, o arquipélago é considerado uma das viagens dos sonhos de muitos guias turísticos por todo o planeta.
 
 Mas não só de [praias e belezas naturais](https://www.embracon.com.br/blog/guia-completo-para-uma-viagem-sustentavel-em-praias-paradisiacas) sobrevive a ilha. Com 500 anos de história, Noronha também tem um patrimônio histórico super preservado, com Patrimônio Arquitetônico e Urbanístico. Além disso, um dos pontos altos da ilha também são os pontos de mergulho. A ilha abriga os melhores pontos do mundo, com águas claras, quentes, límpidas e muita diversidade de vida marinha visíveis com máscaras. É a viagem perfeita para você fazer, seja com a [família ](https://www.embracon.com.br/blog/conheca-4-destinos-incriveis-para-passar-ferias-em-familia)ou aquela [viagem romântica](https://www.embracon.com.br/blog/5-dicas-incriveis-para-planejar-uma-viagem-romantica).
 
@@ -59,4 +59,3 @@ Não se esqueça da possibilidade de fazer um [consórcio para viajar](https://w
 > Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

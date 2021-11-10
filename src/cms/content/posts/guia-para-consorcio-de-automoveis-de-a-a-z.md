@@ -1,14 +1,14 @@
 ---
-        titulo: Guia para Consórcio de Automóveis de A a Z
-        slug: guia-para-consorcio-de-automoveis-de-a-a-z
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-para-consorcio-de-automoveis-de-a-a-z.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Os brasileiros estão entre as pessoas que mais têm como costume trocar de carro em todo o mundo. Mesmo diante de uma crise financeira que se instaurou no país, muitos não deixaram de investir em um veículo novo. Contudo, existem alguns fatores que tornaram essa compra um pouco mais complicada, como os altos juros cobrados nos financiamentos tradicionais. É por esse motivo que você precisa saber mais sobre o consórcio de automóveis.
+titulo: Guia para Consórcio de Automóveis de A a Z
+slug: guia-para-consorcio-de-automoveis-de-a-a-z
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-para-consorcio-de-automoveis-de-a-a-z.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Os brasileiros estão entre as pessoas que mais têm como costume trocar de carro em todo o mundo. Mesmo diante de uma crise financeira que se instaurou no país, muitos não deixaram de investir em um veículo novo. Contudo, existem alguns fatores que tornaram essa compra um pouco mais complicada, como os altos juros cobrados nos financiamentos tradicionais. É por esse motivo que você precisa saber mais sobre o consórcio de automóveis.
 
 Se você quer fazer a aquisição de um [novo veículo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), saiba que essa modalidade de compra é indiscutivelmente mais vantajosa. Especialmente se você não estiver com pressa de pegar um [carro novo](https://www.embracon.com.br/blog/contemplacao-consorcio-carro-como-aumentar-chances). O objetivo do consórcio é proporcionar uma compra programada, que vai possibilitar a realização do seu sonho de forma segura, sem interferir na sua saúde financeira.
 
@@ -317,4 +317,3 @@ Agora que você já sabe como funciona o consórcio de carros e motos, certifiqu
 Entre em [contato conosco](https://www.embracon.com.br/) e confira qual consórcio de automóveis atende as condições que você deseja!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a regularização imobiliária
-        slug: como-funciona-a-regularizacao-imobiliaria
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-regularizacao-imobiliaria.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Comprar ou vender um imóvel engloba diversas questões e processos burocráticos, por esse motivo, antes de entrar em uma negociação, é fundamental que você analise com cuidado se estão irregularidades sobre a [propriedade](https://www.embracon.com.br/blog/consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade). Mas, afinal, você sabe como é feita a regularização de imóveis?
+titulo: Como funciona a regularização imobiliária
+slug: como-funciona-a-regularizacao-imobiliaria
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-regularizacao-imobiliaria.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Comprar ou vender um imóvel engloba diversas questões e processos burocráticos, por esse motivo, antes de entrar em uma negociação, é fundamental que você analise com cuidado se estão irregularidades sobre a [propriedade](https://www.embracon.com.br/blog/consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade). Mas, afinal, você sabe como é feita a regularização de imóveis?
 
 Escrituras, certidões e outros documentos são extremamente importantes para tornar o imóvel legível a negociações, além de garantir legalidade perante o pagamento de impostos e outras obrigações. Um imóvel sem escritura, por exemplo, é o mesmo que uma pessoa sem RG.
 
@@ -226,4 +226,3 @@ Antes de fechar o negócio, leia todas as cláusulas com atenção e tenha certe
 > Gostou desse artigo? Se você optou pelo consórcio de imóveis, continue nos acompanhando para ter acesso a mais informações do mercado. Caso ainda não tenha escolhido a melhor modalidade de compra, entre em contato com a Embracon e[ faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb5e77abc38c34aef6f090_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

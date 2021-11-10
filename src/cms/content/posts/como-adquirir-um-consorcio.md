@@ -1,14 +1,14 @@
 ---
-        titulo: Como adquirir um consórcio?
-        slug: como-adquirir-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-adquirir-um-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Antes de se fazer essa pergunta, é preciso pensar: qual é o seu sonho?
+titulo: Como adquirir um consórcio?
+slug: como-adquirir-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-adquirir-um-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Antes de se fazer essa pergunta, é preciso pensar: qual é o seu sonho?
 
 Você pretende adquirir a [carta de crédito](https://www.embracon.com.br/blog/consorcios-segredos-que-nao-te-contaram) para um carro mais confortável para você e para sua família? Ou quer investir em uma casa maior e decorada, para receber os amigos? Ou, quem sabe, preparar o filho para o intercâmbio quando ele estiver na faculdade, organizar a festa da sua filha que vai completar 15 anos ou surpreender a família com uma viagem sensacional pelo mundo?
 
@@ -268,4 +268,3 @@ Se você comprou um imóvel e deseja reformar, por exemplo, pode adquirir o cons
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> São múltiplas as vantagens de se planejar para a compra de um bem de alto valor. [Faça já uma simulação](https://www.embracon.com.br/consorcio) e invista no seu sonho e de toda a sua família.
 
 ‍
-        

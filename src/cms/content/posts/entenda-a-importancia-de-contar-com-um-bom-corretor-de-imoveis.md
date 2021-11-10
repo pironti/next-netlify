@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda a importância de contar com um bom corretor de imóveis
-        slug: entenda-a-importancia-de-contar-com-um-bom-corretor-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-a-importancia-de-contar-com-um-bom-corretor-de-imoveis.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A hora de [comprar um imóvel](https://www.embracon.com.br/consorcio-de-imoveis) é um momento muito importante e, quando feita da forma certa, é uma grande felicidade. Porém, é preciso [tomar todos os cuidados para não cair em golpes](https://www.embracon.com.br/blog/fraude-em-consorcio-como-nao-cair-em-golpes) ou cometer erros burocráticos que podem dar muitas dores de cabeça.
+titulo: Entenda a importância de contar com um bom corretor de imóveis
+slug: entenda-a-importancia-de-contar-com-um-bom-corretor-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-a-importancia-de-contar-com-um-bom-corretor-de-imoveis.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A hora de [comprar um imóvel](https://www.embracon.com.br/consorcio-de-imoveis) é um momento muito importante e, quando feita da forma certa, é uma grande felicidade. Porém, é preciso [tomar todos os cuidados para não cair em golpes](https://www.embracon.com.br/blog/fraude-em-consorcio-como-nao-cair-em-golpes) ou cometer erros burocráticos que podem dar muitas dores de cabeça.
 
 Por isso, é essencial contar com o profissionalismo e o conhecimento de um bom corretor de imóveis. Ele é o único profissional habilitado perante a lei para lidar com todos os aspectos de uma transação imobiliária, incluindo permuta e administração, tanto em áreas urbanas quanto rurais.
 
@@ -52,4 +52,3 @@ Se você ainda está inseguro em relação a contratar um corretor imobiliário 
 > Se você deseja começar a [planejar a compra do imóvel dos sonhos](https://www.embracon.com.br/blog/hora-certa-comprar-imovel), [faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e entenda como a Embracon pode te ajudar nessa conquista!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

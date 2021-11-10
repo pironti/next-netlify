@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba quais são os pontos positivos e negativos de pagar à vista e parcelado
-        slug: saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado.png
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Não importa o [bem que deseja comprar](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio): seja um pequeno item no mercado, um produto necessário disponível no e-commerce ou um grande bem, como um [carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro) ou um [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), o consumidor já pensa na forma de pagamento antes mesmo de efetuar a transação.
+titulo: Saiba quais são os pontos positivos e negativos de pagar à vista e parcelado
+slug: saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado.png
+meta_summary: 
+date: 30/09/2021
+---
+Não importa o [bem que deseja comprar](https://www.embracon.com.br/blog/voce-conhece-todos-os-tipos-de-consorcio): seja um pequeno item no mercado, um produto necessário disponível no e-commerce ou um grande bem, como um [carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro) ou um [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), o consumidor já pensa na forma de pagamento antes mesmo de efetuar a transação.
 
 O poder de compra pesa bastante nessa hora: se você tem dinheiro disponível, provavelmente deve optar pela compra à vista, mas se já está com seus recursos comprometidos, considera utilizar o cartão de crédito para parcelar a compra.
 
@@ -82,4 +82,3 @@ Informe ao vendedor que você possui o valor total da compra. Isso pode gerar um
 > Para saber mais sobre as vantagens do consórcio na compra de bens de alto valor, [faça uma simulação no site da Embracon](https://www.embracon.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Gostou do nosso post? Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube! ](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ)
-        
