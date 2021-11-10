@@ -1,11 +1,11 @@
 ---
 titulo: 10 dicas para organizar uma viagem inesquecível com os filhos pequenos
 slug: 10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos
-categoria: Viagens
+categoria: financas-pessoais
 tags:
-- tag-1
+  - tag-1
 thumbnail: /public/cms-content/media/10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos.jpg
-meta_summary: 
+meta_summary: teste
 date: 30/09/2021
 ---
 Os planos de todo mundo estão um pouco parados por conta do pandemia do coronavírus. Mas já parou para refletir que esse tempo extra é um ótimo momento para [planejar uma viagem de férias](https://www.embracon.com.br/consorcio-servicos) com a família? [Viajar com os filhos](https://www.embracon.com.br/blog/4-motivos-para-investir-em-intercambio-para-os-filhos), especialmente os menores, exige alguns cuidados extras, mas é possível organizar todos os detalhes necessários.
