@@ -1,5 +1,5 @@
 ---
-titulo: Procedimento estético: vantagens e desvantagens
+titulo: "Procedimento estético: vantagens e desvantagens"
 slug: procedimento-estetico-vantagens-e-desvantagens
 categoria: saude-e-estetica
 tags:

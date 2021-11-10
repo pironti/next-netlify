@@ -1,5 +1,5 @@
 ---
-titulo: Carro manual ou automático: qual é a melhor opção?
+titulo: "Carro manual ou automático: qual é a melhor opção?"
 slug: carro-manual-ou-automatico-qual-e-a-melhor-opcao
 categoria: carros
 tags:

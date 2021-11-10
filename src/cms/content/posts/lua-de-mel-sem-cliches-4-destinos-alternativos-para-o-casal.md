@@ -1,5 +1,5 @@
 ---
-titulo: Lua de mel sem clichês: 4 destinos alternativos para o casal
+titulo: "Lua de mel sem clichês: 4 destinos alternativos para o casal"
 slug: lua-de-mel-sem-cliches-4-destinos-alternativos-para-o-casal
 categoria: viagens
 tags:

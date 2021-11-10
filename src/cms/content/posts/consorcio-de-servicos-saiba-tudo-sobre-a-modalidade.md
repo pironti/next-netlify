@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de serviços: saiba tudo sobre a modalidade
+titulo: "Consórcio de serviços: saiba tudo sobre a modalidade"
 slug: consorcio-de-servicos-saiba-tudo-sobre-a-modalidade
 categoria: servicos
 tags:

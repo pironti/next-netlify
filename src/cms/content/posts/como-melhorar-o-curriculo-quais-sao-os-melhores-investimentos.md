@@ -1,5 +1,5 @@
 ---
-titulo: Como melhorar o currículo: quais são os melhores investimentos?
+titulo: "Como melhorar o currículo: quais são os melhores investimentos?"
 slug: como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos
 categoria: educacao
 tags:

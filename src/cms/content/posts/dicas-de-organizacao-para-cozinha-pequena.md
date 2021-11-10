@@ -1,5 +1,5 @@
 ---
-titulo: Cozinha pequena: como melhorar seu visual e sua organização
+titulo: "Cozinha pequena: como melhorar seu visual e sua organização"
 slug: dicas-de-organizacao-para-cozinha-pequena
 categoria: decoracao-e-reformas
 tags:

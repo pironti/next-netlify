@@ -1,5 +1,5 @@
 ---
-titulo: Cerimonial de casamento: vale a pena contratar?
+titulo: "Cerimonial de casamento: vale a pena contratar?"
 slug: cerimonial-de-casamento-vale-a-pena-contratar
 categoria: festas
 tags:

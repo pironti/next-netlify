@@ -1,5 +1,5 @@
 ---
-titulo: Casa Inteligente: como automatizar sua casa
+titulo: "Casa Inteligente: como automatizar sua casa"
 slug: casa-inteligente-como-automatizar-sua-casa
 categoria: imoveis
 tags:

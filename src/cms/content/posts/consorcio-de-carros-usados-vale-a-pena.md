@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de carros usados: vale a pena?
+titulo: "Consórcio de carros usados: vale a pena?"
 slug: consorcio-de-carros-usados-vale-a-pena
 categoria: consorcio
 tags:

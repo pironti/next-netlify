@@ -1,5 +1,5 @@
 ---
-titulo: Quando reformar a casa: 5 sinais de que já chegou a hora
+titulo: "Quando reformar a casa: 5 sinais de que já chegou a hora"
 slug: quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora
 categoria: decoracao-e-reformas
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Poltronas: por que e como utilizar em decoração de quarto
+titulo: "Poltronas: por que e como utilizar em decoração de quarto"
 slug: uso-poltronas-na-decoracao-de-quarto
 categoria: decoracao-e-reformas
 tags:

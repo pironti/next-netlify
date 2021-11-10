@@ -1,5 +1,5 @@
 ---
-titulo: Guia financeiro completo: hábitos de consumo consciente e planejamento financeiro
+titulo: "Guia financeiro completo: hábitos de consumo consciente e planejamento financeiro"
 slug: guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro
 categoria: financas-pessoais
 tags:

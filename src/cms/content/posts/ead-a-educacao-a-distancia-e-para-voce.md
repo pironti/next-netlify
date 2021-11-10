@@ -1,5 +1,5 @@
 ---
-titulo: EAD: a educação a distância é para você?
+titulo: "EAD: a educação a distância é para você?"
 slug: ead-a-educacao-a-distancia-e-para-voce
 categoria: educacao
 tags:

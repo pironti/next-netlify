@@ -1,5 +1,5 @@
 ---
-titulo: Top 5 destinos de férias: escolha sua próxima viagem pelo Brasil
+titulo: "Top 5 destinos de férias: escolha sua próxima viagem pelo Brasil"
 slug: top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil
 categoria: viagens
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Entenda o que é o ITBI: e quando ele deve ser pago
+titulo: "Entenda o que é o ITBI: e quando ele deve ser pago"
 slug: entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago
 categoria: financas-pessoais
 tags:

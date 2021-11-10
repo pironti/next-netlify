@@ -1,5 +1,5 @@
 ---
-titulo: Motos: confira os modelos mais novos do mercado
+titulo: "Motos: confira os modelos mais novos do mercado"
 slug: motos-confira-os-modelos-mais-novos-do-mercado
 categoria: moto
 tags:

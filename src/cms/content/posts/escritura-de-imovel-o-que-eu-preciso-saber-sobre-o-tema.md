@@ -1,5 +1,5 @@
 ---
-titulo: Escritura de imóvel: o que eu preciso saber sobre o tema?
+titulo: "Escritura de imóvel: o que eu preciso saber sobre o tema?"
 slug: escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema
 categoria: imoveis
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Faculdade de enfermagem: fique por dentro do curso e da profissão
+titulo: "Faculdade de enfermagem: fique por dentro do curso e da profissão"
 slug: faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao
 categoria: educacao
 tags:

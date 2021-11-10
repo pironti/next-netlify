@@ -1,5 +1,5 @@
 ---
-titulo: Guia completo: tire todas as suas dúvidas sobre o consórcio de serviços
+titulo: "Guia completo: tire todas as suas dúvidas sobre o consórcio de serviços"
 slug: guia-completo-tire-todas-as-suas-duvidas-sobre-o-consorcio-de-servicos
 categoria: consorcio
 tags:

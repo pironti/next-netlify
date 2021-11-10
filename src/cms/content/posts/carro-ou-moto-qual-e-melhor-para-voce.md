@@ -1,5 +1,5 @@
 ---
-titulo: Carro ou moto: o que é melhor para você?
+titulo: "Carro ou moto: o que é melhor para você?"
 slug: carro-ou-moto-qual-e-melhor-para-voce
 categoria: moto
 tags:

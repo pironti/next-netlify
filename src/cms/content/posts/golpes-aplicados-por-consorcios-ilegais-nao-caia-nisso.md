@@ -1,5 +1,5 @@
 ---
-titulo: Golpes aplicados por consórcios ilegais: não caia nisso
+titulo: "Golpes aplicados por consórcios ilegais: não caia nisso"
 slug: golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso
 categoria: consorcio
 tags:

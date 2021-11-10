@@ -1,5 +1,5 @@
 ---
-titulo: Estágio internacional: entenda como funciona e quais são as vantagens
+titulo: "Estágio internacional: entenda como funciona e quais são as vantagens"
 slug: estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens
 categoria: educacao
 tags:

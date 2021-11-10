@@ -1,5 +1,5 @@
 ---
-titulo: Como construir a casa dos sonhos: o guia absolutamente completo
+titulo: "Como construir a casa dos sonhos: o guia absolutamente completo"
 slug: como-construir-a-casa-dos-sonhos-guia-completo
 categoria: imoveis
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio para reforma Embracon: por que é uma boa opção?
+titulo: "Consórcio para reforma Embracon: por que é uma boa opção?"
 slug: consorcio-para-reforma-embracon-por-que-e-uma-boa-opcao
 categoria: decoracao-e-reformas
 tags:

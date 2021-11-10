@@ -1,5 +1,5 @@
 ---
-titulo: Simulação de consórcio: saiba o que é e como ela pode ser feita
+titulo: "Simulação de consórcio: saiba o que é e como ela pode ser feita"
 slug: simulacao-de-consorcio
 categoria: consorcio
 tags:

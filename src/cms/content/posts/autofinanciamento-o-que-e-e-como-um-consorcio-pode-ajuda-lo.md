@@ -1,5 +1,5 @@
 ---
-titulo: Autofinanciamento: o que é e como um consórcio pode ajudá-lo?
+titulo: "Autofinanciamento: o que é e como um consórcio pode ajudá-lo?"
 slug: autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo
 categoria: consorcio
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Reforma de banheiro: 3 dicas para fazer sem muita bagunça!
+titulo: "Reforma de banheiro: 3 dicas para fazer sem muita bagunça!"
 slug: reforma-de-banheiro-3-dicas-para-fazer-sem-muita-bagunca
 categoria: decoracao-e-reformas
 tags:

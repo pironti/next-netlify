@@ -1,5 +1,5 @@
 ---
-titulo: Desisti do consórcio: o que acontece?
+titulo: "Desisti do consórcio: o que acontece?"
 slug: desisti-do-consorcio-o-que-acontece
 categoria: consorcio
 tags:

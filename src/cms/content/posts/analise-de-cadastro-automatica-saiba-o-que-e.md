@@ -1,5 +1,5 @@
 ---
-titulo: Análise de Cadastro Automática: saiba o que é
+titulo: "Análise de Cadastro Automática: saiba o que é"
 slug: analise-de-cadastro-automatica-saiba-o-que-e
 categoria: consorcio
 tags:

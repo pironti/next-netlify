@@ -1,5 +1,5 @@
 ---
-titulo: Tipos de carros: escolha o seu
+titulo: "Tipos de carros: escolha o seu"
 slug: tipos-de-carros-escolha-o-seu
 categoria: carros
 tags:

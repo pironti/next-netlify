@@ -1,5 +1,5 @@
 ---
-titulo: Estilos de decoração: conheça os principais e identifique o seu
+titulo: "Estilos de decoração: conheça os principais e identifique o seu"
 slug: estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu
 categoria: decoracao-e-reformas
 tags:

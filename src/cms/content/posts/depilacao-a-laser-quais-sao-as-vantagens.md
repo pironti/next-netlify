@@ -1,5 +1,5 @@
 ---
-titulo: Depilação a laser: como funciona e quais são as vantagens
+titulo: "Depilação a laser: como funciona e quais são as vantagens"
 slug: depilacao-a-laser-quais-sao-as-vantagens
 categoria: saude-e-estetica
 tags:

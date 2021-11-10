@@ -1,5 +1,5 @@
 ---
-titulo: Escritório em casa: decoração de home office para inspirar
+titulo: "Escritório em casa: decoração de home office para inspirar"
 slug: inspiracoes-modelos-de-escritorio-em-casa
 categoria: decoracao-e-reformas
 tags:

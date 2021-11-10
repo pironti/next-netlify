@@ -1,5 +1,5 @@
 ---
-titulo: Planejamento financeiro para iniciantes: os primeiros passos
+titulo: "Planejamento financeiro para iniciantes: os primeiros passos"
 slug: planejamento-financeiro-para-iniciantes-os-primeiros-passos
 categoria: financas-pessoais
 tags:

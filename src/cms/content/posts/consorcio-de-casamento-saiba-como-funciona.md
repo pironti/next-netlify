@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de casamento: saiba como funciona
+titulo: "Consórcio de casamento: saiba como funciona"
 slug: consorcio-de-casamento-saiba-como-funciona
 categoria: consorcio
 tags:

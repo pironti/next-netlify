@@ -1,5 +1,5 @@
 ---
-titulo: Home office: 5 dicas para manter o cantinho de trabalho organizado
+titulo: "Home office: 5 dicas para manter o cantinho de trabalho organizado"
 slug: home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado
 categoria: decoracao-e-reformas
 tags:

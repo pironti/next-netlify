@@ -1,5 +1,5 @@
 ---
-titulo: Financiamento, empréstimo ou consórcio: conheça todas as opções
+titulo: "Financiamento, empréstimo ou consórcio: conheça todas as opções"
 slug: financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes
 categoria: consorcio
 tags:

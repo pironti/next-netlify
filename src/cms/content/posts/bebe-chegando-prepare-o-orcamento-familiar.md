@@ -1,5 +1,5 @@
 ---
-titulo: Bebê chegando: prepare o orçamento familiar!
+titulo: "Bebê chegando: prepare o orçamento familiar!"
 slug: bebe-chegando-prepare-o-orcamento-familiar
 categoria: financas-pessoais
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Planejamento financeiro: guia para finanças não saírem de controle
+titulo: "Planejamento financeiro: guia para finanças não saírem de controle"
 slug: planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle
 categoria: financas-pessoais
 tags:

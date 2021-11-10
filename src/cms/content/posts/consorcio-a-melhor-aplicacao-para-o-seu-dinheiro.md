@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio: a melhor aplicação para o seu dinheiro
+titulo: "Consórcio: a melhor aplicação para o seu dinheiro"
 slug: consorcio-a-melhor-aplicacao-para-o-seu-dinheiro
 categoria: consorcio
 tags:

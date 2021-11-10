@@ -1,5 +1,5 @@
 ---
-titulo: Pagar à vista ou parcelado: o que é melhor?
+titulo: "Pagar à vista ou parcelado: o que é melhor?"
 slug: pagar-a-vista-ou-parcelado-o-que-e-melhor
 categoria: financas-pessoais
 tags:

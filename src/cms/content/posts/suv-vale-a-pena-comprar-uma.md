@@ -1,5 +1,5 @@
 ---
-titulo: SUV: vale a pena comprar uma?
+titulo: "SUV: vale a pena comprar uma?"
 slug: suv-vale-a-pena-comprar-uma
 categoria: carros
 tags:

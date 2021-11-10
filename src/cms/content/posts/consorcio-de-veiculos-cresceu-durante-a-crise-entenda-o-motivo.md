@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de veículos cresceu durante a crise: entenda o motivo
+titulo: "Consórcio de veículos cresceu durante a crise: entenda o motivo"
 slug: consorcio-de-veiculos-cresceu-durante-a-crise-entenda-o-motivo
 categoria: carros
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Guia para quem vai morar sozinho: organização financeira
+titulo: "Guia para quem vai morar sozinho: organização financeira"
 slug: guia-para-quem-vai-morar-sozinho-organizacao-financeira
 categoria: financas-pessoais
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Casa em condomínio fechado: quando e porque fazer esse investimento?
+titulo: "Casa em condomínio fechado: quando e porque fazer esse investimento?"
 slug: casa-em-condominio-fechado-quando-e-porque-fazer-esse-investimento
 categoria: imoveis
 tags:

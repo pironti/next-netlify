@@ -1,5 +1,5 @@
 ---
-titulo: Educação financeira: entenda a importância para o cenário atual
+titulo: "Educação financeira: entenda a importância para o cenário atual"
 slug: educacao-financeira-entenda-a-importancia-para-o-cenario-atual
 categoria: financas-pessoais
 tags:

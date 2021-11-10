@@ -1,5 +1,5 @@
 ---
-titulo: Lentes de contato para os dentes: o que são?
+titulo: "Lentes de contato para os dentes: o que são?"
 slug: lentes-de-contato-para-os-dentes-o-que-sao
 categoria: saude-e-estetica
 tags:

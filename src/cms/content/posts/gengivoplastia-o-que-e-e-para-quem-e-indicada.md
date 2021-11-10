@@ -1,5 +1,5 @@
 ---
-titulo: Gengivoplastia: o que é e para quem é indicada
+titulo: "Gengivoplastia: o que é e para quem é indicada"
 slug: gengivoplastia-o-que-e-e-para-quem-e-indicada
 categoria: saude-e-estetica
 tags:

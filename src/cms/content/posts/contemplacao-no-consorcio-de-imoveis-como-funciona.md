@@ -1,5 +1,5 @@
 ---
-titulo: Contemplação no consórcio de imóveis: como funciona?
+titulo: "Contemplação no consórcio de imóveis: como funciona?"
 slug: contemplacao-no-consorcio-de-imoveis-como-funciona
 categoria: consorcio
 tags:

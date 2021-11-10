@@ -1,5 +1,5 @@
 ---
-titulo: Sedan ou SUV: qual é o melhor modelo?
+titulo: "Sedan ou SUV: qual é o melhor modelo?"
 slug: sedan-ou-suv-qual-e-o-melhor-modelo
 categoria: carros
 tags:

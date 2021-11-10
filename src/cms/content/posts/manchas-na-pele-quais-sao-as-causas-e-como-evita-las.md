@@ -1,5 +1,5 @@
 ---
-titulo: Manchas na pele: quais são as causas e como evitá-las
+titulo: "Manchas na pele: quais são as causas e como evitá-las"
 slug: manchas-na-pele-quais-sao-as-causas-e-como-evita-las
 categoria: saude-e-estetica
 tags:

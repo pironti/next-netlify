@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio para pagar faculdade: o que é e como funciona
+titulo: "Consórcio para pagar faculdade: o que é e como funciona"
 slug: consorcio-embracon-para-pagar-faculdade
 categoria: educacao
 tags:

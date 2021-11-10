@@ -1,5 +1,5 @@
 ---
-titulo: Iluminação: 7 modelos de luminárias em projetos de decoração
+titulo: "Iluminação: 7 modelos de luminárias em projetos de decoração"
 slug: diferenca-entre-os-modelos-de-luminarias
 categoria: decoracao-e-reformas
 tags:

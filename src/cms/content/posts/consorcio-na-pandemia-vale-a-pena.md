@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio na pandemia: vale a pena?
+titulo: "Consórcio na pandemia: vale a pena?"
 slug: consorcio-na-pandemia-vale-a-pena
 categoria: consorcio
 tags:

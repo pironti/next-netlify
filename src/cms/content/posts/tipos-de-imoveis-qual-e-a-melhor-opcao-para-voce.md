@@ -1,5 +1,5 @@
 ---
-titulo: Tipos de imóveis: qual é a melhor opção para você
+titulo: "Tipos de imóveis: qual é a melhor opção para você"
 slug: tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce
 categoria: imoveis
 tags:

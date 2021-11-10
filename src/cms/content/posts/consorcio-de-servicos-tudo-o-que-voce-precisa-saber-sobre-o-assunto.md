@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de serviços: tudo o que você precisa saber sobre o assunto
+titulo: "Consórcio de serviços: tudo o que você precisa saber sobre o assunto"
 slug: consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto
 categoria: consorcio
 tags:

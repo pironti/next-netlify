@@ -1,5 +1,5 @@
 ---
-titulo: Cirurgia bariátrica: como funciona e quem pode fazer?
+titulo: "Cirurgia bariátrica: como funciona e quem pode fazer?"
 slug: cirurgia-bariatrica-como-funciona-e-quem-pode-fazer
 categoria: saude-e-estetica
 tags:

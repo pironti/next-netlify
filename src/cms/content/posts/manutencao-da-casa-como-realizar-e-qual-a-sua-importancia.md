@@ -1,5 +1,5 @@
 ---
-titulo: Manutenção da casa: como realizar e qual a sua importância
+titulo: "Manutenção da casa: como realizar e qual a sua importância"
 slug: manutencao-da-casa-como-realizar-e-qual-a-sua-importancia
 categoria: imoveis
 tags:

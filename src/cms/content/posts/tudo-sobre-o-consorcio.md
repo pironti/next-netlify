@@ -1,5 +1,5 @@
 ---
-titulo: Tipos de consórcio: tudo o que você precisa saber
+titulo: "Tipos de consórcio: tudo o que você precisa saber"
 slug: tudo-sobre-o-consorcio
 categoria: consorcio
 tags:

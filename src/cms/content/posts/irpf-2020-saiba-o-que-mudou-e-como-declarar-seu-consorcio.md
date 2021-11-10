@@ -1,5 +1,5 @@
 ---
-titulo: IRPF 2020: Saiba o que mudou e como declarar seu consórcio
+titulo: "IRPF 2020: Saiba o que mudou e como declarar seu consórcio"
 slug: irpf-2020-saiba-o-que-mudou-e-como-declarar-seu-consorcio
 categoria: financas-pessoais
 tags:

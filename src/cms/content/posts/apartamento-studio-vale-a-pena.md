@@ -1,5 +1,5 @@
 ---
-titulo: Apartamento studio: vale a pena?
+titulo: "Apartamento studio: vale a pena?"
 slug: apartamento-studio-vale-a-pena
 categoria: imoveis
 tags:

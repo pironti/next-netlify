@@ -1,5 +1,5 @@
 ---
-titulo: Instalações elétricas: seus principais problemas e como resolvê-los?
+titulo: "Instalações elétricas: seus principais problemas e como resolvê-los?"
 slug: instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los
 categoria: decoracao-e-reformas
 tags:

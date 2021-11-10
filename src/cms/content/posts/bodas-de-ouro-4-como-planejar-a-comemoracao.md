@@ -1,5 +1,5 @@
 ---
-titulo: Bodas de ouro: 4 dicas de como planejar a comemoração
+titulo: "Bodas de ouro: 4 dicas de como planejar a comemoração"
 slug: bodas-de-ouro-4-como-planejar-a-comemoracao
 categoria: festas
 tags:

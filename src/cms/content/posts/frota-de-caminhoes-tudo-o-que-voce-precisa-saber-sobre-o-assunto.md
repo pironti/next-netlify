@@ -1,5 +1,5 @@
 ---
-titulo: Frota de caminhões: tudo o que você precisa saber sobre o assunto
+titulo: "Frota de caminhões: tudo o que você precisa saber sobre o assunto"
 slug: frota-de-caminhoes-tudo-o-que-voce-precisa-saber-sobre-o-assunto
 categoria: pesados
 tags:

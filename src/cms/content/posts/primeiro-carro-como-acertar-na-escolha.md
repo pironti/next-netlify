@@ -1,5 +1,5 @@
 ---
-titulo: Primeiro carro: como acertar na escolha
+titulo: "Primeiro carro: como acertar na escolha"
 slug: primeiro-carro-como-acertar-na-escolha
 categoria: carros
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Finanças da família: como ensinar os filhos a economizar dinheiro?
+titulo: "Finanças da família: como ensinar os filhos a economizar dinheiro?"
 slug: financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro
 categoria: financas-pessoais
 tags:

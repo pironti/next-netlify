@@ -1,5 +1,5 @@
 ---
-titulo: Gastos supérfluos e essenciais: saiba diferenciar
+titulo: "Gastos supérfluos e essenciais: saiba diferenciar"
 slug: gastos-superfluos-e-essenciais-saiba-diferenciar
 categoria: financas-pessoais
 tags:

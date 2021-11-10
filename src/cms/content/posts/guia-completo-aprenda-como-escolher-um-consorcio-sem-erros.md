@@ -1,5 +1,5 @@
 ---
-titulo: Guia completo: aprenda como escolher um consórcio sem erros
+titulo: "Guia completo: aprenda como escolher um consórcio sem erros"
 slug: guia-completo-aprenda-como-escolher-um-consorcio-sem-erros
 categoria: consorcio
 tags:

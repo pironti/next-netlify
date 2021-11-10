@@ -1,5 +1,5 @@
 ---
-titulo: Peeling: o que é e quem pode fazer
+titulo: "Peeling: o que é e quem pode fazer"
 slug: peeling-o-que-e-e-quem-pode-fazer
 categoria: saude-e-estetica
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio para realização de festas: saiba como funciona
+titulo: "Consórcio para realização de festas: saiba como funciona"
 slug: consorcio-para-realizacao-de-festas-saiba-como-funciona
 categoria: festas
 tags:

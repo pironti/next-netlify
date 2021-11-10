@@ -1,5 +1,5 @@
 ---
-titulo: Curso de arquitetura: saiba mais sobre o curso e o mercado de trabalho
+titulo: "Curso de arquitetura: saiba mais sobre o curso e o mercado de trabalho"
 slug: faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho
 categoria: educacao
 tags:

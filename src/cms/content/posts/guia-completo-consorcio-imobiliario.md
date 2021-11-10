@@ -1,5 +1,5 @@
 ---
-titulo: Guia: Tudo o que você precisa saber sobre o consórcio imobiliário
+titulo: "Guia: Tudo o que você precisa saber sobre o consórcio imobiliário"
 slug: guia-completo-consorcio-imobiliario
 categoria: imoveis
 tags:

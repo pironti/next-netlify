@@ -1,5 +1,5 @@
 ---
-titulo: Faculdade de economia: o que você deve saber sobre o curso
+titulo: "Faculdade de economia: o que você deve saber sobre o curso"
 slug: faculdade-de-economia-o-que-voce-deve-saber-sobre-o-curso
 categoria: educacao
 tags:

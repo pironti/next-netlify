@@ -1,5 +1,5 @@
 ---
-titulo: Segunda graduação ou pós-graduação: qual é a melhor opção?
+titulo: "Segunda graduação ou pós-graduação: qual é a melhor opção?"
 slug: segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao
 categoria: educacao
 tags:

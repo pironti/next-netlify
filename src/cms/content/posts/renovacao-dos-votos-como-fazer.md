@@ -1,5 +1,5 @@
 ---
-titulo: Renovação dos votos: como fazer?
+titulo: "Renovação dos votos: como fazer?"
 slug: renovacao-dos-votos-como-fazer
 categoria: festas
 tags:

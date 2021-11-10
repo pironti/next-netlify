@@ -1,5 +1,5 @@
 ---
-titulo: Bebidas no casamento: como escolher e calcular a quantidade adequada?
+titulo: "Bebidas no casamento: como escolher e calcular a quantidade adequada?"
 slug: bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada
 categoria: festas
 tags:

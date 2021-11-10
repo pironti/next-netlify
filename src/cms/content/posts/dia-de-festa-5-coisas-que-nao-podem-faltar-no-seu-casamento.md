@@ -1,5 +1,5 @@
 ---
-titulo: Dia de Festa: 5 coisas que não podem faltar no seu casamento
+titulo: "Dia de Festa: 5 coisas que não podem faltar no seu casamento"
 slug: dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento
 categoria: festas
 tags:

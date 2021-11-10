@@ -1,5 +1,5 @@
 ---
-titulo:  Comprar um terreno: veja em quais situações vale a pena
+titulo: " Comprar um terreno: veja em quais situações vale a pena"
 slug: comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena
 categoria: imoveis
 tags:

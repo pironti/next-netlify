@@ -1,5 +1,5 @@
 ---
-titulo: Armários planejados: como usá-los na decoração
+titulo: "Armários planejados: como usá-los na decoração"
 slug: armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens
 categoria: decoracao-e-reformas
 tags:

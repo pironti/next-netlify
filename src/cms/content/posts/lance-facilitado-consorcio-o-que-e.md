@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio com lance facilitado: o que é e como funciona?
+titulo: "Consórcio com lance facilitado: o que é e como funciona?"
 slug: lance-facilitado-consorcio-o-que-e
 categoria: consorcio
 tags:

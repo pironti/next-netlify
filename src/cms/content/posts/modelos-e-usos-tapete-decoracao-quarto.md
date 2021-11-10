@@ -1,5 +1,5 @@
 ---
-titulo: Tapete em decoração de quarto: 5 opções de modelos modernos
+titulo: "Tapete em decoração de quarto: 5 opções de modelos modernos"
 slug: modelos-e-usos-tapete-decoracao-quarto
 categoria: decoracao-e-reformas
 tags:

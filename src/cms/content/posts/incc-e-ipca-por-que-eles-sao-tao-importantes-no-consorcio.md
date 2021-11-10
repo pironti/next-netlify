@@ -1,5 +1,5 @@
 ---
-titulo: INCC e IPCA: por que eles são tão importantes no consórcio?
+titulo: "INCC e IPCA: por que eles são tão importantes no consórcio?"
 slug: incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio
 categoria: consorcio
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Fique por dentro: perspectivas para o mercado de consórcios em 2019
+titulo: "Fique por dentro: perspectivas para o mercado de consórcios em 2019"
 slug: fique-por-dentro-perspectivas-para-o-mercado-de-consorcios-em-2018
 categoria: consorcio
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Carro de passeio: como escolher a melhor opção
+titulo: "Carro de passeio: como escolher a melhor opção"
 slug: carro-de-passeio-como-escolher-a-melhor-opcao
 categoria: carros
 tags:

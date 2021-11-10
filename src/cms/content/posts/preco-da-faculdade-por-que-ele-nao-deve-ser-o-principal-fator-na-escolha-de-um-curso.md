@@ -1,5 +1,5 @@
 ---
-titulo: Preço: por que não deve ser o principal na escolha da faculdade?
+titulo: "Preço: por que não deve ser o principal na escolha da faculdade?"
 slug: preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso
 categoria: educacao
 tags:

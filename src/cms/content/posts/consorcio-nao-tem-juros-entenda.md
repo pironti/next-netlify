@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio não tem juros: entenda!
+titulo: "Consórcio não tem juros: entenda!"
 slug: consorcio-nao-tem-juros-entenda
 categoria: consorcio
 tags:

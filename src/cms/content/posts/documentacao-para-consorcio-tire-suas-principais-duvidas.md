@@ -1,5 +1,5 @@
 ---
-titulo: Documentação para consórcio: tire suas principais dúvidas
+titulo: "Documentação para consórcio: tire suas principais dúvidas"
 slug: documentacao-para-consorcio-tire-suas-principais-duvidas
 categoria: consorcio
 tags:

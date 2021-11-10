@@ -1,5 +1,5 @@
 ---
-titulo: Lance embutido: entenda o que é, como funciona e como fazer
+titulo: "Lance embutido: entenda o que é, como funciona e como fazer"
 slug: lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer
 categoria: consorcio
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Criolipólise: o tratamento de beleza de maior sucesso no Brasil
+titulo: "Criolipólise: o tratamento de beleza de maior sucesso no Brasil"
 slug: criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil
 categoria: saude-e-estetica
 tags:

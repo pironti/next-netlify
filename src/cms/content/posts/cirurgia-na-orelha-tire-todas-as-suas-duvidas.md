@@ -1,5 +1,5 @@
 ---
-titulo: Cirurgia na orelha: tire todas as suas dúvidas
+titulo: "Cirurgia na orelha: tire todas as suas dúvidas"
 slug: cirurgia-na-orelha-tire-todas-as-suas-duvidas
 categoria: saude-e-estetica
 tags:

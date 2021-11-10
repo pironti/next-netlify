@@ -1,5 +1,5 @@
 ---
-titulo: Cuide da sua casa: faça uma manutenção regularmente
+titulo: "Cuide da sua casa: faça uma manutenção regularmente"
 slug: cuide-da-sua-casa-faca-uma-manutencao-regularmente
 categoria: decoracao-e-reformas
 tags:

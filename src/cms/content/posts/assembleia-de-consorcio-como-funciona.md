@@ -1,5 +1,5 @@
 ---
-titulo: Assembleia de consórcio: entenda o que é e como funciona
+titulo: "Assembleia de consórcio: entenda o que é e como funciona"
 slug: assembleia-de-consorcio-como-funciona
 categoria: assembleias
 tags:

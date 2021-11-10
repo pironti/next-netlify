@@ -1,5 +1,5 @@
 ---
-titulo: De repente 30: 4 dicas para comemorar com uma festa em grande estilo.
+titulo: "De repente 30: 4 dicas para comemorar com uma festa em grande estilo."
 slug: de-repente-30-4-dicas-para-comemorar-a-idade-com-uma-festa-em-grande-estilo
 categoria: festas
 tags:

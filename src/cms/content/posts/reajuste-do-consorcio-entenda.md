@@ -1,5 +1,5 @@
 ---
-titulo: Reajuste do consórcio: entenda o que é e como lidar com ele
+titulo: "Reajuste do consórcio: entenda o que é e como lidar com ele"
 slug: reajuste-do-consorcio-entenda
 categoria: consorcio
 tags:

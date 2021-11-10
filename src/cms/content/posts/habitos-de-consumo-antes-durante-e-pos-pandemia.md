@@ -1,5 +1,5 @@
 ---
-titulo: Hábitos de consumo: antes, durante e pós pandemia
+titulo: "Hábitos de consumo: antes, durante e pós pandemia"
 slug: habitos-de-consumo-antes-durante-e-pos-pandemia
 categoria: financas-pessoais
 tags:

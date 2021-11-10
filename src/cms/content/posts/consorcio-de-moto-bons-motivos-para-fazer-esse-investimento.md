@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de moto: bons motivos para fazer esse investimento
+titulo: "Consórcio de moto: bons motivos para fazer esse investimento"
 slug: consorcio-de-moto-bons-motivos-para-fazer-esse-investimento
 categoria: moto
 tags:

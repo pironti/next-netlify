@@ -1,5 +1,5 @@
 ---
-titulo: Bodas de diamante: como comemorar?
+titulo: "Bodas de diamante: como comemorar?"
 slug: bodas-de-diamante-como-comemorar
 categoria: festas
 tags:

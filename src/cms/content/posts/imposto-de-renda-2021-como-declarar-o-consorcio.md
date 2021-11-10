@@ -1,5 +1,5 @@
 ---
-titulo: Imposto de Renda 2021: como declarar o consórcio
+titulo: "Imposto de Renda 2021: como declarar o consórcio"
 slug: imposto-de-renda-2021-como-declarar-o-consorcio
 categoria: consorcio
 tags:

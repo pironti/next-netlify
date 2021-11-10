@@ -1,5 +1,5 @@
 ---
-titulo: Curso de gastronomia na França: vale a pena investir?
+titulo: "Curso de gastronomia na França: vale a pena investir?"
 slug: curso-de-gastronomia-na-franca-vale-a-pena-investir
 categoria: educacao
 tags:

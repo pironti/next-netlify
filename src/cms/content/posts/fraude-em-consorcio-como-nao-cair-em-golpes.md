@@ -1,5 +1,5 @@
 ---
-titulo: Fraude em consórcio: como não cair em golpes?
+titulo: "Fraude em consórcio: como não cair em golpes?"
 slug: fraude-em-consorcio-como-nao-cair-em-golpes
 categoria: consorcio
 tags:

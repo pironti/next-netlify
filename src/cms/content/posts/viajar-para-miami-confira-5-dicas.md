@@ -1,5 +1,5 @@
 ---
-titulo: Viajar para Miami: confira 5 dicas
+titulo: "Viajar para Miami: confira 5 dicas"
 slug: viajar-para-miami-confira-5-dicas
 categoria: viagens
 tags:

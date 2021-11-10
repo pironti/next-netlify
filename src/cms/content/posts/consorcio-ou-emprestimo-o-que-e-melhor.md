@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio ou empréstimo: o que é melhor?
+titulo: "Consórcio ou empréstimo: o que é melhor?"
 slug: consorcio-ou-emprestimo-o-que-e-melhor
 categoria: consorcio
 tags:

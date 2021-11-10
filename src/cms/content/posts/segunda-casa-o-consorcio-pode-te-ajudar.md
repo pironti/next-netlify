@@ -1,5 +1,5 @@
 ---
-titulo: Segunda casa: o consórcio pode te ajudar
+titulo: "Segunda casa: o consórcio pode te ajudar"
 slug: segunda-casa-o-consorcio-pode-te-ajudar
 categoria: imoveis
 tags:

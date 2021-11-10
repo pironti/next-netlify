@@ -1,5 +1,5 @@
 ---
-titulo: Tipos de moto: quais são, como escolher e comprar com consórcio
+titulo: "Tipos de moto: quais são, como escolher e comprar com consórcio"
 slug: tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio
 categoria: moto
 tags:

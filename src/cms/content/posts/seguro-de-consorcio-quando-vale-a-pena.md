@@ -1,5 +1,5 @@
 ---
-titulo: Seguro de consórcio: quando vale a pena?
+titulo: "Seguro de consórcio: quando vale a pena?"
 slug: seguro-de-consorcio-quando-vale-a-pena
 categoria: consorcio
 tags:

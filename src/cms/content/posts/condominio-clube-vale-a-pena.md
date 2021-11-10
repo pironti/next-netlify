@@ -1,5 +1,5 @@
 ---
-titulo: Condomínio clube: conheça essa tendência e veja se vale a pena
+titulo: "Condomínio clube: conheça essa tendência e veja se vale a pena"
 slug: condominio-clube-vale-a-pena
 categoria: decoracao-e-reformas
 tags:

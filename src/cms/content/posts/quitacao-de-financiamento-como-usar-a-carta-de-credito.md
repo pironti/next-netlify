@@ -1,5 +1,5 @@
 ---
-titulo: Quitação de financiamento: como usar a carta de crédito?
+titulo: "Quitação de financiamento: como usar a carta de crédito?"
 slug: quitacao-de-financiamento-como-usar-a-carta-de-credito
 categoria: consorcio
 tags:

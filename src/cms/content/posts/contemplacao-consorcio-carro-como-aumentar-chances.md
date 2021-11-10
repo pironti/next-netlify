@@ -1,5 +1,5 @@
 ---
-titulo: Contemplação no consórcio de carro: como aumentar suas chances?
+titulo: "Contemplação no consórcio de carro: como aumentar suas chances?"
 slug: contemplacao-consorcio-carro-como-aumentar-chances
 categoria: contemplacao
 tags:

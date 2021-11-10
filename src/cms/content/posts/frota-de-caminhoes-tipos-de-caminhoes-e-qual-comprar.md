@@ -1,5 +1,5 @@
 ---
-titulo: Frota de caminhões: tipos de caminhões e qual comprar
+titulo: "Frota de caminhões: tipos de caminhões e qual comprar"
 slug: frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar
 categoria: pesados
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Música de festa: faça uma playlist arrebatadora 
+titulo: "Música de festa: faça uma playlist arrebatadora "
 slug: musica-de-festa-faca-uma-playlist-arrebatadora
 categoria: festas
 tags:

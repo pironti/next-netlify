@@ -1,5 +1,5 @@
 ---
-titulo: Empresa de consórcio: saiba o que considerar antes de escolher
+titulo: "Empresa de consórcio: saiba o que considerar antes de escolher"
 slug: empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher
 categoria: consorcio
 tags:

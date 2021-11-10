@@ -1,5 +1,5 @@
 ---
-titulo: Viagem em família: 4 dicas para agradar a todos
+titulo: "Viagem em família: 4 dicas para agradar a todos"
 slug: viagem-em-familia-4-dicas-para-agradar-a-todos
 categoria: viagens
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Intercâmbio com o consórcio: como funciona?
+titulo: "Intercâmbio com o consórcio: como funciona?"
 slug: intercambio-com-o-consorcio-como-funciona
 categoria: educacao
 tags:

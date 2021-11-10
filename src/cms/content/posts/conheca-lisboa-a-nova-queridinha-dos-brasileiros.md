@@ -1,5 +1,5 @@
 ---
-titulo: Conheça Lisboa: a nova queridinha dos brasileiros
+titulo: "Conheça Lisboa: a nova queridinha dos brasileiros"
 slug: conheca-lisboa-a-nova-queridinha-dos-brasileiros
 categoria: viagens
 tags:

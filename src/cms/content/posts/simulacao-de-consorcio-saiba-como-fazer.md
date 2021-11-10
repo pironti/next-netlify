@@ -1,5 +1,5 @@
 ---
-titulo: Simulação de consórcio: saiba como fazer
+titulo: "Simulação de consórcio: saiba como fazer"
 slug: simulacao-de-consorcio-saiba-como-fazer
 categoria: consorcio
 tags:

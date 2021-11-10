@@ -1,5 +1,5 @@
 ---
-titulo: Financiamento ou consórcio: o que é melhor na compra de um imóvel?
+titulo: "Financiamento ou consórcio: o que é melhor na compra de um imóvel?"
 slug: financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel
 categoria: consorcio
 tags:

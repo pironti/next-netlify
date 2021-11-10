@@ -1,5 +1,5 @@
 ---
-titulo: Botox: como funciona e quais são os resultados
+titulo: "Botox: como funciona e quais são os resultados"
 slug: botox-como-funciona-e-quais-sao-os-resultados
 categoria: saude-e-estetica
 tags:

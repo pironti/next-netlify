@@ -1,5 +1,5 @@
 ---
-titulo: Viagem econômica: confira nossas dicas para viajar com pouco dinheiro
+titulo: "Viagem econômica: confira nossas dicas para viajar com pouco dinheiro"
 slug: viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro
 categoria: viagens
 tags:

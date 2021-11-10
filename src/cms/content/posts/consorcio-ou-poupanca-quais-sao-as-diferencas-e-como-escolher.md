@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio ou poupança: quais são as diferenças e como escolher?
+titulo: "Consórcio ou poupança: quais são as diferenças e como escolher?"
 slug: consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher
 categoria: consorcio
 tags:

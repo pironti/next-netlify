@@ -1,5 +1,5 @@
 ---
-titulo: Consumo consciente: conheça e saiba por que ele faz bem para o bolso
+titulo: "Consumo consciente: conheça e saiba por que ele faz bem para o bolso"
 slug: conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso
 categoria: financas-pessoais
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Futuro das viagens: o que devemos esperar da retomada do turismo
+titulo: "Futuro das viagens: o que devemos esperar da retomada do turismo"
 slug: futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo
 categoria: viagens
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de imóveis em 2019: 6 razões para fazer esse investimento.
+titulo: "Consórcio de imóveis em 2019: 6 razões para fazer esse investimento."
 slug: consorcio-de-imoveis-em-2019-6-razoes
 categoria: consorcio
 tags:

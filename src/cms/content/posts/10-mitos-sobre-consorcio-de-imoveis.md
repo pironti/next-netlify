@@ -1,5 +1,5 @@
 ---
-titulo: Fique por dentro: confira 10 mitos sobre consórcio de imóveis
+titulo: "Fique por dentro: confira 10 mitos sobre consórcio de imóveis"
 slug: 10-mitos-sobre-consorcio-de-imoveis
 categoria: consorcio
 tags:

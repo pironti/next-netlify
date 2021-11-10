@@ -1,5 +1,5 @@
 ---
-titulo: Festa de aniversário para criança: fazer ou não?
+titulo: "Festa de aniversário para criança: fazer ou não?"
 slug: festa-de-aniversario-para-crianca-fazer-ou-nao
 categoria: festas
 tags:

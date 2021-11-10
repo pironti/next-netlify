@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de máquinas agrícolas: entenda como funciona
+titulo: "Consórcio de máquinas agrícolas: entenda como funciona"
 slug: consorcio-de-maquinas-agricolas-entenda-como-funciona
 categoria: pesados
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Curso de fotografia: como funciona e por que investir
+titulo: "Curso de fotografia: como funciona e por que investir"
 slug: curso-de-fotografia-como-funciona-e-por-que-investir
 categoria: educacao
 tags:

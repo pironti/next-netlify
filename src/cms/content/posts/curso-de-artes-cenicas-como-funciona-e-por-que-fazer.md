@@ -1,5 +1,5 @@
 ---
-titulo: Curso de artes cênicas: como funciona e por que fazer
+titulo: "Curso de artes cênicas: como funciona e por que fazer"
 slug: curso-de-artes-cenicas-como-funciona-e-por-que-fazer
 categoria: educacao
 tags:

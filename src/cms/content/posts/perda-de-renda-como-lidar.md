@@ -1,5 +1,5 @@
 ---
-titulo: Perda de renda: como lidar?
+titulo: "Perda de renda: como lidar?"
 slug: perda-de-renda-como-lidar
 categoria: financas-pessoais
 tags:

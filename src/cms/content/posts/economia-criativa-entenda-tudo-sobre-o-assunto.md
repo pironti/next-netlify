@@ -1,5 +1,5 @@
 ---
-titulo: Economia criativa: entenda tudo sobre o assunto
+titulo: "Economia criativa: entenda tudo sobre o assunto"
 slug: economia-criativa-entenda-tudo-sobre-o-assunto
 categoria: financas-pessoais
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Mini Wedding: o que é e como planejar o seu
+titulo: "Mini Wedding: o que é e como planejar o seu"
 slug: mini-wedding-o-que-e-e-como-planejar-o-seu
 categoria: festas
 tags:

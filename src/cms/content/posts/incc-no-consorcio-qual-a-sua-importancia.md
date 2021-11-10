@@ -1,5 +1,5 @@
 ---
-titulo: INCC no consórcio: qual a sua importância?
+titulo: "INCC no consórcio: qual a sua importância?"
 slug: incc-no-consorcio-qual-a-sua-importancia
 categoria: imoveis
 tags:

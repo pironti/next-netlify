@@ -1,5 +1,5 @@
 ---
-titulo: Casamento na praia: Guia completo para uma celebração
+titulo: "Casamento na praia: Guia completo para uma celebração"
 slug: casamento-na-praia-guia-completo-para-uma-celebracao
 categoria: festas
 tags:

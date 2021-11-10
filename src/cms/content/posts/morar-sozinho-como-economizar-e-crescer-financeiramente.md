@@ -1,5 +1,5 @@
 ---
-titulo: Morar sozinho: como economizar e crescer financeiramente
+titulo: "Morar sozinho: como economizar e crescer financeiramente"
 slug: morar-sozinho-como-economizar-e-crescer-financeiramente
 categoria: financas-pessoais
 tags:

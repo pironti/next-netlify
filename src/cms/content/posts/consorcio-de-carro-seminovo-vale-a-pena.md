@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de carro seminovo: vale a pena?
+titulo: "Consórcio de carro seminovo: vale a pena?"
 slug: consorcio-de-carro-seminovo-vale-a-pena
 categoria: carros
 tags:

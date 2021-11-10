@@ -1,5 +1,5 @@
 ---
-titulo: Chá de bebê: aprenda como organizar de forma eficiente
+titulo: "Chá de bebê: aprenda como organizar de forma eficiente"
 slug: cha-de-bebe-aprenda-como-organizar-de-forma-eficiente
 categoria: festas
 tags:

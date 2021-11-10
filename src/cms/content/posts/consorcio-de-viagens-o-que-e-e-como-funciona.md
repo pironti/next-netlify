@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de viagens: o que é e como funciona?
+titulo: "Consórcio de viagens: o que é e como funciona?"
 slug: consorcio-de-viagens-o-que-e-e-como-funciona
 categoria: consorcio
 tags:

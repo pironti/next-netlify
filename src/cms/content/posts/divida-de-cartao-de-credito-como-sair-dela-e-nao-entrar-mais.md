@@ -1,5 +1,5 @@
 ---
-titulo: Dívida de cartão de crédito: como sair dela e não entrar mais?
+titulo: "Dívida de cartão de crédito: como sair dela e não entrar mais?"
 slug: divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais
 categoria: financas-pessoais
 tags:

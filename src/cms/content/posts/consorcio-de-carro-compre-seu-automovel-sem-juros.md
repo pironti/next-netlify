@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de carro: compre seu automóvel sem juros!
+titulo: "Consórcio de carro: compre seu automóvel sem juros!"
 slug: consorcio-de-carro-compre-seu-automovel-sem-juros
 categoria: carros
 tags:

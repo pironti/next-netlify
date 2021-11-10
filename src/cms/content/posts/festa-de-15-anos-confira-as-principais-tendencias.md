@@ -1,5 +1,5 @@
 ---
-titulo: Festa de 15 anos: confira as principais tendências
+titulo: "Festa de 15 anos: confira as principais tendências"
 slug: festa-de-15-anos-confira-as-principais-tendencias
 categoria: festas
 tags:

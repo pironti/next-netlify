@@ -1,5 +1,5 @@
 ---
-titulo: Carros mais baratos: os modelos de até R$ 40 mil
+titulo: "Carros mais baratos: os modelos de até R$ 40 mil"
 slug: carros-mais-baratos-os-modelos-de-ate-r-40-mil
 categoria: carros
 tags:

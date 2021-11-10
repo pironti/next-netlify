@@ -1,5 +1,5 @@
 ---
-titulo: Carro hatch ou sedan: entenda as diferenças
+titulo: "Carro hatch ou sedan: entenda as diferenças"
 slug: hatch-ou-sedan-diferencas
 categoria: carros
 tags:

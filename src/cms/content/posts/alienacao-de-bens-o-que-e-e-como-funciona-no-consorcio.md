@@ -1,5 +1,5 @@
 ---
-titulo: Alienação de bens: o que é e como funciona no consórcio?
+titulo: "Alienação de bens: o que é e como funciona no consórcio?"
 slug: alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio
 categoria: consorcio
 tags:

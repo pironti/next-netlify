@@ -1,5 +1,5 @@
 ---
-titulo: Dando um lance: como se planejar e como funciona
+titulo: "Dando um lance: como se planejar e como funciona"
 slug: dando-um-lance-como-se-planejar-e-como-funciona
 categoria: lance
 tags:

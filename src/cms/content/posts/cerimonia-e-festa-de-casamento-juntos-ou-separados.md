@@ -1,5 +1,5 @@
 ---
-titulo: Cerimônia e festa de casamento: juntos ou separados?
+titulo: "Cerimônia e festa de casamento: juntos ou separados?"
 slug: cerimonia-e-festa-de-casamento-juntos-ou-separados
 categoria: festas
 tags:

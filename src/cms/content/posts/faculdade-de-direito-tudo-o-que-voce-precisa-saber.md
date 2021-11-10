@@ -1,5 +1,5 @@
 ---
-titulo: Faculdade de Direito: tudo o que você precisa saber
+titulo: "Faculdade de Direito: tudo o que você precisa saber"
 slug: faculdade-de-direito-tudo-o-que-voce-precisa-saber
 categoria: educacao
 tags:

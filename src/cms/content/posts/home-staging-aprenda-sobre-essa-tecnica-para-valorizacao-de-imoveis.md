@@ -1,5 +1,5 @@
 ---
-titulo: Home Staging: aprenda sobre essa técnica para valorização de imóveis
+titulo: "Home Staging: aprenda sobre essa técnica para valorização de imóveis"
 slug: home-staging-aprenda-sobre-essa-tecnica-para-valorizacao-de-imoveis
 categoria: imoveis
 tags:

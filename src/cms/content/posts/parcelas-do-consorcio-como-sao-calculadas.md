@@ -1,5 +1,5 @@
 ---
-titulo: Parcelas do consórcio: como são calculadas?
+titulo: "Parcelas do consórcio: como são calculadas?"
 slug: parcelas-do-consorcio-como-sao-calculadas
 categoria: consorcio
 tags:

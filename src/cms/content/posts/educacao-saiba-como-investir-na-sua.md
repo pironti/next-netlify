@@ -1,5 +1,5 @@
 ---
-titulo: Educação: saiba como investir na sua
+titulo: "Educação: saiba como investir na sua"
 slug: educacao-saiba-como-investir-na-sua
 categoria: educacao
 tags:

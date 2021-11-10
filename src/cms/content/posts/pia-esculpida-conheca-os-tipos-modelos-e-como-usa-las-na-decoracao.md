@@ -1,5 +1,5 @@
 ---
-titulo: Pia esculpida: conheça os tipos, modelos e como usá-las na decoração
+titulo: "Pia esculpida: conheça os tipos, modelos e como usá-las na decoração"
 slug: pia-esculpida-conheca-os-tipos-modelos-e-como-usa-las-na-decoracao
 categoria: decoracao-e-reformas
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Finanças do casal: organize e faça um consórcio
+titulo: "Finanças do casal: organize e faça um consórcio"
 slug: financas-do-casal-organize-e-faca-um-consorcio
 categoria: financas-pessoais
 tags:

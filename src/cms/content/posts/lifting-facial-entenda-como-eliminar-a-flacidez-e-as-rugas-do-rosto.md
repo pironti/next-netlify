@@ -1,5 +1,5 @@
 ---
-titulo: Lifting facial: entenda como eliminar a flacidez e as rugas do rosto
+titulo: "Lifting facial: entenda como eliminar a flacidez e as rugas do rosto"
 slug: lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto
 categoria: saude-e-estetica
 tags:

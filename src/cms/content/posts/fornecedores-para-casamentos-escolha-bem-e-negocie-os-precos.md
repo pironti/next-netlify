@@ -1,5 +1,5 @@
 ---
-titulo: Fornecedores para casamentos: escolha bem e negocie os preços
+titulo: "Fornecedores para casamentos: escolha bem e negocie os preços"
 slug: fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos
 categoria: festas
 tags:

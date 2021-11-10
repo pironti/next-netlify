@@ -1,5 +1,5 @@
 ---
-titulo: Procedimentos estéticos para emagrecer: quais são os melhores?
+titulo: "Procedimentos estéticos para emagrecer: quais são os melhores?"
 slug: procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores
 categoria: saude-e-estetica
 tags:

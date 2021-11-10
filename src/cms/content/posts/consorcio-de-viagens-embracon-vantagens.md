@@ -1,5 +1,5 @@
 ---
-titulo: Consórcio de viagens Embracon: como funciona, vantagens e mais!
+titulo: "Consórcio de viagens Embracon: como funciona, vantagens e mais!"
 slug: consorcio-de-viagens-embracon-vantagens
 categoria: viagens
 tags:

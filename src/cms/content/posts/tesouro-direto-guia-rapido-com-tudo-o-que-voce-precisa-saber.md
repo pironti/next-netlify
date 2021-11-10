@@ -1,5 +1,5 @@
 ---
-titulo: Tesouro Direto: guia rápido com tudo o que você precisa saber
+titulo: "Tesouro Direto: guia rápido com tudo o que você precisa saber"
 slug: tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber
 categoria: financas-pessoais
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Perfil de investidor: conheça os tipos e saiba qual é o seu
+titulo: "Perfil de investidor: conheça os tipos e saiba qual é o seu"
 slug: perfil-de-investidor-conheca-os-tipos-e-saiba-qual-e-o-seu
 categoria: financas-pessoais
 tags:

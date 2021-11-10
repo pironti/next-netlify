@@ -1,5 +1,5 @@
 ---
-titulo: Simulador de consórcio: como funciona
+titulo: "Simulador de consórcio: como funciona"
 slug: simulador-de-consorcio-como-funciona
 categoria: consorcio
 tags:

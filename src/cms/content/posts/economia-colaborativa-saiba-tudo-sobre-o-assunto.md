@@ -1,5 +1,5 @@
 ---
-titulo: Economia colaborativa: saiba tudo sobre o assunto
+titulo: "Economia colaborativa: saiba tudo sobre o assunto"
 slug: economia-colaborativa-saiba-tudo-sobre-o-assunto
 categoria: financas-pessoais
 tags:

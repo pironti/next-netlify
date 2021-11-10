@@ -1,5 +1,5 @@
 ---
-titulo: Hatch ou sedã: o que é melhor?
+titulo: "Hatch ou sedã: o que é melhor?"
 slug: hatch-ou-seda-o-que-e-melhor
 categoria: carros
 tags:

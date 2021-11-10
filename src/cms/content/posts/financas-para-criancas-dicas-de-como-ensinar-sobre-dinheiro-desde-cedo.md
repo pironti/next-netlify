@@ -1,5 +1,5 @@
 ---
-titulo: Finanças para crianças: dicas de como ensinar sobre dinheiro desde cedo
+titulo: "Finanças para crianças: dicas de como ensinar sobre dinheiro desde cedo"
 slug: financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo
 categoria: financas-pessoais
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Dentes manchados: conheça as principais causas e como tratar
+titulo: "Dentes manchados: conheça as principais causas e como tratar"
 slug: dentes-manchados-conheca-as-principais-causas-e-como-tratar
 categoria: saude-e-estetica
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Imposto de Renda: saiba aqui como declarar o consórcio
+titulo: "Imposto de Renda: saiba aqui como declarar o consórcio"
 slug: como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui
 categoria: consorcio
 tags:

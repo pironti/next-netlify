@@ -1,5 +1,5 @@
 ---
-titulo: Customizado: acessórios que valorizam o carro para a revenda
+titulo: "Customizado: acessórios que valorizam o carro para a revenda"
 slug: customizado-acessorios-que-valorizam-o-carro-para-a-revenda
 categoria: carros
 tags:

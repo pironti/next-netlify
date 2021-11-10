@@ -1,5 +1,5 @@
 ---
-titulo: Revestimento de metrô: conheça essa tendência clássica e charmosa
+titulo: "Revestimento de metrô: conheça essa tendência clássica e charmosa"
 slug: revestimento-de-metro-conheca-essa-tendencia-classica-e-charmosa
 categoria: decoracao-e-reformas
 tags:

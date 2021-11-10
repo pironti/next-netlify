@@ -1,5 +1,5 @@
 ---
-titulo: Chapada Diamantina: o melhor destino para sua próxima viagem
+titulo: "Chapada Diamantina: o melhor destino para sua próxima viagem"
 slug: chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem
 categoria: viagens
 tags:

@@ -1,5 +1,5 @@
 ---
-titulo: Compras de Natal: como gastar pouco e presentear toda a família?
+titulo: "Compras de Natal: como gastar pouco e presentear toda a família?"
 slug: compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia
 categoria: financas-pessoais
 tags:

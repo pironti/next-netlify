@@ -1,5 +1,5 @@
 ---
-titulo: Educação: gasto ou investimento?
+titulo: "Educação: gasto ou investimento?"
 slug: educacao-gasto-ou-investimento
 categoria: educacao
 tags:
