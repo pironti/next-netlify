@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/qual-o-valor-ideal-da-parcela-mensal-de-um-consorcio.jpg
+thumbnail: /static/cms-content/qual-o-valor-ideal-da-parcela-mensal-de-um-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

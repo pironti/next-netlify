@@ -7,7 +7,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-carro
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/as-melhores-opcoes-de-consorcio-em-tempos-de-crise.jpg
+thumbnail: /static/cms-content/as-melhores-opcoes-de-consorcio-em-tempos-de-crise.jpg
 meta_summary: 
 date: 27/09/2021
 ---

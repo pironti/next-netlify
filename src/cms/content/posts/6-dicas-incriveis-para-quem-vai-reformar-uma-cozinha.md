@@ -6,7 +6,7 @@ tags:
  - consorcio-de-reformas
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/6-dicas-incriveis-para-quem-vai-reformar-uma-cozinha.jpg
+thumbnail: /static/cms-content/6-dicas-incriveis-para-quem-vai-reformar-uma-cozinha.jpg
 meta_summary: 
 date: 04/10/2021
 ---

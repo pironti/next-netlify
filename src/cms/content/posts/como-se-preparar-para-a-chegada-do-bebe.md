@@ -7,7 +7,7 @@ tags:
  - dicas
  - dicas-de-decoracao
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-se-preparar-para-a-chegada-do-bebe.png
+thumbnail: /static/cms-content/como-se-preparar-para-a-chegada-do-bebe.png
 meta_summary: 
 date: 05/10/2021
 ---

@@ -4,7 +4,7 @@ slug: quais-sao-as-melhores-motos-do-mercado
 categoria: moto
 tags:
  - dicas
-thumbnail: /public/static/cms-content/quais-sao-as-melhores-motos-do-mercado.jpg
+thumbnail: /static/cms-content/quais-sao-as-melhores-motos-do-mercado.jpg
 meta_summary: 
 date: 27/09/2021
 ---

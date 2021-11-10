@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-preparar-se-para-sua-aposentadoria.jpg
+thumbnail: /static/cms-content/como-preparar-se-para-sua-aposentadoria.jpg
 meta_summary: 
 date: 20/10/2021
 ---

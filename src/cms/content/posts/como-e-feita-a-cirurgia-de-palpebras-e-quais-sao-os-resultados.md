@@ -7,7 +7,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/como-e-feita-a-cirurgia-de-palpebras-e-quais-sao-os-resultados.jpeg
+thumbnail: /static/cms-content/como-e-feita-a-cirurgia-de-palpebras-e-quais-sao-os-resultados.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

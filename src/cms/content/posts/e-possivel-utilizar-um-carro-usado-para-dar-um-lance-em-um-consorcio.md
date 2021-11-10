@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/e-possivel-utilizar-um-carro-usado-para-dar-um-lance-em-um-consorcio.jpg
+thumbnail: /static/cms-content/e-possivel-utilizar-um-carro-usado-para-dar-um-lance-em-um-consorcio.jpg
 meta_summary: 
 date: 08/10/2021
 ---

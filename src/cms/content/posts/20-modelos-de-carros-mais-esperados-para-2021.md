@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas
-thumbnail: /public/static/cms-content/20-modelos-de-carros-mais-esperados-para-2021.jpg
+thumbnail: /static/cms-content/20-modelos-de-carros-mais-esperados-para-2021.jpg
 meta_summary: 
 date: 24/09/2021
 ---

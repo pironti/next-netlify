@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - moto
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/consorcio-de-moto-bons-motivos-para-fazer-esse-investimento.png
+thumbnail: /static/cms-content/consorcio-de-moto-bons-motivos-para-fazer-esse-investimento.png
 meta_summary: 
 date: 06/10/2021
 ---

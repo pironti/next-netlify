@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - consorcio
  - moto
-thumbnail: /public/static/cms-content/garanta-sua-primeira-moto-com-consorcio.jpg
+thumbnail: /static/cms-content/garanta-sua-primeira-moto-com-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

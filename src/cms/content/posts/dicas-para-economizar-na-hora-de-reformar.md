@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-decoracao
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/dicas-para-economizar-na-hora-de-reformar.jpg
+thumbnail: /static/cms-content/dicas-para-economizar-na-hora-de-reformar.jpg
 meta_summary: 
 date: 23/09/2021
 ---

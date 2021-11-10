@@ -4,7 +4,7 @@ slug: qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000.jpg
+thumbnail: /static/cms-content/qual-o-melhor-investimento-para-r-50-r-500-ou-r-5000.jpg
 meta_summary: 
 date: 30/09/2021
 ---

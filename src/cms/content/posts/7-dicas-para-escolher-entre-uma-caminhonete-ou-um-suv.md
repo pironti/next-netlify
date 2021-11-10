@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv.jpg
+thumbnail: /static/cms-content/7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv.jpg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/entrando-em-um-consorcio-de-carro.jpg
+thumbnail: /static/cms-content/entrando-em-um-consorcio-de-carro.jpg
 meta_summary: 
 date: 19/10/2021
 ---

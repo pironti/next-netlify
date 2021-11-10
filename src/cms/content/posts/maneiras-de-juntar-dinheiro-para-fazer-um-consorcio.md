@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/maneiras-de-juntar-dinheiro-para-fazer-um-consorcio.jpg
+thumbnail: /static/cms-content/maneiras-de-juntar-dinheiro-para-fazer-um-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

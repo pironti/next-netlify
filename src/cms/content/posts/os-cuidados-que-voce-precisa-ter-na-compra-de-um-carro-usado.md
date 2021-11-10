@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/os-cuidados-que-voce-precisa-ter-na-compra-de-um-carro-usado.jpg
+thumbnail: /static/cms-content/os-cuidados-que-voce-precisa-ter-na-compra-de-um-carro-usado.jpg
 meta_summary: 
 date: 24/09/2021
 ---

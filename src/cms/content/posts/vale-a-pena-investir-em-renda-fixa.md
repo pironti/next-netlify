@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/vale-a-pena-investir-em-renda-fixa.jpg
+thumbnail: /static/cms-content/vale-a-pena-investir-em-renda-fixa.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/investimentos-rentaveis.jpg
+thumbnail: /static/cms-content/investimentos-rentaveis.jpg
 meta_summary: 
 date: 27/09/2021
 ---

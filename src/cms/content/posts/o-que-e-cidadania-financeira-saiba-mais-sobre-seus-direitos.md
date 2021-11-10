@@ -9,7 +9,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/o-que-e-cidadania-financeira-saiba-mais-sobre-seus-direitos.jpg
+thumbnail: /static/cms-content/o-que-e-cidadania-financeira-saiba-mais-sobre-seus-direitos.jpg
 meta_summary: 
 date: 30/09/2021
 ---

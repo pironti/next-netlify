@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - educacao-financeira
-thumbnail: /public/static/cms-content/saiba-como-e-a-faculdade-de-relacoes-internacionais.jpeg
+thumbnail: /static/cms-content/saiba-como-e-a-faculdade-de-relacoes-internacionais.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

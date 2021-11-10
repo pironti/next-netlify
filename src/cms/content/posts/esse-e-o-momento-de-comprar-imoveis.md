@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/esse-e-o-momento-de-comprar-imoveis.jpg
+thumbnail: /static/cms-content/esse-e-o-momento-de-comprar-imoveis.jpg
 meta_summary: 
 date: 27/09/2021
 ---

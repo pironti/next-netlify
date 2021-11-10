@@ -11,7 +11,7 @@ tags:
  - dicas
  - educacao-financeira
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/guia-completo-para-a-compra-do-primeiro-carro.jpg
+thumbnail: /static/cms-content/guia-completo-para-a-compra-do-primeiro-carro.jpg
 meta_summary: 
 date: 05/10/2021
 ---

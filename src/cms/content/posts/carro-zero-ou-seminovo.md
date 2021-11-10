@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/carro-zero-ou-seminovo.jpg
+thumbnail: /static/cms-content/carro-zero-ou-seminovo.jpg
 meta_summary: 
 date: 24/09/2021
 ---

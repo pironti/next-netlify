@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/por-que-eu-devo-fazer-uma-faculdade-de-educacao-fisica.jpeg
+thumbnail: /static/cms-content/por-que-eu-devo-fazer-uma-faculdade-de-educacao-fisica.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

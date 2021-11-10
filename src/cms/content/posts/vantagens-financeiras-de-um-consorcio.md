@@ -6,7 +6,7 @@ tags:
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
  - consorcio
-thumbnail: /public/static/cms-content/vantagens-financeiras-de-um-consorcio.jpeg
+thumbnail: /static/cms-content/vantagens-financeiras-de-um-consorcio.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

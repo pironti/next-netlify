@@ -4,7 +4,7 @@ slug: como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio.jpg
+thumbnail: /static/cms-content/como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

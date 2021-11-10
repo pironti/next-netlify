@@ -6,7 +6,7 @@ tags:
  - consorcio-x-financiamento
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/como-escolher-um-consorcio-de-moto.png
+thumbnail: /static/cms-content/como-escolher-um-consorcio-de-moto.png
 meta_summary: 
 date: 06/10/2021
 ---

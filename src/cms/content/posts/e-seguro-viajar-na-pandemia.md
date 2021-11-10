@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - consorcio-de-viagem
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/e-seguro-viajar-na-pandemia.jpg
+thumbnail: /static/cms-content/e-seguro-viajar-na-pandemia.jpg
 meta_summary: 
 date: 23/09/2021
 ---

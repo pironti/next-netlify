@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-reformas
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-juntar-dinheiro-para-reformar-a-casa.jpeg
+thumbnail: /static/cms-content/como-juntar-dinheiro-para-reformar-a-casa.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

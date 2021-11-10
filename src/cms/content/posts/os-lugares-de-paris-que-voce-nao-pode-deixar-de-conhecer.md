@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/os-lugares-de-paris-que-voce-nao-pode-deixar-de-conhecer.jpg
+thumbnail: /static/cms-content/os-lugares-de-paris-que-voce-nao-pode-deixar-de-conhecer.jpg
 meta_summary: 
 date: 29/09/2021
 ---

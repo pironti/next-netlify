@@ -4,7 +4,7 @@ slug: 6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis
 categoria: consorcio
 tags:
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis.jpg
+thumbnail: /static/cms-content/6-erros-que-voce-deve-evitar-ao-contratar-um-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas.jpg
+thumbnail: /static/cms-content/3-dicas-para-passar-na-imigracao-de-qualquer-pais-sem-problemas.jpg
 meta_summary: 
 date: 28/09/2021
 ---

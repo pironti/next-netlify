@@ -15,7 +15,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-de-servicos
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio.jpg
+thumbnail: /static/cms-content/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio.jpg
 meta_summary: 
 date: 07/10/2021
 ---

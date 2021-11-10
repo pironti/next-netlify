@@ -15,7 +15,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-de-servicos
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado.png
+thumbnail: /static/cms-content/tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado.png
 meta_summary: 
 date: 30/09/2021
 ---

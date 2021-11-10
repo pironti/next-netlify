@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - dicas-de-decoracao
  - consorcio-de-decoracao
-thumbnail: /public/static/cms-content/como-usar-prateleiras-na-decoracao-da-casa.png
+thumbnail: /static/cms-content/como-usar-prateleiras-na-decoracao-da-casa.png
 meta_summary: 
 date: 05/10/2021
 ---

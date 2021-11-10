@@ -4,7 +4,7 @@ slug: entenda-a-importancia-de-aprender-a-falar-ingles
 categoria: educacao
 tags:
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/entenda-a-importancia-de-aprender-a-falar-ingles.jpeg
+thumbnail: /static/cms-content/entenda-a-importancia-de-aprender-a-falar-ingles.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

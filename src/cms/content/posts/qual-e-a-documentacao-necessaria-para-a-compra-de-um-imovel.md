@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - casa-nova
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/qual-e-a-documentacao-necessaria-para-a-compra-de-um-imovel.jpeg
+thumbnail: /static/cms-content/qual-e-a-documentacao-necessaria-para-a-compra-de-um-imovel.jpeg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -1,6 +1,8 @@
 import fs from 'fs'
 import path from 'path'
 import Template from "../../../src/components/Template";
+import Image from 'next/image'
+import profilePic from '../../../public/static/cms-content/3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica.jpg'
 
 const Post = ({ blogpost }) => {
     if (!blogpost) return <div>not found</div>
@@ -9,9 +11,9 @@ const Post = ({ blogpost }) => {
 
     return (
         <Template>
-            <article> 
+            <article className="mx-auto prose" >
                 <h1>{attributes.titulo}</h1>
-                <img src={attributes.thumbnail} />
+                <Image src={profilePic} />
                 <div dangerouslySetInnerHTML={{ __html: html }} />
             </article>
         </Template>

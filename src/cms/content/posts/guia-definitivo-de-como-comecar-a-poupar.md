@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/guia-definitivo-de-como-comecar-a-poupar.jpg
+thumbnail: /static/cms-content/guia-definitivo-de-como-comecar-a-poupar.jpg
 meta_summary: 
 date: 27/09/2021
 ---

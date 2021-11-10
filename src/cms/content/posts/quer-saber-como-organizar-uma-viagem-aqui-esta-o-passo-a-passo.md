@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo.jpeg
+thumbnail: /static/cms-content/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo.jpeg
 meta_summary: 
 date: 29/09/2021
 ---

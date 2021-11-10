@@ -7,7 +7,7 @@ tags:
  - comprar-casa
  - consorcio-de-imoveis
  - dicas
-thumbnail: /public/static/cms-content/qual-a-diferenca-entre-flat-e-kitnet.jpg
+thumbnail: /static/cms-content/qual-a-diferenca-entre-flat-e-kitnet.jpg
 meta_summary: 
 date: 05/10/2021
 ---

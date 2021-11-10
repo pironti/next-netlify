@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - educacao-financeira
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/como-fazer-um-planejamento-financeiro-para-o-casamento.jpeg
+thumbnail: /static/cms-content/como-fazer-um-planejamento-financeiro-para-o-casamento.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

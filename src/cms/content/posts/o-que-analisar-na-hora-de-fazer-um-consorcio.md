@@ -4,7 +4,7 @@ slug: o-que-analisar-na-hora-de-fazer-um-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-analisar-na-hora-de-fazer-um-consorcio.jpg
+thumbnail: /static/cms-content/o-que-analisar-na-hora-de-fazer-um-consorcio.jpg
 meta_summary: 
 date: 20/10/2021
 ---

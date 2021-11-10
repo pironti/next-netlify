@@ -4,7 +4,7 @@ slug: como-ser-contemplado-mais-rapido-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-ser-contemplado-mais-rapido-no-consorcio.jpg
+thumbnail: /static/cms-content/como-ser-contemplado-mais-rapido-no-consorcio.jpg
 meta_summary: 
 date: 05/10/2021
 ---

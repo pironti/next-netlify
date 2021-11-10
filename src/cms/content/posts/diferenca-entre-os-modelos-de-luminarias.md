@@ -6,7 +6,7 @@ tags:
  - consorcio-de-decoracao
  - casa-nova
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/diferenca-entre-os-modelos-de-luminarias.jpg
+thumbnail: /static/cms-content/diferenca-entre-os-modelos-de-luminarias.jpg
 meta_summary: 
 date: 07/10/2021
 ---

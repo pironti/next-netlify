@@ -6,7 +6,7 @@ tags:
  - consorcio-de-estetica
  - consorcio-de-servicos
  - dicas-de-estetica
-thumbnail: /public/static/cms-content/tudo-sobre-consorcio-para-cirurgia-plastica.jpg
+thumbnail: /static/cms-content/tudo-sobre-consorcio-para-cirurgia-plastica.jpg
 meta_summary: 
 date: 27/09/2021
 ---

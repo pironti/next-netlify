@@ -4,7 +4,7 @@ slug: aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019.jpg
+thumbnail: /static/cms-content/aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019.jpg
 meta_summary: 
 date: 24/09/2021
 ---

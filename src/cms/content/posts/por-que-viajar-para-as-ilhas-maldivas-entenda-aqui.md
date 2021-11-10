@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/por-que-viajar-para-as-ilhas-maldivas-entenda-aqui.jpg
+thumbnail: /static/cms-content/por-que-viajar-para-as-ilhas-maldivas-entenda-aqui.jpg
 meta_summary: 
 date: 24/09/2021
 ---

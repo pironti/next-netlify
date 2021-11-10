@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/imposto-de-renda-2021-como-declarar-o-consorcio.jpg
+thumbnail: /static/cms-content/imposto-de-renda-2021-como-declarar-o-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

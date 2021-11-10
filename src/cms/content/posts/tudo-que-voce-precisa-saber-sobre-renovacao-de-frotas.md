@@ -8,7 +8,7 @@ tags:
  - consorcio-de-carro
  - dicas
  - dicas-de-carro
-thumbnail: /public/static/cms-content/tudo-que-voce-precisa-saber-sobre-renovacao-de-frotas.jpg
+thumbnail: /static/cms-content/tudo-que-voce-precisa-saber-sobre-renovacao-de-frotas.jpg
 meta_summary: 
 date: 28/09/2021
 ---

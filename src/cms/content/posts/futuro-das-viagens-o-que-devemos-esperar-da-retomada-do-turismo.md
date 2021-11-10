@@ -4,7 +4,7 @@ slug: futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo
 categoria: viagens
 tags:
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo.jpg
+thumbnail: /static/cms-content/futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo.jpg
 meta_summary: 
 date: 27/09/2021
 ---

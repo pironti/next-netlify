@@ -8,7 +8,7 @@ tags:
  - consorcio-de-estetica
  - consorcio-de-plastica
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/o-que-e-e-como-funciona-o-consorcio-para-cirurgia.jpeg
+thumbnail: /static/cms-content/o-que-e-e-como-funciona-o-consorcio-para-cirurgia.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

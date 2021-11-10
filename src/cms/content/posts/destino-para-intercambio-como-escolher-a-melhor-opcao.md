@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/destino-para-intercambio-como-escolher-a-melhor-opcao.jpeg
+thumbnail: /static/cms-content/destino-para-intercambio-como-escolher-a-melhor-opcao.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

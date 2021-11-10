@@ -6,7 +6,7 @@ tags:
  - consorcio-de-reformas
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/como-montar-uma-sala-de-cinema-em-casa-confira-estas-4-dicas.jpeg
+thumbnail: /static/cms-content/como-montar-uma-sala-de-cinema-em-casa-confira-estas-4-dicas.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

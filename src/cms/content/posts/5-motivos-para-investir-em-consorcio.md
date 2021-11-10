@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/5-motivos-para-investir-em-consorcio.jpg
+thumbnail: /static/cms-content/5-motivos-para-investir-em-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

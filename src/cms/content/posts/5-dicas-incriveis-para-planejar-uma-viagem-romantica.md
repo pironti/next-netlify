@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/5-dicas-incriveis-para-planejar-uma-viagem-romantica.jpg
+thumbnail: /static/cms-content/5-dicas-incriveis-para-planejar-uma-viagem-romantica.jpg
 meta_summary: 
 date: 06/10/2021
 ---

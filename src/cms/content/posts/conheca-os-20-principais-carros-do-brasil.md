@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/conheca-os-20-principais-carros-do-brasil.jpg
+thumbnail: /static/cms-content/conheca-os-20-principais-carros-do-brasil.jpg
 meta_summary: 
 date: 23/09/2021
 ---

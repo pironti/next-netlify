@@ -7,7 +7,7 @@ tags:
  - consorcio-de-educacao
  - consorcio-de-servicos
  - dicas
-thumbnail: /public/static/cms-content/as-melhores-dicas-de-como-voltar-aos-estudos.jpg
+thumbnail: /static/cms-content/as-melhores-dicas-de-como-voltar-aos-estudos.jpg
 meta_summary: 
 date: 28/09/2021
 ---

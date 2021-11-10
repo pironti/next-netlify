@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/5-dicas-para-nao-cair-em-golpes-financeiros.jpg
+thumbnail: /static/cms-content/5-dicas-para-nao-cair-em-golpes-financeiros.jpg
 meta_summary: 
 date: 30/09/2021
 ---

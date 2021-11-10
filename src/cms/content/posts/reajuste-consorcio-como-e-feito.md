@@ -4,7 +4,7 @@ slug: reajuste-consorcio-como-e-feito
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/reajuste-consorcio-como-e-feito.jpg
+thumbnail: /static/cms-content/reajuste-consorcio-como-e-feito.jpg
 meta_summary: 
 date: 27/09/2021
 ---

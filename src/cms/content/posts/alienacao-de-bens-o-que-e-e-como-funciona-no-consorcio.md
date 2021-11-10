@@ -10,7 +10,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio.jpg
+thumbnail: /static/cms-content/alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio.jpg
 meta_summary: 
 date: 05/10/2021
 ---

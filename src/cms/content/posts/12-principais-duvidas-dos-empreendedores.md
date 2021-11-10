@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/12-principais-duvidas-dos-empreendedores.jpg
+thumbnail: /static/cms-content/12-principais-duvidas-dos-empreendedores.jpg
 meta_summary: 
 date: 23/09/2021
 ---

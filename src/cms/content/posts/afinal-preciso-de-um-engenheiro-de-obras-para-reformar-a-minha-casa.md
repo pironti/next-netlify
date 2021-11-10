@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/afinal-preciso-de-um-engenheiro-de-obras-para-reformar-a-minha-casa.jpg
+thumbnail: /static/cms-content/afinal-preciso-de-um-engenheiro-de-obras-para-reformar-a-minha-casa.jpg
 meta_summary: 
 date: 04/10/2021
 ---

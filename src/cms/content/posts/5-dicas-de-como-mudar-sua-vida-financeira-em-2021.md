@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/5-dicas-de-como-mudar-sua-vida-financeira-em-2021.jpg
+thumbnail: /static/cms-content/5-dicas-de-como-mudar-sua-vida-financeira-em-2021.jpg
 meta_summary: 
 date: 28/09/2021
 ---

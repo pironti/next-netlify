@@ -7,7 +7,7 @@ tags:
  - dicas-de-carreira
  - destaque-profissional
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho.jpeg
+thumbnail: /static/cms-content/faculdade-de-arquitetura-saiba-mais-sobre-o-curso-e-o-mercado-de-trabalho.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - dicas-de-carro
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/comprar-carro-usado-com-a-carta-de-credito-do-consorcio.jpg
+thumbnail: /static/cms-content/comprar-carro-usado-com-a-carta-de-credito-do-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

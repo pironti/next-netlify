@@ -4,7 +4,7 @@ slug: documentacao-para-consorcio-tire-suas-principais-duvidas
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/documentacao-para-consorcio-tire-suas-principais-duvidas.jpg
+thumbnail: /static/cms-content/documentacao-para-consorcio-tire-suas-principais-duvidas.jpg
 meta_summary: 
 date: 04/10/2021
 ---

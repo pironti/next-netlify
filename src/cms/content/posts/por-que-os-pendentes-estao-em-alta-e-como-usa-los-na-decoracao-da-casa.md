@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa.jpeg
+thumbnail: /static/cms-content/por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

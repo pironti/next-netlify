@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-educacao
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/guia-completo-sobre-o-consorcio-de-educacao.jpg
+thumbnail: /static/cms-content/guia-completo-sobre-o-consorcio-de-educacao.jpg
 meta_summary: 
 date: 28/09/2021
 ---

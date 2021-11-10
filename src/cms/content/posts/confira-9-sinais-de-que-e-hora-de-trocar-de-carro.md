@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - dicas-de-carro
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/confira-9-sinais-de-que-e-hora-de-trocar-de-carro.jpg
+thumbnail: /static/cms-content/confira-9-sinais-de-que-e-hora-de-trocar-de-carro.jpg
 meta_summary: 
 date: 24/09/2021
 ---

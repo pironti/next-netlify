@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - consorcio-de-festa
  - festas
-thumbnail: /public/static/cms-content/consorcio-para-realizacao-de-festas-saiba-como-funciona.jpg
+thumbnail: /static/cms-content/consorcio-para-realizacao-de-festas-saiba-como-funciona.jpg
 meta_summary: 
 date: 23/09/2021
 ---

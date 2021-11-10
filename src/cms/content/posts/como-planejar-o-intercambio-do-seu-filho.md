@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - dicas
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/como-planejar-o-intercambio-do-seu-filho.jpg
+thumbnail: /static/cms-content/como-planejar-o-intercambio-do-seu-filho.jpg
 meta_summary: 
 date: 29/09/2021
 ---

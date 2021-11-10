@@ -7,7 +7,7 @@ tags:
  - comprar-casa
  - economizar-energia
  - economia-domestica
-thumbnail: /public/static/cms-content/como-economizar-nas-contas-de-agua-e-luz.jpg
+thumbnail: /static/cms-content/como-economizar-nas-contas-de-agua-e-luz.jpg
 meta_summary: 
 date: 23/09/2021
 ---

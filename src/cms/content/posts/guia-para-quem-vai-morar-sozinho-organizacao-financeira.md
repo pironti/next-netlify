@@ -8,7 +8,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/guia-para-quem-vai-morar-sozinho-organizacao-financeira.jpg
+thumbnail: /static/cms-content/guia-para-quem-vai-morar-sozinho-organizacao-financeira.jpg
 meta_summary: 
 date: 28/09/2021
 ---

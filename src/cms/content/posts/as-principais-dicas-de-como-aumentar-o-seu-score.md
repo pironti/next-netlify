@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/as-principais-dicas-de-como-aumentar-o-seu-score.jpg
+thumbnail: /static/cms-content/as-principais-dicas-de-como-aumentar-o-seu-score.jpg
 meta_summary: 
 date: 28/09/2021
 ---

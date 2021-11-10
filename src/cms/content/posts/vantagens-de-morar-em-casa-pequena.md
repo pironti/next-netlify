@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/vantagens-de-morar-em-casa-pequena.jpg
+thumbnail: /static/cms-content/vantagens-de-morar-em-casa-pequena.jpg
 meta_summary: 
 date: 28/09/2021
 ---

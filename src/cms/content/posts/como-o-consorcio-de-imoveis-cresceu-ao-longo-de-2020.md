@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-imoveis
  - comprar-casa
-thumbnail: /public/static/cms-content/como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020.jpg
+thumbnail: /static/cms-content/como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020.jpg
 meta_summary: 
 date: 28/09/2021
 ---

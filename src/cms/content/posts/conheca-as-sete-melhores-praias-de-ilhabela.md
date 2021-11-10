@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/conheca-as-sete-melhores-praias-de-ilhabela.jpg
+thumbnail: /static/cms-content/conheca-as-sete-melhores-praias-de-ilhabela.jpg
 meta_summary: 
 date: 28/09/2021
 ---

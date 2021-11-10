@@ -7,7 +7,7 @@ tags:
  - consorcio-de-casamento
  - consorcio-de-festa
  - festas
-thumbnail: /public/static/cms-content/mini-wedding-o-que-e-e-como-planejar-o-seu.jpg
+thumbnail: /static/cms-content/mini-wedding-o-que-e-e-como-planejar-o-seu.jpg
 meta_summary: 
 date: 29/09/2021
 ---

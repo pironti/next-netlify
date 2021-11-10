@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - dicas-de-carro
  - como-escolher-um-carro
-thumbnail: /public/static/cms-content/como-economizar-em-tempos-de-gasolina-tao-cara.jpg
+thumbnail: /static/cms-content/como-economizar-em-tempos-de-gasolina-tao-cara.jpg
 meta_summary: 
 date: 27/09/2021
 ---

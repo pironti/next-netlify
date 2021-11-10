@@ -4,7 +4,7 @@ slug: dicas-decoracao-para-lavabo-mais-charmoso
 categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/dicas-decoracao-para-lavabo-mais-charmoso.jpg
+thumbnail: /static/cms-content/dicas-decoracao-para-lavabo-mais-charmoso.jpg
 meta_summary: 
 date: 24/09/2021
 ---

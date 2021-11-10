@@ -4,7 +4,7 @@ slug: cancelar-o-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/cancelar-o-consorcio.jpg
+thumbnail: /static/cms-content/cancelar-o-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

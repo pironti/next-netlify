@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/os-melhores-destinos-de-viagem-na-america-do-sul.png
+thumbnail: /static/cms-content/os-melhores-destinos-de-viagem-na-america-do-sul.png
 meta_summary: 
 date: 05/10/2021
 ---

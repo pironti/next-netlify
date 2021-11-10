@@ -6,7 +6,7 @@ tags:
  - consorcio
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira.jpg
+thumbnail: /static/cms-content/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira.jpg
 meta_summary: 
 date: 30/09/2021
 ---

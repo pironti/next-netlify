@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - casa-nova
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar.jpg
+thumbnail: /static/cms-content/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar.jpg
 meta_summary: 
 date: 04/10/2021
 ---

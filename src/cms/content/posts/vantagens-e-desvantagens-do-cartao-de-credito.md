@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/vantagens-e-desvantagens-do-cartao-de-credito.jpg
+thumbnail: /static/cms-content/vantagens-e-desvantagens-do-cartao-de-credito.jpg
 meta_summary: 
 date: 23/09/2021
 ---

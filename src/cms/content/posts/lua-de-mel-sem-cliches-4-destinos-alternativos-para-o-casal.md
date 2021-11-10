@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - dicas-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/lua-de-mel-sem-cliches-4-destinos-alternativos-para-o-casal.png
+thumbnail: /static/cms-content/lua-de-mel-sem-cliches-4-destinos-alternativos-para-o-casal.png
 meta_summary: 
 date: 05/10/2021
 ---

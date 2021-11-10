@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/motorista-de-aplicativo-faca-um-consorcio.png
+thumbnail: /static/cms-content/motorista-de-aplicativo-faca-um-consorcio.png
 meta_summary: 
 date: 06/10/2021
 ---

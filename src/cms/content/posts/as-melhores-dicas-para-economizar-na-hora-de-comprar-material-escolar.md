@@ -8,7 +8,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/as-melhores-dicas-para-economizar-na-hora-de-comprar-material-escolar.jpg
+thumbnail: /static/cms-content/as-melhores-dicas-para-economizar-na-hora-de-comprar-material-escolar.jpg
 meta_summary: 
 date: 28/09/2021
 ---

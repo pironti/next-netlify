@@ -4,7 +4,7 @@ slug: os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma.jpeg
+thumbnail: /static/cms-content/os-5-primeiros-passos-para-quem-vai-comecar-uma-reforma.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

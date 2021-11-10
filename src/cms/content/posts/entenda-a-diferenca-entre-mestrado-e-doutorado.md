@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/entenda-a-diferenca-entre-mestrado-e-doutorado.jpeg
+thumbnail: /static/cms-content/entenda-a-diferenca-entre-mestrado-e-doutorado.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

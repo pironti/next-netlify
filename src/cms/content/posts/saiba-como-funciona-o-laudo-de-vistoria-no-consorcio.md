@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/saiba-como-funciona-o-laudo-de-vistoria-no-consorcio.png
+thumbnail: /static/cms-content/saiba-como-funciona-o-laudo-de-vistoria-no-consorcio.png
 meta_summary: 
 date: 27/09/2021
 ---

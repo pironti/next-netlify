@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/8-detalhes-para-prestar-atencao-na-hora-de-comprar-um-carro.jpg
+thumbnail: /static/cms-content/8-detalhes-para-prestar-atencao-na-hora-de-comprar-um-carro.jpg
 meta_summary: 
 date: 24/09/2021
 ---

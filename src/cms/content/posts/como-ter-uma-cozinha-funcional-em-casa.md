@@ -7,7 +7,7 @@ tags:
  - dicas-de-decoracao
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/como-ter-uma-cozinha-funcional-em-casa.jpeg
+thumbnail: /static/cms-content/como-ter-uma-cozinha-funcional-em-casa.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - festas
  - consorcio-de-festa
  - casamento
-thumbnail: /public/static/cms-content/qual-e-a-melhor-data-para-casar-e-como-escolher.jpeg
+thumbnail: /static/cms-content/qual-e-a-melhor-data-para-casar-e-como-escolher.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

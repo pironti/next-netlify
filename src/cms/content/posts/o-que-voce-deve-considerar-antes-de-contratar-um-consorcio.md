@@ -4,7 +4,7 @@ slug: o-que-voce-deve-considerar-antes-de-contratar-um-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-voce-deve-considerar-antes-de-contratar-um-consorcio.jpg
+thumbnail: /static/cms-content/o-que-voce-deve-considerar-antes-de-contratar-um-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

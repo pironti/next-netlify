@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/10-importantes-dicas-para-economizar-nas-compras-de-casa.jpg
+thumbnail: /static/cms-content/10-importantes-dicas-para-economizar-nas-compras-de-casa.jpg
 meta_summary: 
 date: 30/09/2021
 ---

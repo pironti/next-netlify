@@ -9,7 +9,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/gastos-de-comeco-de-ano-com-o-que-devo-me-preocupar.jpg
+thumbnail: /static/cms-content/gastos-de-comeco-de-ano-com-o-que-devo-me-preocupar.jpg
 meta_summary: 
 date: 28/09/2021
 ---

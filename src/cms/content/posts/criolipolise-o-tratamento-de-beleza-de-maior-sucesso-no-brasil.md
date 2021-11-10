@@ -6,7 +6,7 @@ tags:
  - consorcio-de-estetica
  - consorcio-de-servicos
  - dicas-de-estetica
-thumbnail: /public/static/cms-content/criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil.jpg
+thumbnail: /static/cms-content/criolipolise-o-tratamento-de-beleza-de-maior-sucesso-no-brasil.jpg
 meta_summary: 
 date: 28/09/2021
 ---

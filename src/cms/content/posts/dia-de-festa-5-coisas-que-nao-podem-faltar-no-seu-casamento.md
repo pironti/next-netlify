@@ -9,7 +9,7 @@ tags:
  - consorcio-de-servicos
  - dicas
  - festas
-thumbnail: /public/static/cms-content/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento.jpg
+thumbnail: /static/cms-content/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento.jpg
 meta_summary: 
 date: 06/10/2021
 ---

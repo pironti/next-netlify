@@ -5,7 +5,7 @@ categoria: saude-e-estetica
 tags:
  - consorcio-de-plastica
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/5-duvidas-sobre-o-consorcio-de-cirurgia.jpg
+thumbnail: /static/cms-content/5-duvidas-sobre-o-consorcio-de-cirurgia.jpg
 meta_summary: 
 date: 05/10/2021
 ---

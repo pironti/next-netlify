@@ -7,7 +7,7 @@ tags:
  - consorcio-de-estetica
  - consorcio-de-servicos
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/quais-sao-os-tipos-e-como-escolher-uma-protese-de-silicone.jpg
+thumbnail: /static/cms-content/quais-sao-os-tipos-e-como-escolher-uma-protese-de-silicone.jpg
 meta_summary: 
 date: 30/09/2021
 ---

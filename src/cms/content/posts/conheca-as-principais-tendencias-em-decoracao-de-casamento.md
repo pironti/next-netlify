@@ -7,7 +7,7 @@ tags:
  - tendencia-em-decoracao
  - consorcio-de-festa
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/conheca-as-principais-tendencias-em-decoracao-de-casamento.jpeg
+thumbnail: /static/cms-content/conheca-as-principais-tendencias-em-decoracao-de-casamento.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

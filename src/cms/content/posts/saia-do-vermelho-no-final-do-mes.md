@@ -4,7 +4,7 @@ slug: saia-do-vermelho-no-final-do-mes
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/static/cms-content/saia-do-vermelho-no-final-do-mes.jpg
+thumbnail: /static/cms-content/saia-do-vermelho-no-final-do-mes.jpg
 meta_summary: 
 date: 09/11/2021
 ---

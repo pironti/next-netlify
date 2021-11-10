@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-e-investimento
  - educacao-financeira
-thumbnail: /public/static/cms-content/vale-a-pena-comprar-um-terreno-para-investir.jpg
+thumbnail: /static/cms-content/vale-a-pena-comprar-um-terreno-para-investir.jpg
 meta_summary: 
 date: 24/09/2021
 ---

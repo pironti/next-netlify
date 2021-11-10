@@ -5,7 +5,7 @@ categoria: cotas
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/entenda-o-que-e-uma-cota-cancelada.jpg
+thumbnail: /static/cms-content/entenda-o-que-e-uma-cota-cancelada.jpg
 meta_summary: 
 date: 27/09/2021
 ---

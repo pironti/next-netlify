@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - dicas
-thumbnail: /public/static/cms-content/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia.jpg
+thumbnail: /static/cms-content/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

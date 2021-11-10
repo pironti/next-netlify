@@ -4,7 +4,7 @@ slug: 4-razoes-para-conhecer-o-chile-nas-suas-ferias
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/4-razoes-para-conhecer-o-chile-nas-suas-ferias.jpg
+thumbnail: /static/cms-content/4-razoes-para-conhecer-o-chile-nas-suas-ferias.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/guia-completo-consorcio-imobiliario.jpg
+thumbnail: /static/cms-content/guia-completo-consorcio-imobiliario.jpg
 meta_summary: 
 date: 27/09/2021
 ---

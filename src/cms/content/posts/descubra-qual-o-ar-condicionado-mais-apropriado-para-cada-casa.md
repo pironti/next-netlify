@@ -8,7 +8,7 @@ tags:
  - consorcio-de-reformas
  - dicas
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/descubra-qual-o-ar-condicionado-mais-apropriado-para-cada-casa.jpg
+thumbnail: /static/cms-content/descubra-qual-o-ar-condicionado-mais-apropriado-para-cada-casa.jpg
 meta_summary: 
 date: 28/09/2021
 ---

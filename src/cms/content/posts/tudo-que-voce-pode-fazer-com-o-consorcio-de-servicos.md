@@ -4,7 +4,7 @@ slug: tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos
 categoria: servicos
 tags:
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos.jpg
+thumbnail: /static/cms-content/tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos.jpg
 meta_summary: 
 date: 23/09/2021
 ---

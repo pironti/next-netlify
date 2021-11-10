@@ -8,7 +8,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago.jpg
+thumbnail: /static/cms-content/entenda-o-que-e-o-itbi-e-quando-ele-deve-ser-pago.jpg
 meta_summary: 
 date: 05/10/2021
 ---

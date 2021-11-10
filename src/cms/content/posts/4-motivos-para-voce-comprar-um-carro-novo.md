@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - dicas-de-carro
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/4-motivos-para-voce-comprar-um-carro-novo.jpg
+thumbnail: /static/cms-content/4-motivos-para-voce-comprar-um-carro-novo.jpg
 meta_summary: 
 date: 24/09/2021
 ---

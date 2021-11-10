@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/static/cms-content/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio.jpg
+thumbnail: /static/cms-content/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio.jpg
 meta_summary: 
 date: 06/10/2021
 ---

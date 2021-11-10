@@ -9,7 +9,7 @@ tags:
  - dicas-de-economia
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes.jpg
+thumbnail: /static/cms-content/como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes.jpg
 meta_summary: 
 date: 23/09/2021
 ---

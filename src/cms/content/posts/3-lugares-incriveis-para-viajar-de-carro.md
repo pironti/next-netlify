@@ -6,7 +6,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-viagem
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/3-lugares-incriveis-para-viajar-de-carro.jpg
+thumbnail: /static/cms-content/3-lugares-incriveis-para-viajar-de-carro.jpg
 meta_summary: 
 date: 06/10/2021
 ---

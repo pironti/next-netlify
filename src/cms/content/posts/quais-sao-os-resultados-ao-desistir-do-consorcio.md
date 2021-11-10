@@ -4,7 +4,7 @@ slug: quais-sao-os-resultados-ao-desistir-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/quais-sao-os-resultados-ao-desistir-do-consorcio.jpg
+thumbnail: /static/cms-content/quais-sao-os-resultados-ao-desistir-do-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

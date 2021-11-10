@@ -7,7 +7,7 @@ tags:
  - dicas-de-estetica
  - consorcio-de-estetica
  - consorcio-de-plastica
-thumbnail: /public/static/cms-content/o-que-e-a-mentoplastia-e-quem-deve-fazer.jpg
+thumbnail: /static/cms-content/o-que-e-a-mentoplastia-e-quem-deve-fazer.jpg
 meta_summary: 
 date: 30/09/2021
 ---

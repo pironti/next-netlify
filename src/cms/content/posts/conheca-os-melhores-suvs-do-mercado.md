@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/conheca-os-melhores-suvs-do-mercado.jpg
+thumbnail: /static/cms-content/conheca-os-melhores-suvs-do-mercado.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -4,7 +4,7 @@ slug: consorcio-para-realizar-os-seus-sonhos
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/consorcio-para-realizar-os-seus-sonhos.jpg
+thumbnail: /static/cms-content/consorcio-para-realizar-os-seus-sonhos.jpg
 meta_summary: 
 date: 23/09/2021
 ---

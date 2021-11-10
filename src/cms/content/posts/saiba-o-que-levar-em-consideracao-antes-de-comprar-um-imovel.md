@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel.jpg
+thumbnail: /static/cms-content/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

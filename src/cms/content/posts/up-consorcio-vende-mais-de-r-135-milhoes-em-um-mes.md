@@ -4,7 +4,7 @@ slug: up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes
 categoria: consorcio
 tags:
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes.jpg
+thumbnail: /static/cms-content/up-consorcio-vende-mais-de-r-135-milhoes-em-um-mes.jpg
 meta_summary: 
 date: 06/10/2021
 ---

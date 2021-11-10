@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/por-que-viajar-para-a-tailandia-nas-suas-ferias.jpeg
+thumbnail: /static/cms-content/por-que-viajar-para-a-tailandia-nas-suas-ferias.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

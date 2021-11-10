@@ -6,7 +6,7 @@ tags:
  - dicas
  - consorcio-de-educacao
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/7-dicas-essenciais-para-organizar-um-intercambio.jpg
+thumbnail: /static/cms-content/7-dicas-essenciais-para-organizar-um-intercambio.jpg
 meta_summary: 
 date: 30/09/2021
 ---

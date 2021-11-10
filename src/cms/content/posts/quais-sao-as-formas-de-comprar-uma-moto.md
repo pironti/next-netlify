@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - dicas
  - moto
-thumbnail: /public/static/cms-content/quais-sao-as-formas-de-comprar-uma-moto.jpg
+thumbnail: /static/cms-content/quais-sao-as-formas-de-comprar-uma-moto.jpg
 meta_summary: 
 date: 23/09/2021
 ---

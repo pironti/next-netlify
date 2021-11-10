@@ -4,7 +4,7 @@ slug: 8-motivos-para-voce-morar-perto-do-trabalho
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/8-motivos-para-voce-morar-perto-do-trabalho.jpg
+thumbnail: /static/cms-content/8-motivos-para-voce-morar-perto-do-trabalho.jpg
 meta_summary: 
 date: 01/10/2021
 ---

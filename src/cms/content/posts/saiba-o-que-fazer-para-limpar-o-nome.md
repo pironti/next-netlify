@@ -4,7 +4,7 @@ slug: saiba-o-que-fazer-para-limpar-o-nome
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/saiba-o-que-fazer-para-limpar-o-nome.png
+thumbnail: /static/cms-content/saiba-o-que-fazer-para-limpar-o-nome.png
 meta_summary: 
 date: 05/10/2021
 ---

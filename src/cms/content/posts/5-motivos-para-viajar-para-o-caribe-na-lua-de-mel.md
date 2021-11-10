@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - consorcio-de-servicos
  - casamento
-thumbnail: /public/static/cms-content/5-motivos-para-viajar-para-o-caribe-na-lua-de-mel.jpg
+thumbnail: /static/cms-content/5-motivos-para-viajar-para-o-caribe-na-lua-de-mel.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - consorcio-x-financiamento
  - dicas-de-carro
-thumbnail: /public/static/cms-content/afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia.jpeg
+thumbnail: /static/cms-content/afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

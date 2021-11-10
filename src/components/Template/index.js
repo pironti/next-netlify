@@ -5,21 +5,21 @@ import Rodape from "../Rodape";
 
 function Template({ children }) {
   return (
-    <div>
+    <>
       <Head>
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter&display=optional"
+          href="https://fonts.googleapis.com/css2?family=Inter&display=swap"
           rel="stylesheet"
         />
         <title>Embracon</title>
       </Head>
 
-      <body>
-        <MenuPrincipal />
-        {children}
-        <Rodape />
-      </body>
-    </div>
+
+      <MenuPrincipal />
+      <main>{children}</main>
+      <Rodape />
+
+    </>
   );
 }
 

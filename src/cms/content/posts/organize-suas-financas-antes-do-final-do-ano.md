@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - dicas-de-economia
-thumbnail: /public/static/cms-content/organize-suas-financas-antes-do-final-do-ano.jpg
+thumbnail: /static/cms-content/organize-suas-financas-antes-do-final-do-ano.jpg
 meta_summary: 
 date: 20/10/2021
 ---

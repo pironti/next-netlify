@@ -4,7 +4,7 @@ slug: quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira.jpeg
+thumbnail: /static/cms-content/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

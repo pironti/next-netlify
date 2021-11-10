@@ -6,7 +6,7 @@ tags:
  - consorcio-de-plastica
  - consorcio-de-estetica
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/como-escolher-um-consorcio-de-cirurgia-plastica-em-6-passos.jpeg
+thumbnail: /static/cms-content/como-escolher-um-consorcio-de-cirurgia-plastica-em-6-passos.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-fazer-um-planejamento-financeiro-em-2021.jpg
+thumbnail: /static/cms-content/como-fazer-um-planejamento-financeiro-em-2021.jpg
 meta_summary: 
 date: 28/09/2021
 ---

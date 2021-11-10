@@ -6,7 +6,7 @@ tags:
  - festas
  - consorcio-de-festa
  - casamento
-thumbnail: /public/static/cms-content/cerimonia-e-festa-de-casamento-juntos-ou-separados.jpeg
+thumbnail: /static/cms-content/cerimonia-e-festa-de-casamento-juntos-ou-separados.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

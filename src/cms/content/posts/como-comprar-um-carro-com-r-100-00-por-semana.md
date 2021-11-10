@@ -7,7 +7,7 @@ tags:
  - consorcio-x-financiamento
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/como-comprar-um-carro-com-r-100-00-por-semana.png
+thumbnail: /static/cms-content/como-comprar-um-carro-com-r-100-00-por-semana.png
 meta_summary: 
 date: 24/09/2021
 ---

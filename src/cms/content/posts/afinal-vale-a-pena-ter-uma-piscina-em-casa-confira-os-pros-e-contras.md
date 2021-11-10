@@ -4,7 +4,7 @@ slug: afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras.jpeg
+thumbnail: /static/cms-content/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

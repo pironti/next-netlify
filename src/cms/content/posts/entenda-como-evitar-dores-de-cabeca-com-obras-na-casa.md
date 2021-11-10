@@ -4,7 +4,7 @@ slug: entenda-como-evitar-dores-de-cabeca-com-obras-na-casa
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/entenda-como-evitar-dores-de-cabeca-com-obras-na-casa.jpeg
+thumbnail: /static/cms-content/entenda-como-evitar-dores-de-cabeca-com-obras-na-casa.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

@@ -4,7 +4,7 @@ slug: dicas-na-hora-de-vender-a-sua-moto
 categoria: moto
 tags:
  - moto
-thumbnail: /public/static/cms-content/dicas-na-hora-de-vender-a-sua-moto.jpg
+thumbnail: /static/cms-content/dicas-na-hora-de-vender-a-sua-moto.jpg
 meta_summary: 
 date: 19/10/2021
 ---

@@ -4,7 +4,7 @@ slug: investimentos-alto-risco-vale-a-pena
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/investimentos-alto-risco-vale-a-pena.jpg
+thumbnail: /static/cms-content/investimentos-alto-risco-vale-a-pena.jpg
 meta_summary: 
 date: 05/10/2021
 ---

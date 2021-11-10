@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/conheca-4-dicas-essenciais-para-quem-quer-montar-um-bar-em-casa.jpeg
+thumbnail: /static/cms-content/conheca-4-dicas-essenciais-para-quem-quer-montar-um-bar-em-casa.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

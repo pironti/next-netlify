@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/dicas-para-uma-vida-financeira-mais-feliz.jpg
+thumbnail: /static/cms-content/dicas-para-uma-vida-financeira-mais-feliz.jpg
 meta_summary: 
 date: 28/09/2021
 ---

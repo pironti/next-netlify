@@ -10,7 +10,7 @@ tags:
  - dicas-de-viagem
  - dicas-de-carreira
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/como-escolher-o-melhor-local-para-o-intercambio-do-seu-filho.jpg
+thumbnail: /static/cms-content/como-escolher-o-melhor-local-para-o-intercambio-do-seu-filho.jpg
 meta_summary: 
 date: 28/09/2021
 ---

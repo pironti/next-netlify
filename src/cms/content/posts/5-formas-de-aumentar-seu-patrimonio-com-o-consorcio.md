@@ -8,7 +8,7 @@ tags:
  - consorcio-e-investimento
  - consorcio-x-financiamento
  - dicas-de-economia
-thumbnail: /public/static/cms-content/5-formas-de-aumentar-seu-patrimonio-com-o-consorcio.jpg
+thumbnail: /static/cms-content/5-formas-de-aumentar-seu-patrimonio-com-o-consorcio.jpg
 meta_summary: 
 date: 29/09/2021
 ---

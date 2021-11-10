@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - dicas-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui.jpg
+thumbnail: /static/cms-content/como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui.jpg
 meta_summary: 
 date: 05/10/2021
 ---

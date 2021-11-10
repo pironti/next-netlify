@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - consorcio-de-viagem
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/por-que-fazer-um-intercambio-veja-7-bons-motivos.jpg
+thumbnail: /static/cms-content/por-que-fazer-um-intercambio-veja-7-bons-motivos.jpg
 meta_summary: 
 date: 06/10/2021
 ---

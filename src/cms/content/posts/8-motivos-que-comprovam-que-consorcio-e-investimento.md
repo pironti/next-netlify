@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/8-motivos-que-comprovam-que-consorcio-e-investimento.jpg
+thumbnail: /static/cms-content/8-motivos-que-comprovam-que-consorcio-e-investimento.jpg
 meta_summary: 
 date: 30/09/2021
 ---

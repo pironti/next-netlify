@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/entenda-como-funciona-um-implante-dentario.jpeg
+thumbnail: /static/cms-content/entenda-como-funciona-um-implante-dentario.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

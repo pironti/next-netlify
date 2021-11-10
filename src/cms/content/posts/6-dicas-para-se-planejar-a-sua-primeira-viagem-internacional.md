@@ -7,7 +7,7 @@ tags:
  - consorcio-de-servicos
  - roteiro-de-viagem
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional.jpg
+thumbnail: /static/cms-content/6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional.jpg
 meta_summary: 
 date: 28/09/2021
 ---

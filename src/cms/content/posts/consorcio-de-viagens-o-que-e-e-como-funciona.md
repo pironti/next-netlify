@@ -7,7 +7,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/consorcio-de-viagens-o-que-e-e-como-funciona.jpg
+thumbnail: /static/cms-content/consorcio-de-viagens-o-que-e-e-como-funciona.jpg
 meta_summary: 
 date: 06/10/2021
 ---

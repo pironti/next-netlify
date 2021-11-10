@@ -5,7 +5,7 @@ categoria: saude-e-estetica
 tags:
  - estetica
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores.jpg
+thumbnail: /static/cms-content/procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores.jpg
 meta_summary: 
 date: 01/10/2021
 ---

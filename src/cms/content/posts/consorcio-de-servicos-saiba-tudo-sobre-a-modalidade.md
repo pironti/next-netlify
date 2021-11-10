@@ -13,7 +13,7 @@ tags:
  - consorcio-de-plastica
  - consorcio-de-reformas
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/consorcio-de-servicos-saiba-tudo-sobre-a-modalidade.jpg
+thumbnail: /static/cms-content/consorcio-de-servicos-saiba-tudo-sobre-a-modalidade.jpg
 meta_summary: 
 date: 23/09/2021
 ---

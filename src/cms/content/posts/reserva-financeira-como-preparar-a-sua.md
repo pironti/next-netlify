@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/reserva-financeira-como-preparar-a-sua.png
+thumbnail: /static/cms-content/reserva-financeira-como-preparar-a-sua.png
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/cuide-da-sua-casa-faca-uma-manutencao-regularmente.jpg
+thumbnail: /static/cms-content/cuide-da-sua-casa-faca-uma-manutencao-regularmente.jpg
 meta_summary: 
 date: 07/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/como-escolher-as-cores-de-tintas-para-os-ambientes-da-casa.jpeg
+thumbnail: /static/cms-content/como-escolher-as-cores-de-tintas-para-os-ambientes-da-casa.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -13,7 +13,7 @@ tags:
  - consorcio-de-viagem
  - consorcio-e-investimento
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio.jpg
+thumbnail: /static/cms-content/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio.jpg
 meta_summary: 
 date: 29/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - consorcio
  - moto
-thumbnail: /public/static/cms-content/guia-completo-de-como-comprar-uma-moto-com-consorcio.jpg
+thumbnail: /static/cms-content/guia-completo-de-como-comprar-uma-moto-com-consorcio.jpg
 meta_summary: 
 date: 29/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/quais-sao-os-principais-tipos-de-carros.jpg
+thumbnail: /static/cms-content/quais-sao-os-principais-tipos-de-carros.jpg
 meta_summary: 
 date: 20/10/2021
 ---

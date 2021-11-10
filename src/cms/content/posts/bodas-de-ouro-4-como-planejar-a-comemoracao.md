@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/bodas-de-ouro-4-como-planejar-a-comemoracao.jpeg
+thumbnail: /static/cms-content/bodas-de-ouro-4-como-planejar-a-comemoracao.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/renovacao-dos-votos-como-fazer.jpeg
+thumbnail: /static/cms-content/renovacao-dos-votos-como-fazer.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

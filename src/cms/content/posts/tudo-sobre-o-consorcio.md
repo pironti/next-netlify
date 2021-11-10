@@ -4,7 +4,7 @@ slug: tudo-sobre-o-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/tudo-sobre-o-consorcio.jpg
+thumbnail: /static/cms-content/tudo-sobre-o-consorcio.jpg
 meta_summary: 
 date: 04/10/2021
 ---

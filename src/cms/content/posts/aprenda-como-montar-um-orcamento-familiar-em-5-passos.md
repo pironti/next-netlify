@@ -4,7 +4,7 @@ slug: aprenda-como-montar-um-orcamento-familiar-em-5-passos
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/aprenda-como-montar-um-orcamento-familiar-em-5-passos.jpg
+thumbnail: /static/cms-content/aprenda-como-montar-um-orcamento-familiar-em-5-passos.jpg
 meta_summary: 
 date: 06/10/2021
 ---

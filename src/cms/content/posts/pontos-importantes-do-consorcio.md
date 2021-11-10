@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/pontos-importantes-do-consorcio.jpg
+thumbnail: /static/cms-content/pontos-importantes-do-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

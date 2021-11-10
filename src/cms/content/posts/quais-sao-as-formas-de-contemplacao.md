@@ -4,7 +4,7 @@ slug: quais-sao-as-formas-de-contemplacao
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/quais-sao-as-formas-de-contemplacao.jpg
+thumbnail: /static/cms-content/quais-sao-as-formas-de-contemplacao.jpg
 meta_summary: 
 date: 05/10/2021
 ---

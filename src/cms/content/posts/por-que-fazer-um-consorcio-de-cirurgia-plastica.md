@@ -6,7 +6,7 @@ tags:
  - tipos-de-consorcio
  - estetica
  - consorcio-de-plastica
-thumbnail: /public/static/cms-content/por-que-fazer-um-consorcio-de-cirurgia-plastica.png
+thumbnail: /static/cms-content/por-que-fazer-um-consorcio-de-cirurgia-plastica.png
 meta_summary: 
 date: 30/09/2021
 ---

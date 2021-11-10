@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-imoveis
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/como-funciona-um-consorcio-de-imoveis-no-brasil.jpg
+thumbnail: /static/cms-content/como-funciona-um-consorcio-de-imoveis-no-brasil.jpg
 meta_summary: 
 date: 28/09/2021
 ---

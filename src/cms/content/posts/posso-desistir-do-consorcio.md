@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/posso-desistir-do-consorcio.jpg
+thumbnail: /static/cms-content/posso-desistir-do-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

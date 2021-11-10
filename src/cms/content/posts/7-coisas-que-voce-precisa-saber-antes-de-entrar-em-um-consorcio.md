@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/7-coisas-que-voce-precisa-saber-antes-de-entrar-em-um-consorcio.jpg
+thumbnail: /static/cms-content/7-coisas-que-voce-precisa-saber-antes-de-entrar-em-um-consorcio.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/como-comprar-um-carro-seminovo-com-o-consorcio.jpg
+thumbnail: /static/cms-content/como-comprar-um-carro-seminovo-com-o-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

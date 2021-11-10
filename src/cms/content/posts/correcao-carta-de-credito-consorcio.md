@@ -4,7 +4,7 @@ slug: correcao-carta-de-credito-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/correcao-carta-de-credito-consorcio.jpg
+thumbnail: /static/cms-content/correcao-carta-de-credito-consorcio.jpg
 meta_summary: 
 date: 04/10/2021
 ---

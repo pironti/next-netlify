@@ -4,7 +4,7 @@ slug: como-funciona-o-consorcio-de-onibus
 categoria: pesados
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-funciona-o-consorcio-de-onibus.jpg
+thumbnail: /static/cms-content/como-funciona-o-consorcio-de-onibus.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/saiba-mais-sobre-a-faculdade-e-o-mercado-de-engenharia-civil.jpeg
+thumbnail: /static/cms-content/saiba-mais-sobre-a-faculdade-e-o-mercado-de-engenharia-civil.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

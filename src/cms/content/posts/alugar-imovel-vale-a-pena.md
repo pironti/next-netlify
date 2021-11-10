@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - comprar-casa
  - casa-nova
-thumbnail: /public/static/cms-content/alugar-imovel-vale-a-pena.jpg
+thumbnail: /static/cms-content/alugar-imovel-vale-a-pena.jpg
 meta_summary: 
 date: 09/11/2021
 ---

@@ -4,7 +4,7 @@ slug: saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil
 categoria: saude-e-estetica
 tags:
  - consorcio-de-plastica
-thumbnail: /public/static/cms-content/saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil.jpg
+thumbnail: /static/cms-content/saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil.jpg
 meta_summary: 
 date: 30/09/2021
 ---

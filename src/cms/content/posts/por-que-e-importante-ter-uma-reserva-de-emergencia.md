@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/por-que-e-importante-ter-uma-reserva-de-emergencia.jpg
+thumbnail: /static/cms-content/por-que-e-importante-ter-uma-reserva-de-emergencia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

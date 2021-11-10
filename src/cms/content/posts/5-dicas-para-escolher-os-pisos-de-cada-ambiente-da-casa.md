@@ -8,7 +8,7 @@ tags:
  - consorcio-de-servicos
  - estetica
  - dicas-de-estetica
-thumbnail: /public/static/cms-content/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa.jpg
+thumbnail: /static/cms-content/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa.jpg
 meta_summary: 
 date: 04/10/2021
 ---

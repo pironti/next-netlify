@@ -8,7 +8,7 @@ tags:
  - dicas
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/5-dicas-de-decoracao-de-sala-para-voce-fazer-hoje.png
+thumbnail: /static/cms-content/5-dicas-de-decoracao-de-sala-para-voce-fazer-hoje.png
 meta_summary: 
 date: 05/10/2021
 ---

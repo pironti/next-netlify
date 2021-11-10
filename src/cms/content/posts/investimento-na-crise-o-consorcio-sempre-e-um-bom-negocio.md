@@ -10,7 +10,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-carro
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio.jpg
+thumbnail: /static/cms-content/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/static/cms-content/carro-de-passeio-como-escolher-a-melhor-opcao.jpg
+thumbnail: /static/cms-content/carro-de-passeio-como-escolher-a-melhor-opcao.jpg
 meta_summary: 
 date: 01/10/2021
 ---

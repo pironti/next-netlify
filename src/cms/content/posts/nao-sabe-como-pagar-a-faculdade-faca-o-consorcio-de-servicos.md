@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - consorcio-de-educacao
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/nao-sabe-como-pagar-a-faculdade-faca-o-consorcio-de-servicos.jpg
+thumbnail: /static/cms-content/nao-sabe-como-pagar-a-faculdade-faca-o-consorcio-de-servicos.jpg
 meta_summary: 
 date: 23/09/2021
 ---

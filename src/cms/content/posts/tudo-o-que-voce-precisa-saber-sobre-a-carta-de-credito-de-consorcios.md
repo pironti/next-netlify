@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios.jpg
+thumbnail: /static/cms-content/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios.jpg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - roteiro-de-viagem
  - festas
-thumbnail: /public/static/cms-content/consorcio-de-casamento-saiba-como-funciona.png
+thumbnail: /static/cms-content/consorcio-de-casamento-saiba-como-funciona.png
 meta_summary: 
 date: 27/09/2021
 ---

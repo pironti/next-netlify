@@ -6,7 +6,7 @@ tags:
  - consorcio-de-viagem
  - roteiro-de-viagem
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/como-pagar-a-sua-proxima-viagem.jpg
+thumbnail: /static/cms-content/como-pagar-a-sua-proxima-viagem.jpg
 meta_summary: 
 date: 07/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - consorcio
  - dicas-de-economia
-thumbnail: /public/static/cms-content/quais-sao-os-principais-golpes-financeiros-no-mercado.jpg
+thumbnail: /static/cms-content/quais-sao-os-principais-golpes-financeiros-no-mercado.jpg
 meta_summary: 
 date: 27/09/2021
 ---

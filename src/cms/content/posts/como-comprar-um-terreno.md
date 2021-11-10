@@ -4,7 +4,7 @@ slug: como-comprar-um-terreno
 categoria: imoveis
 tags:
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/como-comprar-um-terreno.jpg
+thumbnail: /static/cms-content/como-comprar-um-terreno.jpg
 meta_summary: 
 date: 09/11/2021
 ---

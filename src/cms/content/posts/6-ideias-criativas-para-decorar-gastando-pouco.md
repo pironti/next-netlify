@@ -4,7 +4,7 @@ slug: 6-ideias-criativas-para-decorar-gastando-pouco
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/6-ideias-criativas-para-decorar-gastando-pouco.jpg
+thumbnail: /static/cms-content/6-ideias-criativas-para-decorar-gastando-pouco.jpg
 meta_summary: 
 date: 04/10/2021
 ---

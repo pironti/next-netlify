@@ -4,7 +4,7 @@ slug: o-que-e-o-fundo-comum-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-e-o-fundo-comum-no-consorcio.jpg
+thumbnail: /static/cms-content/o-que-e-o-fundo-comum-no-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

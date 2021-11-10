@@ -4,7 +4,7 @@ slug: saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa.jpeg
+thumbnail: /static/cms-content/saiba-quais-sao-as-vantagens-de-ter-um-spa-em-casa.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

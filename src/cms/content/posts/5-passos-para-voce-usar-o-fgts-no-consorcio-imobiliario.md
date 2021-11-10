@@ -7,7 +7,7 @@ tags:
  - educacao-financeira
  - consorcio-de-imoveis
  - casa-nova
-thumbnail: /public/static/cms-content/5-passos-para-voce-usar-o-fgts-no-consorcio-imobiliario.jpg
+thumbnail: /static/cms-content/5-passos-para-voce-usar-o-fgts-no-consorcio-imobiliario.jpg
 meta_summary: 
 date: 01/10/2021
 ---

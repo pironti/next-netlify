@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/como-sair-do-vermelho-em-2019.jpeg
+thumbnail: /static/cms-content/como-sair-do-vermelho-em-2019.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

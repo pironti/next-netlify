@@ -7,7 +7,7 @@ tags:
  - consorcio-de-viagem
  - consorcio-de-imoveis
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/guia-de-como-viajar-de-aviao-para-a-europa-com-o-seu-pet.jpg
+thumbnail: /static/cms-content/guia-de-como-viajar-de-aviao-para-a-europa-com-o-seu-pet.jpg
 meta_summary: 
 date: 29/09/2021
 ---

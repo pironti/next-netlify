@@ -4,7 +4,7 @@ slug: o-que-e-a-taxa-de-administracao-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-e-a-taxa-de-administracao-do-consorcio.jpg
+thumbnail: /static/cms-content/o-que-e-a-taxa-de-administracao-do-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

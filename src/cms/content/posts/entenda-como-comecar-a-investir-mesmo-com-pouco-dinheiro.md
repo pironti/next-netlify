@@ -6,7 +6,7 @@ tags:
  - educacao-financeira
  - dicas-de-economia
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro.jpeg
+thumbnail: /static/cms-content/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

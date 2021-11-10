@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - dicas
  - dicas-de-carro
-thumbnail: /public/static/cms-content/os-4-modelos-de-carro-mais-esperados-para-2020.png
+thumbnail: /static/cms-content/os-4-modelos-de-carro-mais-esperados-para-2020.png
 meta_summary: 
 date: 06/10/2021
 ---

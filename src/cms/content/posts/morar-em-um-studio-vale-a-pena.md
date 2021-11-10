@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - casa-nova
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/morar-em-um-studio-vale-a-pena.jpg
+thumbnail: /static/cms-content/morar-em-um-studio-vale-a-pena.jpg
 meta_summary: 
 date: 08/10/2021
 ---

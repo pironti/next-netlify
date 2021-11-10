@@ -4,7 +4,7 @@ slug: 4-motivos-para-investir-em-intercambio-para-os-filhos
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/4-motivos-para-investir-em-intercambio-para-os-filhos.jpg
+thumbnail: /static/cms-content/4-motivos-para-investir-em-intercambio-para-os-filhos.jpg
 meta_summary: 
 date: 05/10/2021
 ---

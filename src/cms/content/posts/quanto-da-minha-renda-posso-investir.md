@@ -6,7 +6,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/quanto-da-minha-renda-posso-investir.jpg
+thumbnail: /static/cms-content/quanto-da-minha-renda-posso-investir.jpg
 meta_summary: 
 date: 28/09/2021
 ---

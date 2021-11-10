@@ -10,7 +10,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-imoveis
  - dicas-de-economia
-thumbnail: /public/static/cms-content/consorcio-para-a-sua-empresa-como-ele-te-ajuda.jpg
+thumbnail: /static/cms-content/consorcio-para-a-sua-empresa-como-ele-te-ajuda.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - consorcio-x-financiamento
-thumbnail: /public/static/cms-content/por-que-e-como-contratar-um-consorcio-da-embracon.jpeg
+thumbnail: /static/cms-content/por-que-e-como-contratar-um-consorcio-da-embracon.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

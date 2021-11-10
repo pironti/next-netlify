@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/os-erros-que-consorciados-nao-podem-cometer.jpg
+thumbnail: /static/cms-content/os-erros-que-consorciados-nao-podem-cometer.jpg
 meta_summary: 
 date: 27/09/2021
 ---

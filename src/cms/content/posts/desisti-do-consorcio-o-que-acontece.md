@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas
  - educacao-financeira
-thumbnail: /public/static/cms-content/desisti-do-consorcio-o-que-acontece.jpg
+thumbnail: /static/cms-content/desisti-do-consorcio-o-que-acontece.jpg
 meta_summary: 
 date: 28/09/2021
 ---

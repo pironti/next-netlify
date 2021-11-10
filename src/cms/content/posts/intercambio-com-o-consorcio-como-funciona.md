@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-educacao
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/intercambio-com-o-consorcio-como-funciona.jpg
+thumbnail: /static/cms-content/intercambio-com-o-consorcio-como-funciona.jpg
 meta_summary: 
 date: 23/09/2021
 ---

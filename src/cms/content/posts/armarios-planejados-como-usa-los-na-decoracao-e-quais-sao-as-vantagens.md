@@ -6,7 +6,7 @@ tags:
  - dicas-de-decoracao
  - consorcio-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens.jpeg
+thumbnail: /static/cms-content/armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

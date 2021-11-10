@@ -6,7 +6,7 @@ tags:
  - consorcio-de-festa
  - dicas
  - festas
-thumbnail: /public/static/cms-content/musica-de-festa-faca-uma-playlist-arrebatadora.png
+thumbnail: /static/cms-content/musica-de-festa-faca-uma-playlist-arrebatadora.png
 meta_summary: 
 date: 29/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/compre-seu-veiculo-com-consorcio.jpg
+thumbnail: /static/cms-content/compre-seu-veiculo-com-consorcio.jpg
 meta_summary: 
 date: 08/10/2021
 ---

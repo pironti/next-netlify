@@ -5,7 +5,7 @@ categoria: moto
 tags:
  - consorcio
  - moto
-thumbnail: /public/static/cms-content/tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio.jpg
+thumbnail: /static/cms-content/tipos-de-moto-quais-sao-como-escolher-e-comprar-com-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

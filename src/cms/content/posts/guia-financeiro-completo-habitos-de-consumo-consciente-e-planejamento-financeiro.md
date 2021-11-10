@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - consorcio
  - dicas-de-economia
-thumbnail: /public/static/cms-content/guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro.jpg
+thumbnail: /static/cms-content/guia-financeiro-completo-habitos-de-consumo-consciente-e-planejamento-financeiro.jpg
 meta_summary: 
 date: 27/09/2021
 ---

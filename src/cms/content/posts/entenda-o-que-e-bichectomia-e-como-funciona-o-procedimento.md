@@ -5,7 +5,7 @@ categoria: saude-e-estetica
 tags:
  - consorcio-de-estetica
  - consorcio-de-plastica
-thumbnail: /public/static/cms-content/entenda-o-que-e-bichectomia-e-como-funciona-o-procedimento.jpeg
+thumbnail: /static/cms-content/entenda-o-que-e-bichectomia-e-como-funciona-o-procedimento.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -4,7 +4,7 @@ slug: em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui.jpeg
+thumbnail: /static/cms-content/em-quais-situacoes-vale-a-pena-fazer-um-consorcio-entenda-aqui.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

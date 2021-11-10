@@ -4,7 +4,7 @@ slug: guia-completo-sobre-o-consorcio-de-veiculos-pesados
 categoria: pesados
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/guia-completo-sobre-o-consorcio-de-veiculos-pesados.jpg
+thumbnail: /static/cms-content/guia-completo-sobre-o-consorcio-de-veiculos-pesados.jpg
 meta_summary: 
 date: 19/10/2021
 ---

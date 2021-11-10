@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante.jpg
+thumbnail: /static/cms-content/tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante.jpg
 meta_summary: 
 date: 30/09/2021
 ---

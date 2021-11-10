@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/saiba-como-escolher-um-vestido-de-debutante.jpeg
+thumbnail: /static/cms-content/saiba-como-escolher-um-vestido-de-debutante.jpeg
 meta_summary: 
 date: 28/09/2021
 ---

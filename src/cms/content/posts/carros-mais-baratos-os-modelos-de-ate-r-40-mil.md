@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/carros-mais-baratos-os-modelos-de-ate-r-40-mil.jpg
+thumbnail: /static/cms-content/carros-mais-baratos-os-modelos-de-ate-r-40-mil.jpg
 meta_summary: 
 date: 05/10/2021
 ---

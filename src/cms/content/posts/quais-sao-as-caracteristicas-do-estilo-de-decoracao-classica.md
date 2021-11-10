@@ -8,7 +8,7 @@ tags:
  - consorcio-de-decoracao
  - consorcio-de-servicos
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica.jpg
+thumbnail: /static/cms-content/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica.jpg
 meta_summary: 
 date: 04/10/2021
 ---

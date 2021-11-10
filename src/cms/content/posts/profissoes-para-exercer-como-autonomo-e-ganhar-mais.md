@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - dicas-de-economia
-thumbnail: /public/static/cms-content/profissoes-para-exercer-como-autonomo-e-ganhar-mais.jpg
+thumbnail: /static/cms-content/profissoes-para-exercer-como-autonomo-e-ganhar-mais.jpg
 meta_summary: 
 date: 23/09/2021
 ---

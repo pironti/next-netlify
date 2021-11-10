@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/por-que-viajar-para-dubai-confira-aqui-os-4-principais-motivos.jpg
+thumbnail: /static/cms-content/por-que-viajar-para-dubai-confira-aqui-os-4-principais-motivos.jpg
 meta_summary: 
 date: 04/10/2021
 ---

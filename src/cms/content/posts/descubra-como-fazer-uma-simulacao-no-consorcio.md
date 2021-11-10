@@ -4,7 +4,7 @@ slug: descubra-como-fazer-uma-simulacao-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/descubra-como-fazer-uma-simulacao-no-consorcio.png
+thumbnail: /static/cms-content/descubra-como-fazer-uma-simulacao-no-consorcio.png
 meta_summary: 
 date: 04/10/2021
 ---

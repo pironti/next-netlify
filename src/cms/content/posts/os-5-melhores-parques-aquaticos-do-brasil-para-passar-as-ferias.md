@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/os-5-melhores-parques-aquaticos-do-brasil-para-passar-as-ferias.jpeg
+thumbnail: /static/cms-content/os-5-melhores-parques-aquaticos-do-brasil-para-passar-as-ferias.jpeg
 meta_summary: 
 date: 28/09/2021
 ---

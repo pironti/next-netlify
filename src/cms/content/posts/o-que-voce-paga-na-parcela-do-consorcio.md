@@ -4,7 +4,7 @@ slug: o-que-voce-paga-na-parcela-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-voce-paga-na-parcela-do-consorcio.jpg
+thumbnail: /static/cms-content/o-que-voce-paga-na-parcela-do-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

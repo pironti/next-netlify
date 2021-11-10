@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/qual-a-melhor-forma-de-comprar-o-primeiro-imovel.jpg
+thumbnail: /static/cms-content/qual-a-melhor-forma-de-comprar-o-primeiro-imovel.jpg
 meta_summary: 
 date: 24/09/2021
 ---

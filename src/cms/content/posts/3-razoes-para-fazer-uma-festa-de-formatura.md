@@ -4,7 +4,7 @@ slug: 3-razoes-para-fazer-uma-festa-de-formatura
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/3-razoes-para-fazer-uma-festa-de-formatura.jpg
+thumbnail: /static/cms-content/3-razoes-para-fazer-uma-festa-de-formatura.jpg
 meta_summary: 
 date: 04/10/2021
 ---

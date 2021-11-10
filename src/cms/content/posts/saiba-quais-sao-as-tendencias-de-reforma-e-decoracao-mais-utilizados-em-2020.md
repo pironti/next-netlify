@@ -9,7 +9,7 @@ tags:
  - consorcio-de-servicos
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020.jpg
+thumbnail: /static/cms-content/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020.jpg
 meta_summary: 
 date: 30/09/2021
 ---

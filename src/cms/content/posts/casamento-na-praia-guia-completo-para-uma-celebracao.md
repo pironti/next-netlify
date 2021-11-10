@@ -8,7 +8,7 @@ tags:
  - consorcio-de-servicos
  - dicas
  - festas
-thumbnail: /public/static/cms-content/casamento-na-praia-guia-completo-para-uma-celebracao.jpg
+thumbnail: /static/cms-content/casamento-na-praia-guia-completo-para-uma-celebracao.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -4,7 +4,7 @@ slug: os-melhores-caminhoes-para-fazer-pequenas-entregas
 categoria: pesados
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/os-melhores-caminhoes-para-fazer-pequenas-entregas.jpg
+thumbnail: /static/cms-content/os-melhores-caminhoes-para-fazer-pequenas-entregas.jpg
 meta_summary: 
 date: 23/09/2021
 ---

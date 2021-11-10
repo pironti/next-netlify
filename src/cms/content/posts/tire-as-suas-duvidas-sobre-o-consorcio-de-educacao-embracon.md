@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - consorcio-de-educacao
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon.jpeg
+thumbnail: /static/cms-content/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

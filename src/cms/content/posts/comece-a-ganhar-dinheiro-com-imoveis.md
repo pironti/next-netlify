@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - comprar-casa
-thumbnail: /public/static/cms-content/comece-a-ganhar-dinheiro-com-imoveis.jpg
+thumbnail: /static/cms-content/comece-a-ganhar-dinheiro-com-imoveis.jpg
 meta_summary: 
 date: 20/10/2021
 ---

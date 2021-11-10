@@ -9,7 +9,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-e-investimento
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/o-que-e-a-carta-de-credito-como-funciona-e-como-usar.jpg
+thumbnail: /static/cms-content/o-que-e-a-carta-de-credito-como-funciona-e-como-usar.jpg
 meta_summary: 
 date: 23/09/2021
 ---

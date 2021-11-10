@@ -4,7 +4,7 @@ slug: quando-o-consorcio-e-uma-boa-opcao
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/quando-o-consorcio-e-uma-boa-opcao.jpg
+thumbnail: /static/cms-content/quando-o-consorcio-e-uma-boa-opcao.jpg
 meta_summary: 
 date: 06/10/2021
 ---

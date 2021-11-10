@@ -9,7 +9,7 @@ tags:
  - economia-domestica
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/entenda-a-importancia-da-educacao-financeira-na-sua-vida.jpeg
+thumbnail: /static/cms-content/entenda-a-importancia-da-educacao-financeira-na-sua-vida.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

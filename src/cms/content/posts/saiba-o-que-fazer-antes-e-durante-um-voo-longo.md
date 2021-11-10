@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - dicas-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/saiba-o-que-fazer-antes-e-durante-um-voo-longo.jpeg
+thumbnail: /static/cms-content/saiba-o-que-fazer-antes-e-durante-um-voo-longo.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/festa-de-aniversario-dos-filhos-passo-a-passo-para-organizar.jpeg
+thumbnail: /static/cms-content/festa-de-aniversario-dos-filhos-passo-a-passo-para-organizar.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

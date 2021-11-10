@@ -4,7 +4,7 @@ slug: como-se-preparar-para-um-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-se-preparar-para-um-consorcio.jpg
+thumbnail: /static/cms-content/como-se-preparar-para-um-consorcio.jpg
 meta_summary: 
 date: 09/11/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/carro-automatico-vale-a-pena.jpg
+thumbnail: /static/cms-content/carro-automatico-vale-a-pena.jpg
 meta_summary: 
 date: 19/10/2021
 ---

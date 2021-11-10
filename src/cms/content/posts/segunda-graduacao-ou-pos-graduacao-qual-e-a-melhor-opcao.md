@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - destaque-profissional
  - dicas-de-carreira
-thumbnail: /public/static/cms-content/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao.jpg
+thumbnail: /static/cms-content/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao.jpg
 meta_summary: 
 date: 04/10/2021
 ---

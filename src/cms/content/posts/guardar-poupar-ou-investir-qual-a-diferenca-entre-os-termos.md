@@ -6,7 +6,7 @@ tags:
  - dicas
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos.png
+thumbnail: /static/cms-content/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos.png
 meta_summary: 
 date: 04/10/2021
 ---

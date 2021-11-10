@@ -6,7 +6,7 @@ tags:
  - consorcio-de-casamento
  - consorcio
  - consorcio-de-festa
-thumbnail: /public/static/cms-content/festa-de-casamento-grande-ou-pequena-como-escolher.jpeg
+thumbnail: /static/cms-content/festa-de-casamento-grande-ou-pequena-como-escolher.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

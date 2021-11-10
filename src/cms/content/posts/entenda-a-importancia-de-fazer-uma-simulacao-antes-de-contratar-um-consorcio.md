@@ -4,7 +4,7 @@ slug: entenda-a-importancia-de-fazer-uma-simulacao-antes-de-contratar-um-consorc
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/entenda-a-importancia-de-fazer-uma-simulacao-antes-de-contratar-um-consorcio.png
+thumbnail: /static/cms-content/entenda-a-importancia-de-fazer-uma-simulacao-antes-de-contratar-um-consorcio.png
 meta_summary: 
 date: 30/09/2021
 ---

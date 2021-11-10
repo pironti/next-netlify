@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/static/cms-content/saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo.jpg
+thumbnail: /static/cms-content/saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo.jpg
 meta_summary: 
 date: 01/10/2021
 ---

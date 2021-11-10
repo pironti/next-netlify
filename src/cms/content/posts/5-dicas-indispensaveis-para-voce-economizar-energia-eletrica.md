@@ -6,7 +6,7 @@ tags:
  - dicas-de-economia
  - economizar-energia
  - economia-domestica
-thumbnail: /public/static/cms-content/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica.jpg
+thumbnail: /static/cms-content/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica.jpg
 meta_summary: 
 date: 30/09/2021
 ---

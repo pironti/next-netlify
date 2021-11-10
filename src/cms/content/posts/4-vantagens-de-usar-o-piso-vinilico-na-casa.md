@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - consorcio-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/4-vantagens-de-usar-o-piso-vinilico-na-casa.jpg
+thumbnail: /static/cms-content/4-vantagens-de-usar-o-piso-vinilico-na-casa.jpg
 meta_summary: 
 date: 06/10/2021
 ---

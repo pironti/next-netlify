@@ -9,7 +9,7 @@ tags:
  - consorcio-de-servicos
  - dicas-de-decoracao
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio.jpg
+thumbnail: /static/cms-content/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

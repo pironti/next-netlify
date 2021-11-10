@@ -10,7 +10,7 @@ tags:
  - dicas-de-decoracao
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/entenda-como-armazenar-materiais-de-obra-para-evitar-perdas-e-estragos.jpg
+thumbnail: /static/cms-content/entenda-como-armazenar-materiais-de-obra-para-evitar-perdas-e-estragos.jpg
 meta_summary: 
 date: 01/10/2021
 ---

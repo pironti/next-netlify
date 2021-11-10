@@ -4,7 +4,7 @@ slug: como-as-parcelas-do-consorcio-sao-ajustadas
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-as-parcelas-do-consorcio-sao-ajustadas.jpg
+thumbnail: /static/cms-content/como-as-parcelas-do-consorcio-sao-ajustadas.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-os-juros-afetam-a-sua-vida.jpg
+thumbnail: /static/cms-content/como-os-juros-afetam-a-sua-vida.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/saiba-como-organizar-as-suas-financas-pessoais.jpg
+thumbnail: /static/cms-content/saiba-como-organizar-as-suas-financas-pessoais.jpg
 meta_summary: 
 date: 08/10/2021
 ---

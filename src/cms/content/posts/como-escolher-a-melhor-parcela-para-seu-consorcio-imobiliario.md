@@ -8,7 +8,7 @@ tags:
  - consorcio-x-financiamento
  - educacao-financeira
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/como-escolher-a-melhor-parcela-para-seu-consorcio-imobiliario.jpeg
+thumbnail: /static/cms-content/como-escolher-a-melhor-parcela-para-seu-consorcio-imobiliario.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

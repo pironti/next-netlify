@@ -8,7 +8,7 @@ tags:
  - economia-domestica
  - economizar-energia
  - educacao-financeira
-thumbnail: /public/static/cms-content/qual-a-melhor-hora-de-ter-um-pet.jpg
+thumbnail: /static/cms-content/qual-a-melhor-hora-de-ter-um-pet.jpg
 meta_summary: 
 date: 30/09/2021
 ---

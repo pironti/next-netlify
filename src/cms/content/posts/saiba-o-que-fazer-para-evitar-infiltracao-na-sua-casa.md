@@ -4,7 +4,7 @@ slug: saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa.jpeg
+thumbnail: /static/cms-content/saiba-o-que-fazer-para-evitar-infiltracao-na-sua-casa.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

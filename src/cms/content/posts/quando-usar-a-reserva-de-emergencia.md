@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/quando-usar-a-reserva-de-emergencia.jpg
+thumbnail: /static/cms-content/quando-usar-a-reserva-de-emergencia.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/aprenda-em-poucos-passos-como-empreender-na-crise.jpg
+thumbnail: /static/cms-content/aprenda-em-poucos-passos-como-empreender-na-crise.jpg
 meta_summary: 
 date: 30/09/2021
 ---

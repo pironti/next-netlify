@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/vale-a-pena-guardar-dinheiro-na-poupanca.jpg
+thumbnail: /static/cms-content/vale-a-pena-guardar-dinheiro-na-poupanca.jpg
 meta_summary: 
 date: 28/09/2021
 ---

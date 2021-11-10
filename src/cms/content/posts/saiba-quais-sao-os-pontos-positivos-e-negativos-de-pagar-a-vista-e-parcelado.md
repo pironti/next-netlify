@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado.png
+thumbnail: /static/cms-content/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado.png
 meta_summary: 
 date: 30/09/2021
 ---

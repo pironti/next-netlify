@@ -4,7 +4,7 @@ slug: afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo.jpeg
+thumbnail: /static/cms-content/afinal-posso-fazer-um-consorcio-mesmo-com-o-nome-sujo.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

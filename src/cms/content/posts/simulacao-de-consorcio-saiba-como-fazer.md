@@ -6,7 +6,7 @@ tags:
  - consorcio
  - tipos-de-consorcio
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/simulacao-de-consorcio-saiba-como-fazer.jpg
+thumbnail: /static/cms-content/simulacao-de-consorcio-saiba-como-fazer.jpg
 meta_summary: 
 date: 19/10/2021
 ---

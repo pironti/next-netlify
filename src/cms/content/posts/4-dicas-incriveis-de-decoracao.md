@@ -4,7 +4,7 @@ slug: 4-dicas-incriveis-de-decoracao
 categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/4-dicas-incriveis-de-decoracao.jpg
+thumbnail: /static/cms-content/4-dicas-incriveis-de-decoracao.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas-de-estetica
  - estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/saiba-como-deixar-seus-dentes-sempre-brancos.jpeg
+thumbnail: /static/cms-content/saiba-como-deixar-seus-dentes-sempre-brancos.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

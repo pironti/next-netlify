@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - comprar-casa
  - casa-nova
-thumbnail: /public/static/cms-content/como-e-morar-na-cobertura.jpg
+thumbnail: /static/cms-content/como-e-morar-na-cobertura.jpg
 meta_summary: 
 date: 20/10/2021
 ---

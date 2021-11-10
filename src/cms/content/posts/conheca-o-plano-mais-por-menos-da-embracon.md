@@ -6,7 +6,7 @@ tags:
  - tipos-de-consorcio
  - dicas
  - educacao-financeira
-thumbnail: /public/static/cms-content/conheca-o-plano-mais-por-menos-da-embracon.png
+thumbnail: /static/cms-content/conheca-o-plano-mais-por-menos-da-embracon.png
 meta_summary: 
 date: 06/10/2021
 ---

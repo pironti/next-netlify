@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - tipos-de-consorcio
  - consorcio-x-financiamento
-thumbnail: /public/static/cms-content/como-funciona-consorcio-de-automoveis-por-que-boa-opcao.jpg
+thumbnail: /static/cms-content/como-funciona-consorcio-de-automoveis-por-que-boa-opcao.jpg
 meta_summary: 
 date: 24/09/2021
 ---

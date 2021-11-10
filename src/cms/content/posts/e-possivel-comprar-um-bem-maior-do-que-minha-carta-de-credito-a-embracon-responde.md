@@ -13,7 +13,7 @@ tags:
  - financiamento
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde.jpg
+thumbnail: /static/cms-content/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde.jpg
 meta_summary: 
 date: 30/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-de-plastica
  - estetica
-thumbnail: /public/static/cms-content/procedimento-estetico-vantagens-e-desvantagens.jpg
+thumbnail: /static/cms-content/procedimento-estetico-vantagens-e-desvantagens.jpg
 meta_summary: 
 date: 27/09/2021
 ---

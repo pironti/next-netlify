@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-decoracao
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/guia-completo-para-fazer-a-sua-reforma.jpg
+thumbnail: /static/cms-content/guia-completo-para-fazer-a-sua-reforma.jpg
 meta_summary: 
 date: 23/09/2021
 ---

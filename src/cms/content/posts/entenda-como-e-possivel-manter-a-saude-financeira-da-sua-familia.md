@@ -10,7 +10,7 @@ tags:
  - dicas
  - educacao-financeira
  - moto
-thumbnail: /public/static/cms-content/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia.jpg
+thumbnail: /static/cms-content/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia.jpg
 meta_summary: 
 date: 30/09/2021
 ---

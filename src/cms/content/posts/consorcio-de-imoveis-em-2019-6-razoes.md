@@ -7,7 +7,7 @@ tags:
  - casa-nova
  - comprar-casa
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/consorcio-de-imoveis-em-2019-6-razoes.jpg
+thumbnail: /static/cms-content/consorcio-de-imoveis-em-2019-6-razoes.jpg
 meta_summary: 
 date: 24/09/2021
 ---

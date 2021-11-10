@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/static/cms-content/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher.jpg
+thumbnail: /static/cms-content/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher.jpg
 meta_summary: 
 date: 29/09/2021
 ---

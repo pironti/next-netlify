@@ -5,7 +5,7 @@ categoria: cotas
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/como-quitar-a-cota-de-consorcio.jpg
+thumbnail: /static/cms-content/como-quitar-a-cota-de-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

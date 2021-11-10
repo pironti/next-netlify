@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/static/cms-content/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar.png
+thumbnail: /static/cms-content/quer-trocar-de-carro-veja-como-o-consorcio-pode-te-ajudar.png
 meta_summary: 
 date: 06/10/2021
 ---

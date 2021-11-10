@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro.png
+thumbnail: /static/cms-content/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro.png
 meta_summary: 
 date: 04/10/2021
 ---

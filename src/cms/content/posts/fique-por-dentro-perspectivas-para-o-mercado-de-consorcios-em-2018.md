@@ -4,7 +4,7 @@ slug: fique-por-dentro-perspectivas-para-o-mercado-de-consorcios-em-2018
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/fique-por-dentro-perspectivas-para-o-mercado-de-consorcios-em-2018.jpg
+thumbnail: /static/cms-content/fique-por-dentro-perspectivas-para-o-mercado-de-consorcios-em-2018.jpg
 meta_summary: 
 date: 30/09/2021
 ---

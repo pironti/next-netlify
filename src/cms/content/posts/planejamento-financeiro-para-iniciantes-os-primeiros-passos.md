@@ -6,7 +6,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/planejamento-financeiro-para-iniciantes-os-primeiros-passos.jpg
+thumbnail: /static/cms-content/planejamento-financeiro-para-iniciantes-os-primeiros-passos.jpg
 meta_summary: 
 date: 28/09/2021
 ---

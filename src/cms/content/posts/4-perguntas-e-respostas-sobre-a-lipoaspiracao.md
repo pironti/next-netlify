@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/4-perguntas-e-respostas-sobre-a-lipoaspiracao.jpg
+thumbnail: /static/cms-content/4-perguntas-e-respostas-sobre-a-lipoaspiracao.jpg
 meta_summary: 
 date: 05/10/2021
 ---

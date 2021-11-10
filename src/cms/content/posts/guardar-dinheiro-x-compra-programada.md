@@ -6,7 +6,7 @@ tags:
  - dicas-de-economia
  - educacao-financeira
  - consorcio
-thumbnail: /public/static/cms-content/guardar-dinheiro-x-compra-programada.jpg
+thumbnail: /static/cms-content/guardar-dinheiro-x-compra-programada.jpg
 meta_summary: 
 date: 24/09/2021
 ---

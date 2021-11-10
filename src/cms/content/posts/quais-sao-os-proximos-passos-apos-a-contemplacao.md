@@ -8,7 +8,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/quais-sao-os-proximos-passos-apos-a-contemplacao.jpg
+thumbnail: /static/cms-content/quais-sao-os-proximos-passos-apos-a-contemplacao.jpg
 meta_summary: 
 date: 23/09/2021
 ---

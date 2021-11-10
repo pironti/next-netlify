@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/seguro-de-consorcio-quando-vale-a-pena.png
+thumbnail: /static/cms-content/seguro-de-consorcio-quando-vale-a-pena.png
 meta_summary: 
 date: 05/10/2021
 ---

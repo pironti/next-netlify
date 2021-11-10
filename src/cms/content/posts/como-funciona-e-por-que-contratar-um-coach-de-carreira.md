@@ -7,7 +7,7 @@ tags:
  - dicas-de-carreira
  - coach
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/como-funciona-e-por-que-contratar-um-coach-de-carreira.jpg
+thumbnail: /static/cms-content/como-funciona-e-por-que-contratar-um-coach-de-carreira.jpg
 meta_summary: 
 date: 01/10/2021
 ---

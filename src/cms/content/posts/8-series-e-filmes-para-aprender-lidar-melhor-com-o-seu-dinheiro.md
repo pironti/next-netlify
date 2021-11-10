@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas
  - educacao-financeira
-thumbnail: /public/static/cms-content/8-series-e-filmes-para-aprender-lidar-melhor-com-o-seu-dinheiro.jpg
+thumbnail: /static/cms-content/8-series-e-filmes-para-aprender-lidar-melhor-com-o-seu-dinheiro.jpg
 meta_summary: 
 date: 29/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - economia-domestica
-thumbnail: /public/static/cms-content/seu-filho-recebe-mesada-descubra-o-valor-ideal-para-cada-idade.png
+thumbnail: /static/cms-content/seu-filho-recebe-mesada-descubra-o-valor-ideal-para-cada-idade.png
 meta_summary: 
 date: 06/10/2021
 ---

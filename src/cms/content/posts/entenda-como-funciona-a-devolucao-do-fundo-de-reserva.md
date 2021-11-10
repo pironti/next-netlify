@@ -4,7 +4,7 @@ slug: entenda-como-funciona-a-devolucao-do-fundo-de-reserva
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/entenda-como-funciona-a-devolucao-do-fundo-de-reserva.png
+thumbnail: /static/cms-content/entenda-como-funciona-a-devolucao-do-fundo-de-reserva.png
 meta_summary: 
 date: 06/10/2021
 ---

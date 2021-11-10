@@ -4,7 +4,7 @@ slug: e-possivel-desistir-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/e-possivel-desistir-do-consorcio.jpg
+thumbnail: /static/cms-content/e-possivel-desistir-do-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

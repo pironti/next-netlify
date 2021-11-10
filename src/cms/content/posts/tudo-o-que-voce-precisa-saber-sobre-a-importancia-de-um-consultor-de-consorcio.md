@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/tudo-o-que-voce-precisa-saber-sobre-a-importancia-de-um-consultor-de-consorcio.jpg
+thumbnail: /static/cms-content/tudo-o-que-voce-precisa-saber-sobre-a-importancia-de-um-consultor-de-consorcio.jpg
 meta_summary: 
 date: 30/09/2021
 ---

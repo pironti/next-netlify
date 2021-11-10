@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/planejamento-financeiro-para-a-compra-de-um-carro.jpg
+thumbnail: /static/cms-content/planejamento-financeiro-para-a-compra-de-um-carro.jpg
 meta_summary: 
 date: 23/09/2021
 ---

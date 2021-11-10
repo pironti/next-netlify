@@ -4,7 +4,7 @@ slug: como-fazer-oferta-de-lance-em-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-fazer-oferta-de-lance-em-consorcio.jpeg
+thumbnail: /static/cms-content/como-fazer-oferta-de-lance-em-consorcio.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

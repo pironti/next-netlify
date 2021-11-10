@@ -6,7 +6,7 @@ tags:
  - consorcio-de-plastica
  - consorcio-de-estetica
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/quais-sao-os-tratamentos-para-calvicie-disponiveis-no-mercado.jpeg
+thumbnail: /static/cms-content/quais-sao-os-tratamentos-para-calvicie-disponiveis-no-mercado.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

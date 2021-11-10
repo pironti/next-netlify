@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena.jpg
+thumbnail: /static/cms-content/7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/dicas-para-sair-das-dividas.jpg
+thumbnail: /static/cms-content/dicas-para-sair-das-dividas.jpg
 meta_summary: 
 date: 27/09/2021
 ---

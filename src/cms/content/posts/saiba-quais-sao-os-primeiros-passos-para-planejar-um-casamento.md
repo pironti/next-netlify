@@ -7,7 +7,7 @@ tags:
  - festas
  - casamento
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento.jpeg
+thumbnail: /static/cms-content/saiba-quais-sao-os-primeiros-passos-para-planejar-um-casamento.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

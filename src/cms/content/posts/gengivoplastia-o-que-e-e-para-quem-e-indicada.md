@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/gengivoplastia-o-que-e-e-para-quem-e-indicada.jpg
+thumbnail: /static/cms-content/gengivoplastia-o-que-e-e-para-quem-e-indicada.jpg
 meta_summary: 
 date: 01/10/2021
 ---

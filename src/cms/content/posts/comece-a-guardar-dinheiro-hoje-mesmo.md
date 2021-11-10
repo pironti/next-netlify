@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/comece-a-guardar-dinheiro-hoje-mesmo.jpg
+thumbnail: /static/cms-content/comece-a-guardar-dinheiro-hoje-mesmo.jpg
 meta_summary: 
 date: 19/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena.png
+thumbnail: /static/cms-content/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena.png
 meta_summary: 
 date: 05/10/2021
 ---

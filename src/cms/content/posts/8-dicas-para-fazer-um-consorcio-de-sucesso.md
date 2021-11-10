@@ -4,7 +4,7 @@ slug: 8-dicas-para-fazer-um-consorcio-de-sucesso
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/8-dicas-para-fazer-um-consorcio-de-sucesso.jpg
+thumbnail: /static/cms-content/8-dicas-para-fazer-um-consorcio-de-sucesso.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - dicas
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/5-dicas-para-conquistar-a-saude-financeira.jpg
+thumbnail: /static/cms-content/5-dicas-para-conquistar-a-saude-financeira.jpg
 meta_summary: 
 date: 30/09/2021
 ---

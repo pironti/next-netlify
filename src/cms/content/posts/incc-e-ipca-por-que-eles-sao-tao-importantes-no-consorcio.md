@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - educacao-financeira
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio.jpg
+thumbnail: /static/cms-content/incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio.jpg
 meta_summary: 
 date: 30/09/2021
 ---

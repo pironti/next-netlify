@@ -4,7 +4,7 @@ slug: qual-e-o-consorcio-ideal
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/qual-e-o-consorcio-ideal.jpg
+thumbnail: /static/cms-content/qual-e-o-consorcio-ideal.jpg
 meta_summary: 
 date: 09/11/2021
 ---

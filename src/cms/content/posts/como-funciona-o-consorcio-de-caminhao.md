@@ -4,7 +4,7 @@ slug: como-funciona-o-consorcio-de-caminhao
 categoria: pesados
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-funciona-o-consorcio-de-caminhao.jpg
+thumbnail: /static/cms-content/como-funciona-o-consorcio-de-caminhao.jpg
 meta_summary: 
 date: 27/09/2021
 ---

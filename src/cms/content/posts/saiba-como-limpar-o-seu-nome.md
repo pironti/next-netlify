@@ -4,7 +4,7 @@ slug: saiba-como-limpar-o-seu-nome
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/static/cms-content/saiba-como-limpar-o-seu-nome.jpg
+thumbnail: /static/cms-content/saiba-como-limpar-o-seu-nome.jpg
 meta_summary: 
 date: 09/11/2021
 ---

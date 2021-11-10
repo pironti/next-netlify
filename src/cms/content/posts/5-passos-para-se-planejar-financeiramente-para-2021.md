@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas
  - educacao-financeira
-thumbnail: /public/static/cms-content/5-passos-para-se-planejar-financeiramente-para-2021.jpg
+thumbnail: /static/cms-content/5-passos-para-se-planejar-financeiramente-para-2021.jpg
 meta_summary: 
 date: 28/09/2021
 ---

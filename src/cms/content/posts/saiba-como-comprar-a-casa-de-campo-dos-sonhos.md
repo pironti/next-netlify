@@ -9,7 +9,7 @@ tags:
  - consorcio-e-investimento
  - dicas
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/saiba-como-comprar-a-casa-de-campo-dos-sonhos.jpg
+thumbnail: /static/cms-content/saiba-como-comprar-a-casa-de-campo-dos-sonhos.jpg
 meta_summary: 
 date: 30/09/2021
 ---

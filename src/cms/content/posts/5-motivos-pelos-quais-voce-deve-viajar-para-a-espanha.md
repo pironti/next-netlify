@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/5-motivos-pelos-quais-voce-deve-viajar-para-a-espanha.jpg
+thumbnail: /static/cms-content/5-motivos-pelos-quais-voce-deve-viajar-para-a-espanha.jpg
 meta_summary: 
 date: 04/10/2021
 ---

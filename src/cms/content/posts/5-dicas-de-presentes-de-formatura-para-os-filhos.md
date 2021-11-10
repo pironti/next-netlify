@@ -4,7 +4,7 @@ slug: 5-dicas-de-presentes-de-formatura-para-os-filhos
 categoria: educacao
 tags:
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/5-dicas-de-presentes-de-formatura-para-os-filhos.jpg
+thumbnail: /static/cms-content/5-dicas-de-presentes-de-formatura-para-os-filhos.jpg
 meta_summary: 
 date: 01/10/2021
 ---

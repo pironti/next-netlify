@@ -5,7 +5,7 @@ categoria: pesados
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon.jpg
+thumbnail: /static/cms-content/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -4,7 +4,7 @@ slug: conheca-4-opcoes-para-quem-quer-comecar-a-investir
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/conheca-4-opcoes-para-quem-quer-comecar-a-investir.png
+thumbnail: /static/cms-content/conheca-4-opcoes-para-quem-quer-comecar-a-investir.png
 meta_summary: 
 date: 06/10/2021
 ---

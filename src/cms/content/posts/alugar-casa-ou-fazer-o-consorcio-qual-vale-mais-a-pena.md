@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-imoveis
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/alugar-casa-ou-fazer-o-consorcio-qual-vale-mais-a-pena.jpg
+thumbnail: /static/cms-content/alugar-casa-ou-fazer-o-consorcio-qual-vale-mais-a-pena.jpg
 meta_summary: 
 date: 28/09/2021
 ---

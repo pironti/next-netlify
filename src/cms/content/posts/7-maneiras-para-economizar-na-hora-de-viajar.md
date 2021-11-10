@@ -6,7 +6,7 @@ tags:
  - consorcio-de-viagem
  - consorcio-de-servicos
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/7-maneiras-para-economizar-na-hora-de-viajar.jpg
+thumbnail: /static/cms-content/7-maneiras-para-economizar-na-hora-de-viajar.jpg
 meta_summary: 
 date: 28/09/2021
 ---

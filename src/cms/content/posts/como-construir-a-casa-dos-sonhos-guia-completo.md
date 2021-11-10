@@ -4,7 +4,7 @@ slug: como-construir-a-casa-dos-sonhos-guia-completo
 categoria: imoveis
 tags:
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/como-construir-a-casa-dos-sonhos-guia-completo.jpg
+thumbnail: /static/cms-content/como-construir-a-casa-dos-sonhos-guia-completo.jpg
 meta_summary: 
 date: 28/09/2021
 ---

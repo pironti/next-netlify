@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao.jpg
+thumbnail: /static/cms-content/faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao.jpg
 meta_summary: 
 date: 04/10/2021
 ---

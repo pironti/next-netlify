@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - casa-nova
  - comprar-casa
-thumbnail: /public/static/cms-content/posso-usar-o-fgts-no-consorcio-imobiliario.jpg
+thumbnail: /static/cms-content/posso-usar-o-fgts-no-consorcio-imobiliario.jpg
 meta_summary: 
 date: 23/09/2021
 ---

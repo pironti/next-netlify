@@ -6,7 +6,7 @@ tags:
  - consorcio-de-casamento
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/6-tendencias-de-casamento-que-voce-precisa-conhecer.jpg
+thumbnail: /static/cms-content/6-tendencias-de-casamento-que-voce-precisa-conhecer.jpg
 meta_summary: 
 date: 05/10/2021
 ---

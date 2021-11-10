@@ -12,7 +12,7 @@ tags:
  - dicas
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/4-dicas-para-reformar-o-quarto-das-criancas.jpg
+thumbnail: /static/cms-content/4-dicas-para-reformar-o-quarto-das-criancas.jpg
 meta_summary: 
 date: 28/09/2021
 ---

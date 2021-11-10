@@ -5,7 +5,7 @@ categoria: contemplacao
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/fui-contemplado-mas-tive-o-credito-recusado-e-agora.jpg
+thumbnail: /static/cms-content/fui-contemplado-mas-tive-o-credito-recusado-e-agora.jpg
 meta_summary: 
 date: 28/09/2021
 ---

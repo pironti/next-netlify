@@ -8,7 +8,7 @@ tags:
  - dieta
  - educacao-financeira
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/saiba-quais-sao-os-principais-tipos-de-tratamentos-para-flacidez-corporal.jpg
+thumbnail: /static/cms-content/saiba-quais-sao-os-principais-tipos-de-tratamentos-para-flacidez-corporal.jpg
 meta_summary: 
 date: 05/10/2021
 ---

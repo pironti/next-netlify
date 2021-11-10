@@ -7,7 +7,7 @@ tags:
  - consorcio
  - moto
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/carro-ou-moto-qual-e-melhor-para-voce.jpg
+thumbnail: /static/cms-content/carro-ou-moto-qual-e-melhor-para-voce.jpg
 meta_summary: 
 date: 24/09/2021
 ---

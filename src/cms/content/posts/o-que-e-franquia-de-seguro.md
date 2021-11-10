@@ -7,7 +7,7 @@ tags:
  - dicas-de-carro
  - educacao-financeira
  - dicas-de-economia
-thumbnail: /public/static/cms-content/o-que-e-franquia-de-seguro.jpg
+thumbnail: /static/cms-content/o-que-e-franquia-de-seguro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

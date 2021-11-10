@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/faca-um-planejamento-financeiro-anual.jpg
+thumbnail: /static/cms-content/faca-um-planejamento-financeiro-anual.jpg
 meta_summary: 
 date: 28/09/2021
 ---

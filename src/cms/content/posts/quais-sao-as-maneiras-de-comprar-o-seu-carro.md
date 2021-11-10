@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/quais-sao-as-maneiras-de-comprar-o-seu-carro.jpg
+thumbnail: /static/cms-content/quais-sao-as-maneiras-de-comprar-o-seu-carro.jpg
 meta_summary: 
 date: 23/09/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/casa-em-condominio-ou-casa-na-rua.jpg
+thumbnail: /static/cms-content/casa-em-condominio-ou-casa-na-rua.jpg
 meta_summary: 
 date: 08/10/2021
 ---

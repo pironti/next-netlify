@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-conseguir-alcancar-a-independencia-financeira.jpg
+thumbnail: /static/cms-content/como-conseguir-alcancar-a-independencia-financeira.jpg
 meta_summary: 
 date: 23/09/2021
 ---

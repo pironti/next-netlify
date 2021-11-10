@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - festas
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/entenda-como-funciona-um-consorcio-para-festas.jpg
+thumbnail: /static/cms-content/entenda-como-funciona-um-consorcio-para-festas.jpg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - educacao-financeira
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/7-dicas-na-hora-de-fechar-o-seu-primeiro-consorcio.jpg
+thumbnail: /static/cms-content/7-dicas-na-hora-de-fechar-o-seu-primeiro-consorcio.jpg
 meta_summary: 
 date: 29/09/2021
 ---

@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - tipos-de-consorcio
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/afinal-existe-consorcio-de-carros-importados.jpeg
+thumbnail: /static/cms-content/afinal-existe-consorcio-de-carros-importados.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

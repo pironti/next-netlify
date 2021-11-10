@@ -7,7 +7,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-plastica
-thumbnail: /public/static/cms-content/cirurgia-bariatrica-como-funciona-e-quem-pode-fazer.jpeg
+thumbnail: /static/cms-content/cirurgia-bariatrica-como-funciona-e-quem-pode-fazer.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

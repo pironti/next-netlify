@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - comprar-casa
-thumbnail: /public/static/cms-content/compre-um-apartamento-com-o-consorcio-de-imoveis.jpg
+thumbnail: /static/cms-content/compre-um-apartamento-com-o-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 20/10/2021
 ---

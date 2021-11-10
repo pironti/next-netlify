@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - consorcio-de-festa
  - festas
-thumbnail: /public/static/cms-content/festa-de-aniversario-para-crianca-fazer-ou-nao.jpg
+thumbnail: /static/cms-content/festa-de-aniversario-para-crianca-fazer-ou-nao.jpg
 meta_summary: 
 date: 04/10/2021
 ---

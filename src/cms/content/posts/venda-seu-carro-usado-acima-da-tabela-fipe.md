@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/venda-seu-carro-usado-acima-da-tabela-fipe.jpg
+thumbnail: /static/cms-content/venda-seu-carro-usado-acima-da-tabela-fipe.jpg
 meta_summary: 
 date: 23/09/2021
 ---

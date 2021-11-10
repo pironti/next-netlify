@@ -6,7 +6,7 @@ tags:
  - consorcio
  - consorcio-de-carro
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/posso-fazer-o-consorcio-em-nome-da-empresa.jpg
+thumbnail: /static/cms-content/posso-fazer-o-consorcio-em-nome-da-empresa.jpg
 meta_summary: 
 date: 27/09/2021
 ---

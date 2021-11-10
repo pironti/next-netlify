@@ -4,7 +4,7 @@ slug: o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/static/cms-content/o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira.jpg
+thumbnail: /static/cms-content/o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira.jpg
 meta_summary: 
 date: 24/09/2021
 ---

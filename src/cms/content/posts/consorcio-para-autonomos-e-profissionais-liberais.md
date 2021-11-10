@@ -7,7 +7,7 @@ tags:
  - consorcio-de-carro
  - consorcio-de-servicos
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/consorcio-para-autonomos-e-profissionais-liberais.jpg
+thumbnail: /static/cms-content/consorcio-para-autonomos-e-profissionais-liberais.jpg
 meta_summary: 
 date: 28/09/2021
 ---

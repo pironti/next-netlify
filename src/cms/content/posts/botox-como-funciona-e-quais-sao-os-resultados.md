@@ -6,7 +6,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/botox-como-funciona-e-quais-sao-os-resultados.jpeg
+thumbnail: /static/cms-content/botox-como-funciona-e-quais-sao-os-resultados.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

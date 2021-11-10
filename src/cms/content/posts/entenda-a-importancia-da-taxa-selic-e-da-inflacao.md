@@ -9,7 +9,7 @@ tags:
  - dicas
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/entenda-a-importancia-da-taxa-selic-e-da-inflacao.png
+thumbnail: /static/cms-content/entenda-a-importancia-da-taxa-selic-e-da-inflacao.png
 meta_summary: 
 date: 30/09/2021
 ---

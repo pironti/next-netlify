@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - consorcio-de-carro
  - como-escolher-um-carro
-thumbnail: /public/static/cms-content/guia-para-consorcio-de-automoveis-de-a-a-z.jpg
+thumbnail: /static/cms-content/guia-para-consorcio-de-automoveis-de-a-a-z.jpg
 meta_summary: 
 date: 23/09/2021
 ---

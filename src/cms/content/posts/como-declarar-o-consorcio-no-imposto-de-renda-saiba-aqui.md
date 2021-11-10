@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - educacao-financeira
  - consorcio
-thumbnail: /public/static/cms-content/como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui.jpg
+thumbnail: /static/cms-content/como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui.jpg
 meta_summary: 
 date: 06/10/2021
 ---

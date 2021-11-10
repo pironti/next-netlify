@@ -6,7 +6,7 @@ tags:
  - consorcio-de-viagem
  - dicas-de-viagem
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/dicas-para-planejar-sua-viagem-a-fernando-de-noronha.jpg
+thumbnail: /static/cms-content/dicas-para-planejar-sua-viagem-a-fernando-de-noronha.jpg
 meta_summary: 
 date: 28/09/2021
 ---

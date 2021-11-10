@@ -4,7 +4,7 @@ slug: imposto-de-renda-2018-5-coisas-que-voce-precisa-saber
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/imposto-de-renda-2018-5-coisas-que-voce-precisa-saber.jpg
+thumbnail: /static/cms-content/imposto-de-renda-2018-5-coisas-que-voce-precisa-saber.jpg
 meta_summary: 
 date: 28/09/2021
 ---

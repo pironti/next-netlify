@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - casa-nova
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/3-vantagens-de-ter-uma-casa-com-espaco-gourmet.jpg
+thumbnail: /static/cms-content/3-vantagens-de-ter-uma-casa-com-espaco-gourmet.jpg
 meta_summary: 
 date: 06/10/2021
 ---

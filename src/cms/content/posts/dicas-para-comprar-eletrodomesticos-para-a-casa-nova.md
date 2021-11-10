@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - casa-nova
  - consorcio-de-decoracao
-thumbnail: /public/static/cms-content/dicas-para-comprar-eletrodomesticos-para-a-casa-nova.jpg
+thumbnail: /static/cms-content/dicas-para-comprar-eletrodomesticos-para-a-casa-nova.jpg
 meta_summary: 
 date: 24/09/2021
 ---

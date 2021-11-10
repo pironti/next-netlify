@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - dicas-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/saiba-como-montar-um-roteiro-de-viagem-em-7-passos.jpeg
+thumbnail: /static/cms-content/saiba-como-montar-um-roteiro-de-viagem-em-7-passos.jpeg
 meta_summary: 
 date: 06/10/2021
 ---

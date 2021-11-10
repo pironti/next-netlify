@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - destaque-profissional
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui.jpeg
+thumbnail: /static/cms-content/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

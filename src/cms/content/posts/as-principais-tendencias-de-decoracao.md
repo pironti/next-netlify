@@ -4,7 +4,7 @@ slug: as-principais-tendencias-de-decoracao
 categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/as-principais-tendencias-de-decoracao.jpg
+thumbnail: /static/cms-content/as-principais-tendencias-de-decoracao.jpg
 meta_summary: 
 date: 24/09/2021
 ---

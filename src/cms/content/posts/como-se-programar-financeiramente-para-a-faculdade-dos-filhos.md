@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - consorcio-de-educacao
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-se-programar-financeiramente-para-a-faculdade-dos-filhos.jpeg
+thumbnail: /static/cms-content/como-se-programar-financeiramente-para-a-faculdade-dos-filhos.jpeg
 meta_summary: 
 date: 05/10/2021
 ---

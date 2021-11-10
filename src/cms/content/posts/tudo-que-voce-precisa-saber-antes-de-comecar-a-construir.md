@@ -10,7 +10,7 @@ tags:
  - dicas-de-decoracao
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/tudo-que-voce-precisa-saber-antes-de-comecar-a-construir.jpg
+thumbnail: /static/cms-content/tudo-que-voce-precisa-saber-antes-de-comecar-a-construir.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -4,7 +4,7 @@ slug: consorcio-a-melhor-aplicacao-para-o-seu-dinheiro
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/consorcio-a-melhor-aplicacao-para-o-seu-dinheiro.jpg
+thumbnail: /static/cms-content/consorcio-a-melhor-aplicacao-para-o-seu-dinheiro.jpg
 meta_summary: 
 date: 09/11/2021
 ---

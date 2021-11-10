@@ -5,7 +5,7 @@ categoria: viagens
 tags:
  - consorcio-de-viagem
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/os-9-principais-destinos-na-america-do-sul.jpg
+thumbnail: /static/cms-content/os-9-principais-destinos-na-america-do-sul.jpg
 meta_summary: 
 date: 23/09/2021
 ---

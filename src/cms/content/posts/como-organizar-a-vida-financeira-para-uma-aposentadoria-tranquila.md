@@ -7,7 +7,7 @@ tags:
  - educacao-financeira
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila.jpg
+thumbnail: /static/cms-content/como-organizar-a-vida-financeira-para-uma-aposentadoria-tranquila.jpg
 meta_summary: 
 date: 30/09/2021
 ---

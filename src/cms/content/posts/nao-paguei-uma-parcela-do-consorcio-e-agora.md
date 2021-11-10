@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/nao-paguei-uma-parcela-do-consorcio-e-agora.jpg
+thumbnail: /static/cms-content/nao-paguei-uma-parcela-do-consorcio-e-agora.jpg
 meta_summary: 
 date: 27/09/2021
 ---

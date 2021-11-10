@@ -7,7 +7,7 @@ tags:
  - casamento
  - consorcio-de-festa
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos.jpeg
+thumbnail: /static/cms-content/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

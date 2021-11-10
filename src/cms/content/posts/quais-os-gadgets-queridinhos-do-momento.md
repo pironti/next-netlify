@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/quais-os-gadgets-queridinhos-do-momento.jpg
+thumbnail: /static/cms-content/quais-os-gadgets-queridinhos-do-momento.jpg
 meta_summary: 
 date: 28/09/2021
 ---

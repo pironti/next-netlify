@@ -6,7 +6,7 @@ tags:
  - festas
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/confira-as-tendencias-em-decoracao-de-festa-infantil.jpg
+thumbnail: /static/cms-content/confira-as-tendencias-em-decoracao-de-festa-infantil.jpg
 meta_summary: 
 date: 04/10/2021
 ---

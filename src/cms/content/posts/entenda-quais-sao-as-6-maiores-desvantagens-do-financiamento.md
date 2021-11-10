@@ -9,7 +9,7 @@ tags:
  - consorcio
  - financiamento
  - educacao-financeira
-thumbnail: /public/static/cms-content/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento.jpg
+thumbnail: /static/cms-content/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento.jpg
 meta_summary: 
 date: 06/10/2021
 ---

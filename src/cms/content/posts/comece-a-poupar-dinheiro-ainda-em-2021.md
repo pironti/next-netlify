@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/comece-a-poupar-dinheiro-ainda-em-2021.jpg
+thumbnail: /static/cms-content/comece-a-poupar-dinheiro-ainda-em-2021.jpg
 meta_summary: 
 date: 23/09/2021
 ---

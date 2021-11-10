@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/saiba-a-hora-certa-de-fazer-a-troca-do-seu-carro.jpg
+thumbnail: /static/cms-content/saiba-a-hora-certa-de-fazer-a-troca-do-seu-carro.jpg
 meta_summary: 
 date: 24/09/2021
 ---

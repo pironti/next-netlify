@@ -4,7 +4,7 @@ slug: qual-e-a-real-importancia-de-um-sorriso-bonito
 categoria: saude-e-estetica
 tags:
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/qual-e-a-real-importancia-de-um-sorriso-bonito.jpg
+thumbnail: /static/cms-content/qual-e-a-real-importancia-de-um-sorriso-bonito.jpg
 meta_summary: 
 date: 06/10/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/perda-de-renda-como-lidar.jpg
+thumbnail: /static/cms-content/perda-de-renda-como-lidar.jpg
 meta_summary: 
 date: 28/09/2021
 ---

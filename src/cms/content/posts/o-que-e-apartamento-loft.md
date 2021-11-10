@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/o-que-e-apartamento-loft.png
+thumbnail: /static/cms-content/o-que-e-apartamento-loft.png
 meta_summary: 
 date: 06/10/2021
 ---

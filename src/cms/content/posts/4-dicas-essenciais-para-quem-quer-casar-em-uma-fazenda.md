@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - casamento
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/4-dicas-essenciais-para-quem-quer-casar-em-uma-fazenda.jpg
+thumbnail: /static/cms-content/4-dicas-essenciais-para-quem-quer-casar-em-uma-fazenda.jpg
 meta_summary: 
 date: 04/10/2021
 ---

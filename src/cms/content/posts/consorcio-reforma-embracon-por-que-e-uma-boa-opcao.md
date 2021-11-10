@@ -6,7 +6,7 @@ tags:
  - consorcio-de-reformas
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/consorcio-reforma-embracon-por-que-e-uma-boa-opcao.jpg
+thumbnail: /static/cms-content/consorcio-reforma-embracon-por-que-e-uma-boa-opcao.jpg
 meta_summary: 
 date: 01/10/2021
 ---

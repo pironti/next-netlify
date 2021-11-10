@@ -4,7 +4,7 @@ slug: o-que-e-o-lance-livre
 categoria: lance
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-e-o-lance-livre.jpg
+thumbnail: /static/cms-content/o-que-e-o-lance-livre.jpg
 meta_summary: 
 date: 30/09/2021
 ---

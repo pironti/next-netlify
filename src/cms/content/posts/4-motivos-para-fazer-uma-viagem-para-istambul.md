@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/4-motivos-para-fazer-uma-viagem-para-istambul.jpg
+thumbnail: /static/cms-content/4-motivos-para-fazer-uma-viagem-para-istambul.jpg
 meta_summary: 
 date: 04/10/2021
 ---

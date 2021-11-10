@@ -7,7 +7,7 @@ tags:
  - consorcio-de-plastica
  - tipos-de-consorcio
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/quando-a-cirurgia-plastica-e-a-melhor-opcao.jpg
+thumbnail: /static/cms-content/quando-a-cirurgia-plastica-e-a-melhor-opcao.jpg
 meta_summary: 
 date: 05/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - consorcio-de-decoracao
  - consorcio-de-reformas
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar.jpg
+thumbnail: /static/cms-content/quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar.jpg
 meta_summary: 
 date: 30/09/2021
 ---

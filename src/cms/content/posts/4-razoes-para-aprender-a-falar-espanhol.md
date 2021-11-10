@@ -4,7 +4,7 @@ slug: 4-razoes-para-aprender-a-falar-espanhol
 categoria: educacao
 tags:
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/4-razoes-para-aprender-a-falar-espanhol.jpg
+thumbnail: /static/cms-content/4-razoes-para-aprender-a-falar-espanhol.jpg
 meta_summary: 
 date: 08/10/2021
 ---

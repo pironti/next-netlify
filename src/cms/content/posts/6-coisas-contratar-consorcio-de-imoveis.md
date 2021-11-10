@@ -7,7 +7,7 @@ tags:
  - casa-nova
  - comprar-casa
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/6-coisas-contratar-consorcio-de-imoveis.jpg
+thumbnail: /static/cms-content/6-coisas-contratar-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 01/10/2021
 ---

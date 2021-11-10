@@ -8,7 +8,7 @@ tags:
  - dicas-de-economia
  - dicas
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-comecar-2021-com-a-conta-no-azul.jpg
+thumbnail: /static/cms-content/como-comecar-2021-com-a-conta-no-azul.jpg
 meta_summary: 
 date: 29/09/2021
 ---

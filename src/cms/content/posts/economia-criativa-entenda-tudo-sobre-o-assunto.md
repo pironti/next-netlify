@@ -8,7 +8,7 @@ tags:
  - dicas
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/economia-criativa-entenda-tudo-sobre-o-assunto.jpg
+thumbnail: /static/cms-content/economia-criativa-entenda-tudo-sobre-o-assunto.jpg
 meta_summary: 
 date: 27/09/2021
 ---

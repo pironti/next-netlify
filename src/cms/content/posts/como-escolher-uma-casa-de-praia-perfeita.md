@@ -8,7 +8,7 @@ tags:
  - consorcio
  - consorcio-de-imoveis
  - dicas
-thumbnail: /public/static/cms-content/como-escolher-uma-casa-de-praia-perfeita.jpg
+thumbnail: /static/cms-content/como-escolher-uma-casa-de-praia-perfeita.jpg
 meta_summary: 
 date: 29/09/2021
 ---

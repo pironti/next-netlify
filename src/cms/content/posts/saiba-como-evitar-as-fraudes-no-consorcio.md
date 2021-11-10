@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/saiba-como-evitar-as-fraudes-no-consorcio.png
+thumbnail: /static/cms-content/saiba-como-evitar-as-fraudes-no-consorcio.png
 meta_summary: 
 date: 29/09/2021
 ---

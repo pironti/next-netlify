@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/os-principais-cuidados-na-hora-de-vender-o-seu-carro.jpg
+thumbnail: /static/cms-content/os-principais-cuidados-na-hora-de-vender-o-seu-carro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

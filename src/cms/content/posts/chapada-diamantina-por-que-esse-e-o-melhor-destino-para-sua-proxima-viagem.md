@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - consorcio-de-viagem
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem.png
+thumbnail: /static/cms-content/chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem.png
 meta_summary: 
 date: 06/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/veja-4-razoes-para-viajar-para-a-argentina-nas-suas-proximas-ferias.jpeg
+thumbnail: /static/cms-content/veja-4-razoes-para-viajar-para-a-argentina-nas-suas-proximas-ferias.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

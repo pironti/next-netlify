@@ -4,7 +4,7 @@ slug: o-que-e-a-assembleia-de-consorcio
 categoria: assembleias
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-e-a-assembleia-de-consorcio.jpg
+thumbnail: /static/cms-content/o-que-e-a-assembleia-de-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

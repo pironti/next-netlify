@@ -6,7 +6,7 @@ tags:
  - consorcio-e-investimento
  - consorcio-de-imoveis
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/como-funciona-consorcio-de-imoveis.jpg
+thumbnail: /static/cms-content/como-funciona-consorcio-de-imoveis.jpg
 meta_summary: 
 date: 29/10/2021
 ---

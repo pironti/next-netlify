@@ -6,7 +6,7 @@ tags:
  - dicas-de-carro
  - como-escolher-um-carro
  - consorcio-de-carro
-thumbnail: /public/static/cms-content/sedan-ou-suv-qual-e-o-melhor-modelo.jpg
+thumbnail: /static/cms-content/sedan-ou-suv-qual-e-o-melhor-modelo.jpg
 meta_summary: 
 date: 04/10/2021
 ---

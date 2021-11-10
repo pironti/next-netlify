@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/como-um-mba-executivo-pode-alavancar-a-sua-carreira.jpeg
+thumbnail: /static/cms-content/como-um-mba-executivo-pode-alavancar-a-sua-carreira.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

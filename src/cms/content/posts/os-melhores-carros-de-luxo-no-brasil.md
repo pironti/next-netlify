@@ -6,7 +6,7 @@ tags:
  - consorcio-de-carro
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/os-melhores-carros-de-luxo-no-brasil.jpg
+thumbnail: /static/cms-content/os-melhores-carros-de-luxo-no-brasil.jpg
 meta_summary: 
 date: 28/09/2021
 ---

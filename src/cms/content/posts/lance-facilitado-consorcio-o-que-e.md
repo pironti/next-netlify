@@ -4,7 +4,7 @@ slug: lance-facilitado-consorcio-o-que-e
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/lance-facilitado-consorcio-o-que-e.jpg
+thumbnail: /static/cms-content/lance-facilitado-consorcio-o-que-e.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -4,7 +4,7 @@ slug: guia-completo-aprenda-como-escolher-um-consorcio-sem-erros
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros.jpeg
+thumbnail: /static/cms-content/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

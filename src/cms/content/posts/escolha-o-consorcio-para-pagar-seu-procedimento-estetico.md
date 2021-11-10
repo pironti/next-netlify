@@ -5,7 +5,7 @@ categoria: saude-e-estetica
 tags:
  - consorcio-de-estetica
  - dicas-de-estetica
-thumbnail: /public/static/cms-content/escolha-o-consorcio-para-pagar-seu-procedimento-estetico.jpg
+thumbnail: /static/cms-content/escolha-o-consorcio-para-pagar-seu-procedimento-estetico.jpg
 meta_summary: 
 date: 20/10/2021
 ---

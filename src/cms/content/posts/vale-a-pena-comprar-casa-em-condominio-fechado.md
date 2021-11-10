@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/vale-a-pena-comprar-casa-em-condominio-fechado.jpg
+thumbnail: /static/cms-content/vale-a-pena-comprar-casa-em-condominio-fechado.jpg
 meta_summary: 
 date: 28/09/2021
 ---

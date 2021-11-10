@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/faca-o-seu-fundo-de-emergencia-reserva.jpg
+thumbnail: /static/cms-content/faca-o-seu-fundo-de-emergencia-reserva.jpg
 meta_summary: 
 date: 09/11/2021
 ---

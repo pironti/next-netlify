@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/5-maneiras-simples-de-investir-seu-dinheiro.jpg
+thumbnail: /static/cms-content/5-maneiras-simples-de-investir-seu-dinheiro.jpg
 meta_summary: 
 date: 28/09/2021
 ---

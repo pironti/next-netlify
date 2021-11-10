@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/static/cms-content/confira-5-melhores-praticas-para-pagar-um-consorcio.jpg
+thumbnail: /static/cms-content/confira-5-melhores-praticas-para-pagar-um-consorcio.jpg
 meta_summary: 
 date: 06/10/2021
 ---

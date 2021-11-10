@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/faculdade-de-nutricao-como-funciona-e-quais-sao-as-vantagens-de-fazer.jpg
+thumbnail: /static/cms-content/faculdade-de-nutricao-como-funciona-e-quais-sao-as-vantagens-de-fazer.jpg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - consorcio-de-imoveis
  - casa-nova
-thumbnail: /public/static/cms-content/como-comprar-um-imovel-sem-entrada.jpg
+thumbnail: /static/cms-content/como-comprar-um-imovel-sem-entrada.jpg
 meta_summary: 
 date: 09/11/2021
 ---

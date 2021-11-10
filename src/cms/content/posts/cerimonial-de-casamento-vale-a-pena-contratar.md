@@ -6,7 +6,7 @@ tags:
  - festas
  - casamento
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/cerimonial-de-casamento-vale-a-pena-contratar.jpeg
+thumbnail: /static/cms-content/cerimonial-de-casamento-vale-a-pena-contratar.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

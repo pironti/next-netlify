@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - como-escolher-um-carro
  - casa-nova
-thumbnail: /public/static/cms-content/ter-um-bem-de-valor-custa-caro.jpg
+thumbnail: /static/cms-content/ter-um-bem-de-valor-custa-caro.jpg
 meta_summary: 
 date: 24/09/2021
 ---

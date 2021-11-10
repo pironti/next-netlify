@@ -7,7 +7,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica.jpg
+thumbnail: /static/cms-content/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica.jpg
 meta_summary: 
 date: 30/09/2021
 ---

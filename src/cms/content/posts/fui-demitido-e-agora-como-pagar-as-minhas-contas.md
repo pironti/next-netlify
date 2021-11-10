@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/fui-demitido-e-agora-como-pagar-as-minhas-contas.jpg
+thumbnail: /static/cms-content/fui-demitido-e-agora-como-pagar-as-minhas-contas.jpg
 meta_summary: 
 date: 29/09/2021
 ---

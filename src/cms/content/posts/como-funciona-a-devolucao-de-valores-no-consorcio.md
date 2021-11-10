@@ -4,7 +4,7 @@ slug: como-funciona-a-devolucao-de-valores-no-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-funciona-a-devolucao-de-valores-no-consorcio.jpg
+thumbnail: /static/cms-content/como-funciona-a-devolucao-de-valores-no-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

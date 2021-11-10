@@ -5,7 +5,7 @@ categoria: carros
 tags:
  - como-escolher-um-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/manutencao-preventiva-vale-a-pena-investir.jpg
+thumbnail: /static/cms-content/manutencao-preventiva-vale-a-pena-investir.jpg
 meta_summary: 
 date: 24/09/2021
 ---

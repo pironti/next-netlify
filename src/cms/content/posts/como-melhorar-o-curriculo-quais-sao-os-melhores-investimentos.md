@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos.jpeg
+thumbnail: /static/cms-content/como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

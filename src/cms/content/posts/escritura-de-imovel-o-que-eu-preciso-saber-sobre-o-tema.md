@@ -9,7 +9,7 @@ tags:
  - consorcio-de-reformas
  - consorcio-e-investimento
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema.jpg
+thumbnail: /static/cms-content/escritura-de-imovel-o-que-eu-preciso-saber-sobre-o-tema.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - dicas
  - dicas-de-economia
  - economia-domestica
-thumbnail: /public/static/cms-content/como-fazer-uma-reserva-de-emergencia.jpg
+thumbnail: /static/cms-content/como-fazer-uma-reserva-de-emergencia.jpg
 meta_summary: 
 date: 28/09/2021
 ---

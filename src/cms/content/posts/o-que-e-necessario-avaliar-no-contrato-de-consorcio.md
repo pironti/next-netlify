@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-servicos
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/o-que-e-necessario-avaliar-no-contrato-de-consorcio.jpg
+thumbnail: /static/cms-content/o-que-e-necessario-avaliar-no-contrato-de-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

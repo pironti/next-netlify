@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/como-funciona-o-encerramento-do-grupo-de-um-consorcio.jpg
+thumbnail: /static/cms-content/como-funciona-o-encerramento-do-grupo-de-um-consorcio.jpg
 meta_summary: 
 date: 04/10/2021
 ---

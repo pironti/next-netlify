@@ -6,7 +6,7 @@ tags:
  - casamento
  - consorcio-de-festa
  - festas
-thumbnail: /public/static/cms-content/como-escolher-o-melhor-local-para-a-festa-de-casamento.jpeg
+thumbnail: /static/cms-content/como-escolher-o-melhor-local-para-a-festa-de-casamento.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -6,7 +6,7 @@ tags:
  - comprar-casa
  - casa-nova
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/segundo-imovel-vale-a-pena.jpg
+thumbnail: /static/cms-content/segundo-imovel-vale-a-pena.jpg
 meta_summary: 
 date: 24/09/2021
 ---

@@ -4,7 +4,7 @@ slug: motivos-para-ter-um-barco
 categoria: financas-pessoais
 tags:
  - dicas
-thumbnail: /public/static/cms-content/motivos-para-ter-um-barco.jpg
+thumbnail: /static/cms-content/motivos-para-ter-um-barco.jpg
 meta_summary: 
 date: 24/09/2021
 ---

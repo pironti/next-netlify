@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/como-preparar-o-roteiro-de-viagem-romantica.png
+thumbnail: /static/cms-content/como-preparar-o-roteiro-de-viagem-romantica.png
 meta_summary: 
 date: 06/10/2021
 ---

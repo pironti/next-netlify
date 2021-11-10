@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - educacao-financeira
-thumbnail: /public/static/cms-content/afinal-posso-fazer-mais-de-um-consorcio-ao-mesmo-tempo-entenda.jpg
+thumbnail: /static/cms-content/afinal-posso-fazer-mais-de-um-consorcio-ao-mesmo-tempo-entenda.jpg
 meta_summary: 
 date: 04/10/2021
 ---

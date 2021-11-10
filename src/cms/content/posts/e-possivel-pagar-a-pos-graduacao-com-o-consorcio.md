@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - consorcio-de-educacao
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/e-possivel-pagar-a-pos-graduacao-com-o-consorcio.jpg
+thumbnail: /static/cms-content/e-possivel-pagar-a-pos-graduacao-com-o-consorcio.jpg
 meta_summary: 
 date: 27/09/2021
 ---

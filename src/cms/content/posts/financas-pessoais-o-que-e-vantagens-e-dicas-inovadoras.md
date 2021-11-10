@@ -4,7 +4,7 @@ slug: financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras
 categoria: financas-pessoais
 tags:
  - dicas-de-economia
-thumbnail: /public/static/cms-content/financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras.jpg
+thumbnail: /static/cms-content/financas-pessoais-o-que-e-vantagens-e-dicas-inovadoras.jpg
 meta_summary: 
 date: 27/09/2021
 ---

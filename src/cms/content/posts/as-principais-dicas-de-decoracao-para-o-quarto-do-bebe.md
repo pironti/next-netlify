@@ -7,7 +7,7 @@ tags:
  - consorcio-de-reformas
  - dicas-de-decoracao
  - tendencia-em-decoracao
-thumbnail: /public/static/cms-content/as-principais-dicas-de-decoracao-para-o-quarto-do-bebe.jpg
+thumbnail: /static/cms-content/as-principais-dicas-de-decoracao-para-o-quarto-do-bebe.jpg
 meta_summary: 
 date: 28/09/2021
 ---

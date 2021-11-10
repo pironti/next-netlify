@@ -5,7 +5,7 @@ categoria: pesados
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/frota-de-caminhoes-tudo-o-que-voce-precisa-saber-sobre-o-assunto.jpg
+thumbnail: /static/cms-content/frota-de-caminhoes-tudo-o-que-voce-precisa-saber-sobre-o-assunto.jpg
 meta_summary: 
 date: 27/09/2021
 ---

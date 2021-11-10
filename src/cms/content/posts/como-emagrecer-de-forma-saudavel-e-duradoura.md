@@ -7,7 +7,7 @@ tags:
  - estetica
  - dicas-de-estetica
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/como-emagrecer-de-forma-saudavel-e-duradoura.jpeg
+thumbnail: /static/cms-content/como-emagrecer-de-forma-saudavel-e-duradoura.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

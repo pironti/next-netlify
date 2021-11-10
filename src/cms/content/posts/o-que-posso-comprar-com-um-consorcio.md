@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - consorcio-de-servicos
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/o-que-posso-comprar-com-um-consorcio.jpg
+thumbnail: /static/cms-content/o-que-posso-comprar-com-um-consorcio.jpg
 meta_summary: 
 date: 24/09/2021
 ---

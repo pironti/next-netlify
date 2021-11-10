@@ -4,7 +4,7 @@ slug: quando-e-por-que-reformar-a-sua-casa-saiba-aqui
 categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
-thumbnail: /public/static/cms-content/quando-e-por-que-reformar-a-sua-casa-saiba-aqui.jpeg
+thumbnail: /static/cms-content/quando-e-por-que-reformar-a-sua-casa-saiba-aqui.jpeg
 meta_summary: 
 date: 01/10/2021
 ---

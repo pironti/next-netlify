@@ -16,7 +16,7 @@ tags:
  - consorcio-e-investimento
  - por-que-fazer-um-consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/o-que-posso-fazer-com-o-consorcio-de-servicos.jpg
+thumbnail: /static/cms-content/o-que-posso-fazer-com-o-consorcio-de-servicos.jpg
 meta_summary: 
 date: 23/09/2021
 ---

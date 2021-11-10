@@ -6,7 +6,7 @@ tags:
  - consorcio-de-educacao
  - dicas
  - dicas-de-carreira
-thumbnail: /public/static/cms-content/ead-a-educacao-a-distancia-e-para-voce.png
+thumbnail: /static/cms-content/ead-a-educacao-a-distancia-e-para-voce.png
 meta_summary: 
 date: 06/10/2021
 ---

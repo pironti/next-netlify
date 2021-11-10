@@ -8,7 +8,7 @@ tags:
  - dicas-de-economia
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/diversificar-investimentos-financeiros-e-possivel.jpg
+thumbnail: /static/cms-content/diversificar-investimentos-financeiros-e-possivel.jpg
 meta_summary: 
 date: 30/09/2021
 ---

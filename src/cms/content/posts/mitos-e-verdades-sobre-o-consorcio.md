@@ -4,7 +4,7 @@ slug: mitos-e-verdades-sobre-o-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/mitos-e-verdades-sobre-o-consorcio.png
+thumbnail: /static/cms-content/mitos-e-verdades-sobre-o-consorcio.png
 meta_summary: 
 date: 30/09/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - consorcio-de-viagem
  - casamento
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/5-melhores-destinos-para-visitar-na-sua-lua-de-mel.jpg
+thumbnail: /static/cms-content/5-melhores-destinos-para-visitar-na-sua-lua-de-mel.jpg
 meta_summary: 
 date: 04/10/2021
 ---

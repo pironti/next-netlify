@@ -8,7 +8,7 @@ tags:
  - consorcio-de-imoveis
  - casamento
  - consorcio-de-casamento
-thumbnail: /public/static/cms-content/veja-4-dicas-essenciais-para-o-seu-casamento-na-praia-ser-incrivel.jpeg
+thumbnail: /static/cms-content/veja-4-dicas-essenciais-para-o-seu-casamento-na-praia-ser-incrivel.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

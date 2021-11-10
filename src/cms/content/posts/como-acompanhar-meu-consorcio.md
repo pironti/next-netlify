@@ -4,7 +4,7 @@ slug: como-acompanhar-meu-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-acompanhar-meu-consorcio.jpg
+thumbnail: /static/cms-content/como-acompanhar-meu-consorcio.jpg
 meta_summary: 
 date: 09/11/2021
 ---

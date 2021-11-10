@@ -4,7 +4,7 @@ slug: customizado-acessorios-que-valorizam-o-carro-para-a-revenda
 categoria: carros
 tags:
  - dicas-de-carro
-thumbnail: /public/static/cms-content/customizado-acessorios-que-valorizam-o-carro-para-a-revenda.png
+thumbnail: /static/cms-content/customizado-acessorios-que-valorizam-o-carro-para-a-revenda.png
 meta_summary: 
 date: 04/10/2021
 ---

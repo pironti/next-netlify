@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/guia-completo-para-abrir-uma-empresa.jpg
+thumbnail: /static/cms-content/guia-completo-para-abrir-uma-empresa.jpg
 meta_summary: 
 date: 23/09/2021
 ---

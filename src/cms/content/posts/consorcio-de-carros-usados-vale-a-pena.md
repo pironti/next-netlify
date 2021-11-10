@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/consorcio-de-carros-usados-vale-a-pena.jpg
+thumbnail: /static/cms-content/consorcio-de-carros-usados-vale-a-pena.jpg
 meta_summary: 
 date: 05/10/2021
 ---

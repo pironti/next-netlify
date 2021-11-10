@@ -4,7 +4,7 @@ slug: uso-poltronas-na-decoracao-de-quarto
 categoria: decoracao-e-reformas
 tags:
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/uso-poltronas-na-decoracao-de-quarto.jpg
+thumbnail: /static/cms-content/uso-poltronas-na-decoracao-de-quarto.jpg
 meta_summary: 
 date: 23/09/2021
 ---

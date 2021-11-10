@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/afinal-vale-a-pena-fazer-um-consorcio-para-reformar-a-casa.jpg
+thumbnail: /static/cms-content/afinal-vale-a-pena-fazer-um-consorcio-para-reformar-a-casa.jpg
 meta_summary: 
 date: 04/10/2021
 ---

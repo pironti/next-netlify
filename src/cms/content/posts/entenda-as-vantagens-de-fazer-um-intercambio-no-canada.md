@@ -8,7 +8,7 @@ tags:
  - consorcio-de-educacao
  - dicas-de-carreira
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/entenda-as-vantagens-de-fazer-um-intercambio-no-canada.jpg
+thumbnail: /static/cms-content/entenda-as-vantagens-de-fazer-um-intercambio-no-canada.jpg
 meta_summary: 
 date: 06/10/2021
 ---

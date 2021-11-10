@@ -5,7 +5,7 @@ categoria: decoracao-e-reformas
 tags:
  - consorcio-de-reformas
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/termine-sua-casa-com-o-consorcio-de-reforma.jpg
+thumbnail: /static/cms-content/termine-sua-casa-com-o-consorcio-de-reforma.jpg
 meta_summary: 
 date: 07/10/2021
 ---

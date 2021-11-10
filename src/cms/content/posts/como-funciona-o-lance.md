@@ -4,7 +4,7 @@ slug: como-funciona-o-lance
 categoria: lance
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-funciona-o-lance.jpg
+thumbnail: /static/cms-content/como-funciona-o-lance.jpg
 meta_summary: 
 date: 27/09/2021
 ---

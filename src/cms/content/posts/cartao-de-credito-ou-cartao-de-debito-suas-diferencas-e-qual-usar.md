@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar.jpg
+thumbnail: /static/cms-content/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar.jpg
 meta_summary: 
 date: 27/09/2021
 ---

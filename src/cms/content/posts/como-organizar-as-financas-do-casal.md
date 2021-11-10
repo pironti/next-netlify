@@ -4,7 +4,7 @@ slug: como-organizar-as-financas-do-casal
 categoria: financas-pessoais
 tags:
  - dicas
-thumbnail: /public/static/cms-content/como-organizar-as-financas-do-casal.png
+thumbnail: /static/cms-content/como-organizar-as-financas-do-casal.png
 meta_summary: 
 date: 04/10/2021
 ---

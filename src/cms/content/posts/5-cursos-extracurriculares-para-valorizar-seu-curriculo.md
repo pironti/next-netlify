@@ -4,7 +4,7 @@ slug: 5-cursos-extracurriculares-para-valorizar-seu-curriculo
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/5-cursos-extracurriculares-para-valorizar-seu-curriculo.jpg
+thumbnail: /static/cms-content/5-cursos-extracurriculares-para-valorizar-seu-curriculo.jpg
 meta_summary: 
 date: 04/10/2021
 ---

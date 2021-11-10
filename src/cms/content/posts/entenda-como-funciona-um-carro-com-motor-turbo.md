@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/entenda-como-funciona-um-carro-com-motor-turbo.jpg
+thumbnail: /static/cms-content/entenda-como-funciona-um-carro-com-motor-turbo.jpg
 meta_summary: 
 date: 24/09/2021
 ---

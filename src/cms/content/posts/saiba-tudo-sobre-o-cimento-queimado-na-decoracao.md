@@ -7,7 +7,7 @@ tags:
  - tendencia-em-decoracao
  - consorcio-de-decoracao
  - dicas-de-decoracao
-thumbnail: /public/static/cms-content/saiba-tudo-sobre-o-cimento-queimado-na-decoracao.jpeg
+thumbnail: /static/cms-content/saiba-tudo-sobre-o-cimento-queimado-na-decoracao.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

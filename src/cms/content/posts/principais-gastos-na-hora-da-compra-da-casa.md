@@ -7,7 +7,7 @@ tags:
  - consorcio-de-decoracao
  - consorcio-de-reformas
  - casa-nova
-thumbnail: /public/static/cms-content/principais-gastos-na-hora-da-compra-da-casa.jpg
+thumbnail: /static/cms-content/principais-gastos-na-hora-da-compra-da-casa.jpg
 meta_summary: 
 date: 27/09/2021
 ---

@@ -4,7 +4,7 @@ slug: como-e-feito-o-pagamento-da-parcela-do-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-e-feito-o-pagamento-da-parcela-do-consorcio.jpg
+thumbnail: /static/cms-content/como-e-feito-o-pagamento-da-parcela-do-consorcio.jpg
 meta_summary: 
 date: 06/10/2021
 ---

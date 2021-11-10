@@ -5,7 +5,7 @@ categoria: imoveis
 tags:
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/comprar-ou-alugar-imovel-entenda-as-vantagens-e-desvantagens.jpg
+thumbnail: /static/cms-content/comprar-ou-alugar-imovel-entenda-as-vantagens-e-desvantagens.jpg
 meta_summary: 
 date: 23/09/2021
 ---

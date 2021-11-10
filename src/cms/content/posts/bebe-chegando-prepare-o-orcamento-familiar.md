@@ -4,7 +4,7 @@ slug: bebe-chegando-prepare-o-orcamento-familiar
 categoria: financas-pessoais
 tags:
  - dicas
-thumbnail: /public/static/cms-content/bebe-chegando-prepare-o-orcamento-familiar.png
+thumbnail: /static/cms-content/bebe-chegando-prepare-o-orcamento-familiar.png
 meta_summary: 
 date: 06/10/2021
 ---

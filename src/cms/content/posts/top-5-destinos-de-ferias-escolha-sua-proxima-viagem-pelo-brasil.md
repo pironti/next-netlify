@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil.png
+thumbnail: /static/cms-content/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil.png
 meta_summary: 
 date: 06/10/2021
 ---

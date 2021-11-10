@@ -4,7 +4,7 @@ slug: investir-em-imoveis-onde-comecar
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/investir-em-imoveis-onde-comecar.jpg
+thumbnail: /static/cms-content/investir-em-imoveis-onde-comecar.jpg
 meta_summary: 
 date: 24/09/2021
 ---

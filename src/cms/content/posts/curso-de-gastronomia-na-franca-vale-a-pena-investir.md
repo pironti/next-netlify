@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - dicas-de-viagem
-thumbnail: /public/static/cms-content/curso-de-gastronomia-na-franca-vale-a-pena-investir.jpeg
+thumbnail: /static/cms-content/curso-de-gastronomia-na-franca-vale-a-pena-investir.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

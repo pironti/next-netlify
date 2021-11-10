@@ -11,7 +11,7 @@ tags:
  - dicas
  - economia-domestica
  - por-que-fazer-um-consorcio
-thumbnail: /public/static/cms-content/4-dicas-para-conseguir-uma-boa-negociacao-na-hora-de-adquirir-o-seu-bem.jpg
+thumbnail: /static/cms-content/4-dicas-para-conseguir-uma-boa-negociacao-na-hora-de-adquirir-o-seu-bem.jpg
 meta_summary: 
 date: 30/09/2021
 ---

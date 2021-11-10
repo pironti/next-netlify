@@ -4,7 +4,7 @@ slug: divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais
 categoria: financas-pessoais
 tags:
  - educacao-financeira
-thumbnail: /public/static/cms-content/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais.jpg
+thumbnail: /static/cms-content/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais.jpg
 meta_summary: 
 date: 05/10/2021
 ---

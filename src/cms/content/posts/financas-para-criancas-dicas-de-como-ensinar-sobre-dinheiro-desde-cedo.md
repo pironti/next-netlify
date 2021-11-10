@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - dicas-de-economia
  - educacao-financeira
-thumbnail: /public/static/cms-content/financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo.jpg
+thumbnail: /static/cms-content/financas-para-criancas-dicas-de-como-ensinar-sobre-dinheiro-desde-cedo.jpg
 meta_summary: 
 date: 07/10/2021
 ---

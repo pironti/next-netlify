@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/conheca-os-6-melhores-motivos-para-voce-viajar-para-marrocos.jpg
+thumbnail: /static/cms-content/conheca-os-6-melhores-motivos-para-voce-viajar-para-marrocos.jpg
 meta_summary: 
 date: 01/10/2021
 ---

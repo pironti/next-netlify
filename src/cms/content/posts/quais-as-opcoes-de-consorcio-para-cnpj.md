@@ -4,7 +4,7 @@ slug: quais-as-opcoes-de-consorcio-para-cnpj
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/quais-as-opcoes-de-consorcio-para-cnpj.jpg
+thumbnail: /static/cms-content/quais-as-opcoes-de-consorcio-para-cnpj.jpg
 meta_summary: 
 date: 20/10/2021
 ---

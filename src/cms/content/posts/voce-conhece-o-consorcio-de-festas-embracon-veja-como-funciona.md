@@ -5,7 +5,7 @@ categoria: festas
 tags:
  - consorcio-de-festa
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona.jpeg
+thumbnail: /static/cms-content/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

@@ -8,7 +8,7 @@ tags:
  - consorcio-de-servicos
  - consorcio-e-investimento
  - educacao-financeira
-thumbnail: /public/static/cms-content/o-que-eu-preciso-saber-sobre-o-uso-do-botox-para-correcao-de-sorriso.jpg
+thumbnail: /static/cms-content/o-que-eu-preciso-saber-sobre-o-uso-do-botox-para-correcao-de-sorriso.jpg
 meta_summary: 
 date: 01/10/2021
 ---

@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/reajuste-do-consorcio-entenda.jpeg
+thumbnail: /static/cms-content/reajuste-do-consorcio-entenda.jpeg
 meta_summary: 
 date: 27/09/2021
 ---

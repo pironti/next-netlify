@@ -6,7 +6,7 @@ tags:
  - carreiras-em-alta
  - dicas-de-carreira
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo.jpeg
+thumbnail: /static/cms-content/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

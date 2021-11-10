@@ -6,7 +6,7 @@ tags:
  - casa-nova
  - comprar-casa
  - consorcio-de-imoveis
-thumbnail: /public/static/cms-content/entenda-a-importancia-de-contar-com-um-bom-corretor-de-imoveis.jpg
+thumbnail: /static/cms-content/entenda-a-importancia-de-contar-com-um-bom-corretor-de-imoveis.jpg
 meta_summary: 
 date: 05/10/2021
 ---

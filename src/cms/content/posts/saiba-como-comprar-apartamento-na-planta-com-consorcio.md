@@ -8,7 +8,7 @@ tags:
  - casa-nova
  - dicas-de-decoracao
  - dicas-de-economia
-thumbnail: /public/static/cms-content/saiba-como-comprar-apartamento-na-planta-com-consorcio.jpg
+thumbnail: /static/cms-content/saiba-como-comprar-apartamento-na-planta-com-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

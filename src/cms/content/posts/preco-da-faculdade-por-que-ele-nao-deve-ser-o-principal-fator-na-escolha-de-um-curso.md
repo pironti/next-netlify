@@ -5,7 +5,7 @@ categoria: educacao
 tags:
  - consorcio-de-educacao
  - dicas-de-carreira
-thumbnail: /public/static/cms-content/preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso.jpg
+thumbnail: /static/cms-content/preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso.jpg
 meta_summary: 
 date: 04/10/2021
 ---

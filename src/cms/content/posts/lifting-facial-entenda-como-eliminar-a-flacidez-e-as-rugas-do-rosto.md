@@ -4,7 +4,7 @@ slug: lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto
 categoria: saude-e-estetica
 tags:
  - consorcio-de-estetica
-thumbnail: /public/static/cms-content/lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto.jpeg
+thumbnail: /static/cms-content/lifting-facial-entenda-como-eliminar-a-flacidez-e-as-rugas-do-rosto.jpeg
 meta_summary: 
 date: 30/09/2021
 ---

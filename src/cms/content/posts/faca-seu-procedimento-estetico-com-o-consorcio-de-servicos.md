@@ -6,7 +6,7 @@ tags:
  - consorcio-de-estetica
  - consorcio-de-servicos
  - dicas-de-estetica
-thumbnail: /public/static/cms-content/faca-seu-procedimento-estetico-com-o-consorcio-de-servicos.jpg
+thumbnail: /static/cms-content/faca-seu-procedimento-estetico-com-o-consorcio-de-servicos.jpg
 meta_summary: 
 date: 07/10/2021
 ---

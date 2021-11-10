@@ -5,7 +5,7 @@ categoria: pesados
 tags:
  - como-escolher-um-carro
  - dicas
-thumbnail: /public/static/cms-content/frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar.jpg
+thumbnail: /static/cms-content/frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar.jpg
 meta_summary: 
 date: 23/09/2021
 ---

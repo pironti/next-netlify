@@ -5,7 +5,7 @@ categoria: pesados
 tags:
  - consorcio
  - dicas
-thumbnail: /public/static/cms-content/dicas-na-hora-de-comprar-um-caminhao.jpg
+thumbnail: /static/cms-content/dicas-na-hora-de-comprar-um-caminhao.jpg
 meta_summary: 
 date: 24/09/2021
 ---

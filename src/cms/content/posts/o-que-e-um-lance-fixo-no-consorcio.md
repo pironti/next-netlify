@@ -6,7 +6,7 @@ tags:
  - consorcio
  - dicas
  - educacao-financeira
-thumbnail: /public/static/cms-content/o-que-e-um-lance-fixo-no-consorcio.jpg
+thumbnail: /static/cms-content/o-que-e-um-lance-fixo-no-consorcio.jpg
 meta_summary: 
 date: 28/09/2021
 ---

@@ -7,7 +7,7 @@ tags:
  - roteiro-de-viagem
  - consorcio-de-viagem
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/como-fazer-uma-reserva-de-hotel-sem-erros.jpg
+thumbnail: /static/cms-content/como-fazer-uma-reserva-de-hotel-sem-erros.jpg
 meta_summary: 
 date: 27/09/2021
 ---

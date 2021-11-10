@@ -7,7 +7,7 @@ tags:
  - dicas
  - economia-domestica
  - educacao-financeira
-thumbnail: /public/static/cms-content/como-fazer-um-orcamento-familiar-sem-erro.jpg
+thumbnail: /static/cms-content/como-fazer-um-orcamento-familiar-sem-erro.jpg
 meta_summary: 
 date: 30/09/2021
 ---

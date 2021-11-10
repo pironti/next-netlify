@@ -5,7 +5,7 @@ categoria: consorcio
 tags:
  - consorcio
  - consorcio-e-investimento
-thumbnail: /public/static/cms-content/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta.jpg
+thumbnail: /static/cms-content/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta.jpg
 meta_summary: 
 date: 28/09/2021
 ---

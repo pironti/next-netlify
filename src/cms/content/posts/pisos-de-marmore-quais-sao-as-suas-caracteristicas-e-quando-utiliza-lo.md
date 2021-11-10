@@ -8,7 +8,7 @@ tags:
  - dicas-de-decoracao
  - tendencia-em-decoracao
  - consorcio-de-servicos
-thumbnail: /public/static/cms-content/pisos-de-marmore-quais-sao-as-suas-caracteristicas-e-quando-utiliza-lo.jpeg
+thumbnail: /static/cms-content/pisos-de-marmore-quais-sao-as-suas-caracteristicas-e-quando-utiliza-lo.jpeg
 meta_summary: 
 date: 08/10/2021
 ---

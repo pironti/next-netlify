@@ -9,7 +9,7 @@ tags:
  - dicas-de-viagem
  - dicas
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/35-coisas-para-fazer-quando-a-pandemia-passar.jpg
+thumbnail: /static/cms-content/35-coisas-para-fazer-quando-a-pandemia-passar.jpg
 meta_summary: 
 date: 30/09/2021
 ---

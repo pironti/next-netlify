@@ -6,7 +6,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-de-carro
  - dicas-de-carro
-thumbnail: /public/static/cms-content/dicas-na-hora-de-comprar-o-seu-primeiro-carro.jpg
+thumbnail: /static/cms-content/dicas-na-hora-de-comprar-o-seu-primeiro-carro.jpg
 meta_summary: 
 date: 19/10/2021
 ---

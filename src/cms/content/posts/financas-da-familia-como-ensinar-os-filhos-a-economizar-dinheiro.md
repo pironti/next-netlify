@@ -5,7 +5,7 @@ categoria: financas-pessoais
 tags:
  - educacao-financeira
  - dicas-de-economia
-thumbnail: /public/static/cms-content/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro.jpg
+thumbnail: /static/cms-content/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro.jpg
 meta_summary: 
 date: 04/10/2021
 ---

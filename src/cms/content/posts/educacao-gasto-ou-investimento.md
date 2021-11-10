@@ -4,7 +4,7 @@ slug: educacao-gasto-ou-investimento
 categoria: educacao
 tags:
  - consorcio-de-educacao
-thumbnail: /public/static/cms-content/educacao-gasto-ou-investimento.jpg
+thumbnail: /static/cms-content/educacao-gasto-ou-investimento.jpg
 meta_summary: 
 date: 27/09/2021
 ---

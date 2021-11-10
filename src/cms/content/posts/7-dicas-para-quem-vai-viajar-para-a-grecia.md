@@ -6,7 +6,7 @@ tags:
  - dicas-de-viagem
  - roteiro-de-viagem
  - consorcio-de-viagem
-thumbnail: /public/static/cms-content/7-dicas-para-quem-vai-viajar-para-a-grecia.jpg
+thumbnail: /static/cms-content/7-dicas-para-quem-vai-viajar-para-a-grecia.jpg
 meta_summary: 
 date: 04/10/2021
 ---

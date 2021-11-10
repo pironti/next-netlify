@@ -8,7 +8,7 @@ tags:
  - como-escolher-um-carro
  - consorcio-e-investimento
  - tipos-de-consorcio
-thumbnail: /public/static/cms-content/diferenciais-da-embracon.jpeg
+thumbnail: /static/cms-content/diferenciais-da-embracon.jpeg
 meta_summary: 
 date: 04/10/2021
 ---

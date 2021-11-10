@@ -4,7 +4,7 @@ slug: consorcios-segredos-que-nao-te-contaram
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/consorcios-segredos-que-nao-te-contaram.jpg
+thumbnail: /static/cms-content/consorcios-segredos-que-nao-te-contaram.jpg
 meta_summary: 
 date: 24/09/2021
 ---

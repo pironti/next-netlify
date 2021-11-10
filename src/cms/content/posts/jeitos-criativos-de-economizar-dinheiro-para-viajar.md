@@ -9,7 +9,7 @@ tags:
  - dicas-de-viagem
  - dicas-de-economia
  - roteiro-de-viagem
-thumbnail: /public/static/cms-content/jeitos-criativos-de-economizar-dinheiro-para-viajar.jpg
+thumbnail: /static/cms-content/jeitos-criativos-de-economizar-dinheiro-para-viajar.jpg
 meta_summary: 
 date: 27/09/2021
 ---

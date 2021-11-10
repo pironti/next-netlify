@@ -4,7 +4,7 @@ slug: importancia-da-simulacao-na-hora-de-fechar-um-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/importancia-da-simulacao-na-hora-de-fechar-um-consorcio.jpg
+thumbnail: /static/cms-content/importancia-da-simulacao-na-hora-de-fechar-um-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---

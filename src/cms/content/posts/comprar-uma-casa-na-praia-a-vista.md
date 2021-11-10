@@ -6,7 +6,7 @@ tags:
  - consorcio-de-imoveis
  - casa-nova
  - comprar-casa
-thumbnail: /public/static/cms-content/comprar-uma-casa-na-praia-a-vista.jpg
+thumbnail: /static/cms-content/comprar-uma-casa-na-praia-a-vista.jpg
 meta_summary: 
 date: 23/09/2021
 ---

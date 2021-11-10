@@ -4,7 +4,7 @@ slug: como-funciona-a-contemplacao-no-consorcio
 categoria: contemplacao
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/como-funciona-a-contemplacao-no-consorcio.jpg
+thumbnail: /static/cms-content/como-funciona-a-contemplacao-no-consorcio.jpg
 meta_summary: 
 date: 19/10/2021
 ---

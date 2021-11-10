@@ -4,7 +4,7 @@ slug: quais-as-principais-duvidas-sobre-consorcio
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/quais-as-principais-duvidas-sobre-consorcio.jpg
+thumbnail: /static/cms-content/quais-as-principais-duvidas-sobre-consorcio.jpg
 meta_summary: 
 date: 09/11/2021
 ---

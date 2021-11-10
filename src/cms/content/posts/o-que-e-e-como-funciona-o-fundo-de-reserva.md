@@ -4,7 +4,7 @@ slug: o-que-e-e-como-funciona-o-fundo-de-reserva
 categoria: consorcio
 tags:
  - consorcio
-thumbnail: /public/static/cms-content/o-que-e-e-como-funciona-o-fundo-de-reserva.jpg
+thumbnail: /static/cms-content/o-que-e-e-como-funciona-o-fundo-de-reserva.jpg
 meta_summary: 
 date: 23/09/2021
 ---

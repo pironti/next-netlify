@@ -7,7 +7,7 @@ tags:
  - consorcio-e-investimento
  - consorcio-x-financiamento
  - dicas-de-economia
-thumbnail: /public/static/cms-content/e-possivel-quitar-o-financiamento-imobiliario-com-o-consorcio.jpg
+thumbnail: /static/cms-content/e-possivel-quitar-o-financiamento-imobiliario-com-o-consorcio.jpg
 meta_summary: 
 date: 23/09/2021
 ---
