@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba qual é a melhor época do ano para comprar um carro novo
-        slug: saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Colocar um [automóvel novo na garagem é um sonho](https://www.embracon.com.br/blog/saiba-o-que-considerar-para-escolher-o-carro-ideal), tanto para quem ainda não tem um quanto para quem quer fazer uma [troca de modelo](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas).
+titulo: Saiba qual é a melhor época do ano para comprar um carro novo
+slug: saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Colocar um [automóvel novo na garagem é um sonho](https://www.embracon.com.br/blog/saiba-o-que-considerar-para-escolher-o-carro-ideal), tanto para quem ainda não tem um quanto para quem quer fazer uma [troca de modelo](https://www.embracon.com.br/blog/hatch-ou-sedan-diferencas).
 
 Mas, com essa vontade de mudança, a pergunta que o cliente geralmente se faz é: “[quando trocar de carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao)?”
 
@@ -96,4 +96,3 @@ Gostou das dicas para acertar quando [trocar de carro](https://www.embracon.com.
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebda2b6735c676da2d9e861_CTA-Automoveis2.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

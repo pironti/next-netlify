@@ -1,14 +1,14 @@
 ---
-        titulo: Importância de ter uma frota para o seu negócio?
-        slug: importancia-de-ter-uma-frota-para-o-seu-negocio
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/importancia-de-ter-uma-frota-para-o-seu-negocio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        As organizações que utilizam o transporte rodoviário em suas operações normalmente enfrentam um verdadeiro dilema quando o assunto é renovação de frota. Até porque, qual é o melhor momento para [trocar os veículos](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), uma vez que esse não é um processo fácil e nem acessível?
+titulo: Importância de ter uma frota para o seu negócio?
+slug: importancia-de-ter-uma-frota-para-o-seu-negocio
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/importancia-de-ter-uma-frota-para-o-seu-negocio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+As organizações que utilizam o transporte rodoviário em suas operações normalmente enfrentam um verdadeiro dilema quando o assunto é renovação de frota. Até porque, qual é o melhor momento para [trocar os veículos](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), uma vez que esse não é um processo fácil e nem acessível?
 
 Apesar de tudo, realizar o procedimento é essencial para garantir a segurança dos motoristas e assegurar que as atividades da companhia tenham cada vez mais eficiência.
 
@@ -214,4 +214,3 @@ Os membros do consórcio devem pagar em parcelas mensais. Eles podem receber uma
 E então, está esperando o que para aproveitar essa estratégia é utilizar o consórcio de caminhão para realizar seu sonho de abrir o próprio negócio, atualizar sua frota ou aumentar seu empreendimento? Esse é o tipo de ação financeira que prepara sua empresa para o futuro!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/609ae880f3663b32254a9c64_EMBRACON_CTA_PESADOS_2.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

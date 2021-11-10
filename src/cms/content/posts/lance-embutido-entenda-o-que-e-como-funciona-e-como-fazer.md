@@ -1,14 +1,14 @@
 ---
-        titulo: Lance embutido: entenda o que é, como funciona e como fazer
-        slug: lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O Consórcio é uma modalidade muito utilizada no Brasil, especialmente quando se trata da aquisição de bens de consumo. Também se aplica a produtos ou serviços de alto valor. Ele é representado por um grupo de indivíduos que têm um objetivo em comum: reunir recursos para comprar um carro ou uma casa, por exemplo.
+titulo: Lance embutido: entenda o que é, como funciona e como fazer
+slug: lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/lance-embutido-entenda-o-que-e-como-funciona-e-como-fazer.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O Consórcio é uma modalidade muito utilizada no Brasil, especialmente quando se trata da aquisição de bens de consumo. Também se aplica a produtos ou serviços de alto valor. Ele é representado por um grupo de indivíduos que têm um objetivo em comum: reunir recursos para comprar um carro ou uma casa, por exemplo.
 
 Contudo, para serem contemplados, os consorciados devem ser sorteados ou fazer ofertas de lance. As [modalidades de lance](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio) são livres, com porcentagem indeterminadas; ou fixas, como o **lance embutido**.
 
@@ -90,4 +90,3 @@ E então, leitor, o que achou das informações que trouxemos? Se gostou deste c
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=lance_embutido&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

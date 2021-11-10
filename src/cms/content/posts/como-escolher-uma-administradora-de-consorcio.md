@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher uma administradora de consórcio?
-        slug: como-escolher-uma-administradora-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-uma-administradora-de-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Você sabia que o consórcio é a melhor forma de[ investir em bens de alto valor](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), como casa, carro, apartamento, motos ou até mesmo diferentes tipos de serviços?
+titulo: Como escolher uma administradora de consórcio?
+slug: como-escolher-uma-administradora-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-uma-administradora-de-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Você sabia que o consórcio é a melhor forma de[ investir em bens de alto valor](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), como casa, carro, apartamento, motos ou até mesmo diferentes tipos de serviços?
 
 Isso porque o consórcio é uma modalidade bem flexível. Você não precisa de valor de entrada para começar a investir no seu sonho e pode definir a [quantidade de parcelas](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) de forma que se ajuste aos seus rendimentos mensais.
 
@@ -88,4 +88,3 @@ A Embracon já possui mais de 30 anos de experiência realizando sonhos de difer
 > Ficou interessado? Então [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_escolher_uma_administradora&utm_campaign=publicacoes_blog) e comece desde já o seu consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_escolher_uma_administradora&utm_campaign=publicacoes_blog)</figure>
-        

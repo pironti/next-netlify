@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as formas de comprar uma moto?
-        slug: quais-sao-as-formas-de-comprar-uma-moto
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-formas-de-comprar-uma-moto.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Há muito tempo o brasileiro tem mostrado um interesse crescente para a [compra de motos](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio). Os motivos são diversos: em pequenas cidades, por exemplo, uma moto pode ajudar bastante em locomoções rápidas; já nas metrópoles, esse tipo de transporte pode ser utilizado para diferentes tipos de trabalho ou até mesmo para longos passeios, dependendo da categoria que escolher.
+titulo: Quais são as formas de comprar uma moto?
+slug: quais-sao-as-formas-de-comprar-uma-moto
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-formas-de-comprar-uma-moto.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Há muito tempo o brasileiro tem mostrado um interesse crescente para a [compra de motos](https://www.embracon.com.br/blog/guia-completo-de-como-comprar-uma-moto-com-consorcio). Os motivos são diversos: em pequenas cidades, por exemplo, uma moto pode ajudar bastante em locomoções rápidas; já nas metrópoles, esse tipo de transporte pode ser utilizado para diferentes tipos de trabalho ou até mesmo para longos passeios, dependendo da categoria que escolher.
 
 A [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) fez com que esse interesse por motocicletas aumentasse ainda mais. Um [levantamento realizado pela plataforma Mercado Livre](https://motorshow.com.br/pandemia-fez-crescer-em-35-a-intencao-de-compra-de-motos/) registrou interesse 35% maior na intenção de compra de motos por meio de sua plataforma, comparado aos níveis pré-pandemia.
 
@@ -172,4 +172,3 @@ Se a carta de crédito for maior que o valor da moto, é possível utilizar até
 Como já deu para perceber, o consórcio oferece muitas vantagens para quem deseja comprar a sua motocicleta. [Faça agora mesmo uma simulação de consórcio de moto](https://www.embracon.com.br/consorcio-motos) e invista o quanto antes na realização do seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

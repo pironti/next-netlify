@@ -1,14 +1,14 @@
 ---
-        titulo: Por que fazer um tour pela Europa nas suas próximas férias
-        slug: por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Fazer um tour pela Europa está nos planos de muita gente, e não é à toa. Além de possibilitar conhecer história, vivenciar novas aventuras e experiências ímpares, viajar ainda faz muito bem para a saúde mental. E, nesse sentido, o Velho Continente abriga destinos inesquecíveis, com vivências gastronômicas e culturais.
+titulo: Por que fazer um tour pela Europa nas suas próximas férias
+slug: por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-fazer-um-tour-pela-europa-nas-suas-proximas-ferias.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Fazer um tour pela Europa está nos planos de muita gente, e não é à toa. Além de possibilitar conhecer história, vivenciar novas aventuras e experiências ímpares, viajar ainda faz muito bem para a saúde mental. E, nesse sentido, o Velho Continente abriga destinos inesquecíveis, com vivências gastronômicas e culturais.
 
 Há muito a se ver na Europa. Então, para ajudar você a montar o seu roteiro de viagem, trouxemos algumas dicas valiosas. Continue lendo este artigo para aguçar ainda mais a sua vontade, e boa viagem!
 
@@ -73,4 +73,3 @@ Outra dica interessante é evitar dormir uma noite em cada lugar. O ideal é esc
 Assim, é possível fazer viagens de ida e volta, tendo uma cidade como “base” para manter a sua bagagem e dormir melhor. Seguindo estas dicas, com certeza, você terá um tour pela Europa inesquecível!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Enfim, gostou do nosso post? Então, aproveite para nos seguir nas redes sociais e fique por dentro de novos roteiros e destinos para viagens! Estamos no [Facebook](https://www.facebook.com/embracon), no [Twitter](https://twitter.com/embracon), no [YouTube](https://www.youtube.com/user/ConsorcioEmbracon), no [Instagram ](https://www.instagram.com/embraconoficial/)e no [LinkedIn](https://pt.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda.).
-        

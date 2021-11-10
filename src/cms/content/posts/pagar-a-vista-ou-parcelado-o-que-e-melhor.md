@@ -1,14 +1,14 @@
 ---
-        titulo: Pagar à vista ou parcelado: o que é melhor?
-        slug: pagar-a-vista-ou-parcelado-o-que-e-melhor
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pagar-a-vista-ou-parcelado-o-que-e-melhor.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Existem diversas formas de realizar uma compra: você pode sacar o dinheiro para pagar tudo de uma só vez, [passar o cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) e parcelar de uma forma que fique mais em conta ou, dependendo do que se compra, pode até mesmo combinar para pagar posteriormente.
+titulo: Pagar à vista ou parcelado: o que é melhor?
+slug: pagar-a-vista-ou-parcelado-o-que-e-melhor
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pagar-a-vista-ou-parcelado-o-que-e-melhor.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Existem diversas formas de realizar uma compra: você pode sacar o dinheiro para pagar tudo de uma só vez, [passar o cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) e parcelar de uma forma que fique mais em conta ou, dependendo do que se compra, pode até mesmo combinar para pagar posteriormente.
 
 Não só existem diversas formas de realizar pagamento, como a nossa própria forma de utilizar dinheiro tem mudado significativamente nos últimos anos. Se antes as pessoas se preocupavam bastante com o método de parcelamento, por exemplo, nos dias de hoje cada vez menos pessoas saem com dinheiro na carteira para fazer algum tipo de transação.
 
@@ -162,4 +162,3 @@ E aí, gostou das nossas dicas de finanças pessoais? Então [confira nossas dic
 > E pensando em fazer um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=pagar_a_vista_ou_parcelado&utm_campaign=publicacoes_blog) agora mesmo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=pagar_a_vista_ou_parcelado&utm_campaign=publicacoes_blog)</figure>‍
-        

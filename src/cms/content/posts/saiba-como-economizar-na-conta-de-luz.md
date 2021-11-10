@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como economizar na conta de luz
-        slug: saiba-como-economizar-na-conta-de-luz
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-economizar-na-conta-de-luz.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        A [Aneel (Agência Nacional de Energia Elétrica)](https://www.aneel.gov.br/) possui um sistema para aumentar a arrecadação da conta de luz, a chamada bandeira tarifária, que funciona de acordo com o nível de água do reservatório. Se o nível da água piorar, a bandeira mudará o nível da água e cobrará uma taxa extra na conta.
+titulo: Saiba como economizar na conta de luz
+slug: saiba-como-economizar-na-conta-de-luz
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-economizar-na-conta-de-luz.jpg
+meta_summary: 
+date: 19/10/2021
+---
+A [Aneel (Agência Nacional de Energia Elétrica)](https://www.aneel.gov.br/) possui um sistema para aumentar a arrecadação da conta de luz, a chamada bandeira tarifária, que funciona de acordo com o nível de água do reservatório. Se o nível da água piorar, a bandeira mudará o nível da água e cobrará uma taxa extra na conta.
 
 São quatro marcas de coleção: verde, amarela e vermelha. Este último é dividido em dois níveis. Em caso de estivermos no nível 2 de bandeira vermelha, esse será o nível mais alto de taxas adicionais cobradas dos consumidores. O sistema adotado pela Aneel visa estimular as pessoas a gastar menos.
 
@@ -216,4 +216,3 @@ Assim como o alto valor da conta de luz, outro gasto fixo que pode estragar tota
 Gostou deste artigo? Veja também “[as principais tendências de decoração](https://www.embracon.com.br/blog/as-principais-tendencias-de-decoracao)”, acesse o link e fique por dentro.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

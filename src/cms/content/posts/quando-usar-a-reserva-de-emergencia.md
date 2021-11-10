@@ -1,14 +1,14 @@
 ---
-        titulo: Quando usar a reserva de emergência?
-        slug: quando-usar-a-reserva-de-emergencia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quando-usar-a-reserva-de-emergencia.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Uma das primeiras coisas a se fazer quando se tenta investir é [montar a sua própria reserva de emergência](https://www.embracon.com.br/blog/por-que-e-importante-ter-uma-reserva-de-emergencia).
+titulo: Quando usar a reserva de emergência?
+slug: quando-usar-a-reserva-de-emergencia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quando-usar-a-reserva-de-emergencia.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Uma das primeiras coisas a se fazer quando se tenta investir é [montar a sua própria reserva de emergência](https://www.embracon.com.br/blog/por-que-e-importante-ter-uma-reserva-de-emergencia).
 
 A grande maioria dos [especialistas em finanças pessoais](https://www.embracon.com.br/category/financas-pessoais) recomendam que você tenha um dinheiro guardado para lidar com assuntos emergenciais por diversos motivos.
 
@@ -61,4 +61,3 @@ Portanto, comece o quanto antes a montar a sua reserva de emergência para, ent�
 Veja mais dicas de como usar seu dinheiro com mais inteligência em nosso [passo a passo para começar a investir](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

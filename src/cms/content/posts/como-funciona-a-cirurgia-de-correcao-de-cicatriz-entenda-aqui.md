@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a cirurgia de correção de cicatriz? Entenda aqui!
-        slug: como-funciona-a-cirurgia-de-correcao-de-cicatriz-entenda-aqui
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-cirurgia-de-correcao-de-cicatriz-entenda-aqui.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Ferimentos na pele podem deixar cicatrizes, que são resultados do processo de regeneração celular. Em alguns casos, porém, o tecido da cicatrização difere em cor, textura, elasticidade e aspecto do restante da pele. Por isso, pode ser algo bastante incômodo. A cirurgia de correção de cicatriz pode ajudar nesses casos.
+titulo: Como funciona a cirurgia de correção de cicatriz? Entenda aqui!
+slug: como-funciona-a-cirurgia-de-correcao-de-cicatriz-entenda-aqui
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-cirurgia-de-correcao-de-cicatriz-entenda-aqui.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Ferimentos na pele podem deixar cicatrizes, que são resultados do processo de regeneração celular. Em alguns casos, porém, o tecido da cicatrização difere em cor, textura, elasticidade e aspecto do restante da pele. Por isso, pode ser algo bastante incômodo. A cirurgia de correção de cicatriz pode ajudar nesses casos.
 
 A correção é feita por meio de uma cirurgia plástica que minimiza a cicatriz e melhora o seu aspecto. Há diferentes tipos de cicatrizes e, em alguns casos, além de afetar a autoestima, elas podem prejudicar os movimentos e a funcionalidade da pele.
 
@@ -59,4 +59,3 @@ O paciente precisa que ter em mente que a recuperação da cirurgia de correçã
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

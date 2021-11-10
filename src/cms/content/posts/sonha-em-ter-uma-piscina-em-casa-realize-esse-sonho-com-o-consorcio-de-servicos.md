@@ -1,14 +1,14 @@
 ---
-        titulo: Sonha em ter uma piscina em casa? Realize esse sonho com o consórcio de serviços
-        slug: sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Depois de ficarmos em [isolamento em casa](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) por tanto tempo, começamos a repensar as nossas prioridades. E com certeza, com as altas temperaturas do Brasil, um dos itens mais desejados na quarentena, principalmente nas cidades mais quentes, [é uma piscina](https://www.embracon.com.br/blog/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras). Mas você sabe quanto custa para instalar uma piscina [na sua casa](https://www.embracon.com.br/blog/5-coisas-que-voce-precisa-saber-para-construir-uma-casa)? Qual é o passo a passo para realizar esse desejo? E por incrível que pareça não é tão complicado quanto parece.
+titulo: Sonha em ter uma piscina em casa? Realize esse sonho com o consórcio de serviços
+slug: sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Depois de ficarmos em [isolamento em casa](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) por tanto tempo, começamos a repensar as nossas prioridades. E com certeza, com as altas temperaturas do Brasil, um dos itens mais desejados na quarentena, principalmente nas cidades mais quentes, [é uma piscina](https://www.embracon.com.br/blog/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras). Mas você sabe quanto custa para instalar uma piscina [na sua casa](https://www.embracon.com.br/blog/5-coisas-que-voce-precisa-saber-para-construir-uma-casa)? Qual é o passo a passo para realizar esse desejo? E por incrível que pareça não é tão complicado quanto parece.
 
 A primeira vantagem de construir uma piscina na sua residência é que isso agrega [valor ao imóvel](https://www.embracon.com.br/blog/qual-e-a-documentacao-necessaria-para-a-compra-de-um-imovel). Por isso, invista em bons materiais para que a piscina tenha uma alta durabilidade e caso você pense em vender o imóvel, ela seja um [ótimo atrativo a mais](https://www.embracon.com.br/blog/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia).
 
@@ -60,4 +60,3 @@ Agora que sua piscina está funcionando a todo vapor, você pode incrementar a p
 > Agora que você sabe tudo sobre como ter a sua própria piscina em casa, que tal realizar esse sonho? A Embracon pode te ajudar. [Faça um orçamento](https://www.embracon.com.br/consorcio-servicos) com a gente e descubra todas as opções de financiamento que temos para realizar esse e muitos outros desejos para sua casa.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Profissões para exercer como autônomo e ganhar mais
-        slug: profissoes-para-exercer-como-autonomo-e-ganhar-mais
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/profissoes-para-exercer-como-autonomo-e-ganhar-mais.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Nos últimos anos o [trabalho autônomo](https://www.embracon.com.br/blog/consorcio-para-autonomos-e-profissionais-liberais) tem ganhado espaço e se popularizado no mercado de trabalho, seja porque o trabalhador está buscando driblar o desemprego ou porque está buscando ser dono do ***próprio negócio***.
+titulo: Profissões para exercer como autônomo e ganhar mais
+slug: profissoes-para-exercer-como-autonomo-e-ganhar-mais
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/profissoes-para-exercer-como-autonomo-e-ganhar-mais.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Nos últimos anos o [trabalho autônomo](https://www.embracon.com.br/blog/consorcio-para-autonomos-e-profissionais-liberais) tem ganhado espaço e se popularizado no mercado de trabalho, seja porque o trabalhador está buscando driblar o desemprego ou porque está buscando ser dono do ***próprio negócio***.
 
 Essa demanda está cada vez mais presente no nosso cotidiano, principalmente agora que a ***terceirização*** se expandiu, o que reduziu o número de funcionários cadastrados na ***carteira de trabalho***.
 
@@ -162,4 +162,3 @@ Se você ainda não decidiu se deseja remar sozinho sob o vento forte ou continu
 Os autônomos, como o nome certo, são livres para iniciar a carreira, mas para isso precisam quebrar a barreira do tempo, trabalhar muito mais que os empregados, ter dúvidas sobre a renda mensal e, ainda assim, alguns benefícios. CLT possui múltiplos privilégios, [mas não terá oportunidades independentes](https://www.embracon.com.br/blog/abra-seu-negocio-usando-o-consorcio). É verdade que pesar os prós e os contras pode dificultar essa escolha, mas seja qual for a escolha, tenha sempre um plano B para atuar profissionalmente e garantir a qualidade do seu trabalho. Portanto, quer você opte por se tornar uma pessoa jurídica ou por assinatura de um contrato formal, seu negócio será, sem dúvida, um sucesso.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Segunda graduação ou pós-graduação: qual é a melhor opção?
-        slug: segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Você se formou, entrou no mercado de trabalho, mas não sabe o que fazer agora? Certamente o caminho mais lógico é continuar estudando, mas como? Qual é melhor: cursar uma segunda graduação ou pós-graduação?
+titulo: Segunda graduação ou pós-graduação: qual é a melhor opção?
+slug: segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/segunda-graduacao-ou-pos-graduacao-qual-e-a-melhor-opcao.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Você se formou, entrou no mercado de trabalho, mas não sabe o que fazer agora? Certamente o caminho mais lógico é continuar estudando, mas como? Qual é melhor: cursar uma segunda graduação ou pós-graduação?
 
 Você não é o único que está com essa dúvida. É difícil saber o que o mercado vai exigir dos profissionais no futuro, então, essa escolha precisa ser muito bem pensada. A verdade é que tudo depende de como você quer trabalhar.
 
@@ -43,4 +43,3 @@ Para dar um passo adiante, que tal compartilhar este texto em suas redes sociais
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

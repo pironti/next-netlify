@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio: a melhor aplicação para o seu dinheiro
-        slug: consorcio-a-melhor-aplicacao-para-o-seu-dinheiro
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-a-melhor-aplicacao-para-o-seu-dinheiro.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Aplicar o [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) hoje em dia se tornou muito fácil. Com todas as formas de [investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento-saiba-o-porque) disponíveis, às vezes fica até difícil saber qual a ***melhor aplicação***.
+titulo: Consórcio: a melhor aplicação para o seu dinheiro
+slug: consorcio-a-melhor-aplicacao-para-o-seu-dinheiro
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-a-melhor-aplicacao-para-o-seu-dinheiro.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Aplicar o [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) hoje em dia se tornou muito fácil. Com todas as formas de [investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento-saiba-o-porque) disponíveis, às vezes fica até difícil saber qual a ***melhor aplicação***.
 
 Fizemos este artigo para falar especialmente do consórcio, uma das melhores aplicações que existem atualmente. Tire suas dúvidas sobre a modalidade e veja porque é a melhor aplicação para você que [deseja crescer patrimonialmente](https://www.embracon.com.br/blog/aumentar-o-patrimonio-investindo-em-consorcio).
 
@@ -151,4 +151,3 @@ Outra vantagem é comprar seu imóvel em um local que valoriza, como em uma nova
 Está convencido de que o consórcio é a melhor aplicação? [Faça sua simulação com o consórcio Embracon](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) e realize seus sonhos hoje mesmo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

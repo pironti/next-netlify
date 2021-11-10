@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para a sua empresa, como ele te ajuda?
-        slug: consorcio-para-a-sua-empresa-como-ele-te-ajuda
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-para-a-sua-empresa-como-ele-te-ajuda.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Uma das maiores vantagens do consórcio é permitir que as pessoas paguem por um [valor mais justo na compra de um bem de alto valor](https://www.embracon.com.br/blog/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio). De forma planejada e segura, quem se torna consorciado pode contar com a flexibilidade de uma categoria que permite que o próprio interessado defina o valor de compra e a quantidade de parcelas que deseja pagar.
+titulo: Consórcio para a sua empresa, como ele te ajuda?
+slug: consorcio-para-a-sua-empresa-como-ele-te-ajuda
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-para-a-sua-empresa-como-ele-te-ajuda.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Uma das maiores vantagens do consórcio é permitir que as pessoas paguem por um [valor mais justo na compra de um bem de alto valor](https://www.embracon.com.br/blog/as-10-principais-situacoes-em-que-vale-a-pena-contratar-um-consorcio). De forma planejada e segura, quem se torna consorciado pode contar com a flexibilidade de uma categoria que permite que o próprio interessado defina o valor de compra e a quantidade de parcelas que deseja pagar.
 
 Dessa forma, é possível comprar carro, casa, moto ou diferentes tipos de serviços sem precisar comprometer os [rendimentos mensais de toda a família](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal).
 
@@ -199,4 +199,3 @@ Um dos fatores mais importantes para realizar boas negociações é o poder de c
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_a_sua_empresa&utm_campaign=publicacoes_blog)</figure>‍  
 
 ----
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Desisti do consórcio: o que acontece?
-        slug: desisti-do-consorcio-o-que-acontece
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/desisti-do-consorcio-o-que-acontece.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O consórcio é uma forma de investir em [bens de alto valor](https://www.embracon.com.br/blog/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde), como casa, apartamento, carro, moto e diferentes serviços de forma planejada e segura. Porém, pode acontecer alguns imprevistos que levam algumas pessoas a considerarem a [desistência do consórcio](https://www.embracon.com.br/blog/quais-sao-os-resultados-ao-desistir-do-consorcio).
+titulo: Desisti do consórcio: o que acontece?
+slug: desisti-do-consorcio-o-que-acontece
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/desisti-do-consorcio-o-que-acontece.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O consórcio é uma forma de investir em [bens de alto valor](https://www.embracon.com.br/blog/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde), como casa, apartamento, carro, moto e diferentes serviços de forma planejada e segura. Porém, pode acontecer alguns imprevistos que levam algumas pessoas a considerarem a [desistência do consórcio](https://www.embracon.com.br/blog/quais-sao-os-resultados-ao-desistir-do-consorcio).
 
 Isso pode acontecer por diversos motivos: por conta de alguma surpresa indesejável, que pode afetar os[ rendimentos mensais da família](https://www.embracon.com.br/blog/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia); porque o consorciado possui outras prioridades e não deseja mais investir em sua cota; por passar por algum tipo de [dificuldade financeira](https://www.embracon.com.br/blog/guia-de-como-manter-sua-saude-financeira-saudavel), enfim, sempre depende do momento.
 
@@ -181,4 +181,3 @@ O ideal é estar sempre preparado. Por isso, é importante montar um planejament
 > Para mais [dicas de finanças pessoais, acompanhe o nosso blog. ](https://www.embracon.com.br/category/financas-pessoais) Aproveite e [faça uma simulação](https://www.embracon.com.br/consorcio) com a Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

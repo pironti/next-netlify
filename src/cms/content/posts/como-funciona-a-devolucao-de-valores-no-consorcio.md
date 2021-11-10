@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a devolução de valores no consórcio?
-        slug: como-funciona-a-devolucao-de-valores-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-devolucao-de-valores-no-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Antes de começar a fazer o consórcio, muitas pessoas têm em mente o bem final que desejam obter. Afinal, [diferentemente do financiamento](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento), em que é preciso dar entrada e pagar juros, pelo consórcio você paga o preço mais justo possível a prazo.
+titulo: Como funciona a devolução de valores no consórcio?
+slug: como-funciona-a-devolucao-de-valores-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-devolucao-de-valores-no-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Antes de começar a fazer o consórcio, muitas pessoas têm em mente o bem final que desejam obter. Afinal, [diferentemente do financiamento](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento), em que é preciso dar entrada e pagar juros, pelo consórcio você paga o preço mais justo possível a prazo.
 
 Sim, o consórcio é uma modalidade mais barata de compra parcelada, mas é preciso de planejamento. Uma de suas maiores vantagens é permitir que o consorciado defina o preço da mensalidade, a quantidade de parcelas e a escolha do bem que deseja.
 
@@ -206,4 +206,3 @@ Para não ter nenhum tipo de prejuízo, também existe a possibilidade de tentar
 Quer mais dicas sobre como planejar a realização do seu próximo sonho? Confira nossas dicas de [como se organizar para fazer um consórcio](https://www.embracon.com.br/blog/como-fazer-um-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

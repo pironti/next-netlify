@@ -1,14 +1,14 @@
 ---
-        titulo: Usando meu carro como meio de fazer uma renda extra
-        slug: usando-meu-carro-como-meio-de-fazer-uma-renda-extra
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/usando-meu-carro-como-meio-de-fazer-uma-renda-extra.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Muitas pessoas [compram um carro para ter mais facilidade em seu dia a dia](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar). Contar com um veículo para ida ao trabalho, fazer compras no supermercado, passear ou até mesmo fazer longas viagens são alguns dos fatores que fazem com que o brasileiro se mantenha apaixonado por automóveis.
+titulo: Usando meu carro como meio de fazer uma renda extra
+slug: usando-meu-carro-como-meio-de-fazer-uma-renda-extra
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/usando-meu-carro-como-meio-de-fazer-uma-renda-extra.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Muitas pessoas [compram um carro para ter mais facilidade em seu dia a dia](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar). Contar com um veículo para ida ao trabalho, fazer compras no supermercado, passear ou até mesmo fazer longas viagens são alguns dos fatores que fazem com que o brasileiro se mantenha apaixonado por automóveis.
 
 Porém, os tempos estão mudando. Vivemos uma era em que as pessoas preferem compartilhar o uso de alguns bens, do que ter a propriedade deles. E, quem possui os bens, pode contar com um amplo ecossistema em que é possível não só compartilhar, mas até mesmo ganhar um bom dinheiro com isso.
 
@@ -160,4 +160,3 @@ Avalie se o seu carro está em condições para ajudar a ganhar uma renda extra.
 > [Faça uma simulação](https://www.embracon.com.br/) e conte com a modalidade que já ajudou a realizar sonhos de milhões de brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Escolha o consórcio para pagar seu procedimento estético
-        slug: escolha-o-consorcio-para-pagar-seu-procedimento-estetico
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/escolha-o-consorcio-para-pagar-seu-procedimento-estetico.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        Por muitos anos, o consórcio ficou conhecido por possibilitar a compra de automóveis novos. Com sua [facilidade de pagamento](https://www.embracon.com.br/blog/quanto-preciso-pagar-para-fazer-um-consorcio), que não exige nenhum tipo de burocracia ou crédito pré-aprovado, por exemplo, outros produtos passaram a ser incorporados no [portfólio das administradoras de consórcio](https://www.embracon.com.br/blog/afinal-o-que-uma-administradora-de-consorcio-faz).
+titulo: Escolha o consórcio para pagar seu procedimento estético
+slug: escolha-o-consorcio-para-pagar-seu-procedimento-estetico
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/escolha-o-consorcio-para-pagar-seu-procedimento-estetico.jpg
+meta_summary: 
+date: 20/10/2021
+---
+Por muitos anos, o consórcio ficou conhecido por possibilitar a compra de automóveis novos. Com sua [facilidade de pagamento](https://www.embracon.com.br/blog/quanto-preciso-pagar-para-fazer-um-consorcio), que não exige nenhum tipo de burocracia ou crédito pré-aprovado, por exemplo, outros produtos passaram a ser incorporados no [portfólio das administradoras de consórcio](https://www.embracon.com.br/blog/afinal-o-que-uma-administradora-de-consorcio-faz).
 
 Após facilitar a [compra de imóveis](https://www.embracon.com.br/blog/hora-certa-comprar-imovel), não demorou para que outras categorias viessem a surgir. Uma das mais recentes é a possibilidade de fazer um [consórcio de serviços](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto). Diferentemente de outros produtos, por essa categoria o consorciado decide investir a sua carta de crédito em um serviço para seu bem-estar ou até mesmo algo que beneficie toda a família, [como uma viagem, por exemplo](https://www.embracon.com.br/tag/consorcio-de-viagem).
 
@@ -67,4 +67,3 @@ Como deu para perceber, são múltiplas as vantagens de investir em um consórci
 Portanto, [faça já uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e pague o procedimento estético que deseja da melhor forma possível, sem comprometer seus rendimentos mensais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 6 ideias criativas para decorar gastando pouco
-        slug: 6-ideias-criativas-para-decorar-gastando-pouco
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-ideias-criativas-para-decorar-gastando-pouco.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Você acha que não há possibilidade de [decorar gastando pouco](https://www.embracon.com.br/blog/5-dicas-de-decoracao-de-sala-para-voce-fazer-hoje)? Não desanime! Com criatividade, dá para deixar a casa do seu jeito com economia. Neste post, separamos ideias que vão te inspirar a fazer uma boa decoração sem gastar rios de dinheiro. Isso vai fazer toda a diferença nos seus ambientes! É exatamente sobre essas ideias que vamos falar agora. Então, continue acompanhando a leitura e confira maneiras criativas de decorar a sua casa com um custo bem baixo!
+titulo: 6 ideias criativas para decorar gastando pouco
+slug: 6-ideias-criativas-para-decorar-gastando-pouco
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-ideias-criativas-para-decorar-gastando-pouco.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Você acha que não há possibilidade de [decorar gastando pouco](https://www.embracon.com.br/blog/5-dicas-de-decoracao-de-sala-para-voce-fazer-hoje)? Não desanime! Com criatividade, dá para deixar a casa do seu jeito com economia. Neste post, separamos ideias que vão te inspirar a fazer uma boa decoração sem gastar rios de dinheiro. Isso vai fazer toda a diferença nos seus ambientes! É exatamente sobre essas ideias que vamos falar agora. Então, continue acompanhando a leitura e confira maneiras criativas de decorar a sua casa com um custo bem baixo!
 
 > Conheça o [Consórcio de Serviços](https://www.embracon.com.br/consorcio-servicos) da Embracon
 
@@ -45,4 +45,3 @@ As flores são excelentes para trazer alegria, energia e beleza para dentro do l
 Pensando na possibilidade de colocar a mão na massa para economizar na decoração, uma ótima alternativa é fazer os seus próprios quadros. Nada é mais interessante do que a arte para tirar uma parede da mesmice, não é verdade? Então, use pincel e tinta, tecidos, telas em aquarela e qualquer outro material que auxilie você a ter uma **decoração gastando pouco**. Além de trazer uma decoração autoral para o ambiente, você vai aprender uma nova atividade. Lembrando que é possível encontrar artes prontas na internet, que você pode imprimir para colocar em molduras.Como deu pode perceber, é possível fazer uma decoração interessante em casa mesmo com um orçamento baixo. Siga essas ideias criativas para decorar gastando pouco e garanta um charme a mais para o seu lar!Gostou deste post? Então, aproveite para compartilhá-lo em suas redes sociais, pois assim os seus amigos também vão poder seguir nossas sugestões!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

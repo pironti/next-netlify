@@ -1,14 +1,14 @@
 ---
-        titulo: Quais as maiores vantagens de fazer intercâmbio nos EUA?
-        slug: quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Afinal de contas, graças ao cinema, aos programas de TV, à literatura e às redes sociais, elas já estão mais familiarizadas com o formato da educação desse país, bem com a sua cultura e os costumes locais. Muitos já têm até uma ideia do que os aguarda estudando em uma instituição norte-americana.
+titulo: Quais as maiores vantagens de fazer intercâmbio nos EUA?
+slug: quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Afinal de contas, graças ao cinema, aos programas de TV, à literatura e às redes sociais, elas já estão mais familiarizadas com o formato da educação desse país, bem com a sua cultura e os costumes locais. Muitos já têm até uma ideia do que os aguarda estudando em uma instituição norte-americana.
 
 No entanto, você já parou para refletir sobre quais são, de fato, os benefícios de fazer um intercâmbio nos EUA? Como isso pode alavancar a formação e a [carreira dos estudantes internacionais](https://www.embracon.com.br/blog/5-dicas-para-construir-uma-carreira-internacional)? Pois foi para responder questões como essas é que preparamos este post especial! Continue lendo e confira.
 
@@ -92,4 +92,3 @@ Enfim, como você viu, fazer um intercâmbio nos EUA é um verdadeiro investimen
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba quais são as cirurgias plásticas mais realizadas no Brasil
-        slug: saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Você sabe quais são os procedimentos cirúrgicos mais realizados no país? Sabia que o número de intervenções estéticas entre os homens mais do que quadruplicou nos últimos 5 anos? De acordo com um levantamento da SBCP (Sociedade Brasileira de Cirurgia Plástica), hoje eles já representam 30% do total de pessoas que passam por algum tipo de cirurgia plástica no Brasil.
+titulo: Saiba quais são as cirurgias plásticas mais realizadas no Brasil
+slug: saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Você sabe quais são os procedimentos cirúrgicos mais realizados no país? Sabia que o número de intervenções estéticas entre os homens mais do que quadruplicou nos últimos 5 anos? De acordo com um levantamento da SBCP (Sociedade Brasileira de Cirurgia Plástica), hoje eles já representam 30% do total de pessoas que passam por algum tipo de cirurgia plástica no Brasil.
 
 Os motivos desse "impulso" são vários. Começando pela mudança de mentalidade e dos padrões de beleza, passando pela preocupação com o mercado de trabalho e pela cada vez maior valorização da aparência.
 
@@ -63,4 +63,3 @@ As técnicas utilizadas podem variar conforme a gravidade do caso. Minienxertos,
 Independentemente de quais sejam os procedimentos mais procurados, já deu para perceber que passou da hora de derrubar o preconceito. Não é mesmo? As cirurgias plásticas têm sido, cada vez mais, procuradas pelos homens. Até porque eles também já perceberam todo seu potencial para corrigir pontos de incômodo, resolver problemas estéticos e até de saúde.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

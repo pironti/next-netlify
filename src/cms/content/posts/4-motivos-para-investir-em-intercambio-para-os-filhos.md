@@ -1,14 +1,14 @@
 ---
-        titulo: 4 motivos para investir em intercâmbio para os filhos
-        slug: 4-motivos-para-investir-em-intercambio-para-os-filhos
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-motivos-para-investir-em-intercambio-para-os-filhos.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Já pensou em como deixar uma herança inestimável? Nesse sentido, o maior [investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) a ser feito é em um [intercâmbio para os filhos](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos), já que, apesar de ser um processo caro, esse tipo de experiência muda drasticamente a vida de alguém.Então, para garantir que isso seja possível, é preciso começar a poupar desde já, fazendo uma reserva só para esse fim, pois o [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) é a melhor forma de oferecer a seus descendentes o futuro que eles merecem.Mas se você ainda tem um pouco de receio com esse tal de intercâmbio, pode ficar tranquilo. A seguir, mostraremos 4 benefícios desse processo. Confira!
+titulo: 4 motivos para investir em intercâmbio para os filhos
+slug: 4-motivos-para-investir-em-intercambio-para-os-filhos
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-motivos-para-investir-em-intercambio-para-os-filhos.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Já pensou em como deixar uma herança inestimável? Nesse sentido, o maior [investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) a ser feito é em um [intercâmbio para os filhos](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos), já que, apesar de ser um processo caro, esse tipo de experiência muda drasticamente a vida de alguém.Então, para garantir que isso seja possível, é preciso começar a poupar desde já, fazendo uma reserva só para esse fim, pois o [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) é a melhor forma de oferecer a seus descendentes o futuro que eles merecem.Mas se você ainda tem um pouco de receio com esse tal de intercâmbio, pode ficar tranquilo. A seguir, mostraremos 4 benefícios desse processo. Confira!
 
 1. Amadurecimento dos jovens
 ----------------------------
@@ -31,4 +31,3 @@ Outro ponto muito legal no intercâmbio é o aprendizado de uma nova língua. Ao
 Falando das chances do seu filho no mercado de trabalho, o intercâmbio é, certamente, um[ investimento fenomenal](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira). Além do domínio de uma segunda língua, essa experiência proporciona a chamada vivência internacional.As grandes companhias, principalmente os programas de trainee, veem isso com ótimos olhos. Para eles, quem faz intercâmbio é mais capaz de analisar o contexto no qual está inserido, além de ser uma pessoa mais madura e menos dependente da relação com seus superiores.Com tantas vantagens, é complicado negar a importância desse processo, não é mesmo? Então, organize sua vida financeira e garanta um intercâmbio para os filhos. Essa experiência é uma das melhores coisas que você pode proporcionar para eles.Como estamos falando de educação, que tal ensinar esses jovens a poupar? Temos um texto que mostra como você pode ajudar seus filhos a economizar dinheiro. Vale a leitura!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

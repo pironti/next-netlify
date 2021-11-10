@@ -1,14 +1,14 @@
 ---
-        titulo: As principais tendências de decoração
-        slug: as-principais-tendencias-de-decoracao
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-principais-tendencias-de-decoracao.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quer decorar o seu ambiente, mas ainda tem dúvidas sobre como começar? Então, chegou ao lugar certo.
+titulo: As principais tendências de decoração
+slug: as-principais-tendencias-de-decoracao
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-principais-tendencias-de-decoracao.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quer decorar o seu ambiente, mas ainda tem dúvidas sobre como começar? Então, chegou ao lugar certo.
 
 Com a pandemia do novo coronavírus (Covid-19), as pessoas passam mais tempo em suas residências devido a necessidade do isolamento social. Desse modo, influencia significativamente em fazer mudanças, como na decoração da nova casa, ou no ambiente em que já está inserido.
 
@@ -108,4 +108,3 @@ Gostou do nosso conteúdo? Compartilhe o post nas suas redes sociais!
 Esse artigo foi escrito por Thais Teixeira, Criadora de Conteúdo do [Soluções Industriais](http://solucoesindustriais.com.br).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

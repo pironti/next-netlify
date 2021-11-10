@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena comprar um terreno para investir?
-        slug: vale-a-pena-comprar-um-terreno-para-investir
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-comprar-um-terreno-para-investir.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Durante um bom tempo,[ **comprar um terreno**](https://www.embracon.com.br/blog/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena) era uma questão de ter ou não um teto para morar. Você procura por algum espaço, busca uma boa localização e constrói sua casa, sem nenhum mistério. Porém, com a expansão imobiliária de edifícios, a tendência de construir uma residência do zero é cada vez menor. Quem busca moradia dá preferência a empreendimentos já prontos. Ainda assim, essa compra vai muito além da conquista de um novo lar. Afinal, é possível construir um empreendimento, um negócio ou mesmo uma moradia para aluguel. E o mercado [imobiliário](https://www.embracon.com.br/blog/por-que-contratar-o-consorcio-imobiliario-embracon) é um investimento muito sólido, se você souber como ele funciona. Em outras palavras, terrenos são um[ investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Alguns deles com alto nível de [retorno financeiro](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir) no médio e longo prazo. Nesse caso, vale a pena comprar um terreno? Descubra a resposta para esta pergunta logo abaixo.
+titulo: Vale a pena comprar um terreno para investir?
+slug: vale-a-pena-comprar-um-terreno-para-investir
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-comprar-um-terreno-para-investir.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Durante um bom tempo,[ **comprar um terreno**](https://www.embracon.com.br/blog/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena) era uma questão de ter ou não um teto para morar. Você procura por algum espaço, busca uma boa localização e constrói sua casa, sem nenhum mistério. Porém, com a expansão imobiliária de edifícios, a tendência de construir uma residência do zero é cada vez menor. Quem busca moradia dá preferência a empreendimentos já prontos. Ainda assim, essa compra vai muito além da conquista de um novo lar. Afinal, é possível construir um empreendimento, um negócio ou mesmo uma moradia para aluguel. E o mercado [imobiliário](https://www.embracon.com.br/blog/por-que-contratar-o-consorcio-imobiliario-embracon) é um investimento muito sólido, se você souber como ele funciona. Em outras palavras, terrenos são um[ investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Alguns deles com alto nível de [retorno financeiro](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir) no médio e longo prazo. Nesse caso, vale a pena comprar um terreno? Descubra a resposta para esta pergunta logo abaixo.
 
 Por que comprar um terreno?
 ---------------------------
@@ -65,4 +65,3 @@ Realize o sonho da casa própria com o consórcio. Com essas informações, voc�
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb03fbb82cd6e7f72131c87_CTA-CASA2.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

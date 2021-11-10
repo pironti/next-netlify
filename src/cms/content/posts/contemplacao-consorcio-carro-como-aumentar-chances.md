@@ -1,14 +1,14 @@
 ---
-        titulo: Contemplação no consórcio de carro: como aumentar suas chances?
-        slug: contemplacao-consorcio-carro-como-aumentar-chances
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/contemplacao-consorcio-carro-como-aumentar-chances.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Criado na década de 60 por um grupo de funcionários do Banco do Brasil, o consórcio nasceu devido à falta de oferta de crédito direto ao consumidor para a compra de automóveis. Por ser uma das modalidades de compra mais vantajosas e inteligentes que existe, ela se consolidou no mercado e segue, desde então, sendo um grande sucesso no Brasil.
+titulo: Contemplação no consórcio de carro: como aumentar suas chances?
+slug: contemplacao-consorcio-carro-como-aumentar-chances
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/contemplacao-consorcio-carro-como-aumentar-chances.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Criado na década de 60 por um grupo de funcionários do Banco do Brasil, o consórcio nasceu devido à falta de oferta de crédito direto ao consumidor para a compra de automóveis. Por ser uma das modalidades de compra mais vantajosas e inteligentes que existe, ela se consolidou no mercado e segue, desde então, sendo um grande sucesso no Brasil.
 
 Contudo, um problema que sempre inquieta os adeptos da modalidade está, justamente, nas formas de contemplação. Isso porque o participante precisa ser sorteado para adquirir o bem, o que pode levar algum tempo.
 
@@ -105,4 +105,3 @@ Gostou de saber como aumentar as chances de contemplação no[ consórcio de car
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

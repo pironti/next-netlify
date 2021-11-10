@@ -1,14 +1,14 @@
 ---
-        titulo: Qual melhor consórcio para você?
-        slug: qual-melhor-consorcio-para-voce
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-melhor-consorcio-para-voce.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Você sabia que o consórcio é uma das formas mais seguras de adquirir algum bem ou serviço de forma planejada, sem entrada e sem [juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros)?
+titulo: Qual melhor consórcio para você?
+slug: qual-melhor-consorcio-para-voce
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-melhor-consorcio-para-voce.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Você sabia que o consórcio é uma das formas mais seguras de adquirir algum bem ou serviço de forma planejada, sem entrada e sem [juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros)?
 
 É a escolha perfeita para quem tem um bom [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), independentemente da idade.
 
@@ -85,4 +85,3 @@ No entanto, observe: o consórcio tem algumas taxas importantes, como[ taxas de 
 Ainda tem dúvidas de qual o melhor consórcio para você? Veja mais sobre as [modalidades](https://www.embracon.com.br/imoveis/tipos-de-consorcio) de consórcio no [blog](https://www.embracon.com.br/blog) da Embracon, administradora de consórcios. Continue nos acompanhando.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=)</figure>
-        

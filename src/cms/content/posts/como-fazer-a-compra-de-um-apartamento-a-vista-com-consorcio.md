@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer a compra de um apartamento à vista com consórcio
-        slug: como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio para compra de um [apartamento à vista](https://www.embracon.com.br/blog/saiba-como-comprar-apartamento-na-planta-com-consorcio) é uma ótima opção para adquirir o primeiro imóvel ou ampliar o patrimônio, sem a necessidade de enfrentar a burocracia envolvida em um financiamento. Mesmo assim, muitas pessoas ainda não sabem ao certo como esse investimento funciona e têm dúvidas a respeito dele — principalmente se o [consórcio de imóvel](https://www.embracon.com.br/blog/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio) vale a pena.
+titulo: Como fazer a compra de um apartamento à vista com consórcio
+slug: como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-a-compra-de-um-apartamento-a-vista-com-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio para compra de um [apartamento à vista](https://www.embracon.com.br/blog/saiba-como-comprar-apartamento-na-planta-com-consorcio) é uma ótima opção para adquirir o primeiro imóvel ou ampliar o patrimônio, sem a necessidade de enfrentar a burocracia envolvida em um financiamento. Mesmo assim, muitas pessoas ainda não sabem ao certo como esse investimento funciona e têm dúvidas a respeito dele — principalmente se o [consórcio de imóvel](https://www.embracon.com.br/blog/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio) vale a pena.
 
 Neste artigo, vamos te explicar como funciona esse consórcio, quais são suas vantagens e desvantagens e se esse investimento realmente é uma boa opção. Continue acompanhando a leitura para saber mais sobre o assunto e tomar a melhor decisão para o seu bolso e o seu futuro!
 
@@ -70,4 +70,3 @@ Essa informação pode ser encontrada pela internet e servirá de parâmetro par
 Quer tirar todas as suas dúvidas sobre a carta de crédito imobiliária? A[ Embracon](https://www.embracon.com.br/home) é uma empresa reconhecida no mercado há mais de 30 anos, especialista no ramo de consórcios no Brasil. Estamos prontos para te ajudar!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div></figure>
-        

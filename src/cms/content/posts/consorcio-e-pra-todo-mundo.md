@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio é pra todo mundo?
-        slug: consorcio-e-pra-todo-mundo
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-e-pra-todo-mundo.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Quando foi a primeira vez que você ouviu a palavra [consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio)? Geralmente este termo está associado a uma compra de alto valor, como um carro ou um apartamento. Só que muitas pessoas só vão começar a entender o que é consórcio quando se interessam em investir nesses bens.
+titulo: Consórcio é pra todo mundo?
+slug: consorcio-e-pra-todo-mundo
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-e-pra-todo-mundo.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Quando foi a primeira vez que você ouviu a palavra [consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio)? Geralmente este termo está associado a uma compra de alto valor, como um carro ou um apartamento. Só que muitas pessoas só vão começar a entender o que é consórcio quando se interessam em investir nesses bens.
 
 Tudo bem, as pessoas não aprendem sobre o que é consórcio na escola. Muitas vezes, acabam desperdiçando a oportunidade de [investir no seu sonho](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo) porque não sabem como funciona a modalidade.
 
@@ -199,4 +199,3 @@ O importante é ter foco e ciência de que o consórcio é uma modalidade de com
 > São múltiplas as opções que se pode fazer com consórcio, não é mesmo? Portanto, dê uma boa organizada nas suas finanças, converse com a sua família, pesquise sobre o bem que deseja comprar e [faça uma simulação no consórcio](https://www.embracon.com.br/consorcio). Junte-se a milhares de pessoas que realizam seus sonhos de forma planejada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

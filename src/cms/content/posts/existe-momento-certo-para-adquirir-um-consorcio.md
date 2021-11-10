@@ -1,14 +1,14 @@
 ---
-        titulo: Existe momento certo para adquirir um consórcio?
-        slug: existe-momento-certo-para-adquirir-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/existe-momento-certo-para-adquirir-um-consorcio.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        O consórcio é uma forma de se planejar para a [compra de um bem ou serviço de alto valor](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio). Você pode investir em um automóvel, imóvel, moto ou até veículos pesados, como [ônibus e caminhões](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon). Mas, se quiser optar pela linha de serviços, é possível investir em viagens, reformas, intercâmbios, estudos, cirurgias e até mesmo diferentes tipos de festa, incluindo casamento.
+titulo: Existe momento certo para adquirir um consórcio?
+slug: existe-momento-certo-para-adquirir-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/existe-momento-certo-para-adquirir-um-consorcio.jpg
+meta_summary: 
+date: 08/10/2021
+---
+O consórcio é uma forma de se planejar para a [compra de um bem ou serviço de alto valor](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio). Você pode investir em um automóvel, imóvel, moto ou até veículos pesados, como [ônibus e caminhões](https://www.embracon.com.br/blog/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon). Mas, se quiser optar pela linha de serviços, é possível investir em viagens, reformas, intercâmbios, estudos, cirurgias e até mesmo diferentes tipos de festa, incluindo casamento.
 
 Sabemos que a compra de um bem envolve um [longo planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos). Afinal, diferente do nosso consumo diário, em que podemos passar o [cartão de débito ou até parcelar no cartão de crédito](https://www.embracon.com.br/blog/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar) para termos uma ‘folga’, quando se trata de bens com valores acima de cinco dígitos, as formas de pagamento convencionais podem não se aplicar - a não ser, claro, que você tenha valor suficiente para fazer a [compra à vista](https://www.embracon.com.br/blog/pagar-a-vista-ou-parcelado-o-que-e-melhor), sem prejuízo de seu orçamento pessoal.
 
@@ -48,4 +48,3 @@ Agora que você já conhece bem como funciona o sistema do consórcio, vale a pe
 [Faça uma simulação de consórcio agora mesmo](https://www.embracon.com.br/) e confira as vantagens de uma modalidade que realiza sonhos dos brasileiros há mais de 50 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quanto tempo demoro para pegar meu carro no consórcio?
-        slug: quanto-tempo-demoro-para-pegar-meu-carro-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quanto-tempo-demoro-para-pegar-meu-carro-no-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Sabe quanto tempo demorar para pegar um [**carro no consórcio**](https://www.embracon.com.br/blog/comprar-carro-usado-com-a-carta-de-credito-do-consorcio)?
+titulo: Quanto tempo demoro para pegar meu carro no consórcio?
+slug: quanto-tempo-demoro-para-pegar-meu-carro-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quanto-tempo-demoro-para-pegar-meu-carro-no-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Sabe quanto tempo demorar para pegar um [**carro no consórcio**](https://www.embracon.com.br/blog/comprar-carro-usado-com-a-carta-de-credito-do-consorcio)?
 
 Carro é a modalidade mais [comum de consórcio](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro), por isso, muitas dúvidas surgem na hora de começar a pagar pela carta de crédito.
 
@@ -64,4 +64,3 @@ Veja qual é o plano que melhor se encaixa no seu orçamento e [faça uma simula
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

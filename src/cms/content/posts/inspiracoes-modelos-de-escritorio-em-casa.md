@@ -1,14 +1,14 @@
 ---
-        titulo: Escritório em casa: decoração de home office para inspirar
-        slug: inspiracoes-modelos-de-escritorio-em-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/inspiracoes-modelos-de-escritorio-em-casa.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Como montar (ou redecorar!) seu escritório em casa: exemplos incríveis de home offices 
+titulo: Escritório em casa: decoração de home office para inspirar
+slug: inspiracoes-modelos-de-escritorio-em-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/inspiracoes-modelos-de-escritorio-em-casa.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Como montar (ou redecorar!) seu escritório em casa: exemplos incríveis de home offices 
 ---------------------------------------------------------------------------------------
 
 Estamos vivendo novos tempos, com uma nova realidade e novos projetos de trabalho que envolvem uma maior permanência dentro de casa. De fato, a ideia do trabalho em home office já não é mais novidade e é uma tendência que só deve aumentar no futuro.
@@ -80,4 +80,3 @@ Essas dicas de decoração foram criadas pela equipe [Viva Decora](https://www.v
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

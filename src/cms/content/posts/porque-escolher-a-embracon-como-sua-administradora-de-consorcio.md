@@ -1,14 +1,14 @@
 ---
-        titulo: Porque escolher a Embracon como sua administradora de consórcio
-        slug: porque-escolher-a-embracon-como-sua-administradora-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/porque-escolher-a-embracon-como-sua-administradora-de-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        A [Embracon](https://www.embracon.com.br/a-embracon) está no mercado desde 1988 e se tornou uma das maiores [administradoras de consórcios](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-uma-administradora-de-consorcio) do país. E esse já é um bom motivo para você escolher o [consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio) como modalidade de crédito.
+titulo: Porque escolher a Embracon como sua administradora de consórcio
+slug: porque-escolher-a-embracon-como-sua-administradora-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/porque-escolher-a-embracon-como-sua-administradora-de-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+A [Embracon](https://www.embracon.com.br/a-embracon) está no mercado desde 1988 e se tornou uma das maiores [administradoras de consórcios](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-uma-administradora-de-consorcio) do país. E esse já é um bom motivo para você escolher o [consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio) como modalidade de crédito.
 
 Presente em 20 estados brasileiros e no Distrito Federal tem mais de 90 filiais espalhadas por essas regiões. A companhia possui, atualmente, uma carteira com mais de 120 mil clientes ativos em todo o Brasil.
 
@@ -108,4 +108,3 @@ Por fim, tenha em mente que os consórcios podem ser vistos como uma espécie de
 > Se quiser saber mais e conhecer as opções do Consórcio Embracon, [entre em contato conosco](https://www.embracon.com.br/) agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div></figure>
-        

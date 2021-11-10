@@ -1,14 +1,14 @@
 ---
-        titulo: Como economizar nas contas de casa em tempos de crise econômica?
-        slug: como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Em março de 2020 foi disparado um alarme: a partir do momento que o Brasil passou a ser infectado pelo coronavírus, a [vida](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) de todo mundo passou por uma reviravolta.
+titulo: Como economizar nas contas de casa em tempos de crise econômica?
+slug: como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Em março de 2020 foi disparado um alarme: a partir do momento que o Brasil passou a ser infectado pelo coronavírus, a [vida](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul) de todo mundo passou por uma reviravolta.
 
 Muitos estabelecimentos fecharam, as pessoas tiveram que se adaptar para passar mais tempo em casa e grande parte da população teve que se virar para [mudar seus hábitos](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
 
@@ -54,4 +54,3 @@ Ah, e uma dica final importante: tente não ser tão radical! Economizar exige u
 > Gostou das dicas? Saiba que o consórcio pode ser uma ótima opção para as suas finanças. [Faça uma simulação ](https://www.embracon.com.br/consorcio)e veja!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

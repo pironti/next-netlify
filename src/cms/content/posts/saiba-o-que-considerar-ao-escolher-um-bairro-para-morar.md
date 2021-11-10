@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que considerar ao escolher um bairro para morar
-        slug: saiba-o-que-considerar-ao-escolher-um-bairro-para-morar
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Quando se pensa em[ adquirir um imóvel](https://www.embracon.com.br/consorcio-de-imoveis) para moradia, é preciso levar em consideração uma série de fatores no que se refere ao processo de [seleção](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado). Especialmente, escolher o bairro[ para morar](https://www.embracon.com.br/blog/conheca-as-melhores-cidades-para-se-viver-no-brasil), suas facilidade, a proximidade com serviços e outros.
+titulo: Saiba o que considerar ao escolher um bairro para morar
+slug: saiba-o-que-considerar-ao-escolher-um-bairro-para-morar
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-considerar-ao-escolher-um-bairro-para-morar.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Quando se pensa em[ adquirir um imóvel](https://www.embracon.com.br/consorcio-de-imoveis) para moradia, é preciso levar em consideração uma série de fatores no que se refere ao processo de [seleção](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado). Especialmente, escolher o bairro[ para morar](https://www.embracon.com.br/blog/conheca-as-melhores-cidades-para-se-viver-no-brasil), suas facilidade, a proximidade com serviços e outros.
 
 **‍**O primeiro passo é definir quais são as suas preferências. Enquanto algumas pessoas preferem locais mais calmos e sossegados, outras gostam de lugares mais movimentados. Em que perfil você se encaixa?
 
@@ -108,4 +108,3 @@ O que achou deste artigo com os fatores que você deve considerar ao escolher um
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

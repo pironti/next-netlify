@@ -1,14 +1,14 @@
 ---
-        titulo: Carro manual ou automático: qual é a melhor opção?
-        slug: carro-manual-ou-automatico-qual-e-a-melhor-opcao
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carro-manual-ou-automatico-qual-e-a-melhor-opcao.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Na hora de [comprar um automóvel ](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao)novo ou seminovo, surgem várias dúvidas — como [qual modelo adquirir](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020), de que cor e com que potência. Muitas vezes, também existe dificuldade entre optar por um [carro automático](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) ou com câmbio manual, afinal, são várias as opções disponíveis.
+titulo: Carro manual ou automático: qual é a melhor opção?
+slug: carro-manual-ou-automatico-qual-e-a-melhor-opcao
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carro-manual-ou-automatico-qual-e-a-melhor-opcao.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Na hora de [comprar um automóvel ](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao)novo ou seminovo, surgem várias dúvidas — como [qual modelo adquirir](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020), de que cor e com que potência. Muitas vezes, também existe dificuldade entre optar por um [carro automático](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) ou com câmbio manual, afinal, são várias as opções disponíveis.
 
 Preparamos este post para que você entenda qual é a versão ideal para o seu dia a dia.
 
@@ -132,4 +132,3 @@ Escolher entre um carro automático ou manual não é uma tarefa tão complicada
 Gostou das informações e elas foram úteis na sua escolha do [carro ideal](https://www.embracon.com.br/blog/saiba-o-que-considerar-para-escolher-o-carro-ideal)? Então, não deixe de assinar nossa newsletter e receber mais conteúdos como este!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb05292f88ef80257c99f66_CTA-AUTO2.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

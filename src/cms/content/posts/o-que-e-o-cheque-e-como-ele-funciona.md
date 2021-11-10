@@ -1,14 +1,14 @@
 ---
-        titulo: O que é o cheque e como ele funciona?
-        slug: o-que-e-o-cheque-e-como-ele-funciona
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-o-cheque-e-como-ele-funciona.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Nos últimos anos, o mundo inteiro passou por uma revolução quando o assunto é meios de pagamento.
+titulo: O que é o cheque e como ele funciona?
+slug: o-que-e-o-cheque-e-como-ele-funciona
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-o-cheque-e-como-ele-funciona.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Nos últimos anos, o mundo inteiro passou por uma revolução quando o assunto é meios de pagamento.
 
 O dinheiro vivo ainda continua sendo utilizado, mas é possível realizar diversos tipos de compra de formas diferentes. Uma delas é o [cartão de débito](https://www.embracon.com.br/blog/cartao-de-credito-ou-cartao-de-debito-suas-diferencas-e-qual-usar), por exemplo, que dá a possibilidade de utilizar o saldo da sua conta corrente sem ter que pegar dinheiro em espécie. E tem o famoso [cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais), em que é possível realizar uma transação para pagar futuramente de forma à vista ou parcelada, com o uso de um limite pré-aprovado pela instituição financeira.
 
@@ -215,4 +215,3 @@ Com a modernização dos meios de pagamento, cada vez mais digitalizada e instan
 Para mais dicas de finanças pessoais, confira o nosso guia de [como montar o seu planejamento financeiro para controlar suas despesas ao longo do ano](https://www.embracon.com.br/blog/faca-um-planejamento-financeiro-anual).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

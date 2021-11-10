@@ -1,14 +1,14 @@
 ---
-        titulo: Carros elétricos e híbridos: consumo consciente
-        slug: carros-eletricos-e-hibridos-consumo-consciente
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carros-eletricos-e-hibridos-consumo-consciente.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        É bem possível que você já tenha ouvido falar sobre carros híbridos. Sabe o que é esse tipo de veículo? Embora muitas pessoas acreditem que esse seja um carro diferenciado, uma espécie de mistura entre dois tipos de veículos que dá origem a algo totalmente diferente, como um carro anfíbio, por exemplo, a caracterização “híbrido” refere-se à forma de alimentação do motor dos veículos.
+titulo: Carros elétricos e híbridos: consumo consciente
+slug: carros-eletricos-e-hibridos-consumo-consciente
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carros-eletricos-e-hibridos-consumo-consciente.jpg
+meta_summary: 
+date: 24/09/2021
+---
+É bem possível que você já tenha ouvido falar sobre carros híbridos. Sabe o que é esse tipo de veículo? Embora muitas pessoas acreditem que esse seja um carro diferenciado, uma espécie de mistura entre dois tipos de veículos que dá origem a algo totalmente diferente, como um carro anfíbio, por exemplo, a caracterização “híbrido” refere-se à forma de alimentação do motor dos veículos.
 
 Os carros híbridos possibilitam o uso de dois tipos de fontes de energia para o funcionamento do motor, que podem ser de origens distintas, como na maioria dos carros híbridos já presentes no mercado automobilístico de todos os países.
 
@@ -108,4 +108,3 @@ Se chegou até aqui conseguiu perceber que a economia gerada por um carro híbri
 Gostou desse artigo? Continue nos acompanhando e caso tenha dúvidas, [entre em contato conosco](https://www.embracon.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

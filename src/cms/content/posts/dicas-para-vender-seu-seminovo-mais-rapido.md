@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para vender seu seminovo mais rápido
-        slug: dicas-para-vender-seu-seminovo-mais-rapido
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-vender-seu-seminovo-mais-rapido.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Se você está interessado em vender seu carro [seminovo](https://www.embracon.com.br/carros/consorcio-de-veiculos-seminovos), este é o artigo certo pra você! Em primeiro lugar, é importante destacar que, embora existam muitas formas de vender automóveis, não há dúvida de que a Internet é uma boa aliada nesse processo. Sabendo disso, o que devemos fazer para ter sucesso nas vendas? Continue lendo para saber como ***vender seminovo rápido*** e ter ótimos lucros.
+titulo: Dicas para vender seu seminovo mais rápido
+slug: dicas-para-vender-seu-seminovo-mais-rapido
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-vender-seu-seminovo-mais-rapido.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Se você está interessado em vender seu carro [seminovo](https://www.embracon.com.br/carros/consorcio-de-veiculos-seminovos), este é o artigo certo pra você! Em primeiro lugar, é importante destacar que, embora existam muitas formas de vender automóveis, não há dúvida de que a Internet é uma boa aliada nesse processo. Sabendo disso, o que devemos fazer para ter sucesso nas vendas? Continue lendo para saber como ***vender seminovo rápido*** e ter ótimos lucros.
 
 O que o veículo precisa para ser considerado seminovo? 
 -------------------------------------------------------
@@ -60,4 +60,3 @@ Tornando-se público, vale a pena captar ativamente compradores, como buscar rev
 Se você é um possível comprador, temos um artigo pra você também. Veja o [guia completo para comprar um carro seminovo](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar). Continue acompanhando o blog da [Embracon](https://www.embracon.com.br/a-embracon), administradora de consórcios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

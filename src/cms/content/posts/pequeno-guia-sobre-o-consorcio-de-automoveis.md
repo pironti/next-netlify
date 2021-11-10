@@ -1,14 +1,14 @@
 ---
-        titulo: Pequeno guia sobre o consórcio de automóveis 
-        slug: pequeno-guia-sobre-o-consorcio-de-automoveis
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/pequeno-guia-sobre-o-consorcio-de-automoveis.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Os brasileiros estão entre as pessoas que mais têm como costume trocar de carro em todo o mundo. Mesmo diante de uma crise financeira que se instaurou no país, muitos não deixaram de investir em um veículo novo. Contudo, existem alguns fatores que tornaram essa compra um pouco mais complicada, como os altos juros cobrados nos financiamentos tradicionais. É por esse motivo que você precisa saber mais sobre o consórcio de automóveis.
+titulo: Pequeno guia sobre o consórcio de automóveis 
+slug: pequeno-guia-sobre-o-consorcio-de-automoveis
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/pequeno-guia-sobre-o-consorcio-de-automoveis.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Os brasileiros estão entre as pessoas que mais têm como costume trocar de carro em todo o mundo. Mesmo diante de uma crise financeira que se instaurou no país, muitos não deixaram de investir em um veículo novo. Contudo, existem alguns fatores que tornaram essa compra um pouco mais complicada, como os altos juros cobrados nos financiamentos tradicionais. É por esse motivo que você precisa saber mais sobre o consórcio de automóveis.
 
 Se você quer fazer a aquisição de um [novo veículo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), saiba que essa modalidade de compra é indiscutivelmente mais vantajosa. Especialmente se você não estiver com pressa de pegar um [carro novo](https://www.embracon.com.br/blog/contemplacao-consorcio-carro-como-aumentar-chances). O objetivo do consórcio é proporcionar uma compra programada, que vai possibilitar a realização do seu sonho de forma segura, sem interferir na sua saúde financeira.
 
@@ -97,4 +97,3 @@ O consórcio de automóveis é a forma mais segura que existe para que você rea
 > Ficou interessado e quer saber mais sobre o consórcio de automóveis? Então aproveite para [entrar em contato conosco](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=pequeno_guia_sobre_o_consorcio_de_automoveis&utm_campaign=publicacoes_blog) agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=pequeno_guia_sobre_o_consorcio_de_automoveis&utm_campaign=publicacoes_blog)</figure>
-        

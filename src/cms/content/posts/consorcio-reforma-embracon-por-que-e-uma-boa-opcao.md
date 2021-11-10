@@ -1,14 +1,14 @@
 ---
-        titulo: Por que o consórcio de reformas Embracon é ideal para você?
-        slug: consorcio-reforma-embracon-por-que-e-uma-boa-opcao
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-reforma-embracon-por-que-e-uma-boa-opcao.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Estamos sempre desejando conquistar um sonho que parece ser impossível, não é mesmo? [Reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui), por exemplo, é um sonho que pode ser realizado por meio do consórcio de reformas Embracon.
+titulo: Por que o consórcio de reformas Embracon é ideal para você?
+slug: consorcio-reforma-embracon-por-que-e-uma-boa-opcao
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-reforma-embracon-por-que-e-uma-boa-opcao.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Estamos sempre desejando conquistar um sonho que parece ser impossível, não é mesmo? [Reformar a casa](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui), por exemplo, é um sonho que pode ser realizado por meio do consórcio de reformas Embracon.
 
 Ultimamente o cenário brasileiro tem transmitido a impressão de que não podemos alcançar os nossos objetivos. Contudo, você não precisa se preocupar pois, se não tem o dinheiro suficiente, chegou a hora de saber mais sobre o [consórcio](http://embracon.com.br/consorcio-servicos).
 
@@ -101,4 +101,3 @@ Ficou interessado e deseja fazer um[ consórcio para reformar](https://www.embra
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

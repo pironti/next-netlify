@@ -1,14 +1,14 @@
 ---
-        titulo: Contemplação no consórcio de imóveis: como funciona?
-        slug: contemplacao-no-consorcio-de-imoveis-como-funciona
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/contemplacao-no-consorcio-de-imoveis-como-funciona.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A modalidade [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) tem crescido muito no Brasil nos últimos anos, e uma das características que o torna uma alternativa interessante é a não cobrança de juros na operação, além das parcelas livres de impostos, como IOF (Imposto sobre Operações Financeiras), por exemplo.
+titulo: Contemplação no consórcio de imóveis: como funciona?
+slug: contemplacao-no-consorcio-de-imoveis-como-funciona
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/contemplacao-no-consorcio-de-imoveis-como-funciona.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A modalidade [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) tem crescido muito no Brasil nos últimos anos, e uma das características que o torna uma alternativa interessante é a não cobrança de juros na operação, além das parcelas livres de impostos, como IOF (Imposto sobre Operações Financeiras), por exemplo.
 
 Você sabe como funciona a **contemplação no consórcio** de [imóveis](https://www.embracon.com.br/consorcio-de-imoveis)? É sobre esse assunto que vamos tratar neste texto.
 
@@ -107,4 +107,3 @@ Agora que você já sabe como acontece a **contemplação no** [**consórcio** d
 Gostou deste post? Então aproveite e assine a nossa newsletter agora mesmo para receber as nossas atualizações diretamente em sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

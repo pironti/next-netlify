@@ -1,14 +1,14 @@
 ---
-        titulo: Os lugares de Paris que você não pode deixar de conhecer
-        slug: os-lugares-de-paris-que-voce-nao-pode-deixar-de-conhecer
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-lugares-de-paris-que-voce-nao-pode-deixar-de-conhecer.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Paris, a cidade luz, pano de fundo de [muitos romances](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) e dona de paisagens de tirar o fôlego, é única. Misturando a vida boêmia com muita arte e uma das melhores gastronomias do mundo, [Paris é inesquecível](https://www.embracon.com.br/blog/5-razoes-para-viajar-para-paris).
+titulo: Os lugares de Paris que você não pode deixar de conhecer
+slug: os-lugares-de-paris-que-voce-nao-pode-deixar-de-conhecer
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-lugares-de-paris-que-voce-nao-pode-deixar-de-conhecer.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Paris, a cidade luz, pano de fundo de [muitos romances](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) e dona de paisagens de tirar o fôlego, é única. Misturando a vida boêmia com muita arte e uma das melhores gastronomias do mundo, [Paris é inesquecível](https://www.embracon.com.br/blog/5-razoes-para-viajar-para-paris).
 
 Depois de organizar todos os preparativos, prepare-se para admirar a arquitetura, as luzes, os museus, a noite, a elegância dos franceses e para degustar as melhores comidas e vinhos do mundo. Se você tiver planos de ir à capital francesa reserve pelo menos sete dias para conhecer os encantos de uma das cidades mais bonitas do mundo.
 
@@ -79,4 +79,3 @@ Paris é um dos destinos mais famosos da [Europa ](https://www.embracon.com.br/b
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

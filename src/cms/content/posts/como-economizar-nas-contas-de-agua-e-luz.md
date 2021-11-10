@@ -1,14 +1,14 @@
 ---
-        titulo: Como economizar nas contas de água e luz?
-        slug: como-economizar-nas-contas-de-agua-e-luz
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-economizar-nas-contas-de-agua-e-luz.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Mais conhecidas como as [contas básicas de casa](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica), as contas de água e luz têm tido uma participação cada vez maior nos rendimentos mensais do brasileiro. E não apenas por conta do consumo. Nos últimos anos, as taxas desse serviço têm gerado muitas preocupações, que só se agravam por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica).
+titulo: Como economizar nas contas de água e luz?
+slug: como-economizar-nas-contas-de-agua-e-luz
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-economizar-nas-contas-de-agua-e-luz.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Mais conhecidas como as [contas básicas de casa](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica), as contas de água e luz têm tido uma participação cada vez maior nos rendimentos mensais do brasileiro. E não apenas por conta do consumo. Nos últimos anos, as taxas desse serviço têm gerado muitas preocupações, que só se agravam por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica).
 
 Para se ter uma ideia, só em junho de 2021 a bandeira vermelha da conta de luz, que é a taxa mais cara, [subiu mais de 20%](https://www1.folha.uol.com.br/mercado/2021/06/conta-de-luz-deve-subir-com-reajuste-acima-de-20-na-bandeira-vermelha.shtml) por conta do baixo nível nos reservatórios de água. Por conta disso, a energia é acionada por meio de usinas térmicas, que deixam o valor mais caro. Isso é um reflexo da seca no país.
 
@@ -79,4 +79,3 @@ Com pequenas mudanças, você pode ter uma economia considerável nas contas de 
 Para mais dicas de finanças pessoais, confira [nosso guia de como economizar mais ao longo de 2021](https://www.embracon.com.br/blog/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

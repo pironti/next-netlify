@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a oferta e o desempate do lance no consórcio
-        slug: como-funciona-a-oferta-e-o-desempate-do-lance-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-oferta-e-o-desempate-do-lance-no-consorcio.jpg
-        meta_summary: 
-        date: 30/10/2021
-        ---
-        Muitas pessoas ainda têm dúvidas sobre como realmente funciona a [aquisição do bem em um consórcio](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio).
+titulo: Como funciona a oferta e o desempate do lance no consórcio
+slug: como-funciona-a-oferta-e-o-desempate-do-lance-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-oferta-e-o-desempate-do-lance-no-consorcio.jpg
+meta_summary: 
+date: 30/10/2021
+---
+Muitas pessoas ainda têm dúvidas sobre como realmente funciona a [aquisição do bem em um consórcio](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio).
 
 Por mais que a modalidade seja conhecida pela possibilidade de [comprar casa, carro, moto e até adquirir diferentes serviços](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio) sem a necessidade de entrada e pagamento de juros, as principais dúvidas têm a ver com a forma de contemplação.
 
@@ -222,4 +222,3 @@ Agora que você já conhece as vantagens do lance e do uso da carta de crédito,
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e conte com uma modalidade que não exige entrada, não cobra juros e não tem nenhum tipo de burocracia.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

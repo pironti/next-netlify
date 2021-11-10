@@ -1,14 +1,14 @@
 ---
-        titulo: Entrando em um consórcio de carro
-        slug: entrando-em-um-consorcio-de-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entrando-em-um-consorcio-de-carro.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O [consórcio de automóveis](https://www.embracon.com.br/blog/guia-para-consorcio-de-automoveis-de-a-a-z) funciona da mesma forma que os consórcios de aquisição de outros bens. Está muito próximo de uma poupança, apenas com contribuições programadas e formação em conjunto com um grupo de pessoas.
+titulo: Entrando em um consórcio de carro
+slug: entrando-em-um-consorcio-de-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entrando-em-um-consorcio-de-carro.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O [consórcio de automóveis](https://www.embracon.com.br/blog/guia-para-consorcio-de-automoveis-de-a-a-z) funciona da mesma forma que os consórcios de aquisição de outros bens. Está muito próximo de uma poupança, apenas com contribuições programadas e formação em conjunto com um grupo de pessoas.
 
 A ideia é reunir interessados ​​no planejamento da aquisição de um carro.
 
@@ -77,4 +77,3 @@ Vale ressaltar que é possível integrar um grupo de consorciados ainda em ativi
 Deseja entrar para um consórcio de [automóveis](https://www.embracon.com.br/blog/como-funciona-consorcio-de-automoveis-por-que-boa-opcao)? Confira as condições oferecidas pelo Consórcio [Embracon](https://www.embracon.com.br/a-embracon), faça sua [simulação](https://www.embracon.com.br/servicos/simulacao-de-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Motorista de Aplicativo: faça um consórcio
-        slug: motorista-de-aplicativo-faca-um-consorcio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/motorista-de-aplicativo-faca-um-consorcio.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        As [grandes cidades](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado) sofrem problemas parecidos: a precariedade do transporte público. Esse foi um dos fatores que fizeram com que mais de 20 milhões de brasileiros começassem a utilizar os serviços de Uber, o principal aplicativo de caronas. Para atender essa gigantesca demanda, cada vez mais os motoristas estão aderindo às jornadas de transportar passageiros. Segundo levantamento de 2019 da Uber, atualmente mais de 600 mil pessoas estão cadastradas como motoristas do aplicativo.
+titulo: Motorista de Aplicativo: faça um consórcio
+slug: motorista-de-aplicativo-faca-um-consorcio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/motorista-de-aplicativo-faca-um-consorcio.png
+meta_summary: 
+date: 06/10/2021
+---
+As [grandes cidades](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado) sofrem problemas parecidos: a precariedade do transporte público. Esse foi um dos fatores que fizeram com que mais de 20 milhões de brasileiros começassem a utilizar os serviços de Uber, o principal aplicativo de caronas. Para atender essa gigantesca demanda, cada vez mais os motoristas estão aderindo às jornadas de transportar passageiros. Segundo levantamento de 2019 da Uber, atualmente mais de 600 mil pessoas estão cadastradas como motoristas do aplicativo.
 
 Seja em busca de renda complementar ou até mesmo como renda principal, o motorista de Uber e de outros apps concorrentes – como 99 e Cabify, entre outros – conta com uma grande gama de opções de veículos.
 
@@ -43,4 +43,3 @@ Após debitado, o valor do lance abate as parcelas seguintes do consórcio. Dess
 Gostou das nossas dicas e quer fazer um consórcio de carro? [Faça uma simulação](http://www.embracon.com.br/consorcio) e invista já no seu [novo carro](https://www.embracon.com.br/blog/consorcio-de-carros-usados-vale-a-pena).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

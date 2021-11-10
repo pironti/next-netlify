@@ -1,14 +1,14 @@
 ---
-        titulo: Cirurgia bariátrica: como funciona e quem pode fazer?
-        slug: cirurgia-bariatrica-como-funciona-e-quem-pode-fazer
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cirurgia-bariatrica-como-funciona-e-quem-pode-fazer.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        A **cirurgia bariátrica** consiste em um conjunto de técnicas de redução do estômago para alcançar a diminuição do peso. Esse procedimento é aconselhável em quadros no qual o paciente não consegue emagrecer, mesmo depois de tentar reeducação alimentar e exercícios físicos.
+titulo: Cirurgia bariátrica: como funciona e quem pode fazer?
+slug: cirurgia-bariatrica-como-funciona-e-quem-pode-fazer
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cirurgia-bariatrica-como-funciona-e-quem-pode-fazer.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+A **cirurgia bariátrica** consiste em um conjunto de técnicas de redução do estômago para alcançar a diminuição do peso. Esse procedimento é aconselhável em quadros no qual o paciente não consegue emagrecer, mesmo depois de tentar reeducação alimentar e exercícios físicos.
 
 Consequência de diversas atitudes, a obesidade é um dos males de saúde mais prevalentes no século XXI. Segundo estatísticas, uma a cada cinco pessoas está acima do peso. A porcentagem populacional já passa dos 18%.
 
@@ -53,4 +53,3 @@ A porcentagem de emagrecimento varia conforme o procedimento realizado, entre 20
 Depois de ter lido este artigo, ficou claro que a **cirurgia bariátrica** não é recomendada para todos os casos de obesidade. O paciente precisa ter um IMC acima de 35 somado com uma série de problemas de saúde. As pessoas com sobrepeso que não se encaixam nesses requisitos possuem chances reais de equilibrar o peso apenas com uma dieta balanceada e prática de exercícios físicos regulares.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

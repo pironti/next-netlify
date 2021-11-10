@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o consórcio de automóveis e por que é uma boa opção?
-        slug: como-funciona-consorcio-de-automoveis-por-que-boa-opcao
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-consorcio-de-automoveis-por-que-boa-opcao.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O consórcio de automóveis tem se tornado o meio mais vantajoso para comprar esse bem. Isso porque estamos enfrentando um momento de forte restrição ao crédito, uma vez que as instituições financeiras vêm impondo critérios mais rigorosos para liberação de financiamentos de qualquer tipo. Nas situações em que tem sido possível contratar algum crédito, os juros envolvidos na transação podem ser abusivos.
+titulo: Como funciona o consórcio de automóveis e por que é uma boa opção?
+slug: como-funciona-consorcio-de-automoveis-por-que-boa-opcao
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-consorcio-de-automoveis-por-que-boa-opcao.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O consórcio de automóveis tem se tornado o meio mais vantajoso para comprar esse bem. Isso porque estamos enfrentando um momento de forte restrição ao crédito, uma vez que as instituições financeiras vêm impondo critérios mais rigorosos para liberação de financiamentos de qualquer tipo. Nas situações em que tem sido possível contratar algum crédito, os juros envolvidos na transação podem ser abusivos.
 
 Ao ingressar em um consórcio, você pode optar por um plano com parcelas que caibam no seu bolso e, ainda, não arcar com o ônus dos juros.
 
@@ -103,4 +103,3 @@ Entre em [contato conosco](https://www.embracon.com.br/) e confira qual consórc
 ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

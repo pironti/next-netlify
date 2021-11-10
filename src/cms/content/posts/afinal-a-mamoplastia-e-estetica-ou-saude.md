@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, a mamoplastia é estética ou saúde?
-        slug: afinal-a-mamoplastia-e-estetica-ou-saude
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-a-mamoplastia-e-estetica-ou-saude.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A mamoplastia é a [cirurgia plástica](https://www.embracon.com.br/blog/como-escolher-um-consorcio-de-cirurgia-plastica-em-6-passos) estética mais realizada no Brasil e seus números não param de crescer, ainda mais com [grupos de consórcios](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia) criados para esse fim. Porém, muita gente ainda acha que esse procedimento tem como único propósito a vaidade — mas será que é isso mesmo?
+titulo: Afinal, a mamoplastia é estética ou saúde?
+slug: afinal-a-mamoplastia-e-estetica-ou-saude
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-a-mamoplastia-e-estetica-ou-saude.jpg
+meta_summary: 
+date: 04/10/2021
+---
+A mamoplastia é a [cirurgia plástica](https://www.embracon.com.br/blog/como-escolher-um-consorcio-de-cirurgia-plastica-em-6-passos) estética mais realizada no Brasil e seus números não param de crescer, ainda mais com [grupos de consórcios](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia) criados para esse fim. Porém, muita gente ainda acha que esse procedimento tem como único propósito a vaidade — mas será que é isso mesmo?
 
 Ainda que não tenha sido recomendada por um médico, a cirurgia nas mamas pode trazer alívio psicológico para quem não se sente bem com o próprio corpo. Portanto, ao falarmos de intervenções cirúrgicas, estamos sempre, de certa forma, falando de saúde.
 
@@ -80,4 +80,3 @@ A mamoplastia é um [procedimento cirúrgico](https://www.embracon.com.br/blog/a
 Este post foi útil para você? Quer receber mais dicas sobre[ serviços para seu bem-estar](https://www.embracon.com.br/blog/conheca-os-principais-consorcios-de-servicos-embracon) e saúde? Então, assine nossa newsletter para receber nossas novidades em seu e-mail!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

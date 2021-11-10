@@ -1,14 +1,14 @@
 ---
-        titulo: Você sabe como escolher o vestido de noiva adequado para você?
-        slug: voce-sabe-como-escolher-o-vestido-de-noiva-adequado-para-voce
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/voce-sabe-como-escolher-o-vestido-de-noiva-adequado-para-voce.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        [Planejar um casamento](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento) é, sem dúvidas, um misto de emoções. Por um lado, você se preocupa, quebra a cabeça e se concentra em [vários detalhes da celebração](https://www.embracon.com.br/blog/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos) e da festa para que tudo seja impecável. Por outro,há a felicidade, a ansiedade e a expectativa de dizer "sim" e começar uma vida a dois. Em meio a tudo isso, ainda há a difícil missão de escolher o vestido de noiva que será usado no grande dia.Com tanta coisa acontecendo, é natural que você não saiba por onde começar e fique receosa para tomar essa importante decisão. Pensando nisso, reunimos algumas [dicas úteis que vão ajudá-la nessa tarefa](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento). Acompanhe!
+titulo: Você sabe como escolher o vestido de noiva adequado para você?
+slug: voce-sabe-como-escolher-o-vestido-de-noiva-adequado-para-voce
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/voce-sabe-como-escolher-o-vestido-de-noiva-adequado-para-voce.jpg
+meta_summary: 
+date: 06/10/2021
+---
+[Planejar um casamento](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento) é, sem dúvidas, um misto de emoções. Por um lado, você se preocupa, quebra a cabeça e se concentra em [vários detalhes da celebração](https://www.embracon.com.br/blog/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos) e da festa para que tudo seja impecável. Por outro,há a felicidade, a ansiedade e a expectativa de dizer "sim" e começar uma vida a dois. Em meio a tudo isso, ainda há a difícil missão de escolher o vestido de noiva que será usado no grande dia.Com tanta coisa acontecendo, é natural que você não saiba por onde começar e fique receosa para tomar essa importante decisão. Pensando nisso, reunimos algumas [dicas úteis que vão ajudá-la nessa tarefa](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento). Acompanhe!
 
 ### Estabeleça um orçamento
 
@@ -35,4 +35,3 @@ Após as dicas anteriores, aproveite para listar lojas, ateliês e/ou boutiques 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

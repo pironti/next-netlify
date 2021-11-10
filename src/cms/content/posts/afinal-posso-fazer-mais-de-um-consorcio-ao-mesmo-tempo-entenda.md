@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, posso fazer mais de um consórcio ao mesmo tempo? Entenda!
-        slug: afinal-posso-fazer-mais-de-um-consorcio-ao-mesmo-tempo-entenda
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-posso-fazer-mais-de-um-consorcio-ao-mesmo-tempo-entenda.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Ao entrar em um consórcio é muito comum aparecer alguns questionamentos e dúvidas em relação a essa [modalidade de crédito](https://www.embracon.com.br/blog/tipos-de-consorcio). Aqueles que optam por esse método têm em mente realizar um projeto ou um sonho. Por isso é importante esclarecer todas as dúvidas para entender como ele funciona. Uma das principais dúvidas que os participantes têm é se é possível fazer mais de um [consórcio](https://www.embracon.com.br/blog/quando-comecar-a-fazer-um-consorcio) ao mesmo tempo.
+titulo: Afinal, posso fazer mais de um consórcio ao mesmo tempo? Entenda!
+slug: afinal-posso-fazer-mais-de-um-consorcio-ao-mesmo-tempo-entenda
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-posso-fazer-mais-de-um-consorcio-ao-mesmo-tempo-entenda.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Ao entrar em um consórcio é muito comum aparecer alguns questionamentos e dúvidas em relação a essa [modalidade de crédito](https://www.embracon.com.br/blog/tipos-de-consorcio). Aqueles que optam por esse método têm em mente realizar um projeto ou um sonho. Por isso é importante esclarecer todas as dúvidas para entender como ele funciona. Uma das principais dúvidas que os participantes têm é se é possível fazer mais de um [consórcio](https://www.embracon.com.br/blog/quando-comecar-a-fazer-um-consorcio) ao mesmo tempo.
 
 É fundamental entender o funcionamento e, principalmente, as regras que devem ser seguidas para participar de um grupo. E, claro, saber se é possível **fazer mais de um consórcio ao mesmo tempo** também é imprescindível para quem deseja [investir em mais bens](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento).
 
@@ -124,4 +124,3 @@ Enfim, agora que você já sabe que é possível fazer mais de um [consórcio](h
 Você gostou do texto? Então, aproveite para assinar a nossa newsletter. Pois assim você receberá as nossas atualizações na sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

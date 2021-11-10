@@ -1,14 +1,14 @@
 ---
-        titulo: Posso comprar um carro sem entrada?
-        slug: posso-comprar-um-carro-sem-entrada
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/posso-comprar-um-carro-sem-entrada.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A [compra de um novo carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) é um dos maiores sonhos dos brasileiros. E, por mais que o mundo continue impactado pela [pandemia da Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitas pessoas ainda preservam o interesse de comprar um novo modelo o quanto antes.
+titulo: Posso comprar um carro sem entrada?
+slug: posso-comprar-um-carro-sem-entrada
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/posso-comprar-um-carro-sem-entrada.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A [compra de um novo carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) é um dos maiores sonhos dos brasileiros. E, por mais que o mundo continue impactado pela [pandemia da Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitas pessoas ainda preservam o interesse de comprar um novo modelo o quanto antes.
 
 Um estudo realizado pela Webmotors em parceria com a Anfavea (Associação Nacional dos Fabricantes de Veículos Automotores) mostrou que, em 2020, 84% dos interessados na compra de um modelo zero km têm interesse em realizar esse desejo o quanto antes.
 
@@ -67,4 +67,3 @@ A vantagem da [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-vo
 Portanto, [comece desde já o investimento em seu novo automóvel](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao), sem a necessidade de pagar entrada, por meio do consórcio. [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) e aproveite as vantagens da modalidade que já ajudou milhões de pessoas a realizarem seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

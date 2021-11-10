@@ -1,14 +1,14 @@
 ---
-        titulo: Chapada Diamantina: o melhor destino para sua próxima viagem
-        slug: chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Nos últimos anos, o ecoturismo ganhou bastante força. Em vez de procurar[ lugares para descansar](https://www.embracon.com.br/blog/entenda-como-escolher-um-bom-hotel-para-viagens-em-familia), muitos viajantes ativaram [seu lado mais aventureiro](https://www.embracon.com.br/blog/3-lugares-incriveis-para-viajar-de-carro) para vislumbrar lindas paisagens ecológicas de [cidades brasileiras](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado), enquanto aprende um pouco mais sobre as ricas histórias desses locais.
+titulo: Chapada Diamantina: o melhor destino para sua próxima viagem
+slug: chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/chapada-diamantina-por-que-esse-e-o-melhor-destino-para-sua-proxima-viagem.png
+meta_summary: 
+date: 06/10/2021
+---
+Nos últimos anos, o ecoturismo ganhou bastante força. Em vez de procurar[ lugares para descansar](https://www.embracon.com.br/blog/entenda-como-escolher-um-bom-hotel-para-viagens-em-familia), muitos viajantes ativaram [seu lado mais aventureiro](https://www.embracon.com.br/blog/3-lugares-incriveis-para-viajar-de-carro) para vislumbrar lindas paisagens ecológicas de [cidades brasileiras](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado), enquanto aprende um pouco mais sobre as ricas histórias desses locais.
 
 Peguemos o gigante estado da Bahia como exemplo. Salvador e Porto Seguro ainda atraem muitos turistas de primeira viagem, mas quem realmente quer conhecer os antepassados procura outras localidades.
 
@@ -45,4 +45,3 @@ Ficou com vontade de conhecer a belíssima cidade baiana? Então confira as vant
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Top 5 destinos de férias: escolha sua próxima viagem pelo Brasil
-        slug: top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Não é preciso esperar dezembro ou o meio do ano para pensar no destino das férias. Quanto antes se planejar para curtir o tempo livre, mais [você tende a economizar](https://www.embracon.com.br/blog/5-dicas-para-economizar-e-viajar-na-alta-temporada). E nem é preciso pensar tão distante para organizar a sua viagem! O Brasil possui dezenas de destinos paradisíacos para agradar pessoas de diferentes perfis.
+titulo: Top 5 destinos de férias: escolha sua próxima viagem pelo Brasil
+slug: top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil.png
+meta_summary: 
+date: 06/10/2021
+---
+Não é preciso esperar dezembro ou o meio do ano para pensar no destino das férias. Quanto antes se planejar para curtir o tempo livre, mais [você tende a economizar](https://www.embracon.com.br/blog/5-dicas-para-economizar-e-viajar-na-alta-temporada). E nem é preciso pensar tão distante para organizar a sua viagem! O Brasil possui dezenas de destinos paradisíacos para agradar pessoas de diferentes perfis.
 
 Seja em [viagens com a família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos), sozinho ou com os melhores amigos, lugares não faltam para que o destino das próximas férias seja inesquecível.
 
@@ -67,4 +67,3 @@ Sabendo ou não para onde ir, você pode organizar a viagem dos seus sonhos [por
 Faça uma [simulação](https://www.embracon.com.br/consorcio) e planeje o quanto antes o destino das próximas férias!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

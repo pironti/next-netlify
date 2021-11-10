@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda os gastos fixos e variáveis de um carro
-        slug: entenda-os-gastos-fixos-e-variaveis-de-um-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-os-gastos-fixos-e-variaveis-de-um-carro.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        [Gastos](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios) são todas as despesas que afetam o [orçamento](https://www.embracon.com.br/blog/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal) de uma pessoa física ou jurídica e todas as obrigações que precisam ser pagas regularmente. Em outras palavras, são os fundos que saem de seu orçamento, determinados como despesas.
+titulo: Entenda os gastos fixos e variáveis de um carro
+slug: entenda-os-gastos-fixos-e-variaveis-de-um-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-os-gastos-fixos-e-variaveis-de-um-carro.jpg
+meta_summary: 
+date: 23/09/2021
+---
+[Gastos](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios) são todas as despesas que afetam o [orçamento](https://www.embracon.com.br/blog/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal) de uma pessoa física ou jurídica e todas as obrigações que precisam ser pagas regularmente. Em outras palavras, são os fundos que saem de seu orçamento, determinados como despesas.
 
 Neste artigo, apresentaremos os principais gastos de um carro, sendo eles fixos e variáveis.
 
@@ -78,4 +78,3 @@ Um custo importante, mas muitas vezes esquecido, é a proporção das multas no 
 Quer conquistar o carro dos seus sonhos mas não tem dinheiro para isso? Invista em um consórcio de automóveis, com ele você não paga juros, é só vantagens. Faça sua simulação com o consórcio [Embracon](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulador](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

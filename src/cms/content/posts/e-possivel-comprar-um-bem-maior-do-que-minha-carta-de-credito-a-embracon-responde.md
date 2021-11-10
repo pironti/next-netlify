@@ -1,14 +1,14 @@
 ---
-        titulo: É possível comprar um bem maior do que minha carta de crédito? A Embracon responde!
-        slug: e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        A cada ano que passa, o segmento de consórcio apresenta índices de crescimento cada vez mais surpreendentes. Isso porque o consórcio permite que as pessoas possam realizar o sonho de [adquirir bens de alto valor](https://www.embracon.com.br/blog/tipos-de-consorcio), como automóveis, imóveis e serviços, **sem precisar pagar juros e valor de entrada**.
+titulo: É possível comprar um bem maior do que minha carta de crédito? A Embracon responde!
+slug: e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde.jpg
+meta_summary: 
+date: 30/09/2021
+---
+A cada ano que passa, o segmento de consórcio apresenta índices de crescimento cada vez mais surpreendentes. Isso porque o consórcio permite que as pessoas possam realizar o sonho de [adquirir bens de alto valor](https://www.embracon.com.br/blog/tipos-de-consorcio), como automóveis, imóveis e serviços, **sem precisar pagar juros e valor de entrada**.
 
 Tudo isso de forma simples, sem burocracia e totalmente ajustável aos rendimentos mensais do consorciado.
 
@@ -219,4 +219,3 @@ Sem falar sobre a possibilidade de utilizar o saldo remanescente para quitar des
 > É por isso e muito mais que o consórcio acaba sendo um aliado poderoso na compra de uma casa, carro ou até mesmo na aquisição de um serviço de alto valor. [Faça uma simulação](https://www.embracon.com.br/consorcio) e compare com o financiamento: você não vai querer saber mais de pagar valores elevados de juros!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

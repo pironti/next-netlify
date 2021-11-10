@@ -1,14 +1,14 @@
 ---
-        titulo: 8 motivos que comprovam que consórcio é investimento
-        slug: 8-motivos-que-comprovam-que-consorcio-e-investimento
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/8-motivos-que-comprovam-que-consorcio-e-investimento.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        A maioria das pessoas [sonha em ter a sua própria casa](https://www.embracon.com.br/consorcio-de-imoveis), principalmente, para ficarem livres do aluguel. No entanto, nem todas têm uma disciplina rigorosa para guardar uma quantia fixa de dinheiro todos os meses e conseguir realizar esse sonho.
+titulo: 8 motivos que comprovam que consórcio é investimento
+slug: 8-motivos-que-comprovam-que-consorcio-e-investimento
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/8-motivos-que-comprovam-que-consorcio-e-investimento.jpg
+meta_summary: 
+date: 30/09/2021
+---
+A maioria das pessoas [sonha em ter a sua própria casa](https://www.embracon.com.br/consorcio-de-imoveis), principalmente, para ficarem livres do aluguel. No entanto, nem todas têm uma disciplina rigorosa para guardar uma quantia fixa de dinheiro todos os meses e conseguir realizar esse sonho.
 
 Além disso, infelizmente, poucas sabem que consórcio é investimento, além de ser um dos caminhos mais eficazes para ajudar na [conquista do imóvel](https://www.embracon.com.br/consorcio-de-imoveis).
 
@@ -115,4 +115,3 @@ E aí, ficou interessado em investir por meio de um consórcio? Então, [entre e
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

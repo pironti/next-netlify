@@ -1,14 +1,14 @@
 ---
-        titulo: Posso desistir do consórcio?
-        slug: posso-desistir-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/posso-desistir-do-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio é a melhor forma de [investir em bens de alto valor](https://www.embracon.com.br/blog/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio), porque exige planejamento e ajuda a pagar um valor mais justo a prazo pelo que se deseja.
+titulo: Posso desistir do consórcio?
+slug: posso-desistir-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/posso-desistir-do-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio é a melhor forma de [investir em bens de alto valor](https://www.embracon.com.br/blog/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio), porque exige planejamento e ajuda a pagar um valor mais justo a prazo pelo que se deseja.
 
 Digamos que você queira [comprar um apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento), por exemplo. Se você realmente quiser planejar essa compra, a melhor forma de dar início a esse tipo de investimento é pelo consórcio, já que [não precisa pagar por entrada ou muito menos juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), como acontece por meio do financiamento.
 
@@ -72,4 +72,3 @@ Caso não consiga indicar um conhecido para solicitar a transferência, também 
 Para mais dicas de como lidar com o pagamento das mensalidades de consórcio, confira nossas [dicas de como montar um planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=posso_desistir_do_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

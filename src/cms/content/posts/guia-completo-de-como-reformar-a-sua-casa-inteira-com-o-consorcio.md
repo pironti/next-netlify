@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo de como reformar a sua casa inteira com o consórcio
-        slug: guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é o sonho que move muitos brasileiros. Já imaginou conseguir deixá-la do jeito que sempre quis, acomodando toda a sua família e sem a preocupação de ter que se comprometer com o aluguel?
+titulo: Guia completo de como reformar a sua casa inteira com o consórcio
+slug: guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é o sonho que move muitos brasileiros. Já imaginou conseguir deixá-la do jeito que sempre quis, acomodando toda a sua família e sem a preocupação de ter que se comprometer com o aluguel?
 
 Claro que, para realizar esse sonho, é preciso [planejar a longo prazo](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) e manter-se focado. Afinal, estamos falando de um bem de altíssimo valor, que pode chegar aos sete dígitos - dependendo do tamanho do seu sonho, é claro.
 
@@ -305,4 +305,3 @@ Como você já percebeu, existem diversas formas e justificativas para você dar
 > [Faça uma simulação de consórcio de reforma](https://www.embracon.com.br/consorcio-servicos) e aproveite as múltiplas vantagens de uma modalidade flexível e sem complicações.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>‍
-        

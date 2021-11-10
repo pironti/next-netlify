@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como escolher o carro ideal para a sua família
-        slug: carro-ideal-para-familia
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carro-ideal-para-familia.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Se você quer comprar ou trocar o seu automóvel, é muito importante levar várias coisas em consideração. O [carro ideal ](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha)para a família não tem que ser somente bonito ou barato, é preciso que ele atenda a todas as suas necessidades.
+titulo: Saiba como escolher o carro ideal para a sua família
+slug: carro-ideal-para-familia
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carro-ideal-para-familia.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Se você quer comprar ou trocar o seu automóvel, é muito importante levar várias coisas em consideração. O [carro ideal ](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha)para a família não tem que ser somente bonito ou barato, é preciso que ele atenda a todas as suas necessidades.
 
 Para que você não erre [na hora de escolher o carro certo](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), leia este post. Você vai saber o que é importante observar antes da compra e quais são os tipos de automóveis mais adequados para a sua família.
 
@@ -108,4 +108,3 @@ Siga nossas dicas de como escolher o carro ideal para a família e acerte na com
 Gostou das dicas que listamos neste post? Então não deixe de curtir [nossa página no Facebook](https://www.facebook.com/embracon/) para ter acesso a mais conteúdos como este!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Carros](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

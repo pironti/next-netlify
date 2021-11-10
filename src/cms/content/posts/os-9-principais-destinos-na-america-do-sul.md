@@ -1,14 +1,14 @@
 ---
-        titulo: Os 9 principais destinos na América do Sul
-        slug: os-9-principais-destinos-na-america-do-sul
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-9-principais-destinos-na-america-do-sul.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Uma das portas de entrada para conhecer países estrangeiros é [viajar pela América do Sul](https://www.embracon.com.br/blog/dicas-de-viagem-para-a-america-do-sul). Quem opta por essa trajetória não costuma se arrepender: além do [real ser mais valorizado](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida) do que as moedas de nossos vizinhos, existem diversas paisagens para se explorar.
+titulo: Os 9 principais destinos na América do Sul
+slug: os-9-principais-destinos-na-america-do-sul
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-9-principais-destinos-na-america-do-sul.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Uma das portas de entrada para conhecer países estrangeiros é [viajar pela América do Sul](https://www.embracon.com.br/blog/dicas-de-viagem-para-a-america-do-sul). Quem opta por essa trajetória não costuma se arrepender: além do [real ser mais valorizado](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida) do que as moedas de nossos vizinhos, existem diversas paisagens para se explorar.
 
 É possível encontrar alguns dos lugares mais paradisíacos do mundo gastando pouco.
 
@@ -81,4 +81,3 @@ Com o [consórcio de serviços](https://www.embracon.com.br/blog/conheca-os-prin
 O [primeiro passo é fazer uma simulação](https://www.embracon.com.br/blog/descubra-como-fazer-uma-simulacao-no-consorcio). Com cartas de crédito de até R$ 30 mil, você tem poder de compra à vista para investir em pacotes e curtir com toda a família. Portanto, [simule já o seu consórcio de viagens](https://www.embracon.com.br/consorcio-servicos) e monte o seu roteiro o quanto antes para um dos destinos incríveis da América do Sul (ou de outros lugares, se preferir).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

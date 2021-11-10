@@ -1,14 +1,14 @@
 ---
-        titulo: Importância da simulação na hora de fechar um consórcio
-        slug: importancia-da-simulacao-na-hora-de-fechar-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/importancia-da-simulacao-na-hora-de-fechar-um-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Muitas pessoas já devem ter ouvido falar em consórcio mas, na hora de [entender como funciona na prática](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio), muitas dúvidas ainda surgem. É sabido que, diferente do financiamento, o [consórcio não possui juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e não cobra valor de entrada. Você não sai com o bem na hora, porque precisa participar dos sorteios ou fazer a [oferta de um lance](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio).
+titulo: Importância da simulação na hora de fechar um consórcio
+slug: importancia-da-simulacao-na-hora-de-fechar-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/importancia-da-simulacao-na-hora-de-fechar-um-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Muitas pessoas já devem ter ouvido falar em consórcio mas, na hora de [entender como funciona na prática](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio), muitas dúvidas ainda surgem. É sabido que, diferente do financiamento, o [consórcio não possui juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e não cobra valor de entrada. Você não sai com o bem na hora, porque precisa participar dos sorteios ou fazer a [oferta de um lance](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio).
 
 Mas, como é possível definir o valor a ser pago pelo consórcio? É aí que entra a importância da simulação, que iremos explicar em detalhes.
 
@@ -58,4 +58,3 @@ O simulador é extremamente importante na hora de definir o valor que você irá
 > [Faça uma simulação agora mesmo](https://www.embracon.com.br/) do bem que deseja comprar e aproveite as vantagens do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

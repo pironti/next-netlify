@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo para abrir uma empresa
-        slug: guia-completo-para-abrir-uma-empresa
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-para-abrir-uma-empresa.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Você já pensou em ***abrir uma empresa***? O sonho de muitos brasileiros é ser [independente financeiramente](https://www.embracon.com.br/blog/como-conseguir-alcancar-a-independencia-financeira) e ser seu próprio patrão. No entanto, uma boa ideia e vontade de assumir responsabilidades não são suficientes para tirar o plano do papel. Você deve ser realista sobre o negócio. É necessário cultivar habilidades de gestão e execução, e ter um [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) cuidadoso, para que sua empresa possa decolar. Além disso, a parte burocrática não pode ser excluída. Desempenha um papel extremamente importante na relação direta com a abertura de negócios e a parte financeira.
+titulo: Guia completo para abrir uma empresa
+slug: guia-completo-para-abrir-uma-empresa
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-para-abrir-uma-empresa.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Você já pensou em ***abrir uma empresa***? O sonho de muitos brasileiros é ser [independente financeiramente](https://www.embracon.com.br/blog/como-conseguir-alcancar-a-independencia-financeira) e ser seu próprio patrão. No entanto, uma boa ideia e vontade de assumir responsabilidades não são suficientes para tirar o plano do papel. Você deve ser realista sobre o negócio. É necessário cultivar habilidades de gestão e execução, e ter um [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) cuidadoso, para que sua empresa possa decolar. Além disso, a parte burocrática não pode ser excluída. Desempenha um papel extremamente importante na relação direta com a abertura de negócios e a parte financeira.
 
 Esses projetos devem cumprir as obrigações legais, pois só assim a empresa pode cumprir e atuar de forma legal. Todos esses fatores costumam fazer com que algumas pessoas desistam de atender a esse desejo por medo da burocracia. No entanto, eles perdem a oportunidade de ter sucesso em sua carreira empresarial.
 
@@ -197,4 +197,3 @@ Os consórcios estão sempre vinculados a alguma compra específica. Atualmente,
 Está pronto para abrir sua empresa e se interessou pela opção de consórcio? Conheça os planos do consórcio da [Embracon](https://www.embracon.com.br/), administradora. [Simule](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) e vá em busca da realização dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

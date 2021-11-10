@@ -1,14 +1,14 @@
 ---
-        titulo: Como montar uma sala de cinema em casa? Confira estas 4 dicas!
-        slug: como-montar-uma-sala-de-cinema-em-casa-confira-estas-4-dicas
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-montar-uma-sala-de-cinema-em-casa-confira-estas-4-dicas.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Uma das tendências de decoração que tem ganhado mais força nos últimos anos é a de montar uma sala de cinema em casa. Afinal, esse espaço, além de servir para que você assista às produções que gosta e acompanha, é uma ótima forma de relaxar após um dia cansativo de trabalho e ter a casa sempre cheia com amigos e familiares.
+titulo: Como montar uma sala de cinema em casa? Confira estas 4 dicas!
+slug: como-montar-uma-sala-de-cinema-em-casa-confira-estas-4-dicas
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-montar-uma-sala-de-cinema-em-casa-confira-estas-4-dicas.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Uma das tendências de decoração que tem ganhado mais força nos últimos anos é a de montar uma sala de cinema em casa. Afinal, esse espaço, além de servir para que você assista às produções que gosta e acompanha, é uma ótima forma de relaxar após um dia cansativo de trabalho e ter a casa sempre cheia com amigos e familiares.
 
 Por essa razão, preparamos um post especial para ajudá-lo a montar esse[ ambiente](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante) e torná-lo o grande destaque do seu lar. Acompanhe e [se inspire](https://www.embracon.com.br/blog/como-escolher-as-cores-de-tintas-para-os-ambientes-da-casa)!
 
@@ -45,4 +45,3 @@ Como fazer isso? Simples: use elementos decorativos (baldes de pipoca, papel de 
 Agora que você já sabe o que é preciso para montar uma sala de cinema, não perca tempo e invista nesse tipo de ambiente que é ideal para reunir a família e os amigos e curtir o melhor da sétima arte!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

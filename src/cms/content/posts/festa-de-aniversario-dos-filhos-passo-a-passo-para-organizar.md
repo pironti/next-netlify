@@ -1,14 +1,14 @@
 ---
-        titulo: Passo a passo para organizar a festa de aniversário dos filhos
-        slug: festa-de-aniversario-dos-filhos-passo-a-passo-para-organizar
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/festa-de-aniversario-dos-filhos-passo-a-passo-para-organizar.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A [festa de aniversário dos filhos](https://www.embracon.com.br/blog/festa-de-aniversario-para-crianca-fazer-ou-nao) é sempre um momento especial, não é mesmo? As lembranças que são criadas nessas comemorações acabam nos marcando durante a vida inteira. Por isso, é comum que as pessoas sempre façam um esforço extra para garantir uma celebração inesquecível.
+titulo: Passo a passo para organizar a festa de aniversário dos filhos
+slug: festa-de-aniversario-dos-filhos-passo-a-passo-para-organizar
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/festa-de-aniversario-dos-filhos-passo-a-passo-para-organizar.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+A [festa de aniversário dos filhos](https://www.embracon.com.br/blog/festa-de-aniversario-para-crianca-fazer-ou-nao) é sempre um momento especial, não é mesmo? As lembranças que são criadas nessas comemorações acabam nos marcando durante a vida inteira. Por isso, é comum que as pessoas sempre façam um esforço extra para garantir uma celebração inesquecível.
 
 Mas nem sempre é fácil montar um evento. Existem várias coisas que exigem atenção e planejamento, e o dinheiro é um fator determinante. Apesar disso, dificilmente os pais deixam de fazer alguma coisa no [aniversário de seus filhos](https://www.embracon.com.br/blog/como-organizar-uma-festa-infantil).
 
@@ -56,4 +56,3 @@ Seguindo esses passos, a festa de aniversário dos filhos será fantástica! Par
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou desses passos e quer ter acesso a mais sugestões como estas? Siga nossos perfis nas redes sociais e não perca nenhuma novidade! Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [LinkedIn](https://www.linkedin.com/company/1018875/), [Twitter](https://twitter.com/embracon) e [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ)!
-        

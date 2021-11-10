@@ -1,14 +1,14 @@
 ---
-        titulo: Como é feita a cirurgia de pálpebras e quais são os resultados?
-        slug: como-e-feita-a-cirurgia-de-palpebras-e-quais-sao-os-resultados
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-e-feita-a-cirurgia-de-palpebras-e-quais-sao-os-resultados.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Realizada para eliminar os excedentes de pele e das bolsas que se formam sob os olhos, a [**cirurgia**](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-para-cirurgia) **de pálpebras** pode trazer excelentes resultados. Especialmente, para quem deseja revitalizar o rosto com a redução da flacidez palpebral.
+titulo: Como é feita a cirurgia de pálpebras e quais são os resultados?
+slug: como-e-feita-a-cirurgia-de-palpebras-e-quais-sao-os-resultados
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-e-feita-a-cirurgia-de-palpebras-e-quais-sao-os-resultados.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Realizada para eliminar os excedentes de pele e das bolsas que se formam sob os olhos, a [**cirurgia**](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-para-cirurgia) **de pálpebras** pode trazer excelentes resultados. Especialmente, para quem deseja revitalizar o rosto com a redução da flacidez palpebral.
 
 Também conhecida como blefaroplastia, sua realização é normalmente associada à questão estética que envolve o envelhecimento. No entanto, é importante que você saiba que o procedimento pode ser feito para corrigir problemas funcionais, geralmente relacionados ao bloqueio da visão.
 
@@ -65,4 +65,3 @@ Para finalizar, é interessante que você saiba que a recuperação da cirurgia 
 O que achou deste artigo? Gostou? Então compartilhe com os seus amigos nas redes sociais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

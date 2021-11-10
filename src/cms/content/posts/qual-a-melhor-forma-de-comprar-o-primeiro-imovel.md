@@ -1,14 +1,14 @@
 ---
-        titulo: Qual a melhor forma de comprar o primeiro imóvel?
-        slug: qual-a-melhor-forma-de-comprar-o-primeiro-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-a-melhor-forma-de-comprar-o-primeiro-imovel.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O [consórcio de imóveis](https://www.embracon.com.br/imoveis/qual-melhor-consorcio-de-imoveis) tem sido cada vez mais procurado. Conseguir comprar o primeiro imóvel é a realização de um grande sonho para a maioria dos brasileiros.
+titulo: Qual a melhor forma de comprar o primeiro imóvel?
+slug: qual-a-melhor-forma-de-comprar-o-primeiro-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-a-melhor-forma-de-comprar-o-primeiro-imovel.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O [consórcio de imóveis](https://www.embracon.com.br/imoveis/qual-melhor-consorcio-de-imoveis) tem sido cada vez mais procurado. Conseguir comprar o primeiro imóvel é a realização de um grande sonho para a maioria dos brasileiros.
 
 Esse é de fato o momento em que a pessoa decide que precisa [sair do aluguel](https://www.embracon.com.br/blog/como-sair-do-aluguel-definitivamente) e ter um local próprio, além de ser um ótimo início para um casal dar o primeiro passo da vida a dois.
 
@@ -100,4 +100,3 @@ Independente da forma de pagamento que escolher, é essencial ter um [planejamen
 > Caso tenha interesse em fazer um consórcio para comprar o primeiro imóvel, a Embracon pode te ajudar com todo processo. [Faça uma simulação.](https://www.embracon.com.br/consorcio-de-imoveis)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça 4 opções para quem quer começar a investir
-        slug: conheca-4-opcoes-para-quem-quer-comecar-a-investir
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-4-opcoes-para-quem-quer-comecar-a-investir.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        **Quando o assunto é investimento muitas pessoas ficam na dúvida. Nessa perspectiva, o mais comum é utilizar as contas poupanças, apesar do baixo retorno financeiro dessa aplicação.**Pensando nisso, elaboramos este artigo com algumas opções dos mais variados níveis de lucro e graus de risco para você c[omeçar a investir](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro).Você conhece o que é um fundo imobiliário? Conhece as vantagens competitivas de investir no[ Tesouro Direto](https://www.embracon.com.br/blog/tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber)?Continue a leitura do artigo até o fim para sanar todas as suas dúvidas. Assim, você terá mais chances de começar a investir e analisar as potencialidades de cada um.
+titulo: Conheça 4 opções para quem quer começar a investir
+slug: conheca-4-opcoes-para-quem-quer-comecar-a-investir
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-4-opcoes-para-quem-quer-comecar-a-investir.png
+meta_summary: 
+date: 06/10/2021
+---
+**Quando o assunto é investimento muitas pessoas ficam na dúvida. Nessa perspectiva, o mais comum é utilizar as contas poupanças, apesar do baixo retorno financeiro dessa aplicação.**Pensando nisso, elaboramos este artigo com algumas opções dos mais variados níveis de lucro e graus de risco para você c[omeçar a investir](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro).Você conhece o que é um fundo imobiliário? Conhece as vantagens competitivas de investir no[ Tesouro Direto](https://www.embracon.com.br/blog/tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber)?Continue a leitura do artigo até o fim para sanar todas as suas dúvidas. Assim, você terá mais chances de começar a investir e analisar as potencialidades de cada um.
 
 1. Tesouro Direto (TD)
 ----------------------
@@ -66,4 +66,3 @@ Elas são bastante conhecidas quando o assunto é investir. As empresas listadas
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

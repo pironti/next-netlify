@@ -1,14 +1,14 @@
 ---
-        titulo: Iluminação: 7 modelos de luminárias em projetos de decoração
-        slug: diferenca-entre-os-modelos-de-luminarias
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/diferenca-entre-os-modelos-de-luminarias.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Os TOP 7 modelos de luminárias mais utilizados em projetos de decoração
+titulo: Iluminação: 7 modelos de luminárias em projetos de decoração
+slug: diferenca-entre-os-modelos-de-luminarias
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/diferenca-entre-os-modelos-de-luminarias.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Os TOP 7 modelos de luminárias mais utilizados em projetos de decoração
 -----------------------------------------------------------------------
 
 Quando entramos em uma loja de artigos para casa, logo ficamos encantados. Podemos ver dezenas ou centenas de opções de [luminárias](https://www.vivadecora.com.br/produtos/luminaria-de-mesa-decorativa) de uma vez. E é normal bater aquela dúvida sobre qual a principal diferença entre os aparelhos.
@@ -76,4 +76,3 @@ E têm uma potência bem maior do que tudo utilizado no resto da casa - e pode e
 Essas dicas de decoração foram criadas pela equipe [Viva Decora](https://www.vivadecora.com.br/).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

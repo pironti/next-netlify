@@ -1,14 +1,14 @@
 ---
-        titulo: Confira 5 ideias para comemorar as bodas de casamento!
-        slug: comemorar-as-bodas-de-casamento-confira-5-ideias-quentes
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comemorar-as-bodas-de-casamento-confira-5-ideias-quentes.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Momentos especiais devem ser comemorados de maneira inesquecível, não é mesmo? Por isso, vale a pena comemorar as bodas de [casamento](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona). Hoje, muitos casais já optam por renovar os votos de união antes mesmo de completar 25 ou 50 anos juntos.
+titulo: Confira 5 ideias para comemorar as bodas de casamento!
+slug: comemorar-as-bodas-de-casamento-confira-5-ideias-quentes
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comemorar-as-bodas-de-casamento-confira-5-ideias-quentes.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Momentos especiais devem ser comemorados de maneira inesquecível, não é mesmo? Por isso, vale a pena comemorar as bodas de [casamento](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona). Hoje, muitos casais já optam por renovar os votos de união antes mesmo de completar 25 ou 50 anos juntos.
 
 Buscar alternativas para fortalecer a união do casal é uma forma de reforçar o amor e de melhorar a relação. Assim, sair da rotina e procurar momentos agradáveis é uma opção interessante para tornar a vida mais leve e agradável.
 
@@ -58,4 +58,3 @@ Se deseja manter o casamento longe da rotina e feliz, procure sempre reforçar o
 Para incentivar os amigos a festejarem as bodas de casamento, compartilhe agora mesmo este post nas redes sociais. Afinal, todos merecem curtir as fases marcantes da vida!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

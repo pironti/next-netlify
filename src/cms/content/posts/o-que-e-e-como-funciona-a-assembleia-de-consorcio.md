@@ -1,14 +1,14 @@
 ---
-        titulo: O que é e como funciona a assembleia de consórcio?
-        slug: o-que-e-e-como-funciona-a-assembleia-de-consorcio
-        categoria: Assembleias
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-a-assembleia-de-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O consórcio é uma modalidade de compra de bens de alto valor em que é preciso [pagar mensalmente por sua cota](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio) e participar das assembleias, até que seja contemplado com o bem.
+titulo: O que é e como funciona a assembleia de consórcio?
+slug: o-que-e-e-como-funciona-a-assembleia-de-consorcio
+categoria: Assembleias
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-a-assembleia-de-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O consórcio é uma modalidade de compra de bens de alto valor em que é preciso [pagar mensalmente por sua cota](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio) e participar das assembleias, até que seja contemplado com o bem.
 
 Por mais que você não tenha acesso ao bem de imediato, como acontece com a [compra à vista ou com o financiamento](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes), pelo consórcio você parcela o valor da sua compra sem precisar pagar juros ou entrada. A única cobrança é a taxa de administração do bem, que não ultrapassa 20% do valor da carta de crédito, que corresponde ao valor integral do que será comprado.
 
@@ -136,4 +136,3 @@ Como deu para perceber, a assembleia tem um papel fundamental para o consorciado
 Portanto, não perca tempo e comece desde já a investir no bem que sempre quis. [Faça uma simulação](https://www.embracon.com.br/) e dê início a um futuro próspero nas suas finanças pessoais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça os principais consórcios de serviços Embracon
-        slug: conheca-os-principais-consorcios-de-servicos-embracon
-        categoria: Serviços
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-os-principais-consorcios-de-servicos-embracon.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Os principais planos de [consórcios de serviços](https://www.embracon.com.br/consorcio-servicos) [Embracon](https://www.embracon.com.br/a-embracon) são créditos entre R$ 15 mil e R$ 30 mil, que podem ser parcelados em até 30 meses. A grande procura por essa modalidade é de pessoas que vão realizar [festas de 15 anos](https://www.embracon.com.br/blog/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona), [casamento](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona), [viagens](https://www.embracon.com.br/blog/consorcio-de-viagens-o-que-e-e-como-funciona), cirurgias estéticas. O [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) também atende outras atividades incomuns. Já pensou em comprar [cozinha planejada](https://www.embracon.com.br/blog/como-ter-uma-cozinha-funcional-em-casa), [construir piscina](https://www.embracon.com.br/blog/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras), reformar o imóvel, restaurar carros antigos? Essas, entre outras, são as possibilidades dessa modalidade.
+titulo: Conheça os principais consórcios de serviços Embracon
+slug: conheca-os-principais-consorcios-de-servicos-embracon
+categoria: Serviços
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-os-principais-consorcios-de-servicos-embracon.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Os principais planos de [consórcios de serviços](https://www.embracon.com.br/consorcio-servicos) [Embracon](https://www.embracon.com.br/a-embracon) são créditos entre R$ 15 mil e R$ 30 mil, que podem ser parcelados em até 30 meses. A grande procura por essa modalidade é de pessoas que vão realizar [festas de 15 anos](https://www.embracon.com.br/blog/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona), [casamento](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona), [viagens](https://www.embracon.com.br/blog/consorcio-de-viagens-o-que-e-e-como-funciona), cirurgias estéticas. O [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) também atende outras atividades incomuns. Já pensou em comprar [cozinha planejada](https://www.embracon.com.br/blog/como-ter-uma-cozinha-funcional-em-casa), [construir piscina](https://www.embracon.com.br/blog/afinal-vale-a-pena-ter-uma-piscina-em-casa-confira-os-pros-e-contras), reformar o imóvel, restaurar carros antigos? Essas, entre outras, são as possibilidades dessa modalidade.
 
 O principal atributo desse serviço é, exatamente, a programação de compra. Afinal, o investidor tem a possibilidade de se programar em um prazo de até 30 meses. Nesse período, ele participa mensalmente de sorteios e de lances.
 
@@ -87,4 +87,3 @@ Ficou interessado e quer [investir em um consórcio](https://www.embracon.com.br
 Quer ver a explicação em um minuto? [Assista ao vídeo](https://www.youtube.com/watch?v=-FO8uWuI4xY) sobre o consórcio de serviços!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

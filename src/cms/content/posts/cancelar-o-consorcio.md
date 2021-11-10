@@ -1,14 +1,14 @@
 ---
-        titulo: Se eu cancelar o consórcio, recebo o dinheiro de volta?
-        slug: cancelar-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cancelar-o-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quando pensamos na aquisição de um bem ou alternativas interessantes para investimento, [os consórcios surgem como uma das melhores opções](https://www.embracon.com.br/blog/quando-o-consorcio-e-uma-boa-opcao). Porém, precisamos considerar que nem sempre as coisas acontecem como planejado. Daí, somos obrigados a cancelar o contrato.
+titulo: Se eu cancelar o consórcio, recebo o dinheiro de volta?
+slug: cancelar-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cancelar-o-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quando pensamos na aquisição de um bem ou alternativas interessantes para investimento, [os consórcios surgem como uma das melhores opções](https://www.embracon.com.br/blog/quando-o-consorcio-e-uma-boa-opcao). Porém, precisamos considerar que nem sempre as coisas acontecem como planejado. Daí, somos obrigados a cancelar o contrato.
 
 É exatamente nesse momento que surge uma dúvida clássica entre boa parte dos consorciados: como fazer para [cancelar e resgatar o dinheiro](https://www.embracon.com.br/blog/devolucao-de-valores) do consórcio nesse caso?
 
@@ -125,4 +125,3 @@ Conseguiu compreender um pouco mais sobre o que acontece com o cancelamento da p
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

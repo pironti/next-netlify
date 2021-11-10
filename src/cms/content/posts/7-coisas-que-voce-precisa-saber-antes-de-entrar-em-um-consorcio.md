@@ -1,14 +1,14 @@
 ---
-        titulo: 7 coisas que você precisa saber antes de entrar em um consórcio
-        slug: 7-coisas-que-voce-precisa-saber-antes-de-entrar-em-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-coisas-que-voce-precisa-saber-antes-de-entrar-em-um-consorcio.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        **São muitas variáveis a se considerar na hora de adquirir um bem. Planejar essa aquisição para um futuro em médio ou longo prazo requer disciplina e convicção do que você realmente deseja.**No entanto, sempre [existe aquela dúvida](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio) de como alcançar o objetivo ou realizar um sonho.**Entrar em um consórcio** tem se mostrado uma maneira eficiente e bem prática de conseguir alcançar suas metas. Afinal, já são mais de 5 milhões de brasileiros ativos nessa modalidade de compra programada.É preciso ter cuidado, pois [não é qualquer empresa](https://www.embracon.com.br/blog/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher) por aí que merece a sua confiança. É necessário fazer uma análise mais apurada.Neste artigo, vamos abordar o que deve ser levado em consideração na hora de adquirir [uma cota de consórcio](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio) e garantir a segurança de um ótimo negócio. Acompanhe!
+titulo: 7 coisas que você precisa saber antes de entrar em um consórcio
+slug: 7-coisas-que-voce-precisa-saber-antes-de-entrar-em-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-coisas-que-voce-precisa-saber-antes-de-entrar-em-um-consorcio.jpg
+meta_summary: 
+date: 04/10/2021
+---
+**São muitas variáveis a se considerar na hora de adquirir um bem. Planejar essa aquisição para um futuro em médio ou longo prazo requer disciplina e convicção do que você realmente deseja.**No entanto, sempre [existe aquela dúvida](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio) de como alcançar o objetivo ou realizar um sonho.**Entrar em um consórcio** tem se mostrado uma maneira eficiente e bem prática de conseguir alcançar suas metas. Afinal, já são mais de 5 milhões de brasileiros ativos nessa modalidade de compra programada.É preciso ter cuidado, pois [não é qualquer empresa](https://www.embracon.com.br/blog/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher) por aí que merece a sua confiança. É necessário fazer uma análise mais apurada.Neste artigo, vamos abordar o que deve ser levado em consideração na hora de adquirir [uma cota de consórcio](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio) e garantir a segurança de um ótimo negócio. Acompanhe!
 
 1. Certifique a credibilidade e regularidade da empresa
 -------------------------------------------------------
@@ -55,4 +55,3 @@ Já com os imóveis os prazos são maiores, indo até 240 meses, com duas contem
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Fui contemplado mas tive o crédito recusado. E agora?
-        slug: fui-contemplado-mas-tive-o-credito-recusado-e-agora
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/fui-contemplado-mas-tive-o-credito-recusado-e-agora.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A [contemplação ](https://www.embracon.com.br/blog/quais-sao-as-formas-de-contemplacao)é um dos momentos mais esperados de quem paga o consórcio. Após meses e, muitas vezes, anos contribuindo com as mensalidades, tudo que o consorciado mais deseja é ter acesso o quanto antes à [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) para, então, adquirir o bem que tanto sonhou.
+titulo: Fui contemplado mas tive o crédito recusado. E agora?
+slug: fui-contemplado-mas-tive-o-credito-recusado-e-agora
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/fui-contemplado-mas-tive-o-credito-recusado-e-agora.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A [contemplação ](https://www.embracon.com.br/blog/quais-sao-as-formas-de-contemplacao)é um dos momentos mais esperados de quem paga o consórcio. Após meses e, muitas vezes, anos contribuindo com as mensalidades, tudo que o consorciado mais deseja é ter acesso o quanto antes à [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) para, então, adquirir o bem que tanto sonhou.
 
 Por mais que o consórcio seja uma forma menos burocrática de comprar bens de alto valor, é preciso ficar atento a alguns processos importantes, principalmente na reta final.
 
@@ -82,4 +82,3 @@ Para saber mais sobre finanças pessoais e se preparar para o momento da contemp
 > Tem interesse em fazer um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

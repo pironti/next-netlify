@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo que você pode fazer com o consórcio de serviços
-        slug: tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos
-        categoria: Serviços
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Em mais de 50 anos de história ajudando milhões de pessoas a realizar o sonho na [compra de automóveis e imóveis](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), o consórcio foi entendido como a melhor possibilidade de investir em bens de alto valor.
+titulo: Tudo que você pode fazer com o consórcio de serviços
+slug: tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos
+categoria: Serviços
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Em mais de 50 anos de história ajudando milhões de pessoas a realizar o sonho na [compra de automóveis e imóveis](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), o consórcio foi entendido como a melhor possibilidade de investir em bens de alto valor.
 
 Não é preciso se [preocupar com juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros), como acontece com o financiamento. Pelo consórcio, basta selecionar o bem que deseja comprar, definir o [valor da carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), que corresponde ao preço final desse bem, e inserir a quantidade de parcelas que deseja pagar, sempre de acordo com os limites de cada categoria.
 
@@ -292,4 +292,3 @@ Independente do seu objetivo, o [consórcio é uma forma de planejar a compra de
 Portanto, não demore para dar o primeiro passo rumo à realização de uma nova experiência incrível em sua vida. [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e aproveite todos os benefícios de uma modalidade que realiza sonhos dos brasileiros há mais de cinco décadas.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

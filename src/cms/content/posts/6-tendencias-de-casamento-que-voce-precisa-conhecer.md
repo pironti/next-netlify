@@ -1,14 +1,14 @@
 ---
-        titulo: 6 tendências de casamento que você precisa conhecer
-        slug: 6-tendencias-de-casamento-que-voce-precisa-conhecer
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-tendencias-de-casamento-que-voce-precisa-conhecer.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Sem dúvidas, o casamento está entre os momentos mais importantes na vida de muitas pessoas. Esse acontecimento é o início de um novo ciclo para o casal, e a comemoração deve fazer jus a tudo isso. Sendo assim, é interessante ficar de olho nas principais tendências de casamento.
+titulo: 6 tendências de casamento que você precisa conhecer
+slug: 6-tendencias-de-casamento-que-voce-precisa-conhecer
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-tendencias-de-casamento-que-voce-precisa-conhecer.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Sem dúvidas, o casamento está entre os momentos mais importantes na vida de muitas pessoas. Esse acontecimento é o início de um novo ciclo para o casal, e a comemoração deve fazer jus a tudo isso. Sendo assim, é interessante ficar de olho nas principais tendências de casamento.
 
 O ato de planejar uma festa, por si só, já não é tarefa fácil. Colocar em prática uma celebração que, teoricamente, só será feita uma vez na vida e precisa ficar marcada para sempre é ainda mais difícil. Por isso, promover um casamento requer muita vontade e conhecimento por parte dos envolvidos.
 
@@ -75,4 +75,3 @@ Como esse é um evento que pode gerar gastos expressivos, é importante organiza
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

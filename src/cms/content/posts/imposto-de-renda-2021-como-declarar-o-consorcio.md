@@ -1,14 +1,14 @@
 ---
-        titulo: Imposto de Renda 2021: como declarar o consórcio
-        slug: imposto-de-renda-2021-como-declarar-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/imposto-de-renda-2021-como-declarar-o-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A declaração do imposto de renda é uma das certezas da vida que se repete todo ano.
+titulo: Imposto de Renda 2021: como declarar o consórcio
+slug: imposto-de-renda-2021-como-declarar-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/imposto-de-renda-2021-como-declarar-o-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A declaração do imposto de renda é uma das certezas da vida que se repete todo ano.
 
 Comparado ao [ano passado](https://www.embracon.com.br/blog/irpf-2020-saiba-o-que-mudou-e-como-declarar-seu-consorcio), a declaração de 2021 tem algumas mudanças. A mais polêmica delas tem a ver com o apontamento do auxílio emergencial. Quem teve acesso às parcelas, mas possui um rendimento anual acima de R$ 22.847,76, não precisa somente declarar; também será necessário [devolver esse dinheiro, em uma parcela única](https://economia.uol.com.br/imposto-de-renda/noticias/redacao/2021/03/21/imposto-de-renda-2021-como-declarar-auxilio-emergencial.htm).
 
@@ -75,4 +75,3 @@ Se ainda não tiver declarado o Imposto de Renda 2021, organize-se para montar a
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=imposto_de_renda_2021&utm_campaign=publicacoes_blog)</figure>### ‍  
   
-        

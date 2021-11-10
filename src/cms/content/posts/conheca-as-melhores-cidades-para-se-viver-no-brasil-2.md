@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça as melhores cidades para se viver no Brasil
-        slug: conheca-as-melhores-cidades-para-se-viver-no-brasil-2
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-as-melhores-cidades-para-se-viver-no-brasil-2.png
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Quando se fala em [grandes cidades para se viver no Brasil](https://www.embracon.com.br/blog/conheca-as-melhores-cidades-para-se-viver-no-brasil), automaticamente vem na cabeça as grandes capitais. Afinal, em cidades como São Paulo, Belo Horizonte e Rio de Janeiro há um número maior de oportunidades e empresas de grande porte.
+titulo: Conheça as melhores cidades para se viver no Brasil
+slug: conheca-as-melhores-cidades-para-se-viver-no-brasil-2
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-as-melhores-cidades-para-se-viver-no-brasil-2.png
+meta_summary: 
+date: 01/10/2021
+---
+Quando se fala em [grandes cidades para se viver no Brasil](https://www.embracon.com.br/blog/conheca-as-melhores-cidades-para-se-viver-no-brasil), automaticamente vem na cabeça as grandes capitais. Afinal, em cidades como São Paulo, Belo Horizonte e Rio de Janeiro há um número maior de oportunidades e empresas de grande porte.
 
 Porém, esses locais nem sempre contam com a melhor infraestrutura para se [constituir uma família](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos), [educar os filhos](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon) e manter um [bom padrão de vida](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), por exemplo.
 
@@ -114,4 +114,3 @@ Além disso, Itupeva tem boa malha ferroviária e apresenta altos índices de sa
 > Saiba mais: [Comprar um terreno: veja em quais situações vale a pena.](https://www.embracon.com.br/blog/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

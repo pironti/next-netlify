@@ -1,14 +1,14 @@
 ---
-        titulo: Home office: 5 dicas para manter o cantinho de trabalho organizado
-        slug: home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Devido à pandemia, o home office passou a se tornar uma realidade imposta para milhões de brasileiros. Como forma de conter a contaminação do coronavírus, muitas empresas se viram obrigadas a contar com os seus colaboradores [trabalhando de casa](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
+titulo: Home office: 5 dicas para manter o cantinho de trabalho organizado
+slug: home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Devido à pandemia, o home office passou a se tornar uma realidade imposta para milhões de brasileiros. Como forma de conter a contaminação do coronavírus, muitas empresas se viram obrigadas a contar com os seus colaboradores [trabalhando de casa](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia).
 
 Isso representou um desafio enorme para muitas pessoas: um levantamento realizado pela empresa especializada em recrutamento online Catho mostrou que apenas 37% dos brasileiros fizeram home office em algum momento da sua vida profissional. Ou seja, mais da metade dos trabalhadores estão passando por essa transição pela primeira vez.
 
@@ -54,4 +54,3 @@ Com estas dicas, você tem tudo para ter um home office mais produtivo e se apai
 > Depois das dicas, pensando em reformar o cantinho para seu trabalho? A Embracon te dá uma mãozinha, [faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

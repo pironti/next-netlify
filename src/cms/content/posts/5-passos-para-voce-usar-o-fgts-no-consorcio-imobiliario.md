@@ -1,14 +1,14 @@
 ---
-        titulo: 5 passos para você usar o FGTS no consórcio imobiliário
-        slug: 5-passos-para-voce-usar-o-fgts-no-consorcio-imobiliario
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-passos-para-voce-usar-o-fgts-no-consorcio-imobiliario.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Quer saber se é possível usar o FGTS no consórcio imobiliário? Pois bem, a resposta é sim, você pode usar o saldo nessa modalidade de compra. O saldo da conta vinculada ao FGTS (Fundo de Garantia do Tempo de Serviço) pode ser um excelente aliado para facilitar ou adiantar a compra da sua casa própria. Inclusive por meio do Sistema de Consórcios.
+titulo: 5 passos para você usar o FGTS no consórcio imobiliário
+slug: 5-passos-para-voce-usar-o-fgts-no-consorcio-imobiliario
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-passos-para-voce-usar-o-fgts-no-consorcio-imobiliario.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Quer saber se é possível usar o FGTS no consórcio imobiliário? Pois bem, a resposta é sim, você pode usar o saldo nessa modalidade de compra. O saldo da conta vinculada ao FGTS (Fundo de Garantia do Tempo de Serviço) pode ser um excelente aliado para facilitar ou adiantar a compra da sua casa própria. Inclusive por meio do Sistema de Consórcios.
 
 Vamos relembrar o que é o **consórcio imobiliário**? Nesse sistema, inúmeras pessoas se unem em um grupo para formar uma poupança única, a qual será destinada à aquisição de um imóvel, em prazo determinado. Assim, somando as contribuições dos consorciados, são distribuídos créditos, a partir de sorteio ou de lance.
 
@@ -87,4 +87,3 @@ Enfim, agora que você já sabe que é possível usar o FGTS no consórcio, não
 Quer aproveitar essa oportunidade de adiantar a compra da sua casa? Então aproveite para [entrar em contato conosco](https://www.embracon.com.br/) e saber mais sobre essa facilidade no consórcio!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![simule-um-consórcio-de-imóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5cd048f452e8417d3fdbbbd1_Prancheta-1-300x129.png)</div></figure>
-        

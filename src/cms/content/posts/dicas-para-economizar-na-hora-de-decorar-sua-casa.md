@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para economizar na hora de decorar sua casa
-        slug: dicas-para-economizar-na-hora-de-decorar-sua-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-economizar-na-hora-de-decorar-sua-casa.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        [Você conseguiu construir ou comprar](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar) o seu tão sonhado lar e chegou a hora de decorá-lo. Mas sabia que essa não precisa ser uma função tão cara quanto a gente imagina? Com algumas dicas, é possível fazer uma decoração moderna e em conta, reutilizando itens e aproveitando melhor os espaços, e até customizando objetos antigos em lindas peças.
+titulo: Dicas para economizar na hora de decorar sua casa
+slug: dicas-para-economizar-na-hora-de-decorar-sua-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-economizar-na-hora-de-decorar-sua-casa.jpg
+meta_summary: 
+date: 30/09/2021
+---
+[Você conseguiu construir ou comprar](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar) o seu tão sonhado lar e chegou a hora de decorá-lo. Mas sabia que essa não precisa ser uma função tão cara quanto a gente imagina? Com algumas dicas, é possível fazer uma decoração moderna e em conta, reutilizando itens e aproveitando melhor os espaços, e até customizando objetos antigos em lindas peças.
 
 Com esse intuito, preparamos algumas dicas para economizar na decoração da[ casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce) novo com muita criatividade, pagando pouco e de forma sustentável.
 
@@ -69,4 +69,3 @@ Na hora de decorar a casa, um bom tapete pode fazer toda a diferença. Eles deix
 > Gostou das dicas? Você pode contar com o consórcio da Embracon na hora de decorar seu lar. Confira já as facilidades e [faça uma simulação em nosso site](https://www.embracon.com.br/consorcio-servicos).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

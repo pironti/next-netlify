@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como é possível manter a saúde financeira da sua família
-        slug: entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Chegou o fim do mês! Você olha para a sua conta e fica feliz com o depósito do salário. Porém, é uma felicidade momentânea: não demora muito para você ver o dinheiro evaporando pouco a pouco.
+titulo: Entenda como é possível manter a saúde financeira da sua família
+slug: entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-e-possivel-manter-a-saude-financeira-da-sua-familia.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Chegou o fim do mês! Você olha para a sua conta e fica feliz com o depósito do salário. Porém, é uma felicidade momentânea: não demora muito para você ver o dinheiro evaporando pouco a pouco.
 
 Contas de casa, [parcelas do cartão de crédito](https://www.embracon.com.br/blog/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado), separar dinheiro para o supermercado… Quando se vê, não sobrou quase nada do que você havia programado. E fica cada vez mais difícil planejar uma viagem, comprar um presente especial para a família ou até mesmo fazer um passeio no fim de semana sem se preocupar com o tanto que iria gastar.
 
@@ -87,4 +87,3 @@ Para evitar que os consumidores se compliquem com os valores das parcelas, as ad
 > É por isso e muito mais que o consórcio pode ser seu ‘parceiro’ na sua saúde financeira. [Faça uma simulação](https://www.embracon.com.br/consorcio) do bem que deseja e mantenha as finanças da sua família em dia.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

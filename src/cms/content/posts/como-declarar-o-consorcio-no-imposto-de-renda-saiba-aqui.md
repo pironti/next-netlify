@@ -1,14 +1,14 @@
 ---
-        titulo: Imposto de Renda: saiba aqui como declarar o consórcio
-        slug: como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Muitas pessoas sabem que o consórcio é uma ótima opção para quem deseja adquirir um bem e não possui disciplina necessária para economizar dinheiro. Entretanto, o que pouca gente sabe: é obrigatório [declarar](https://www.embracon.com.br/conhecaoconsorcio/como-declarar-o-consorcio-no-imposto-de-renda) à Receita Federal na entrega do [Imposto de Renda.](https://www.embracon.com.br/blog/irpf-2020-saiba-o-que-mudou-e-como-declarar-seu-consorcio) Isso se deve ao fato do consórcio ser considerado uma das várias categorias de bens para fins de declaração.
+titulo: Imposto de Renda: saiba aqui como declarar o consórcio
+slug: como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-declarar-o-consorcio-no-imposto-de-renda-saiba-aqui.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Muitas pessoas sabem que o consórcio é uma ótima opção para quem deseja adquirir um bem e não possui disciplina necessária para economizar dinheiro. Entretanto, o que pouca gente sabe: é obrigatório [declarar](https://www.embracon.com.br/conhecaoconsorcio/como-declarar-o-consorcio-no-imposto-de-renda) à Receita Federal na entrega do [Imposto de Renda.](https://www.embracon.com.br/blog/irpf-2020-saiba-o-que-mudou-e-como-declarar-seu-consorcio) Isso se deve ao fato do consórcio ser considerado uma das várias categorias de bens para fins de declaração.
 
 Além do fato de que, ao declarar o pagamento das parcelas, o Fisco consegue realizar uma análise mais aprofundada sobre seu fluxo de caixa.
 
@@ -104,4 +104,3 @@ Se tiver gostado dessas dicas e quiser receber mais informações desse tipo em 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

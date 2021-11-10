@@ -1,14 +1,14 @@
 ---
-        titulo: Mudanças no consórcio durante a pandemia
-        slug: mudancas-no-consorcio-durante-a-pandemia
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/mudancas-no-consorcio-durante-a-pandemia.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        2020 certamente é um ano que entrará para a história. A [pandemia do coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) trouxe inúmeros desafios para todos os setores da economia, principalmente com o objetivo de ajudar o ativo mais importante de qualquer negócio: as pessoas.
+titulo: Mudanças no consórcio durante a pandemia
+slug: mudancas-no-consorcio-durante-a-pandemia
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/mudancas-no-consorcio-durante-a-pandemia.jpg
+meta_summary: 
+date: 30/09/2021
+---
+2020 certamente é um ano que entrará para a história. A [pandemia do coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) trouxe inúmeros desafios para todos os setores da economia, principalmente com o objetivo de ajudar o ativo mais importante de qualquer negócio: as pessoas.
 
 Com o consórcio não poderia ser diferente. A força de representatividade da **Associação Brasileira das Administradoras de Consórcio (ABAC) junto ao Banco Central do Brasil (Bacen)**, que regula todas as atividades do setor, foi extremamente importante para que as empresas pudessem se adequar a essa realidade.
 
@@ -74,4 +74,3 @@ Caso você já tenha quitado seu consórcio e precise ter acesso à carta de cr�
 > E, caso queira investir desde já em uma modalidade flexível para a aquisição de bens de alto valor, [faça já uma simulação](https://www.embracon.com.br/consorcio) no nosso site e conte com a transparência e credibilidade de uma administradora que realiza sonhos há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

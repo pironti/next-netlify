@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para começar a empreender
-        slug: dicas-para-comecar-a-empreender
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-comecar-a-empreender.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Em contexto de crise, como a que estamos passando, de [Covid-19](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia), é comum que as pessoas comecem a adotar novos comportamentos, principalmente quando o problema desencadeia desemprego em massa.
+titulo: Dicas para começar a empreender
+slug: dicas-para-comecar-a-empreender
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-comecar-a-empreender.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Em contexto de crise, como a que estamos passando, de [Covid-19](https://www.embracon.com.br/blog/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia), é comum que as pessoas comecem a adotar novos comportamentos, principalmente quando o problema desencadeia desemprego em massa.
 
 No Brasil, não poderia ser diferente. Para se ter uma ideia, o Brasil ocupa o topo da lista do número de empreendedores, à frente de nações como China, Estados Unidos e Japão, segundo [pesquisa da Global Entrepreneurship Monitor (GEM)](https://cei.ufg.br/n/85351-brasil-esta-no-topo-do-ranking-mundial-de-empreendedorismo).
 
@@ -79,4 +79,3 @@ Em relação ao conhecimento em vendas, você pode treinar sua argumentação e 
 Agora que você já sabe como impulsionar seu negócio, veja como [estruturar seu planejamento financeiro da melhor forma](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), para conquistar seus objetivos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

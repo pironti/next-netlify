@@ -1,14 +1,14 @@
 ---
-        titulo: Faculdade de enfermagem: fique por dentro do curso e da profissão
-        slug: faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Entre os [cursos mais procurados](https://www.embracon.com.br/blog/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo) da área da saúde, está a [**faculdade de Enfermagem**](https://www.embracon.com.br/blog/conheca-4-formas-de-pagar-a-faculdade). Com duração de 4 ou 5 anos, o curso é responsável por formar os profissionais que auxiliam os médicos e cuidam, diretamente, dos pacientes em clínicas e hospitais.
+titulo: Faculdade de enfermagem: fique por dentro do curso e da profissão
+slug: faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faculdade-de-enfermagem-fique-por-dentro-do-curso-e-da-profissao.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Entre os [cursos mais procurados](https://www.embracon.com.br/blog/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo) da área da saúde, está a [**faculdade de Enfermagem**](https://www.embracon.com.br/blog/conheca-4-formas-de-pagar-a-faculdade). Com duração de 4 ou 5 anos, o curso é responsável por formar os profissionais que auxiliam os médicos e cuidam, diretamente, dos pacientes em clínicas e hospitais.
 
 No dia a dia da profissão, os enfermeiros atuam em diferentes momentos, sempre no sentido de proporcionar bem-estar aos doentes. Podem, por exemplo, trabalhar na triagem antes do atendimento médico, aferindo a pressão e medindo a temperatura do paciente, ou, até mesmo, auxiliar cirurgiões em operações.
 
@@ -63,4 +63,3 @@ Agora que você já sabe tudo o que precisa sobre a [**faculdade de Enfermagem**
 > [Consórcio para pagar faculdade: o que é e como funciona](https://www.embracon.com.br/blog/consorcio-embracon-para-pagar-faculdade)‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

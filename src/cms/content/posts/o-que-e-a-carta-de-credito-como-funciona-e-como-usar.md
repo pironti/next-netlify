@@ -1,14 +1,14 @@
 ---
-        titulo: O que é a carta de crédito, como funciona e como usar?
-        slug: o-que-e-a-carta-de-credito-como-funciona-e-como-usar
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-a-carta-de-credito-como-funciona-e-como-usar.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Muitas pessoas têm dúvidas quando buscam entender [como funciona o consórcio](https://www.embracon.com.br/blog/como-funciona-consorcio-de-imoveis). Isso porque não tem como explicar o segmento sem explicar o conceito de carta de crédito.
+titulo: O que é a carta de crédito, como funciona e como usar?
+slug: o-que-e-a-carta-de-credito-como-funciona-e-como-usar
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-a-carta-de-credito-como-funciona-e-como-usar.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Muitas pessoas têm dúvidas quando buscam entender [como funciona o consórcio](https://www.embracon.com.br/blog/como-funciona-consorcio-de-imoveis). Isso porque não tem como explicar o segmento sem explicar o conceito de carta de crédito.
 
 Neste artigo, vamos falar sobre tudo relacionado ao consórcio, [o que é carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), como ela funciona e suas opções enquanto consorciado. Confira a seguir.
 
@@ -186,4 +186,3 @@ Mas, se tiver dificuldades e precisar diminuir o valor da parcela, não deixe de
 > E então, finalmente se sente mais seguro para começar a investir na sua carta de crédito por meio do consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=carta_de_credito&utm_campaign=publicacoes_blog) e realize o sonho de comprar uma nova casa, carro, moto ou adquirir um de nossos serviços.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=carta_de_credito&utm_campaign=publicacoes_blog)</figure>
-        

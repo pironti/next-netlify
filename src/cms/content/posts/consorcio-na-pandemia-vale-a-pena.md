@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio na pandemia: vale a pena?
-        slug: consorcio-na-pandemia-vale-a-pena
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-na-pandemia-vale-a-pena.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Desde que a [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar) pegou o mundo inteiro desprevenido, muitos países têm sofrido com a recessão econômica, a alta do desemprego e com o alto número de mortes, principalmente do grupo mais vulnerável: dos idosos.
+titulo: Consórcio na pandemia: vale a pena?
+slug: consorcio-na-pandemia-vale-a-pena
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-na-pandemia-vale-a-pena.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Desde que a [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar) pegou o mundo inteiro desprevenido, muitos países têm sofrido com a recessão econômica, a alta do desemprego e com o alto número de mortes, principalmente do grupo mais vulnerável: dos idosos.
 
 Por conta disso, a f[orma com que nos relacionamos com o consumo mudou no mundo inteiro](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). A Organização Mundial da Saúde (OMS) recomendou o isolamento social como forma de impedir que o coronavírus se espalhe. E, mesmo com a chegada das vacinas, o mundo de hoje já é bem diferente do ano passado: as pessoas continuam usando máscara, praticando o isolamento da forma que podem e realizando compras de forma digital.
 
@@ -168,4 +168,3 @@ Afinal, um desconto de 5% a 10% (ou até mais) em uma compra de cinco ou seis d�
 Portanto, não adie o seu sonho por conta da pandemia. [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) e conte com o consórcio para a conquista de seus objetivos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como investir em veículos pesados com o consórcio Embracon
-        slug: saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Como forma de facilitar para que mais profissionais possam contar com o consórcio, a Embracon agora oferece diretamente a possibilidade de compra de veículos pesados de forma direta, sem a intermediação de parceiros.
+titulo: Saiba como investir em veículos pesados com o consórcio Embracon
+slug: saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-investir-em-veiculos-pesados-com-o-consorcio-embracon.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Como forma de facilitar para que mais profissionais possam contar com o consórcio, a Embracon agora oferece diretamente a possibilidade de compra de veículos pesados de forma direta, sem a intermediação de parceiros.
 
 Assim surge a categoria “Pesados”, que dá a possibilidade de [comprar ônibus, tratores, máquinas agrícolas](https://www.embracon.com.br/blog/como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes) e diferentes tipos de caminhões com toda a facilidade do consórcio.
 
@@ -73,4 +73,3 @@ Além disso, é possível investir em mais de uma cota de veículos pesados, cas
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-de-veiculos-pesados) e aproveite os benefícios do consórcio para a compra de ônibus, caminhões, tratores e maquinários agrícolas.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Veículos Pesados](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados)</figure>
-        

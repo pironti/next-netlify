@@ -1,14 +1,14 @@
 ---
-        titulo: Carros mais baratos: os modelos de até R$ 40 mil
-        slug: carros-mais-baratos-os-modelos-de-ate-r-40-mil
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carros-mais-baratos-os-modelos-de-ate-r-40-mil.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Pelo menos dois fatores pesam bastante na hora de [escolher o novo automóvel](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020): o modelo, seja aquele dos sonhos ou o que mais atende às suas necessidades; e o preço, que esteja dentro do seu orçamento.
+titulo: Carros mais baratos: os modelos de até R$ 40 mil
+slug: carros-mais-baratos-os-modelos-de-ate-r-40-mil
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carros-mais-baratos-os-modelos-de-ate-r-40-mil.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Pelo menos dois fatores pesam bastante na hora de [escolher o novo automóvel](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020): o modelo, seja aquele dos sonhos ou o que mais atende às suas necessidades; e o preço, que esteja dentro do seu orçamento.
 
 Os **carros mais baratos** são os chamados ‘populares’. Geralmente têm kit básico, [câmbio manual](https://www.embracon.com.br/blog/carro-manual-ou-automatico-qual-e-a-melhor-opcao) e conforto reduzido. Ao contrário de [modelos sedan ou SUV](https://www.embracon.com.br/blog/sedan-ou-suv-qual-e-o-melhor-modelo), são mais compactos e [economizam mais combustível](https://www.embracon.com.br/blog/afinal-quais-sao-os-carros-mais-economicos-do-mercado).
 
@@ -74,4 +74,3 @@ Com tantas opções no mercado, facilmente você encontrará um modelo que atend
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

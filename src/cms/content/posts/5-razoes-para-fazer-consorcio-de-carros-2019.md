@@ -1,14 +1,14 @@
 ---
-        titulo: 5 boas razões para fazer um consórcio de carros em 2019
-        slug: 5-razoes-para-fazer-consorcio-de-carros-2019
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-razoes-para-fazer-consorcio-de-carros-2019.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Quando o ano está começando, temos várias metas pela frente, promessas a cumprir e muita coisa para renovar em nossas vidas, não é mesmo? Dentre elas, trocar o automóvel pode estar na lista. Nesse caso, que tal optar pelo[ consórcio de carros em 2019](https://www.embracon.com.br/consorcio-carros)?
+titulo: 5 boas razões para fazer um consórcio de carros em 2019
+slug: 5-razoes-para-fazer-consorcio-de-carros-2019
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-razoes-para-fazer-consorcio-de-carros-2019.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Quando o ano está começando, temos várias metas pela frente, promessas a cumprir e muita coisa para renovar em nossas vidas, não é mesmo? Dentre elas, trocar o automóvel pode estar na lista. Nesse caso, que tal optar pelo[ consórcio de carros em 2019](https://www.embracon.com.br/consorcio-carros)?
 
 Essa é opção interessante para quem quer começar o ano com o pé direito. Dessa forma, além da segurança e comodidade, o consórcio de veículos oferece uma gama de vantagens que podem fazer dele o melhor investimento para você.
 
@@ -60,4 +60,3 @@ Viu como esse investimento é adaptável à sua necessidade? Com tantas vantagen
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

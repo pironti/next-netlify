@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o encerramento do grupo de um consórcio?
-        slug: como-funciona-o-encerramento-do-grupo-de-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-encerramento-do-grupo-de-um-consorcio.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Um grupo de consórcio é a união de pessoas para formação de um fundo comum por meio de contribuição mensal dos membros. O dinheiro é destinado à compra de bens ou serviços, como carros,[ imóveis](https://www.embracon.com.br/consorcio-de-imoveis), viagens, festas e [cirurgias plásticas](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). Porém, você sabe o que acontece com o [encerramento de grupo](https://www.embracon.com.br/consultar-grupos-encerrados) do consórcio?
+titulo: Como funciona o encerramento do grupo de um consórcio?
+slug: como-funciona-o-encerramento-do-grupo-de-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-encerramento-do-grupo-de-um-consorcio.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Um grupo de consórcio é a união de pessoas para formação de um fundo comum por meio de contribuição mensal dos membros. O dinheiro é destinado à compra de bens ou serviços, como carros,[ imóveis](https://www.embracon.com.br/consorcio-de-imoveis), viagens, festas e [cirurgias plásticas](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). Porém, você sabe o que acontece com o [encerramento de grupo](https://www.embracon.com.br/consultar-grupos-encerrados) do consórcio?
 
 Após 60 dias do encerramento do grupo, é calculado o [fundo de reserva](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-fundo-de-reserva). Caso exista saldo remanescente, é dividido entre os participantes. Esse valor apurado é dividido proporcionalmente e creditado aos consorciados que têm direito ao recebimento.
 
@@ -85,4 +85,3 @@ O encerramento de grupo do consórcio é muito [importante e a escolha da admini
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

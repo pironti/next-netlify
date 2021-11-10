@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda os principais termos do consórcio
-        slug: entenda-os-principais-termos-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-os-principais-termos-do-consorcio.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        O consórcio já existe há mais de 50 anos como uma modalidade puramente brasileira. Em uma época de difícil acesso ao crédito, diversos funcionários de um banco se juntaram para criar uma espécie de poupança coletiva, com o objetivo de [comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha).
+titulo: Entenda os principais termos do consórcio
+slug: entenda-os-principais-termos-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-os-principais-termos-do-consorcio.jpg
+meta_summary: 
+date: 29/09/2021
+---
+O consórcio já existe há mais de 50 anos como uma modalidade puramente brasileira. Em uma época de difícil acesso ao crédito, diversos funcionários de um banco se juntaram para criar uma espécie de poupança coletiva, com o objetivo de [comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha).
 
 Aos poucos, diversas instituições se interessaram em implementar o modelo. Isso ajudou o mercado de automóveis a se expandir e, principalmente, permitiu que as pessoas pudessem realizar o [sonho de comprar bens de alto valor](https://www.embracon.com.br/blog/e-possivel-comprar-um-bem-maior-do-que-minha-carta-de-credito-a-embracon-responde) sem ter que fazer um empréstimo ou comprometer parte substancial dos rendimentos mensais.
 
@@ -267,4 +267,3 @@ Portanto,[ aproveite o nosso blog](https://www.embracon.com.br/blog/) para se in
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja todas as vantagens de investir no seu próximo bem com o consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

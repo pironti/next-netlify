@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça 4 destinos incríveis para passar férias em família
-        slug: conheca-4-destinos-incriveis-para-passar-ferias-em-familia
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-4-destinos-incriveis-para-passar-ferias-em-familia.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Chegou o tão aguardado momento: [férias em família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos). Época de esquecer um pouco os problemas e aproveitar um tempo com os familiares. É nesse instante, porém, que fazemos as mesmas perguntas: quais os [lugares ideais](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil) para termos as melhores experiências?
+titulo: Conheça 4 destinos incríveis para passar férias em família
+slug: conheca-4-destinos-incriveis-para-passar-ferias-em-familia
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-4-destinos-incriveis-para-passar-ferias-em-familia.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Chegou o tão aguardado momento: [férias em família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos). Época de esquecer um pouco os problemas e aproveitar um tempo com os familiares. É nesse instante, porém, que fazemos as mesmas perguntas: quais os [lugares ideais](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil) para termos as melhores experiências?
 
 Se você está com essa dúvida, este post certamente o ajudará. Aqui encontrará 4 dicas incríveis sobre destinos para passar férias em família. Boa leitura!
 
@@ -55,4 +55,3 @@ Férias em família é um momento de relaxar, aproveitar a companhia uns dos out
 Esses foram alguns dos destinos para passar férias em família que podem proporcionar bons momentos juntos. Já sabe qual será o próximo destino? Se você gostou deste post, assine nossa newsletter para receber mais conteúdos como este.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

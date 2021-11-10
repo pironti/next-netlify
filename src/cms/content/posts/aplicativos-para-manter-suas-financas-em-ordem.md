@@ -1,14 +1,14 @@
 ---
-        titulo: Aplicativos para manter suas finanças em ordem
-        slug: aplicativos-para-manter-suas-financas-em-ordem
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/aplicativos-para-manter-suas-financas-em-ordem.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O dinheiro pode ajudá-lo a realizar alguns de seus maiores ***sonhos*** ou ser a causa de suas noites sem dormir. Pode ser o que vai melhorar sua vida ou você pode utilizá-lo para ajudar outras pessoas. Seja como for, é essencial você saber como [organizar suas finanças](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal), para evitar contratempos e atrasos nos seus ***planos***.
+titulo: Aplicativos para manter suas finanças em ordem
+slug: aplicativos-para-manter-suas-financas-em-ordem
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/aplicativos-para-manter-suas-financas-em-ordem.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O dinheiro pode ajudá-lo a realizar alguns de seus maiores ***sonhos*** ou ser a causa de suas noites sem dormir. Pode ser o que vai melhorar sua vida ou você pode utilizá-lo para ajudar outras pessoas. Seja como for, é essencial você saber como [organizar suas finanças](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal), para evitar contratempos e atrasos nos seus ***planos***.
 
 Porque organizar minhas finanças? 
 ----------------------------------
@@ -82,4 +82,3 @@ O Guiabolso permite que você cadastre-se e [acompanhe a situação financeira](
 Esses são alguns aplicativos para te ajudar com as finanças, gostou? Continue nos acompanhando para ter acesso a mais conteúdos como esse.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

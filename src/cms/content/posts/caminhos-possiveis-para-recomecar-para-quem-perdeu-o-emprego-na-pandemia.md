@@ -1,14 +1,14 @@
 ---
-        titulo: Caminhos possíveis para recomeçar para quem perdeu o emprego na pandemia
-        slug: caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        2020 foi um dos anos mais desafiadores da história. A [pandemia do coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) fez com que muitas pessoas acabassem perdendo o emprego. Apesar disso, com a chegada da vacina e com as possibilidades de melhoria da economia, essa é a hora de se reinventar.
+titulo: Caminhos possíveis para recomeçar para quem perdeu o emprego na pandemia
+slug: caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/caminhos-possiveis-para-recomecar-para-quem-perdeu-o-emprego-na-pandemia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+2020 foi um dos anos mais desafiadores da história. A [pandemia do coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) fez com que muitas pessoas acabassem perdendo o emprego. Apesar disso, com a chegada da vacina e com as possibilidades de melhoria da economia, essa é a hora de se reinventar.
 
 Sabemos que a situação ainda não está fácil e que não existe receita milagrosa. Mas existem alguns caminhos para se recolocar no mercado e conseguir gerar renda. Para isso, juntamos algumas dicas para quem [perdeu o emprego](https://www.embracon.com.br/blog/fui-demitido-e-agora-como-pagar-as-minhas-contas) em 2020 e está em busca de uma nova oportunidade em 2021.
 
@@ -59,4 +59,3 @@ Não se esqueça da possibilidade de[ fazer um consórcio](https://www.embracon.
 > Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

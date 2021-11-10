@@ -1,14 +1,14 @@
 ---
-        titulo: Quer saber como organizar uma viagem? Aqui está o passo a passo!
-        slug: quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo.jpeg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Planejando curtir as férias ou o feriado prolongado em algum lugar diferente, mas não sabe por onde começar? Está em dúvida quanto aos destinos e um pouco incerto no que se refere à preparação dos roteiros? Independentemente do que for sua preocupação, preparamos este artigo para apresentar algumas dicas sobre como organizar uma viagem.
+titulo: Quer saber como organizar uma viagem? Aqui está o passo a passo!
+slug: quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo.jpeg
+meta_summary: 
+date: 29/09/2021
+---
+Planejando curtir as férias ou o feriado prolongado em algum lugar diferente, mas não sabe por onde começar? Está em dúvida quanto aos destinos e um pouco incerto no que se refere à preparação dos roteiros? Independentemente do que for sua preocupação, preparamos este artigo para apresentar algumas dicas sobre como organizar uma viagem.
 
 Seja no Brasil, seja no exterior, é importante que você tome determinados cuidados para evitar problemas e imprevistos . Do contrário, eles podem colocar toda a sua experiência a perder.
 
@@ -73,4 +73,3 @@ Quanto ao dinheiro, você pode trocar o Real pela moeda local aqui no Brasil ou 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

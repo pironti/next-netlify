@@ -1,14 +1,14 @@
 ---
-        titulo: Como ensinar educação financeira aos filhos?
-        slug: como-ensinar-educacao-financeira-aos-filhos
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-ensinar-educacao-financeira-aos-filhos.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Os brasileiros têm se interessado cada vez mais em [usar o dinheiro de forma inteligente](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira). Inclusive, é comum ouvir muitas pessoas reclamando que gostariam de [aprender sobre finanças pessoais](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) na escola. Assim, teriam encarado a relação com o dinheiro de forma diferente [antes de chegar ao endividamento](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais).
+titulo: Como ensinar educação financeira aos filhos?
+slug: como-ensinar-educacao-financeira-aos-filhos
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-ensinar-educacao-financeira-aos-filhos.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Os brasileiros têm se interessado cada vez mais em [usar o dinheiro de forma inteligente](https://www.embracon.com.br/blog/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira). Inclusive, é comum ouvir muitas pessoas reclamando que gostariam de [aprender sobre finanças pessoais](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) na escola. Assim, teriam encarado a relação com o dinheiro de forma diferente [antes de chegar ao endividamento](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais).
 
 Para evitar que as novas gerações passem por dificuldades semelhantes na forma com que utilizam o dinheiro, muitos pais têm se preocupado em [ensinar aos filhos educação financeira](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro) desde cedo.
 
@@ -88,4 +88,3 @@ Muitos pais também têm o desejo de presentear os filhos com um[ carro](https:/
 > [Faça uma simulação](https://www.embracon.com.br/) e confira as vantagens de uma modalidade em que não há cobrança de juros, nem valor de entrada.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

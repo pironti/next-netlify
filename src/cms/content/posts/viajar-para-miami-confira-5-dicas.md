@@ -1,14 +1,14 @@
 ---
-        titulo: Viajar para Miami: confira 5 dicas
-        slug: viajar-para-miami-confira-5-dicas
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/viajar-para-miami-confira-5-dicas.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Sol, calor, pessoas bonitas, belas praias e uma vida noturna bastante agitada são alguns dos motivos para você **viajar para Miami**. A cidade é conhecida como a capital não oficial dos [Estados Unidos](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua). Também é famosa pela diversidade cultural.
+titulo: Viajar para Miami: confira 5 dicas
+slug: viajar-para-miami-confira-5-dicas
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/viajar-para-miami-confira-5-dicas.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Sol, calor, pessoas bonitas, belas praias e uma vida noturna bastante agitada são alguns dos motivos para você **viajar para Miami**. A cidade é conhecida como a capital não oficial dos [Estados Unidos](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua). Também é famosa pela diversidade cultural.
 
 Contudo, para que a visita seja ainda melhor, é preciso seguir algumas práticas.
 
@@ -62,4 +62,3 @@ Está preparando sua viagem para Miami ou acabou de chegar? Conte-nos suas exper
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são os principais golpes financeiros no mercado?
-        slug: quais-sao-os-principais-golpes-financeiros-no-mercado
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-os-principais-golpes-financeiros-no-mercado.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Existem muitas pessoas mal intencionadas que se aproveitam dos dados de consumidores com o objetivo de [aplicar golpes financeiros](https://www.embracon.com.br/blog/5-dicas-para-nao-cair-em-golpes-financeiros), que geram milhões de reais em prejuízo anualmente.
+titulo: Quais são os principais golpes financeiros no mercado?
+slug: quais-sao-os-principais-golpes-financeiros-no-mercado
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-os-principais-golpes-financeiros-no-mercado.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Existem muitas pessoas mal intencionadas que se aproveitam dos dados de consumidores com o objetivo de [aplicar golpes financeiros](https://www.embracon.com.br/blog/5-dicas-para-nao-cair-em-golpes-financeiros), que geram milhões de reais em prejuízo anualmente.
 
 Esse tipo de golpe, infelizmente, é cada vez mais comum e se vale do uso da tecnologia e da vulnerabilidade de dados, em esquemas que podem envolver dezenas de pessoas.
 
@@ -158,4 +158,3 @@ Assim como no exemplo do WhatsApp, é possível ativar a autenticação de dois 
 Agora que você já sabe como se proteger dos golpes financeiros, confira nossas dicas para [começar a investir desde já](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação de Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

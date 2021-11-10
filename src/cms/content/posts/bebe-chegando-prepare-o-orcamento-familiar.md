@@ -1,14 +1,14 @@
 ---
-        titulo: Bebê chegando: prepare o orçamento familiar!
-        slug: bebe-chegando-prepare-o-orcamento-familiar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/bebe-chegando-prepare-o-orcamento-familiar.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Poucas coisas na vida são tão empolgantes quanto preparar a [chegada do bebê!](https://www.embracon.com.br/blog/como-se-preparar-para-a-chegada-do-bebe)
+titulo: Bebê chegando: prepare o orçamento familiar!
+slug: bebe-chegando-prepare-o-orcamento-familiar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/bebe-chegando-prepare-o-orcamento-familiar.png
+meta_summary: 
+date: 06/10/2021
+---
+Poucas coisas na vida são tão empolgantes quanto preparar a [chegada do bebê!](https://www.embracon.com.br/blog/como-se-preparar-para-a-chegada-do-bebe)
 
 Ter filhos é o sonho de muitos casais. Afinal, ele é o primeiro indício da formação de uma nova família.
 
@@ -140,4 +140,3 @@ Para mais conteúdos sobre finanças pessoais, assine a nossa newsletter.
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

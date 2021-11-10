@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda quando e por que o consórcio é um bom negócio para você
-        slug: entenda-quando-e-por-que-o-consorcio-e-um-bom-negocio-para-voce
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-quando-e-por-que-o-consorcio-e-um-bom-negocio-para-voce.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Todo mundo tem um grande sonho. Ele envolve a família e pode estar relacionado a ser bem-sucedido, a proporcionar conforto para quem realmente amamos ou até mesmo a ter mais tempo para se divertir com os amigos.
+titulo: Entenda quando e por que o consórcio é um bom negócio para você
+slug: entenda-quando-e-por-que-o-consorcio-e-um-bom-negocio-para-voce
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-quando-e-por-que-o-consorcio-e-um-bom-negocio-para-voce.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Todo mundo tem um grande sonho. Ele envolve a família e pode estar relacionado a ser bem-sucedido, a proporcionar conforto para quem realmente amamos ou até mesmo a ter mais tempo para se divertir com os amigos.
 
 É em busca de realizar esses sonhos que costumamos ir atrás das oportunidades. Por isso mesmo, os brasileiros têm se preparado para ter melhor[ educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida) não só por conta da gestão do patrimônio, mas também para ter novas conquistas.
 
@@ -75,4 +75,3 @@ Só ao longo de 2020, a modalidade já cresceu em 15%.
 > Portanto, comece já a investir no seu sonho. [Faça uma simulação](https://www.embracon.com.br/consorcio) e confira as vantagens do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

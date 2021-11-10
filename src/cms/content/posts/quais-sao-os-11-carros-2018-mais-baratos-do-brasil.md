@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são os 11 carros de 2018 mais baratos do Brasil?
-        slug: quais-sao-os-11-carros-2018-mais-baratos-do-brasil
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-os-11-carros-2018-mais-baratos-do-brasil.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Chegar aos 18 anos, tirar a carta e, possivelmente, chegar ao [primeiro carro](https://www.embracon.com.br/blog/carro-para-os-filhos-confira-essas-dicas-para-comprar-um) o quanto antes. Que jovem não tem esse sonho?
+titulo: Quais são os 11 carros de 2018 mais baratos do Brasil?
+slug: quais-sao-os-11-carros-2018-mais-baratos-do-brasil
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-os-11-carros-2018-mais-baratos-do-brasil.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Chegar aos 18 anos, tirar a carta e, possivelmente, chegar ao [primeiro carro](https://www.embracon.com.br/blog/carro-para-os-filhos-confira-essas-dicas-para-comprar-um) o quanto antes. Que jovem não tem esse sonho?
 
 Por mais que pareça simples, conquistar o primeiro [automóvel](https://www.embracon.com.br/blog/saiba-quando-fazer-um-consorcio-de-automovel) no início da fase adulta é uma tarefa muito mais complicada do que parece. Por estarem no início de suas vidas profissionais, muitas vezes eles não possuem um poder de compra elevado - a não ser que contem com o complemento de renda dos pais.
 
@@ -213,4 +213,3 @@ Ter o primeiro carro é menos burocrático do que você pensa. [Faça uma simula
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

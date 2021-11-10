@@ -1,14 +1,14 @@
 ---
-        titulo: 10 melhores cidades brasileiras para viver em custo de metro quadrado.
-        slug: melhores-cidades-para-viver-com-valores-de-metro-quadrado
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/melhores-cidades-para-viver-com-valores-de-metro-quadrado.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quando se pensa nas melhores cidades do Brasil para se viver, a primeira coisa que se tem que analisar é a qualidade de vida, porque ela indica se os locais dão acesso às condições básicas de sobrevivência.
+titulo: 10 melhores cidades brasileiras para viver em custo de metro quadrado.
+slug: melhores-cidades-para-viver-com-valores-de-metro-quadrado
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/melhores-cidades-para-viver-com-valores-de-metro-quadrado.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quando se pensa nas melhores cidades do Brasil para se viver, a primeira coisa que se tem que analisar é a qualidade de vida, porque ela indica se os locais dão acesso às condições básicas de sobrevivência.
 
 Uma cidade boa de se viver permite que seus cidadãos estejam de bem com o seu físico, seu lado mental, psicológico e emocional, além de favorecer os relacionamentos sociais, seja com familiares, seja com amigos.
 
@@ -149,4 +149,3 @@ Agora que você conhece o índice das **10 melhores cidades brasileiras** para s
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

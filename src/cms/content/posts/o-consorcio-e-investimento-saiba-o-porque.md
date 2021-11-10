@@ -1,14 +1,14 @@
 ---
-        titulo: O consórcio é investimento! Saiba o porquê 
-        slug: o-consorcio-e-investimento-saiba-o-porque
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-consorcio-e-investimento-saiba-o-porque.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Por mais que o consórcio tenha ajudado milhões de brasileiros a realizarem os seus sonhos em [mais de 50 anos de história](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio), muitas pessoas ainda têm dúvidas ao considerar a modalidade para a compra de bens.
+titulo: O consórcio é investimento! Saiba o porquê 
+slug: o-consorcio-e-investimento-saiba-o-porque
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-consorcio-e-investimento-saiba-o-porque.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Por mais que o consórcio tenha ajudado milhões de brasileiros a realizarem os seus sonhos em [mais de 50 anos de história](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio), muitas pessoas ainda têm dúvidas ao considerar a modalidade para a compra de bens.
 
 [Diferentemente do financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel), em que você pode efetuar a compra de um bem e ter acesso imediato a ele, gerando uma dívida com o banco com alto valor de juros, o consórcio é bem mais flexível e [funciona como um investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) para a compra de casas, carros, motos, veículos pesados e até mesmo diferentes tipos de serviços.
 
@@ -195,4 +195,3 @@ Após escolher o bem que deseja, é necessário indicar o proprietário ou empre
 Deu pra perceber que são muitos os motivos que comprovam que o consórcio é investimento, não é mesmo? Portanto, [faça agora uma simulação](https://www.embracon.com.br/) e comece o quanto antes a investir nos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

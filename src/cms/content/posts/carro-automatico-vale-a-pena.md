@@ -1,14 +1,14 @@
 ---
-        titulo: Carro automático vale a pena?
-        slug: carro-automatico-vale-a-pena
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carro-automatico-vale-a-pena.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Quem não se lembra do dia em que foi para a autoescola e sentou no [banco de motorista pela primeira vez](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha)? Muito provavelmente você deve ter se deparado com um carro com os famosos três pedais (embreagem, freio e acelerador) e um câmbio do lado direito em que é necessário passar de uma marcha para outra para sair e passear com o automóvel.
+titulo: Carro automático vale a pena?
+slug: carro-automatico-vale-a-pena
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carro-automatico-vale-a-pena.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Quem não se lembra do dia em que foi para a autoescola e sentou no [banco de motorista pela primeira vez](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha)? Muito provavelmente você deve ter se deparado com um carro com os famosos três pedais (embreagem, freio e acelerador) e um câmbio do lado direito em que é necessário passar de uma marcha para outra para sair e passear com o automóvel.
 
 Por muitos anos, essa foi a configuração que serviu como base dos carros, [principalmente os populares](https://www.embracon.com.br/carros/consorcio-de-carro-popular). Mas, com o passar dos anos, eles se modernizaram e o que antes era algo inacessível para a grande maioria dos brasileiros, logo passou a se tornar cada vez mais comum. Estamos falando dos [modelos de carro automático, que estão invadindo cada vez mais o mercado](https://www.embracon.com.br/blog/carro-manual-ou-automatico-qual-e-a-melhor-opcao).
 
@@ -60,4 +60,3 @@ Além disso, os carros com [câmbio manual são mais em conta que os automático
 Está em dúvidas de como fazer para comprar o próximo carro? [Faça um consórcio de automóveis na Embracon](https://www.embracon.com.br/consorcio-de-carros). Você não precisa dar valor de entrada, não paga juros e conta com a credibilidade de uma administradora de consórcio que realiza os sonhos dos brasileiros há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

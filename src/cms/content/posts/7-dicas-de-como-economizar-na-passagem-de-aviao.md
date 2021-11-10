@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas de como economizar na passagem de avião
-        slug: 7-dicas-de-como-economizar-na-passagem-de-aviao
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-de-como-economizar-na-passagem-de-aviao.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Se você está interessado em viajar com a família, vale a pena pensar em alternativas sobre como **economizar na passagem** de avião. Afinal de contas, a medida ajudará a utilizar melhor o dinheiro disponível e, consequentemente, fazer com que todos aproveitem ainda mais o passeio.
+titulo: 7 dicas de como economizar na passagem de avião
+slug: 7-dicas-de-como-economizar-na-passagem-de-aviao
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-de-como-economizar-na-passagem-de-aviao.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Se você está interessado em viajar com a família, vale a pena pensar em alternativas sobre como **economizar na passagem** de avião. Afinal de contas, a medida ajudará a utilizar melhor o dinheiro disponível e, consequentemente, fazer com que todos aproveitem ainda mais o passeio.
 
 Unir diversão com controle dos gastos é uma iniciativa inteligente. Pensando nisso, listamos 7 dicas para você comprar passagens aéreas mais em conta. Confira:
 
@@ -73,4 +73,3 @@ Planejar, usar a tecnologia a seu favor e estar atento são fatores primordiais 
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

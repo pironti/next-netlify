@@ -1,14 +1,14 @@
 ---
-        titulo: Comece a ganhar dinheiro com imóveis
-        slug: comece-a-ganhar-dinheiro-com-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comece-a-ganhar-dinheiro-com-imoveis.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        O brasileiro costuma ter uma relação muito positiva com imóveis. Para se ter uma ideia, até os dias de hoje a [aquisição da casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) se destaca como o maior sonho dos brasileiros.
+titulo: Comece a ganhar dinheiro com imóveis
+slug: comece-a-ganhar-dinheiro-com-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comece-a-ganhar-dinheiro-com-imoveis.jpg
+meta_summary: 
+date: 20/10/2021
+---
+O brasileiro costuma ter uma relação muito positiva com imóveis. Para se ter uma ideia, até os dias de hoje a [aquisição da casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) se destaca como o maior sonho dos brasileiros.
 
 Além do conforto de ter um lar para proporcionar conforto para toda a família, o imóvel geralmente é associado a [investimento a longo prazo e estabilidade](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar).
 
@@ -187,4 +187,3 @@ Basta indicar o proprietário do bem à administradora, para que ela faça a tra
 [Faça uma simulação de consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e comece desde já a investir em um bem que certamente dará bons retornos para você e sua família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 6 dicas para se planejar a sua primeira viagem internacional
-        slug: 6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        [Viajar é uma das melhores experiências da vida](https://www.embracon.com.br/blog/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro). Além de proporcionar experiências inesquecíveis, é a melhor forma de conhecer novas culturas, novos sabores e ter a chance de viver coisas que você nunca imaginou antes.
+titulo: 6 dicas para se planejar a sua primeira viagem internacional
+slug: 6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-dicas-para-se-planejar-a-sua-primeira-viagem-internacional.jpg
+meta_summary: 
+date: 28/09/2021
+---
+[Viajar é uma das melhores experiências da vida](https://www.embracon.com.br/blog/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro). Além de proporcionar experiências inesquecíveis, é a melhor forma de conhecer novas culturas, novos sabores e ter a chance de viver coisas que você nunca imaginou antes.
 
 Mas não se esqueça, na hora de sair do país, diversos protocolos devem ser seguidos e é muito importante não perder nenhum detalhe para não ter nenhum tipo de problema ou até correr o risco de não conseguir nem [embarcar](https://www.embracon.com.br/blog/quer-saber-como-organizar-uma-viagem-aqui-esta-o-passo-a-passo). Por isso, fizemos uma lista de dicas para as pessoas que estão saindo do país pela primeira vez, e se esse for o seu caso, confira a seguir e aperte os cintos!
 
@@ -61,4 +61,3 @@ O consórcio é uma excelente forma de fazer o seu planejamento e levantar a qua
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e entenda como a Embracon pode te ajudar a realizar esse sonho de sair do país pela primeira vez.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

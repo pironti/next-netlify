@@ -1,14 +1,14 @@
 ---
-        titulo: Como o consórcio de imóveis cresceu ao longo de 2020
-        slug: como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Quando se pensa no ano de 2020, muitas vezes a lembrança é direcionada com as dificuldades trazidas pela [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar). E, com essa lembrança, vem toda uma [mudança de comportamento](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia): as pessoas se organizando para ficar em casa e adaptar sua forma de trabalho e de convívio por conta do isolamento social.
+titulo: Como o consórcio de imóveis cresceu ao longo de 2020
+slug: como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-o-consorcio-de-imoveis-cresceu-ao-longo-de-2020.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Quando se pensa no ano de 2020, muitas vezes a lembrança é direcionada com as dificuldades trazidas pela [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar). E, com essa lembrança, vem toda uma [mudança de comportamento](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia): as pessoas se organizando para ficar em casa e adaptar sua forma de trabalho e de convívio por conta do isolamento social.
 
 Em busca de mais conforto e segurança, as pessoas procuraram investir mais na busca do lar. Ter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) já é um sonho antigo do brasileiro mas, em tempos difíceis, a necessidade de realizar esse sonho tem despertado as pessoas para agir mais.
 
@@ -71,4 +71,3 @@ Com a carta em mãos, você finalmente pode realizar o sonho de comprar o terren
   
 
 -------
-        

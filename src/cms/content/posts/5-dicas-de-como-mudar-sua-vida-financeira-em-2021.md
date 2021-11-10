@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas de como mudar sua vida financeira em 2021
-        slug: 5-dicas-de-como-mudar-sua-vida-financeira-em-2021
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-de-como-mudar-sua-vida-financeira-em-2021.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Em quase um [ano de pandemia](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muita coisa mudou: alguns setores passaram por dificuldades para se adaptar, o mercado de trabalho vive uma reconfiguração devido ao [home office](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado) e, enquanto a vacina não é aplicada em toda a população, vivemos um momento de ansiedade coletiva.
+titulo: 5 dicas de como mudar sua vida financeira em 2021
+slug: 5-dicas-de-como-mudar-sua-vida-financeira-em-2021
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-de-como-mudar-sua-vida-financeira-em-2021.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Em quase um [ano de pandemia](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muita coisa mudou: alguns setores passaram por dificuldades para se adaptar, o mercado de trabalho vive uma reconfiguração devido ao [home office](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado) e, enquanto a vacina não é aplicada em toda a população, vivemos um momento de ansiedade coletiva.
 
 São muitas mudanças de uma só vez, e isso faz com que manter o foco seja ainda mais desafiador.
 
@@ -76,4 +76,3 @@ Continue navegando no nosso blog e [confira mais dicas para começar 2021 com a 
 > E quer conhecer mais a Embracon e a modalidade de consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

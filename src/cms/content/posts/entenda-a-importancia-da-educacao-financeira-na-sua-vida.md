@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda a importância da educação financeira na sua vida
-        slug: entenda-a-importancia-da-educacao-financeira-na-sua-vida
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-a-importancia-da-educacao-financeira-na-sua-vida.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        É possível investir em um curso de pós-graduação? O momento é favorável para comprar um carro? Será que é viável apostar em um consórcio para adquirir a casa própria? São perguntas feitas por muitos jovens brasileiros, mas a resposta correta depende de algo muito valioso atualmente: a educação financeira.
+titulo: Entenda a importância da educação financeira na sua vida
+slug: entenda-a-importancia-da-educacao-financeira-na-sua-vida
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-a-importancia-da-educacao-financeira-na-sua-vida.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+É possível investir em um curso de pós-graduação? O momento é favorável para comprar um carro? Será que é viável apostar em um consórcio para adquirir a casa própria? São perguntas feitas por muitos jovens brasileiros, mas a resposta correta depende de algo muito valioso atualmente: a educação financeira.
 
 Em um momento de instabilidade econômica, usar os recursos financeiros com inteligência é fundamental para ter uma boa qualidade de vida. Por isso, é importante contar com planejamento e bom senso para gerenciar as receitas e as despesas.
 
@@ -64,4 +64,3 @@ Caso queira boas dicas para administrar melhor o seu orçamento, assine a nossa 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

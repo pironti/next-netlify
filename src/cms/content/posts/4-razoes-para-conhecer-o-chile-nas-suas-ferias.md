@@ -1,14 +1,14 @@
 ---
-        titulo: 4 razões para conhecer o Chile nas suas férias
-        slug: 4-razoes-para-conhecer-o-chile-nas-suas-ferias
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-razoes-para-conhecer-o-chile-nas-suas-ferias.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Está planejando uma [viagem em família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos), mas ainda não decidiu qual é o destino ideal para agradar a todos? Já pensou em conhecer o Chile? É um país sul-americano que tem muito a oferecer e fica relativamente próximo ao Brasil. Ficou interessado? Então continue a leitura para conferir 4 razões que mostram o porquê vale a pena escolher esse [destino](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil). Falaremos sobre sua gastronomia, os principais locais para visitação e muito mais!
+titulo: 4 razões para conhecer o Chile nas suas férias
+slug: 4-razoes-para-conhecer-o-chile-nas-suas-ferias
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-razoes-para-conhecer-o-chile-nas-suas-ferias.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Está planejando uma [viagem em família](https://www.embracon.com.br/blog/viagem-em-familia-4-dicas-para-agradar-a-todos), mas ainda não decidiu qual é o destino ideal para agradar a todos? Já pensou em conhecer o Chile? É um país sul-americano que tem muito a oferecer e fica relativamente próximo ao Brasil. Ficou interessado? Então continue a leitura para conferir 4 razões que mostram o porquê vale a pena escolher esse [destino](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil). Falaremos sobre sua gastronomia, os principais locais para visitação e muito mais!
 
 > Conheça o [Consórcio de Viagens](https://www.embracon.com.br/consorcio-servicos) da Embracon
 
@@ -41,4 +41,3 @@ Por fim, um dos maiores atrativos para você conhecer o Chile é que não é nec
 > [5 dicas para economizar e viajar na alta temporada](https://www.embracon.com.br/blog/5-dicas-para-economizar-e-viajar-na-alta-temporada)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

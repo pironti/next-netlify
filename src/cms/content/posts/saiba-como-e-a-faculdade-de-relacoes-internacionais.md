@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como é a faculdade de relações internacionais
-        slug: saiba-como-e-a-faculdade-de-relacoes-internacionais
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-e-a-faculdade-de-relacoes-internacionais.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Se você é daqueles alunos curiosos, adepto da leitura e se interessa por geopolítica, história e sociologia, tem o perfil dos estudantes da **faculdade de relações internacionais**. Esse é um curso que alia diversas áreas e desperta o debate entre diferentes pontos de vista sobre assuntos relevantes que estão acontecendo no mundo.
+titulo: Saiba como é a faculdade de relações internacionais
+slug: saiba-como-e-a-faculdade-de-relacoes-internacionais
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-e-a-faculdade-de-relacoes-internacionais.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Se você é daqueles alunos curiosos, adepto da leitura e se interessa por geopolítica, história e sociologia, tem o perfil dos estudantes da **faculdade de relações internacionais**. Esse é um curso que alia diversas áreas e desperta o debate entre diferentes pontos de vista sobre assuntos relevantes que estão acontecendo no mundo.
 
 Com a globalização, as empresas estão cada vez mais se relacionando com seus clientes alocados em outros países. Assim, as barreiras espaciais foram rompidas por meio das conexões digitais e o comércio se expandiu.
 
@@ -60,4 +60,3 @@ Durante o curso, os alunos são motivados a fazer pesquisas, desenvolver projeto
 E aí, entendeu um pouco melhor sobre o que o estudante aprende na **faculdade de relações internacionais**? Então, que tal aproveitar a sua visita e assinar a nossa newsletter? Você vai receber informações fresquinhas diretamente na sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

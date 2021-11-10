@@ -1,14 +1,14 @@
 ---
-        titulo: Fique por dentro de 4 tendências de festas de formatura
-        slug: fique-por-dentro-de-4-tendencias-de-festas-de-formatura
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/fique-por-dentro-de-4-tendencias-de-festas-de-formatura.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Concluir uma etapa da [vida acadêmica](https://www.embracon.com.br/blog/consorcio-embracon-para-pagar-faculdade) é sempre um momento de muita felicidade, que motiva não apenas a comemoração do próprio formando, mas também a participação de sua família, amigos e demais pessoas próximas. Diante dessa realidade, ficar por dentro das tendências para uma [festa de formatura](https://www.embracon.com.br/blog/3-razoes-para-fazer-uma-festa-de-formatura) pode ser muito interessante.
+titulo: Fique por dentro de 4 tendências de festas de formatura
+slug: fique-por-dentro-de-4-tendencias-de-festas-de-formatura
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/fique-por-dentro-de-4-tendencias-de-festas-de-formatura.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Concluir uma etapa da [vida acadêmica](https://www.embracon.com.br/blog/consorcio-embracon-para-pagar-faculdade) é sempre um momento de muita felicidade, que motiva não apenas a comemoração do próprio formando, mas também a participação de sua família, amigos e demais pessoas próximas. Diante dessa realidade, ficar por dentro das tendências para uma [festa de formatura](https://www.embracon.com.br/blog/3-razoes-para-fazer-uma-festa-de-formatura) pode ser muito interessante.
 
 Esse tipo de celebração vem ganhando muito espaço no mercado atual. Se em outros tempos tratava-se uma pequena festividade, atualmente são[ eventos bastante robustos](https://www.embracon.com.br/blog/3-razoes-para-fazer-uma-festa-de-formatura), que demandam uma organização bastante minuciosa. Confira os 4 pontos a seguir e aprenda um pouco mais sobre esse assunto!
 
@@ -49,4 +49,3 @@ Por isso, é muito comum que os formandos vendam rifas semestralmente ou que pre
 Essas são algumas das melhores tendências de festas de formatura, comemorações que vêm ganhando cada vez mais espaço na agenda de eventos, especialmente nas grandes cidades!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda o que é e como funciona uma cota de consórcio
-        slug: entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é uma excelente alternativa para [aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) ([comprar carro](https://www.embracon.com.br/consorcio-de-carros) ou imóvel),[ realizar serviços](https://www.embracon.com.br/consorcio-servicos) (casamentos, viagens, procedimentos estéticos, reformas em geral) e até fazer investimentos. No entanto, se você nunca participou desse tipo de acordo, pode ficar um pouco confuso quanto aos termos utilizados, em especial, a cota de consórcio.Ela nada mais é do que um a um código de identificação individual. Essa numeração abrange o plano escolhido, o histórico de pagamentos e o registro de participação de reuniões.Quer saber mais sobre a cota de consórcio e demais assuntos relacionados? Então continue lendo este post e esclareça suas dúvidas!
+titulo: Entenda o que é e como funciona uma cota de consórcio
+slug: entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio.jpg
+meta_summary: 
+date: 07/10/2021
+---
+O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é uma excelente alternativa para [aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) ([comprar carro](https://www.embracon.com.br/consorcio-de-carros) ou imóvel),[ realizar serviços](https://www.embracon.com.br/consorcio-servicos) (casamentos, viagens, procedimentos estéticos, reformas em geral) e até fazer investimentos. No entanto, se você nunca participou desse tipo de acordo, pode ficar um pouco confuso quanto aos termos utilizados, em especial, a cota de consórcio.Ela nada mais é do que um a um código de identificação individual. Essa numeração abrange o plano escolhido, o histórico de pagamentos e o registro de participação de reuniões.Quer saber mais sobre a cota de consórcio e demais assuntos relacionados? Então continue lendo este post e esclareça suas dúvidas!
 
 Como comprar uma cota de consórcio?
 -----------------------------------
@@ -40,4 +40,3 @@ Caso você opte por economizar na compra, o restante poderá ser gasto de outras
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

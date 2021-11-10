@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como é feita a correção da carta de crédito no consórcio
-        slug: correcao-carta-de-credito-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/correcao-carta-de-credito-consorcio.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Por oferecer inúmeros benefícios, o [consórcio](https://www.embracon.com.br/conhecaoconsorcio/entenda-o-consorcio) vem cada vez mais sendo escolhido pelos brasileiros. Além de oferecer custos menores do que os do financiamento, a modalidade[ não tem incidência de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). Portanto, as vantagens tornam essa modalidade uma opção atrativa para [adquirir bens](https://www.embracon.com.br/blog/tipos-de-consorcio). Porém, você sabe que quem opta por esse modelo pode desfrutar da correção da [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito)?
+titulo: Saiba como é feita a correção da carta de crédito no consórcio
+slug: correcao-carta-de-credito-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/correcao-carta-de-credito-consorcio.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Por oferecer inúmeros benefícios, o [consórcio](https://www.embracon.com.br/conhecaoconsorcio/entenda-o-consorcio) vem cada vez mais sendo escolhido pelos brasileiros. Além de oferecer custos menores do que os do financiamento, a modalidade[ não tem incidência de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). Portanto, as vantagens tornam essa modalidade uma opção atrativa para [adquirir bens](https://www.embracon.com.br/blog/tipos-de-consorcio). Porém, você sabe que quem opta por esse modelo pode desfrutar da correção da [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito)?
 
 Como é um[ investimento a longo prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo), o bem ou serviço escolhido pode sofrer aumento de acordo com a inflação. Portanto, nessa modalidade de compra, o consorciado pode fazer a compra pagando à vista com o valor recebido.
 
@@ -117,4 +117,3 @@ Sendo assim, se o índice escolhido para ser usado no reajuste for negativo e se
 E aí, o que achou deste artigo sobre a correção da carta de crédito? Viu como é importante manter a atualização para garantir o [poder de compra](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento)? Assine a nossa newsletter e receba em primeira mão conteúdos inéditos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

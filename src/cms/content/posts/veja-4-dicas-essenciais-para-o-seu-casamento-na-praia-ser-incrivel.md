@@ -1,14 +1,14 @@
 ---
-        titulo: Veja 4 dicas essenciais para o seu casamento na praia ser incrível
-        slug: veja-4-dicas-essenciais-para-o-seu-casamento-na-praia-ser-incrivel
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/veja-4-dicas-essenciais-para-o-seu-casamento-na-praia-ser-incrivel.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Chegou o grande momento de dizer “sim”, e não há ambiente mais belo do que à beira-mar. No entanto, para o seu casamento na praia sair perfeito, é preciso ter atenção a diversos fatores. Como a cerimônia é um pouco diferente da tradicional— na igreja ou no cartório —, ela também tem preocupações diferentes, que pedem um olhar diferenciado.
+titulo: Veja 4 dicas essenciais para o seu casamento na praia ser incrível
+slug: veja-4-dicas-essenciais-para-o-seu-casamento-na-praia-ser-incrivel
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/veja-4-dicas-essenciais-para-o-seu-casamento-na-praia-ser-incrivel.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+Chegou o grande momento de dizer “sim”, e não há ambiente mais belo do que à beira-mar. No entanto, para o seu casamento na praia sair perfeito, é preciso ter atenção a diversos fatores. Como a cerimônia é um pouco diferente da tradicional— na igreja ou no cartório —, ela também tem preocupações diferentes, que pedem um olhar diferenciado.
 
 Para evitar problemas, confira estas 4 dicas para o seu casamento na praia ser incrível. Boa leitura!
 
@@ -55,4 +55,3 @@ Com isso, sua [festa ](https://www.embracon.com.br/blog/entenda-como-funciona-um
 > Faça uma simulação de [Consórcio de Serviços](https://www.embracon.com.br/consorcio-servicos) e planeje a sua festa de casamento!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

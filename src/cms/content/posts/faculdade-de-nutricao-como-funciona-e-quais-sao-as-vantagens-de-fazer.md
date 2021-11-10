@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona e quais são as vantagens de fazer faculdade de nutrição?
-        slug: faculdade-de-nutricao-como-funciona-e-quais-sao-as-vantagens-de-fazer
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/faculdade-de-nutricao-como-funciona-e-quais-sao-as-vantagens-de-fazer.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Cuidar da saúde não envolve somente os exercícios físicos. Uma alimentação balanceada também tem um papel fundamental na qualidade de vida, e, para os interessados em ajudar as pessoas a alcançá-la, a faculdade de nutrição é um bom caminho.
+titulo: Como funciona e quais são as vantagens de fazer faculdade de nutrição?
+slug: faculdade-de-nutricao-como-funciona-e-quais-sao-as-vantagens-de-fazer
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/faculdade-de-nutricao-como-funciona-e-quais-sao-as-vantagens-de-fazer.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Cuidar da saúde não envolve somente os exercícios físicos. Uma alimentação balanceada também tem um papel fundamental na qualidade de vida, e, para os interessados em ajudar as pessoas a alcançá-la, a faculdade de nutrição é um bom caminho.
 
 Atualmente, o nutricionista é bastante procurado por aqueles que desejam mudar os hábitos alimentares e ter mais energia para as tarefas do cotidiano. Neste post, vamos abordar como funciona o curso superior de nutrição e os perfis dos profissionais da área.
 
@@ -93,4 +93,3 @@ Atualmente, é possível se especializar em uma série de segmentos, como:
 O desejo das pessoas por mais qualidade de vida e por uma alimentação saudável mostra que a faculdade de nutrição pode ser uma alternativa interessante para quem deseja entrar no [mercado de trabalho](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

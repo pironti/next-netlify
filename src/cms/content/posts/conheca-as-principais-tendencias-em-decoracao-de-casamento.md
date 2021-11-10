@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça as principais tendências em decoração de casamento
-        slug: conheca-as-principais-tendencias-em-decoracao-de-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-as-principais-tendencias-em-decoracao-de-casamento.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A decoração de casamento tem sido mais descolada, divertida e aconchegante — valorizando o estilo dos noivos e os detalhes personalizados. Muitos casais iniciam pesquisas na internet para saber o que está em alta no mercado matrimonial e conferir as novidades na área de moda, gastronomia e, é claro, de decoração.
+titulo: Conheça as principais tendências em decoração de casamento
+slug: conheca-as-principais-tendencias-em-decoracao-de-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-as-principais-tendencias-em-decoracao-de-casamento.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+A decoração de casamento tem sido mais descolada, divertida e aconchegante — valorizando o estilo dos noivos e os detalhes personalizados. Muitos casais iniciam pesquisas na internet para saber o que está em alta no mercado matrimonial e conferir as novidades na área de moda, gastronomia e, é claro, de decoração.
 
 Por isso, separamos ótimas tendências que vão valorizar ainda mais essa data tão importante para os noivos, familiares e demais convidados. Descubra quais são as vertentes atuais e faça boas escolhas!
 
@@ -67,4 +67,3 @@ Aproveite para organizar suas finanças e fazer o casamento dos sonhos com nossa
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

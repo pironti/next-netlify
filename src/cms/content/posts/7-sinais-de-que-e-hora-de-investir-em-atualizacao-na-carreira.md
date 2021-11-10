@@ -1,14 +1,14 @@
 ---
-        titulo: 7 sinais de que é hora de investir em atualização na carreira
-        slug: 7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        O mercado de trabalho mudou bastante. Alguns anos atrás, um diploma de [graduação](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) era o suficiente para garantir boas oportunidades de emprego. Agora, a [atualização na carreira](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) tem sido um grande diferencial.
+titulo: 7 sinais de que é hora de investir em atualização na carreira
+slug: 7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira.jpg
+meta_summary: 
+date: 01/10/2021
+---
+O mercado de trabalho mudou bastante. Alguns anos atrás, um diploma de [graduação](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) era o suficiente para garantir boas oportunidades de emprego. Agora, a [atualização na carreira](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) tem sido um grande diferencial.
 
 Cursos de curta duração, participação em congressos, seminários, *workshops* e palestras são meios importantes de ter acesso às novidades da profissão.
 
@@ -70,4 +70,3 @@ O aprimoramento profissional é muito importante, pois torna possível conseguir
 Se você se identificou com alguns dos sinais acima, pode ser o momento de investir em uma atualização na carreira. E não se esqueça de que o consórcio pode ser um grande aliado nesse [investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento). Os planos dessa modalidade funcionam como os[ consórcios de carro](https://www.embracon.com.br/consorcio-de-carros): você escolhe a quantia que precisa investir, a duração do plano e o valor da mensalidade. Não perca tempo e garanta o seu espaço no mercado! Gostou do post? Então aproveite a visita, assine a nossa newsletter e receba novidades diretamente na sua caixa de entrada!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

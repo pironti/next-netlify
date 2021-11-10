@@ -1,14 +1,14 @@
 ---
-        titulo: Como se preparar para um consórcio?
-        slug: como-se-preparar-para-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-se-preparar-para-um-consorcio.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Se você pretende comprar carros, casas, motocicletas ou outros bens ou [serviços](https://www.embracon.com.br/blog/tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos), e o parcelamento pode ser colocado no bolso, o consórcio é a sua melhor escolha.
+titulo: Como se preparar para um consórcio?
+slug: como-se-preparar-para-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-se-preparar-para-um-consorcio.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Se você pretende comprar carros, casas, motocicletas ou outros bens ou [serviços](https://www.embracon.com.br/blog/tudo-que-voce-pode-fazer-com-o-consorcio-de-servicos), e o parcelamento pode ser colocado no bolso, o consórcio é a sua melhor escolha.
 
 O [consórcio](https://www.embracon.com.br/blog/como-entrar-em-um-consorcio) é um método de compra baseado em pessoas, tendo o grupo como alvo, e que tem por objetivo a formação de um depósito comum para a obtenção de bens ou serviços.
 
@@ -128,4 +128,3 @@ Além disso, comprar apenas de forma planejada nos permite fazer uma avaliação
 Agora que você sabe como se preparar para um consórcio, faça sua simulação com a Embracon e aproveite as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

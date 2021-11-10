@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que fazer antes e durante um voo longo
-        slug: saiba-o-que-fazer-antes-e-durante-um-voo-longo
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-fazer-antes-e-durante-um-voo-longo.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Viajar é um dos grandes prazeres da vida. Atualmente, a tecnologia permite que estejamos em diferentes continentes em questão de horas. Mesmo voando, alguns deslocamentos ainda tomam um grande tempo e, em casos mais extremos, até mesmo um dia a bordo de um avião. Por isso, é importante se preparar antes e saber o que fazer durante um **voo longo**.
+titulo: Saiba o que fazer antes e durante um voo longo
+slug: saiba-o-que-fazer-antes-e-durante-um-voo-longo
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-fazer-antes-e-durante-um-voo-longo.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Viajar é um dos grandes prazeres da vida. Atualmente, a tecnologia permite que estejamos em diferentes continentes em questão de horas. Mesmo voando, alguns deslocamentos ainda tomam um grande tempo e, em casos mais extremos, até mesmo um dia a bordo de um avião. Por isso, é importante se preparar antes e saber o que fazer durante um **voo longo**.
 
 Uma viagem com mais de cinco horas de duração já pede cuidados especiais, pequenas atitudes que podem ser benéficas para a saúde física e mental. A seguir, vamos explicar como embarcar em um **voo longo** pode ser uma experiência mais prazerosa.
 
@@ -68,4 +68,3 @@ Bom, agora já é possível diminuir o tédio e cuidar da saúde em voos longos,
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

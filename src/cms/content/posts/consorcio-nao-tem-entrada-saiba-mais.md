@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio não tem entrada; saiba mais 
-        slug: consorcio-nao-tem-entrada-saiba-mais
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-nao-tem-entrada-saiba-mais.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Se você deseja [investir em um bem de alto valor](https://www.embracon.com.br/blog/quanto-da-minha-renda-posso-investir), como carro, casa, moto, caminhão ou até mesmo diferentes tipos de serviços, saiba que existe uma modalidade de compra que é totalmente flexível porque dá ao consumidor a possibilidade de escolher como pagar.
+titulo: Consórcio não tem entrada; saiba mais 
+slug: consorcio-nao-tem-entrada-saiba-mais
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-nao-tem-entrada-saiba-mais.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Se você deseja [investir em um bem de alto valor](https://www.embracon.com.br/blog/quanto-da-minha-renda-posso-investir), como carro, casa, moto, caminhão ou até mesmo diferentes tipos de serviços, saiba que existe uma modalidade de compra que é totalmente flexível porque dá ao consumidor a possibilidade de escolher como pagar.
 
 Como assim? Você deve estar se pensando…
 
@@ -70,4 +70,3 @@ Esse processo de contemplação é mais rigoroso para garantir que o contemplado
 Por isso e muito mais, o consórcio se apresenta como a modalidade perfeita para que você planeje a compra do seu próximo bem. [Faça uma simulação agora mesmo](https://www.embracon.com.br/) e conheça suas vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

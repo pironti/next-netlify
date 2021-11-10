@@ -1,14 +1,14 @@
 ---
-        titulo: 6 dicas para você organizar seu casamento nas montanhas
-        slug: 6-dicas-para-voce-organizar-seu-casamento-nas-montanhas
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-dicas-para-voce-organizar-seu-casamento-nas-montanhas.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Os casais têm fugido das cerimônias tradicionais. Assim, [organizar seu casamento em igrejas e salões de festa](https://www.embracon.com.br/blog/como-escolher-o-melhor-local-para-a-festa-de-casamento), já não é a melhor das ideias. Isso porque espera-se que o casal esteja buscando formas inovadoras de celebrar a união com seus amigos e parentes. Uma sugestão é o casamento nas montanhas, que aproveita o cenário para criar a ambientação perfeita para esse momento.
+titulo: 6 dicas para você organizar seu casamento nas montanhas
+slug: 6-dicas-para-voce-organizar-seu-casamento-nas-montanhas
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-dicas-para-voce-organizar-seu-casamento-nas-montanhas.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Os casais têm fugido das cerimônias tradicionais. Assim, [organizar seu casamento em igrejas e salões de festa](https://www.embracon.com.br/blog/como-escolher-o-melhor-local-para-a-festa-de-casamento), já não é a melhor das ideias. Isso porque espera-se que o casal esteja buscando formas inovadoras de celebrar a união com seus amigos e parentes. Uma sugestão é o casamento nas montanhas, que aproveita o cenário para criar a ambientação perfeita para esse momento.
 
 É claro que esse tipo de casamento exige ainda mais dedicação durante a organização, pois as condições naturais podem dificultar alguns passos e demandar outros, que não seriam necessários nas celebrações tradicionais.
 
@@ -55,4 +55,3 @@ Agora que você já conheceu nossas dicas para [organizar um casamento](https://
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

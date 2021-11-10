@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça o “Plano Mais por Menos” da Embracon
-        slug: conheca-o-plano-mais-por-menos-da-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-o-plano-mais-por-menos-da-embracon.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        [Com mais de 30 anos](https://www.embracon.com.br/a-embracon) de atuação, a [Embracon](https://www.embracon.com.br/) já realizou milhares de contemplações de [automóveis](https://www.embracon.com.br/consorcio-de-carros) e [imóveis](https://www.embracon.com.br/consorcio-de-imoveis) ao longo dos anos.
+titulo: Conheça o “Plano Mais por Menos” da Embracon
+slug: conheca-o-plano-mais-por-menos-da-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-o-plano-mais-por-menos-da-embracon.png
+meta_summary: 
+date: 06/10/2021
+---
+[Com mais de 30 anos](https://www.embracon.com.br/a-embracon) de atuação, a [Embracon](https://www.embracon.com.br/) já realizou milhares de contemplações de [automóveis](https://www.embracon.com.br/consorcio-de-carros) e [imóveis](https://www.embracon.com.br/consorcio-de-imoveis) ao longo dos anos.
 
 Ao longo desse período, o Brasil passou por diferentes momentos econômicos. Da desestabilização do Plano Cruzado à criação do real, passando pela estabilização inflacionária, abertura de crédito e aumento do poder de compra da população, muitas variáveis influenciaram para que cada vez mais os brasileiros pudessem comprar um novo bem, seja uma casa ou um carro.
 
@@ -87,4 +87,3 @@ Com planejamento financeiro, você pode se organizar para não ser surpreendido 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

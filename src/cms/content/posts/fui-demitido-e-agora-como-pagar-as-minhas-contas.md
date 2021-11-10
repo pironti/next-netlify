@@ -1,14 +1,14 @@
 ---
-        titulo: Fui demitido. E agora? Como pagar as minhas contas?
-        slug: fui-demitido-e-agora-como-pagar-as-minhas-contas
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/fui-demitido-e-agora-como-pagar-as-minhas-contas.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        O mundo inteiro testemunhou um dos períodos mais difíceis em relação ao desemprego por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). O Brasil foi bastante impactado: de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE)[ mais de 14 milhões de brasileiros estão desempregados](https://www1.folha.uol.com.br/mercado/2020/11/com-pandemia-um-a-cada-cinco-pretos-do-brasil-estao-desempregados.shtml), número que pode aumentar com a recessão que pode vir ao longo de 2021.
+titulo: Fui demitido. E agora? Como pagar as minhas contas?
+slug: fui-demitido-e-agora-como-pagar-as-minhas-contas
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/fui-demitido-e-agora-como-pagar-as-minhas-contas.jpg
+meta_summary: 
+date: 29/09/2021
+---
+O mundo inteiro testemunhou um dos períodos mais difíceis em relação ao desemprego por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). O Brasil foi bastante impactado: de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE)[ mais de 14 milhões de brasileiros estão desempregados](https://www1.folha.uol.com.br/mercado/2020/11/com-pandemia-um-a-cada-cinco-pretos-do-brasil-estao-desempregados.shtml), número que pode aumentar com a recessão que pode vir ao longo de 2021.
 
 Muitas pessoas tiveram que reorganizar as [finanças pessoais](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) e contrair dívidas para conseguir pagar as contas em dia. É um processo difícil, que precisa de todo o apoio da família.
 
@@ -86,4 +86,3 @@ O importante é não perder o foco e a esperança. Considere todas as possibilid
 > E que tal investir em um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja como ele te ajuda.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 5 vantagens de optar por um consórcio de moto
-        slug: 5-vantagens-consorcio-de-moto
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-vantagens-consorcio-de-moto.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Planejar e programar a compra de uma motocicleta é uma maneira eficiente de realizar o sonho de ter um veículo. Para quem está em busca de crédito para alcançar seus objetivos, são inúmeras as [vantagens de um consórcio de moto](https://www.embracon.com.br/blog/consorcio-de-moto-bons-motivos-para-fazer-esse-investimento).
+titulo: 5 vantagens de optar por um consórcio de moto
+slug: 5-vantagens-consorcio-de-moto
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-vantagens-consorcio-de-moto.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Planejar e programar a compra de uma motocicleta é uma maneira eficiente de realizar o sonho de ter um veículo. Para quem está em busca de crédito para alcançar seus objetivos, são inúmeras as [vantagens de um consórcio de moto](https://www.embracon.com.br/blog/consorcio-de-moto-bons-motivos-para-fazer-esse-investimento).
 
 Essa alternativa é eficaz para comprar tanto um veículo novo quanto um usado, sendo possível adequar as parcelas de acordo com as condições de pagamento do cliente.
 
@@ -94,4 +94,3 @@ Agora que você conheceu um pouco mais sobre as [vantagens de um consórcio de m
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

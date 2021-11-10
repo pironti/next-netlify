@@ -1,14 +1,14 @@
 ---
-        titulo: 7 coisas para levar em consideração ao escolher um carro
-        slug: 7-coisas-para-levar-em-consideracao-ao-escolher-um-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-coisas-para-levar-em-consideracao-ao-escolher-um-carro.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Para a maioria das pessoas, escolher um carro novo é um momento de emoção e alegria. No entanto, diante de tantas opções no mercado, chegar a uma conclusão sobre qual é o [modelo ideal](https://www.embracon.com.br/blog/carro-ideal-para-familia) para as necessidades da família nem sempre é uma tarefa fácil.
+titulo: 7 coisas para levar em consideração ao escolher um carro
+slug: 7-coisas-para-levar-em-consideracao-ao-escolher-um-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-coisas-para-levar-em-consideracao-ao-escolher-um-carro.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Para a maioria das pessoas, escolher um carro novo é um momento de emoção e alegria. No entanto, diante de tantas opções no mercado, chegar a uma conclusão sobre qual é o [modelo ideal](https://www.embracon.com.br/blog/carro-ideal-para-familia) para as necessidades da família nem sempre é uma tarefa fácil.
 
 Ao mesmo tempo, não se pode esquecer de que, por se tratar de um investimento de valor elevado, uma escolha inadequada tem o potencial para se transformar em seguidas dores de cabeça.
 
@@ -101,4 +101,3 @@ O que achou deste conteúdo sobre as 7 coisas para levar em consideração ao es
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

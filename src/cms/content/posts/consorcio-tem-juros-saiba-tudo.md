@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio tem juros? Saiba tudo
-        slug: consorcio-tem-juros-saiba-tudo
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-tem-juros-saiba-tudo.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Muita gente quer saber se o consórcio tem juros, você é uma delas?
+titulo: Consórcio tem juros? Saiba tudo
+slug: consorcio-tem-juros-saiba-tudo
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-tem-juros-saiba-tudo.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Muita gente quer saber se o consórcio tem juros, você é uma delas?
 
 Essa questão é muito relevante, principalmente para quem quer comparar esse investimento com outros métodos de compra. Quem pede dinheiro emprestado para comprar um carro ou uma casa costuma pagar [juros](https://www.embracon.com.br/blog/como-os-juros-afetam-a-sua-vida) consideráveis, certo?
 
@@ -76,4 +76,3 @@ Quando ocorre um evento previsível dentro da cobertura do seguro, o beneficiár
 Agora que você sabe que não tem juros no consórcio e que é um ótimo [investimento](https://www.embracon.com.br/tag/consorcio-e-investimento), [faça sua simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) e veja as condições de consórcio da Embracon. Entre em contato!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quanto preciso pagar para fazer um consórcio?
-        slug: quanto-preciso-pagar-para-fazer-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quanto-preciso-pagar-para-fazer-um-consorcio.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quando se depara com o valor de uma [casa](https://www.embracon.com.br/blog/como-funciona-consorcio-de-imoveis) ou de um [automóvel](https://www.embracon.com.br/blog/saiba-quando-fazer-um-consorcio-de-automovel), ou até mesmo alguns serviços, como [cirurgia](https://www.embracon.com.br/blog/quando-a-cirurgia-plastica-e-a-melhor-opcao), [universidades](https://www.embracon.com.br/blog/educacao-saiba-como-investir-na-sua), etc, muitas pessoas ficam assustadas. Não por conta do alto valor à vista, mas devido às condições oferecidas para adquirir o bem que deseja.
+titulo: Quanto preciso pagar para fazer um consórcio?
+slug: quanto-preciso-pagar-para-fazer-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quanto-preciso-pagar-para-fazer-um-consorcio.png
+meta_summary: 
+date: 06/10/2021
+---
+Quando se depara com o valor de uma [casa](https://www.embracon.com.br/blog/como-funciona-consorcio-de-imoveis) ou de um [automóvel](https://www.embracon.com.br/blog/saiba-quando-fazer-um-consorcio-de-automovel), ou até mesmo alguns serviços, como [cirurgia](https://www.embracon.com.br/blog/quando-a-cirurgia-plastica-e-a-melhor-opcao), [universidades](https://www.embracon.com.br/blog/educacao-saiba-como-investir-na-sua), etc, muitas pessoas ficam assustadas. Não por conta do alto valor à vista, mas devido às condições oferecidas para adquirir o bem que deseja.
 
 Vamos supor que você considere [comprar o carro](https://www.embracon.com.br/blog/5-formas-de-pagamento-de-um-carro) dos sonhos. Ele custa cerca de R$ 50 mil, mas, quando você tenta comprá-lo de forma viável, percebe que o total, a prazo, pode chegar a mais de R$ 80 mil.
 
@@ -57,4 +57,3 @@ Entenda na prática como funciona os benefícios de investir em um consórcio. F
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

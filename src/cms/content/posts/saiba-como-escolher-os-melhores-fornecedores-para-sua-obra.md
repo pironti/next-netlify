@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como escolher os melhores fornecedores para sua obra
-        slug: saiba-como-escolher-os-melhores-fornecedores-para-sua-obra
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-escolher-os-melhores-fornecedores-para-sua-obra.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Quando chega o momento de reformar um imóvel, muitas pessoas podem, simplesmente, perder o controle do processo. Há muitos detalhes com os quais se preocupar, como mão de obra, tempo, dinheiro e, claro, material. A escolha do material pode ser bem complicada, pois os melhores fornecedores para **obra** não são sempre óbvios.
+titulo: Saiba como escolher os melhores fornecedores para sua obra
+slug: saiba-como-escolher-os-melhores-fornecedores-para-sua-obra
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-escolher-os-melhores-fornecedores-para-sua-obra.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Quando chega o momento de reformar um imóvel, muitas pessoas podem, simplesmente, perder o controle do processo. Há muitos detalhes com os quais se preocupar, como mão de obra, tempo, dinheiro e, claro, material. A escolha do material pode ser bem complicada, pois os melhores fornecedores para **obra** não são sempre óbvios.
 
 Calma, você não tem por que ficar perdido! É tudo uma questão de saber pelo que procurar, onde e como. Tirar um tempo para avaliar os fornecedores facilitará bastante o processo, além de assegurar a qualidade geral da obra. E, com todo o dinheiro que você está investindo, qualquer garantia é válida.
 
@@ -43,4 +43,3 @@ Por fim, os fornecedores para obras devem oferecer alguma amostra do material an
 O importante, aqui, é sempre ter algo que atenda às suas demandas, tanto de custo quanto de funcionalidade, mas que proporcione a melhor relação entre custo e benefício. Ou seja, maior qualidade com o preço mais em conta.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Agora que você já sabe essas dicas, pode escolher entre os fornecedores para obras aquele que melhor se encaixa dentro do que você precisa. Se quiser continuar acompanhando nossas dicas, é só nos seguir no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [LinkedIn](https://www.linkedin.com/company/1018875/), [Twitter](https://twitter.com/embracon) e no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ) para receber nossas novidades em primeira mão.
-        

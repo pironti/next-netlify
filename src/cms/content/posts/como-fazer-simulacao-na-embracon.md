@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer simulação na Embracon
-        slug: como-fazer-simulacao-na-embracon
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-simulacao-na-embracon.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        O [simulador de consórcio](https://www.embracon.com.br/servicos/simulador-de-consorcio) é uma ferramenta que permite analisar antecipadamente as possibilidades de crédito e pagamento exigidas por este recurso. Dessa forma, o cliente pode verificar o valor do parcelamento e escolher o plano que mais se adequa ao seu orçamento.
+titulo: Como fazer simulação na Embracon
+slug: como-fazer-simulacao-na-embracon
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-simulacao-na-embracon.jpg
+meta_summary: 
+date: 09/11/2021
+---
+O [simulador de consórcio](https://www.embracon.com.br/servicos/simulador-de-consorcio) é uma ferramenta que permite analisar antecipadamente as possibilidades de crédito e pagamento exigidas por este recurso. Dessa forma, o cliente pode verificar o valor do parcelamento e escolher o plano que mais se adequa ao seu orçamento.
 
 Você pode eliminar um grande número de opções que não estão relacionadas aos seus objetivos ou [orçamento](https://www.embracon.com.br/blog/a-importancia-de-organizar-e-fazer-um-orcamento-pessoal). Diante de resultados específicos às suas preferências, é mais fácil tomar uma decisão.
 
@@ -80,4 +80,3 @@ Como fazer simulação na Embracon?
 Não perca a chance de realizar seus sonhos, venha fazer uma [simulação](https://www.embracon.com.br/servicos/consorcio-simulacao) com a Embracon e planeje-se.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

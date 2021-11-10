@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio pode transformar o sonho de ter seu próprio apartamento uma realidade
-        slug: consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O apartamento próprio é o sonho de muitas pessoas e o consórcio é uma das alternativas que podem tornar este sonho real.
+titulo: Consórcio pode transformar o sonho de ter seu próprio apartamento uma realidade
+slug: consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-pode-transformar-o-sonho-de-ter-seu-proprio-apartamento-uma-realidade.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O apartamento próprio é o sonho de muitas pessoas e o consórcio é uma das alternativas que podem tornar este sonho real.
 
 Todos contam com sonhos e buscam formas para realizá-los. Embora nem sempre os desafios sejam fáceis para que estes sonhos sejam concretizados, os mesmos alimentam a vida de muitas pessoas e até ajudam a superar as mais diversas dificuldades, voltando seu olhar para o futuro.
 
@@ -64,4 +64,3 @@ Enfim, viu só como seu [apartamento em São Paulo](https://www.chavesnamao.com.
 > Gostou? Compartilhe com outras pessoas que, assim como você, desejam um bom apartamento para chamar de seu.
 
 ‍
-        

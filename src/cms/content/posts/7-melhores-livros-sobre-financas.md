@@ -1,14 +1,14 @@
 ---
-        titulo: 7 melhores livros sobre finanças
-        slug: 7-melhores-livros-sobre-financas
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-melhores-livros-sobre-financas.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Para começar a lidar melhor com o dinheiro, antes mesmo de realizar algum tipo de aplicação, é preciso [investir em educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida).
+titulo: 7 melhores livros sobre finanças
+slug: 7-melhores-livros-sobre-financas
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-melhores-livros-sobre-financas.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Para começar a lidar melhor com o dinheiro, antes mesmo de realizar algum tipo de aplicação, é preciso [investir em educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida).
 
 Por mais que o brasileiro passe por muitos desafios em relação a este tema, uma pesquisa do Google identificou que, em ano de pandemia, o brasileiro passou a [pesquisar mais sobre o termo educação financeira](https://einvestidor.estadao.com.br/comportamento/buscas-google-impacto-coronavirus) em diferentes períodos. Isso mostra que, diante da dificuldade, procurar conhecimento ajuda e pode ser essencial para lidar melhor com as finanças.
 
@@ -84,4 +84,3 @@ Com uma boa base de leitura, é possível aprender com as diversas formas de lid
 Para mais dicas sobre finanças pessoais, [acompanhe o blog da Embracon](https://www.embracon.com.br/blog).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=livros_sobre_financas&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Qual a melhor hora de ter um pet?
-        slug: qual-a-melhor-hora-de-ter-um-pet
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/qual-a-melhor-hora-de-ter-um-pet.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        A conquista de um bichinho de estimação em uma família é uma grande felicidade. E com certeza, para quem ama os animais, um momento mais do que esperado. Essenciais na vida de uma família, os pets receberam uma atenção especial nesse [momento em que estamos vivendo](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Dados mostram que, nesse contexto de pandemia e isolamento, são eles que estão ajudando as famílias de diversas casas do Brasil a passar por esse momento.
+titulo: Qual a melhor hora de ter um pet?
+slug: qual-a-melhor-hora-de-ter-um-pet
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/qual-a-melhor-hora-de-ter-um-pet.jpg
+meta_summary: 
+date: 30/09/2021
+---
+A conquista de um bichinho de estimação em uma família é uma grande felicidade. E com certeza, para quem ama os animais, um momento mais do que esperado. Essenciais na vida de uma família, os pets receberam uma atenção especial nesse [momento em que estamos vivendo](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Dados mostram que, nesse contexto de pandemia e isolamento, são eles que estão ajudando as famílias de diversas casas do Brasil a passar por esse momento.
 
 O Brasil, inclusive, tem o segundo principal mercado pet do mundo. Somando outros bichos como répteis, por exemplo, o Brasil tem uma população de 140 milhões de animais de estimação. Perdendo apenas para os [Estados Unidos](https://www.embracon.com.br/blog/quais-as-maiores-vantagens-de-fazer-intercambio-nos-eua), que têm 40% do faturamento de varejo do setor de pet, em escala global.
 
@@ -64,4 +64,3 @@ A tosa costuma custar entre R$30 e R$70, já o banho entre R$15 e R$100.
 > Está pensando em ter algum pet mas está com medo da sua casa não ter espaço? A Embracon te ajuda com um consórcio para reformar sua casa ou até mesmo mudar para uma nova. [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja os valores.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Confira estas 4 dicas financeiras para planejar uma viagem em família!
-        slug: confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Fazer uma viagem em família é sempre uma grande oportunidade para relaxar e para se divertir. Mas, ao planejar uma viagem, é preciso muita organização e o alinhamento dos objetivos de todos. Por isso, listamos algumas dicas financeiras que vão te ajudar a realizar esse plano!
+titulo: Confira estas 4 dicas financeiras para planejar uma viagem em família!
+slug: confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Fazer uma viagem em família é sempre uma grande oportunidade para relaxar e para se divertir. Mas, ao planejar uma viagem, é preciso muita organização e o alinhamento dos objetivos de todos. Por isso, listamos algumas dicas financeiras que vão te ajudar a realizar esse plano!
 
 Afinal, viajar é o sonho de muitos e, claro, o principal motivo de começar uma economia. Conhecer novos lugares, fazer fotos incríveis e muitas compras — não há quem não deseje que isso deixe de ser apenas um sonho.
 
@@ -71,4 +71,3 @@ Existem muitos lugares que permitem que você e a sua família aproveitem a viag
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Viu como você pode fazer uma ótima viagem com a família sem atrapalhar a sua vida financeira? Aproveite para seguir as nossas redes sociais e acompanhar as nossas atualizações. Estamos no [Facebook](https://www.facebook.com/embracon/), [LinkedIn](https://www.linkedin.com/company/1018875/), [Twitter](https://twitter.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/) e [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

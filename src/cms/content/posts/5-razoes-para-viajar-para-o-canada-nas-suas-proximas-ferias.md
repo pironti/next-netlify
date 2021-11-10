@@ -1,14 +1,14 @@
 ---
-        titulo: 5 razões para viajar para o Canadá nas suas próximas férias
-        slug: 5-razoes-para-viajar-para-o-canada-nas-suas-proximas-ferias
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-razoes-para-viajar-para-o-canada-nas-suas-proximas-ferias.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Belas paisagens, frio para os amantes dos esportes de inverno e um ar de Europa em plena América do Norte. Ao **viajar para o Canadá**, você encontra tudo isso e muito mais. O país é o segundo maior do mundo e tem bastante a oferecer. Principalmente para aqueles que procuram por um bom destino para as férias em família.Vamos conhecer um pouco mais sobre o Canadá e entender o porquê de ele ser um bom [destino de férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil)? Continue conosco e veja 5 motivos!
+titulo: 5 razões para viajar para o Canadá nas suas próximas férias
+slug: 5-razoes-para-viajar-para-o-canada-nas-suas-proximas-ferias
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-razoes-para-viajar-para-o-canada-nas-suas-proximas-ferias.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Belas paisagens, frio para os amantes dos esportes de inverno e um ar de Europa em plena América do Norte. Ao **viajar para o Canadá**, você encontra tudo isso e muito mais. O país é o segundo maior do mundo e tem bastante a oferecer. Principalmente para aqueles que procuram por um bom destino para as férias em família.Vamos conhecer um pouco mais sobre o Canadá e entender o porquê de ele ser um bom [destino de férias](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil)? Continue conosco e veja 5 motivos!
 
 > Saiba como usar o consórcio para planejar sua próxima viagem!
 
@@ -50,4 +50,3 @@ Uma das maiores questões ao se[ planejar uma viagem ](https://www.embracon.com.
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

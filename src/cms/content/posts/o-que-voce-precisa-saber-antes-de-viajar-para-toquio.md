@@ -1,14 +1,14 @@
 ---
-        titulo: O que você precisa saber antes de viajar para Tóquio
-        slug: o-que-voce-precisa-saber-antes-de-viajar-para-toquio
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-voce-precisa-saber-antes-de-viajar-para-toquio.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Assim como Paris, Lisboa, Tailândia e vários outros locais, **viajar para Tóquio** é uma ótima forma de conhecer uma cultura totalmente diferente da nossa. Lá, você também pode apreciar belas paisagens e uma gastronomia bem peculiar. Além disso, o Japão é famoso pela alta tecnologia, até mesmo nos banheiros.
+titulo: O que você precisa saber antes de viajar para Tóquio
+slug: o-que-voce-precisa-saber-antes-de-viajar-para-toquio
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-voce-precisa-saber-antes-de-viajar-para-toquio.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Assim como Paris, Lisboa, Tailândia e vários outros locais, **viajar para Tóquio** é uma ótima forma de conhecer uma cultura totalmente diferente da nossa. Lá, você também pode apreciar belas paisagens e uma gastronomia bem peculiar. Além disso, o Japão é famoso pela alta tecnologia, até mesmo nos banheiros.
 
 Que tal conhecer algumas dicas de como aproveitar ao máximo a **viagem a Tóquio**? Continue a leitura deste conteúdo e faça dessa cidade o seu próximo **destino de férias**!
 
@@ -53,4 +53,3 @@ Apesar de belíssima, Tóquio tem seus problemas e um deles é o trânsito. Feli
 Como você viu, **viajar para Tóquio** é uma excelente maneira de se divertir, aproveitar belas refeições e paisagens. Então, que tal mergulhar em uma cultura bem distinta? Siga todas as dicas que aprendeu aqui, chame seus amigos e amigas e aproveite ao máximo essa cidade surpreendente.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Golpes aplicados por consórcios ilegais: não caia nisso
-        slug: golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        É bem provável que você já tenha ouvido que os consórcios são ótimas opções para comprar bens de valor sem a necessidade de [arcar com juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) ou burocracia, que são comuns nos financiamentos bancários.
+titulo: Golpes aplicados por consórcios ilegais: não caia nisso
+slug: golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/golpes-aplicados-por-consorcios-ilegais-nao-caia-nisso.jpg
+meta_summary: 
+date: 27/09/2021
+---
+É bem provável que você já tenha ouvido que os consórcios são ótimas opções para comprar bens de valor sem a necessidade de [arcar com juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) ou burocracia, que são comuns nos financiamentos bancários.
 
 Essa modalidade de investimento é vantajosa principalmente em longo prazo. Dessa forma, pode ajudar na disciplina financeira, colaborando com a vida de quem quer ter um [planejamento familiar](https://www.embracon.com.br/blog/faca-um-planejamento-financeiro-anual) mais organizado e atingir seus objetivos de maneira mais simples.
 
@@ -172,4 +172,3 @@ A fraude em consórcio não significa que essa modalidade não é uma forma segu
 > Quer realizar um consórcio confiável? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=golpes_aplicados_por_consorcios_ilegais&utm_campaign=publicacoes_blog)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=golpes_aplicados_por_consorcios_ilegais&utm_campaign=publicacoes_blog)</figure>
-        

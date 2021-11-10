@@ -1,14 +1,14 @@
 ---
-        titulo: Festa de aniversário para criança: fazer ou não?
-        slug: festa-de-aniversario-para-crianca-fazer-ou-nao
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/festa-de-aniversario-para-crianca-fazer-ou-nao.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Fazer festa de aniversário para criança é um dilema para muitas famílias. Embora, na maioria das vezes, os pais estejam certos sobre uma comemoração, ao se aproximar da data vários questionamentos são levantados.
+titulo: Festa de aniversário para criança: fazer ou não?
+slug: festa-de-aniversario-para-crianca-fazer-ou-nao
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/festa-de-aniversario-para-crianca-fazer-ou-nao.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Fazer festa de aniversário para criança é um dilema para muitas famílias. Embora, na maioria das vezes, os pais estejam certos sobre uma comemoração, ao se aproximar da data vários questionamentos são levantados.
 
 Essa dualidade de opiniões é normal, ainda mais se considerarmos tudo o que envolve uma festa infantil, financeira e logisticamente. De fato, é uma decisão que não se deve tomar antes de uma detalhada análise.
 
@@ -65,4 +65,3 @@ Enfim, uma festa de aniversário para criança é, sem dúvida, algo que foge da
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher um destino de férias com a família? Confira aqui!
-        slug: como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Viajar com a família é sempre motivo de muita felicidade e expectativa. A maioria das pessoas espera o ano todo pelo momento de poder relaxar e curtir com as pessoas que mais ama. Por isso, para que a experiência seja realmente incrível, é importante estar atento na hora de escolher qual vai ser o destino de férias.
+titulo: Como escolher um destino de férias com a família? Confira aqui!
+slug: como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Viajar com a família é sempre motivo de muita felicidade e expectativa. A maioria das pessoas espera o ano todo pelo momento de poder relaxar e curtir com as pessoas que mais ama. Por isso, para que a experiência seja realmente incrível, é importante estar atento na hora de escolher qual vai ser o destino de férias.
 
 Neste post, preparamos uma lista com dicas preciosas para você encontrar um ótimo lugar para viajar com os seus familiares. Confira!
 
@@ -60,4 +60,3 @@ Definir o roteiro da viagem em família pode ser muito divertido, mas requer cui
 Quer ajudar os seus amigos a terem ótimas férias também? Então, compartilhe este post em suas redes sociais!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

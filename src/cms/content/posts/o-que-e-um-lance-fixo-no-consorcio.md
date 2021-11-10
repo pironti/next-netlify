@@ -1,14 +1,14 @@
 ---
-        titulo: O que é um lance fixo no consórcio?
-        slug: o-que-e-um-lance-fixo-no-consorcio
-        categoria: Lance
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-um-lance-fixo-no-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A cada ano mais e mais pessoas são atraídas pela possibilidade de comprar um bem de alto valor, como carro, casa, moto ou diferentes tipos de serviço, de forma parcelada e sem ter que pagar juros. Nesse sentido, o consórcio se apresenta como a melhor opção de [planejar a compra de um bem](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), por sua flexibilidade. É você que estipula o valor das mensalidades, quantidade de parcelas e, se tiver um bom dinheiro, pode até se preparar na tentativa de ser [contemplado com antecedência](https://www.embracon.com.br/blog/antecipar-um-consorcio-descubra-aqui).
+titulo: O que é um lance fixo no consórcio?
+slug: o-que-e-um-lance-fixo-no-consorcio
+categoria: Lance
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-um-lance-fixo-no-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A cada ano mais e mais pessoas são atraídas pela possibilidade de comprar um bem de alto valor, como carro, casa, moto ou diferentes tipos de serviço, de forma parcelada e sem ter que pagar juros. Nesse sentido, o consórcio se apresenta como a melhor opção de [planejar a compra de um bem](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), por sua flexibilidade. É você que estipula o valor das mensalidades, quantidade de parcelas e, se tiver um bom dinheiro, pode até se preparar na tentativa de ser [contemplado com antecedência](https://www.embracon.com.br/blog/antecipar-um-consorcio-descubra-aqui).
 
 Quando se entra em um consórcio existem duas possibilidades de adquirir o bem: por meio dos [sorteios mensais](https://www.embracon.com.br/blog/assembleia-de-consorcio-como-funciona) e pela oferta de lance.
 
@@ -74,4 +74,3 @@ Vale lembrar que, além do lance fixo e lance livre, existem outras modalidades 
 > Para entender os detalhes de como funcionam todos os tipos de lance, [confira este post](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio). E tá pensando em fazer um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

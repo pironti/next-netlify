@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça o consórcio para reforma e confira as vantagens
-        slug: conheca-o-consorcio-para-reforma-e-confira-as-vantagens
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-o-consorcio-para-reforma-e-confira-as-vantagens.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Já imaginou descobrir que o imóvel comprado necessita de encanamentos novos? Ou que o telhado precisará ser trocado? Nem todo mundo pode arcar com essas despesas de uma só vez. Assim, é justamente para ter o crédito necessário para essas melhorias que existe o [**consórcio para reforma**](https://www.embracon.com.br/consorcio-servicos).
+titulo: Conheça o consórcio para reforma e confira as vantagens
+slug: conheca-o-consorcio-para-reforma-e-confira-as-vantagens
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-o-consorcio-para-reforma-e-confira-as-vantagens.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Já imaginou descobrir que o imóvel comprado necessita de encanamentos novos? Ou que o telhado precisará ser trocado? Nem todo mundo pode arcar com essas despesas de uma só vez. Assim, é justamente para ter o crédito necessário para essas melhorias que existe o [**consórcio para reforma**](https://www.embracon.com.br/consorcio-servicos).
 
 Não importa se a obra é por necessidade ou por vontade. O consórcio cobre quaisquer situações de melhorias ou renovações no imóvel, de uma simples renovação da pintura à construção de um cômodo ou pavimento extra.
 
@@ -59,4 +59,3 @@ Ficou, ainda, com alguma dúvida sobre o [consórcio para reforma](https://www.e
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebc30b41bf0862933922aad_CTA-Casamento2.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

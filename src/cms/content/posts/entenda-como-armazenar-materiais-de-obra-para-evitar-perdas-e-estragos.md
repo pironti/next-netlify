@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como armazenar materiais de obra para evitar perdas e estragos
-        slug: entenda-como-armazenar-materiais-de-obra-para-evitar-perdas-e-estragos
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-armazenar-materiais-de-obra-para-evitar-perdas-e-estragos.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Um dos passos mais importantes antes de uma reforma é determinar como armazenar materiais de forma adequada. Alguns são quebradiços ou não podem ter contato com a água e, se você não levar em conta tais características, o prejuízo devido ao desperdício e perda de produto é quase certo.Para que isso não aconteça, preparamos este post, trazendo algumas dicas de como armazenar materiais de obra de forma correta. Continue com a gente!
+titulo: Entenda como armazenar materiais de obra para evitar perdas e estragos
+slug: entenda-como-armazenar-materiais-de-obra-para-evitar-perdas-e-estragos
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-armazenar-materiais-de-obra-para-evitar-perdas-e-estragos.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Um dos passos mais importantes antes de uma reforma é determinar como armazenar materiais de forma adequada. Alguns são quebradiços ou não podem ter contato com a água e, se você não levar em conta tais características, o prejuízo devido ao desperdício e perda de produto é quase certo.Para que isso não aconteça, preparamos este post, trazendo algumas dicas de como armazenar materiais de obra de forma correta. Continue com a gente!
 
 ##### Sem dinheiro para a reforma? Faz um consórcio!
 
@@ -44,4 +44,3 @@ Pisos e azulejos requerem uma atenção especial, pois costumam ser caros e frá
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

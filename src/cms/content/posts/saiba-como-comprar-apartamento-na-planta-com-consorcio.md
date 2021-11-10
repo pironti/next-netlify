@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como comprar apartamento na planta com consórcio
-        slug: saiba-como-comprar-apartamento-na-planta-com-consorcio
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-comprar-apartamento-na-planta-com-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Com certeza você já ouviu falar sobre a compra de apartamento na planta, mas o que isso significa? Ter um [imóvel próprio](https://www.embracon.com.br/imoveis/tudo-sobre-consorcio-de-imovel) e ainda pagar um valor que esteja dentro do seu orçamento é o sonho de grande parte dos brasileiros. Porém, é necessário avaliar com cuidado alguns pontos.
+titulo: Saiba como comprar apartamento na planta com consórcio
+slug: saiba-como-comprar-apartamento-na-planta-com-consorcio
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-comprar-apartamento-na-planta-com-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Com certeza você já ouviu falar sobre a compra de apartamento na planta, mas o que isso significa? Ter um [imóvel próprio](https://www.embracon.com.br/imoveis/tudo-sobre-consorcio-de-imovel) e ainda pagar um valor que esteja dentro do seu orçamento é o sonho de grande parte dos brasileiros. Porém, é necessário avaliar com cuidado alguns pontos.
 
 A compra de um apartamento na planta pode garantir inúmeros benefícios, mas é fundamental conhecer todo o processo e as particularidades desse tipo de contrato para que você não pague mais do que pode e não escolha um imóvel diferente daquilo que imagina.
 
@@ -224,4 +224,3 @@ Por fim, tenha muito cuidado com golpes e propostas suspeitas. Esteja sempre ate
 > Agora que você já sabe os benefícios do consórcio, [faça uma simulação](https://www.embracon.com.br/consorcio)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb5e77abc38c34aef6f090_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

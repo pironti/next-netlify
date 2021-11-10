@@ -1,14 +1,14 @@
 ---
-        titulo: Os erros que consorciados não podem cometer
-        slug: os-erros-que-consorciados-nao-podem-cometer
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-erros-que-consorciados-nao-podem-cometer.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Para conseguir tirar os planos do papel, é necessário que as pessoas tenham uma organização financeira que as permitam ter as condições necessárias para alcançar essa meta. Ainda assim, na maioria dos casos, vai ser preciso buscar no mercado a possibilidade de crédito para agilizar o processo. Dentro desse cenário, o [autofinanciamento](https://www.embracon.com.br/blog/o-que-e-autofinanciamento) aparece como uma das opções mais viáveis e econômicas.
+titulo: Os erros que consorciados não podem cometer
+slug: os-erros-que-consorciados-nao-podem-cometer
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-erros-que-consorciados-nao-podem-cometer.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Para conseguir tirar os planos do papel, é necessário que as pessoas tenham uma organização financeira que as permitam ter as condições necessárias para alcançar essa meta. Ainda assim, na maioria dos casos, vai ser preciso buscar no mercado a possibilidade de crédito para agilizar o processo. Dentro desse cenário, o [autofinanciamento](https://www.embracon.com.br/blog/o-que-e-autofinanciamento) aparece como uma das opções mais viáveis e econômicas.
 
 Entretanto, antes de fechar negócio, é essencial ter alguns cuidados antes de escolher um consórcio. Como nem todos os grupos são iguais, é extremamente importante que o cotista fique atento a alguns detalhes antes de fazer a sua adesão.
 
@@ -205,4 +205,3 @@ Assim como acontece na relação com outras prestadoras, certifique-se de que vo
 Caso você tenha se interessado em autofinanciar a realização de seu sonho, [entre em contato conosco](https://www.embracon.com.br/fale-conosco). Com certeza teremos um plano que atenderá todas as suas necessidades.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=erros_que_consorciados_nao_podem_cometer&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 6 dicas incríveis para quem vai reformar uma cozinha
-        slug: 6-dicas-incriveis-para-quem-vai-reformar-uma-cozinha
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-dicas-incriveis-para-quem-vai-reformar-uma-cozinha.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Reformar uma cozinha pode ser uma missão muito difícil. Afinal,[ obras sempre causam alguns transtornos](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas), sem falar dos gastos envolvidos com materiais e mão de obra. Apesar disso, existem algumas maneiras de tornar esse processo menos turbulento e obter resultados incríveis para ter o ambiente dos seus sonhos.
+titulo: 6 dicas incríveis para quem vai reformar uma cozinha
+slug: 6-dicas-incriveis-para-quem-vai-reformar-uma-cozinha
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-dicas-incriveis-para-quem-vai-reformar-uma-cozinha.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Reformar uma cozinha pode ser uma missão muito difícil. Afinal,[ obras sempre causam alguns transtornos](https://www.embracon.com.br/blog/entenda-como-evitar-dores-de-cabeca-com-obras-e-reformas), sem falar dos gastos envolvidos com materiais e mão de obra. Apesar disso, existem algumas maneiras de tornar esse processo menos turbulento e obter resultados incríveis para ter o ambiente dos seus sonhos.
 
 Se você está pensando em[ iniciar uma reforma](https://www.embracon.com.br/blog/conheca-o-consorcio-para-reforma-e-confira-as-vantagens), confira as nossas dicas. Você vai aprender a fazer isso sem passar por perrengues!
 
@@ -63,4 +63,3 @@ Agora que você já conhece os melhores passos para renovar a cozinha, que tal f
 Faça uma simulação de [Consórcio de Serviços](https://www.embracon.com.br/consorcio-servicos) e reforme a sua cozinha!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

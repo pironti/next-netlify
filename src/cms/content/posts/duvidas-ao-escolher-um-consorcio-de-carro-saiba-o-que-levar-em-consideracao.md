@@ -1,14 +1,14 @@
 ---
-        titulo: Dúvidas ao escolher um consórcio de carro? Saiba o que levar em consideração!
-        slug: duvidas-ao-escolher-um-consorcio-de-carro-saiba-o-que-levar-em-consideracao
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/duvidas-ao-escolher-um-consorcio-de-carro-saiba-o-que-levar-em-consideracao.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O atual momento econômico que o país vive hoje colocou os consórcios em maior evidência. E você, tem dúvidas ao escolher um[ consórcio de carro](https://www.embracon.com.br/consorcio-de-carros)? Então, continue a leitura e saiba mais sobre a modalidade.
+titulo: Dúvidas ao escolher um consórcio de carro? Saiba o que levar em consideração!
+slug: duvidas-ao-escolher-um-consorcio-de-carro-saiba-o-que-levar-em-consideracao
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/duvidas-ao-escolher-um-consorcio-de-carro-saiba-o-que-levar-em-consideracao.jpg
+meta_summary: 
+date: 05/10/2021
+---
+O atual momento econômico que o país vive hoje colocou os consórcios em maior evidência. E você, tem dúvidas ao escolher um[ consórcio de carro](https://www.embracon.com.br/consorcio-de-carros)? Então, continue a leitura e saiba mais sobre a modalidade.
 
 Poucas pessoas conseguem comprar um carro à vista, e o [consórcio](https://www.embracon.com.br/conhecaoconsorcio/entenda-o-consorcio) é uma das formas utilizadas para adquirir um bem que está cada vez mais em alta, já que, ao contrário dos financiamentos, ele não apresenta taxas de juros elevadas.
 
@@ -107,4 +107,3 @@ Ficou interessado e quer investir em um **consórcio de carro**? Então, [f](htt
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

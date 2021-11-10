@@ -1,14 +1,14 @@
 ---
-        titulo: Como conquistar a estabilidade da casa própria
-        slug: como-conquistar-a-estabilidade-da-casa-propria
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-conquistar-a-estabilidade-da-casa-propria.png
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Existem muitas opções para ter uma [nova moradia](https://www.embracon.com.br/consorcio-de-imoveis). Entretanto, o sonho de boa parte dos brasileiros ainda é a [conquista da casa própria](https://www.embracon.com.br/blog/hora-certa-comprar-imovel), sinônimo de segurança e, claro, garantia de ter o conforto do lar.
+titulo: Como conquistar a estabilidade da casa própria
+slug: como-conquistar-a-estabilidade-da-casa-propria
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-conquistar-a-estabilidade-da-casa-propria.png
+meta_summary: 
+date: 07/10/2021
+---
+Existem muitas opções para ter uma [nova moradia](https://www.embracon.com.br/consorcio-de-imoveis). Entretanto, o sonho de boa parte dos brasileiros ainda é a [conquista da casa própria](https://www.embracon.com.br/blog/hora-certa-comprar-imovel), sinônimo de segurança e, claro, garantia de ter o conforto do lar.
 
 De acordo com pesquisa da Global Entrepreneurship Monitor (GEM), pelo menos 43% dos brasileiros têm como maior sonho a casa própria.
 
@@ -60,4 +60,3 @@ Por conta de tudo isso, o consórcio é a melhor opção para que você não pag
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

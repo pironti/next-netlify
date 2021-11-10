@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba mais sobre a faculdade e o mercado de engenharia civil
-        slug: saiba-mais-sobre-a-faculdade-e-o-mercado-de-engenharia-civil
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-mais-sobre-a-faculdade-e-o-mercado-de-engenharia-civil.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Há dez anos, o Brasil se preparava para dois grandes eventos: a Copa do Mundo da FIFA, em 2014, e as Olimpíadas, em 2016. Isso fez com que a demanda por profissionais capazes de gerir e planejar uma obra crescesse drasticamente. Além disso, despertou a vontade de muitos jovens em fazer uma faculdade de engenharia civil.
+titulo: Saiba mais sobre a faculdade e o mercado de engenharia civil
+slug: saiba-mais-sobre-a-faculdade-e-o-mercado-de-engenharia-civil
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-mais-sobre-a-faculdade-e-o-mercado-de-engenharia-civil.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Há dez anos, o Brasil se preparava para dois grandes eventos: a Copa do Mundo da FIFA, em 2014, e as Olimpíadas, em 2016. Isso fez com que a demanda por profissionais capazes de gerir e planejar uma obra crescesse drasticamente. Além disso, despertou a vontade de muitos jovens em fazer uma faculdade de engenharia civil.
 
 Porém, como é esse curso? Qual o perfil necessário? Como está o mercado atualmente? Essas e outras perguntas serão respondidas neste post. Boa leitura!
 
@@ -65,4 +65,3 @@ A faculdade de engenharia civil é uma das mais procuradas engenharias, seja pel
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Agora que você conheceu um pouco mais sobre a área de engenharia civil? Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

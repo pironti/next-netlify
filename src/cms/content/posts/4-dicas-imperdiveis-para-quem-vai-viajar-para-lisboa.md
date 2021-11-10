@@ -1,14 +1,14 @@
 ---
-        titulo: 4 dicas imperdíveis para quem vai viajar para Lisboa
-        slug: 4-dicas-imperdiveis-para-quem-vai-viajar-para-lisboa
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-dicas-imperdiveis-para-quem-vai-viajar-para-lisboa.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Se você pretende viajar para Lisboa, saiba que acertou em cheio na escolha. Esse é um dos melhores destinos para passeio, principalmente quando em família. Além da enorme proximidade com os brasileiros, a capital portuguesa tem muito a ensinar. Incluindo, na lista, um povo muito afetuoso e festivo.
+titulo: 4 dicas imperdíveis para quem vai viajar para Lisboa
+slug: 4-dicas-imperdiveis-para-quem-vai-viajar-para-lisboa
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-dicas-imperdiveis-para-quem-vai-viajar-para-lisboa.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Se você pretende viajar para Lisboa, saiba que acertou em cheio na escolha. Esse é um dos melhores destinos para passeio, principalmente quando em família. Além da enorme proximidade com os brasileiros, a capital portuguesa tem muito a ensinar. Incluindo, na lista, um povo muito afetuoso e festivo.
 
 Ao longo deste texto você vai conhecer os principais locais para visitação em **Lisboa.** Também vai saber onde encontrar as comidas típicas, a arte e a religiosidade desse povo tão querido.
 
@@ -69,4 +69,3 @@ As dicas foram úteis e você não aguenta mais esperar para **viajar para Lisbo
 > E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

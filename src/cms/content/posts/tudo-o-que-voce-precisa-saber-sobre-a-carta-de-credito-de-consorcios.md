@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo o que você precisa saber sobre a carta de crédito de consórcios
-        slug: tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A [**carta de crédito**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito) do [consórcio](https://www.embracon.com.br/consorcio) é o principal objetivo a ser alcançado por quem adere a essa modalidade de compra. Além de ser uma ótima maneira de juntar dinheiro e se [organizar financeiramente](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), é possível [adquirir um bem](https://www.embracon.com.br/consorcio-de-imoveis) ou [serviço](https://www.embracon.com.br/consorcio-servicos) por um valor livre dos altos juros do financiamento.
+titulo: Tudo o que você precisa saber sobre a carta de crédito de consórcios
+slug: tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A [**carta de crédito**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito) do [consórcio](https://www.embracon.com.br/consorcio) é o principal objetivo a ser alcançado por quem adere a essa modalidade de compra. Além de ser uma ótima maneira de juntar dinheiro e se [organizar financeiramente](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), é possível [adquirir um bem](https://www.embracon.com.br/consorcio-de-imoveis) ou [serviço](https://www.embracon.com.br/consorcio-servicos) por um valor livre dos altos juros do financiamento.
 
 Contribuindo mensalmente, cedo ou tarde os consorciados serão contemplados. E, no momento certo, receberão a **carta de crédito** — seja por [lance](https://www.embracon.com.br/conhecaoconsorcio/como-ofertar-um-lance), seja por [sorteio](https://www.embracon.com.br/conhecaoconsorcio/como-fico-sabendo-o-resultado-da-assembleia).
 
@@ -139,4 +139,3 @@ Para concluir, vale repetir que os[ consórcios são uma ótima opção](https:/
 Se quiser saber mais e conhecer todas as suas vantagens, [entre em contato conosco](https://www.embracon.com.br/blog/canais-de-atendimento-embracon). Nossa equipe está pronta para atendê-lo e tirar todas as suas dúvidas!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

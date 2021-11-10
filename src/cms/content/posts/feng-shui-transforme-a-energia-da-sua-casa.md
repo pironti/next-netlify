@@ -1,14 +1,14 @@
 ---
-        titulo: Feng shui: transforme a energia da sua casa
-        slug: feng-shui-transforme-a-energia-da-sua-casa
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/feng-shui-transforme-a-energia-da-sua-casa.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quem gosta de pesquisar a fundo sobre[ decoração para a casa](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal) sabe muito bem: o feng shui pode tornar qualquer cômodo do seu lar mais acolhedor.
+titulo: Feng shui: transforme a energia da sua casa
+slug: feng-shui-transforme-a-energia-da-sua-casa
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/feng-shui-transforme-a-energia-da-sua-casa.png
+meta_summary: 
+date: 06/10/2021
+---
+Quem gosta de pesquisar a fundo sobre[ decoração para a casa](https://www.embracon.com.br/blog/saiba-o-que-e-tendencia-em-decoracao-de-quarto-de-casal) sabe muito bem: o feng shui pode tornar qualquer cômodo do seu lar mais acolhedor.
 
 Mas, você sabe do que se trata o feng shui? Essa é uma técnica milenar chinesa que analisa como a disposição de um móvel influencia toda a energia do local.
 
@@ -77,4 +77,3 @@ A energia do feng shui também pode ser influenciada pela [pintura das paredes](
 É preciso manter a casa sempre nova e bem cuidada, para que a energia mantenha-se positiva. Ou seja, se as paredes estiverem velhas demais, uma nova pintura vai bem.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

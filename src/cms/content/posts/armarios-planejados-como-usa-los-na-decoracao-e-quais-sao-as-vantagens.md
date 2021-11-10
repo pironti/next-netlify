@@ -1,14 +1,14 @@
 ---
-        titulo: Armários planejados: como usá-los na decoração
-        slug: armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quem tem [ambientes](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante) pequenos em [casa](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa) sabe como é difícil encontrar móveis adequados. Nesses casos, os armários [planejados](https://www.embracon.com.br/blog/como-ter-uma-cozinha-funcional-em-casa) surgem como uma excelente solução, pois são fabricados pensando em otimizar o uso desses espaços.
+titulo: Armários planejados: como usá-los na decoração
+slug: armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Quem tem [ambientes](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante) pequenos em [casa](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa) sabe como é difícil encontrar móveis adequados. Nesses casos, os armários [planejados](https://www.embracon.com.br/blog/como-ter-uma-cozinha-funcional-em-casa) surgem como uma excelente solução, pois são fabricados pensando em otimizar o uso desses espaços.
 
 Dessa forma, optar por esse tipo de armário garante um melhor aproveitamento do seu espaço útil e uma organização mais eficiente. Além disso, eles costumam ter muito mais durabilidade do que móveis pré-fabricados, compensando o investimento a médio prazo. Também é possível escolher as cores e os materiais que mais combinam com sua [decoração](https://www.embracon.com.br/blog/como-usar-prateleiras-na-decoracao-da-casa).
 
@@ -43,4 +43,3 @@ Para tanto, aproveite espaços, como [prateleiras](https://www.embracon.com.br/b
 Como você viu, os armários planejados podem ser seus grandes aliados para aproveitar melhor o espaço útil de seus ambientes e mantê-los sempre organizados. Além disso, eles podem incrementar o visual da sua casa, deixando-a mais sofisticada.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

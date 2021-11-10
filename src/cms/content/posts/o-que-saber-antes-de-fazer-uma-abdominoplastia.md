@@ -1,14 +1,14 @@
 ---
-        titulo: O que saber antes de fazer uma abdominoplastia?
-        slug: o-que-saber-antes-de-fazer-uma-abdominoplastia
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-saber-antes-de-fazer-uma-abdominoplastia.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Ficar feliz com o próprio corpo é uma forma de manter a autoestima elevada, não é mesmo? Por isso, mulheres e homens têm optado pela abdominoplastia. Essa cirurgia é utilizada para eliminar os excessos de gordura e de pele do abdômen. A famosa "barriguinha".
+titulo: O que saber antes de fazer uma abdominoplastia?
+slug: o-que-saber-antes-de-fazer-uma-abdominoplastia
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-saber-antes-de-fazer-uma-abdominoplastia.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Ficar feliz com o próprio corpo é uma forma de manter a autoestima elevada, não é mesmo? Por isso, mulheres e homens têm optado pela abdominoplastia. Essa cirurgia é utilizada para eliminar os excessos de gordura e de pele do abdômen. A famosa "barriguinha".
 
 Para alcançar bons resultados, à princípio, é fundamental procurar um profissional com registro no Conselho Federal de Medicina (CFM) e na Sociedade Brasileira de Cirurgia Plástica (SBCP). Também é recomendado que o médico tenha a qualificação de especialista (RQE) nesse procedimento operatório.
 
@@ -53,4 +53,3 @@ Se você está procurando formas de financiar uma cirurgia plástica, leia com b
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Venda seu carro usado acima da tabela FIPE
-        slug: venda-seu-carro-usado-acima-da-tabela-fipe
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/venda-seu-carro-usado-acima-da-tabela-fipe.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Uma grande questão ao vender [carros usados](https://www.embracon.com.br/blog/consorcio-de-carros-usados-vale-a-pena) ​​é: quanto eles podem custar? Em certa medida, as plataformas onlines amenizam esse problema em um primeiro momento, mas novamente causa a diferença de valores, justamente porque facilitou a busca de interessados.
+titulo: Venda seu carro usado acima da tabela FIPE
+slug: venda-seu-carro-usado-acima-da-tabela-fipe
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/venda-seu-carro-usado-acima-da-tabela-fipe.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Uma grande questão ao vender [carros usados](https://www.embracon.com.br/blog/consorcio-de-carros-usados-vale-a-pena) ​​é: quanto eles podem custar? Em certa medida, as plataformas onlines amenizam esse problema em um primeiro momento, mas novamente causa a diferença de valores, justamente porque facilitou a busca de interessados.
 
 Um ponto de partida óbvio é recorrer às ***tabelas Fipe***. No entanto, esta referência ignora muitos fatores importantes que afetam os preços dos automóveis. O motivo é simples: o valor listado pela [Fundação Instituto de Pesquisas Econômicas](https://www.fipe.org.br/) reflete a cotação média do mercado nacional, e não se trata de uma tabela oficial.
 
@@ -70,4 +70,3 @@ Já deu pra perceber que são vários os fatores que interferem no valor de reve
 Veja também alguns [acessórios que valorizam o carro para revenda](https://www.embracon.com.br/blog/customizado-acessorios-que-valorizam-o-carro-para-a-revenda).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

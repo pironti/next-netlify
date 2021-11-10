@@ -1,14 +1,14 @@
 ---
-        titulo: Como guardar dinheiro em tempos de pandemia?
-        slug: como-guardar-dinheiro-em-tempos-de-pandemia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-guardar-dinheiro-em-tempos-de-pandemia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar) trouxe diversas incertezas para os brasileiros. Por conta do isolamento social, muitos se viram obrigados a passar mais tempo em casa, o que afetou diversos setores. Muitos deles foram afetados, [incluindo restaurantes e eventos](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/noticia/2020/10/11/confira-as-estrategias-de-restaurantes-para-superar-a-crise-causada-pela-pandemia.ghtml), que levaram milhares de pessoas a perderem seus empregos e se ver diante de uma nova situação financeira.
+titulo: Como guardar dinheiro em tempos de pandemia?
+slug: como-guardar-dinheiro-em-tempos-de-pandemia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-guardar-dinheiro-em-tempos-de-pandemia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar) trouxe diversas incertezas para os brasileiros. Por conta do isolamento social, muitos se viram obrigados a passar mais tempo em casa, o que afetou diversos setores. Muitos deles foram afetados, [incluindo restaurantes e eventos](https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/noticia/2020/10/11/confira-as-estrategias-de-restaurantes-para-superar-a-crise-causada-pela-pandemia.ghtml), que levaram milhares de pessoas a perderem seus empregos e se ver diante de uma nova situação financeira.
 
 Essa nova realidade fez com que não só os brasileiros, mas cidadãos de todo o mundo, adquirissem [novos hábitos de consumo](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia). Especialistas reforçam a necessidade de se poupar mais e gastar o mínimo possível diante de um momento que já afetou, e deve continuar afetando, a economia de todo o país enquanto não avançarmos com a vacinação em massa.
 
@@ -189,4 +189,3 @@ Quer mais dicas de finanças pessoais? Então confira nossas dicas de [como mont
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_guardar_dinheiro_em_tempos_de_pandemia&utm_campaign=publicacoes_blog)</figure>‍  
 
 ----
-        

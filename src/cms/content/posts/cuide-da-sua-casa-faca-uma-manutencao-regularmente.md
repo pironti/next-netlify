@@ -1,14 +1,14 @@
 ---
-        titulo: Cuide da sua casa: faça uma manutenção regularmente
-        slug: cuide-da-sua-casa-faca-uma-manutencao-regularmente
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cuide-da-sua-casa-faca-uma-manutencao-regularmente.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Um dos maiores sonhos dos brasileiros é realizar o [sonho de comprar a casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria). Como muitos já devem saber, trata-se de um planejamento a longo prazo. Seja para quem deseja construir do zero ou até mesmo [comprar um imóvel já decorado](https://www.embracon.com.br/blog/16-maiores-duvidas-sobre-o-consorcio-de-imoveis), a conquista da casa própria envolve valores de mais de seis dígitos.
+titulo: Cuide da sua casa: faça uma manutenção regularmente
+slug: cuide-da-sua-casa-faca-uma-manutencao-regularmente
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cuide-da-sua-casa-faca-uma-manutencao-regularmente.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Um dos maiores sonhos dos brasileiros é realizar o [sonho de comprar a casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria). Como muitos já devem saber, trata-se de um planejamento a longo prazo. Seja para quem deseja construir do zero ou até mesmo [comprar um imóvel já decorado](https://www.embracon.com.br/blog/16-maiores-duvidas-sobre-o-consorcio-de-imoveis), a conquista da casa própria envolve valores de mais de seis dígitos.
 
 É preciso muita disciplina e foco para conseguir comprar a casa própria - e, para isso, o [consórcio de imóveis](https://www.embracon.com.br/blog/15-duvidas-sobre-consorcio-de-imoveis) se apresenta como a melhor forma de se ter essa aquisição.
 
@@ -186,4 +186,3 @@ A partir do momento que você se torna um consorciado, você é inserido em um [
 Prepare-se o quanto antes para lidar com manutenção ou reforma do seu lar. [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e conte com a credibilidade de uma administradora de consórcio que realiza sonhos há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

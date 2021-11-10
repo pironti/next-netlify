@@ -1,14 +1,14 @@
 ---
-        titulo: Posso pagar tributos do veículo com o saldo excedente do consórcio?
-        slug: e-possivel-pagar-tributos-do-veiculo-com-o-saldo-excedente-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-pagar-tributos-do-veiculo-com-o-saldo-excedente-do-consorcio.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Você está em casa, tranquilo, quando recebe uma notícia: sua cota foi contemplada e agora é possível [comprar aquele carro que tanto queria](https://blog.embracon.com.br/carros/saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo). Para completar, o veículo tem um desconto para pagamento à vista e você ainda ficará com algum saldo excedente do [consórcio](https://www.embracon.com.br/consorcio-de-carros).
+titulo: Posso pagar tributos do veículo com o saldo excedente do consórcio?
+slug: e-possivel-pagar-tributos-do-veiculo-com-o-saldo-excedente-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-pagar-tributos-do-veiculo-com-o-saldo-excedente-do-consorcio.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Você está em casa, tranquilo, quando recebe uma notícia: sua cota foi contemplada e agora é possível [comprar aquele carro que tanto queria](https://blog.embracon.com.br/carros/saiba-qual-e-a-melhor-epoca-do-ano-para-comprar-um-carro-novo). Para completar, o veículo tem um desconto para pagamento à vista e você ainda ficará com algum saldo excedente do [consórcio](https://www.embracon.com.br/consorcio-de-carros).
 
 Pode até parecer sonho, mas essa situação é bem comum e você pode ser o próximo a lidar com ela. Quando isso acontecer, o que precisa ser feito? Quais são os próximos passos? O que deve ser comprado? Como deve ser usado o saldo excedente?
 
@@ -77,4 +77,3 @@ Viu como é fácil usar o saldo excedente do consórcio? Não existe nenhum segr
 Ainda ficou com alguma dúvida? Precisa de uma ajuda a mais? Quer entender como funciona o [consórcio da Embracon](https://www.embracon.com.br/consorcio-de-carros) e como ele pode lhe ajudar? Então,[ entre em contato conosco](https://www.embracon.com.br/fale-conosco)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebda2b6735c676da2d9e861_CTA-Automoveis2.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

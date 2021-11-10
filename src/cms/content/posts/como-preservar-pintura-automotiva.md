@@ -1,14 +1,14 @@
 ---
-        titulo: Como preservar pintura automotiva
-        slug: como-preservar-pintura-automotiva
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-preservar-pintura-automotiva.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Você finalmente conseguiu comprar o carro dos sonhos, leva o veículo para casa e, depois disso, nada de estresse ou preocupação. Você vai a todos os lugares, economiza tempo nas rotinas diárias e, à noite, até esquece que deixou o [carro](https://www.embracon.com.br/blog/como-comprar-um-carro-seminovo-com-o-consorcio) na garagem. Esse seria o cenário ideal, não é mesmo? Mas o fato é que um carro exige muitos cuidados com a [manutenção](https://www.embracon.com.br/blog/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro), sendo que a pintura automotiva surge como um dos primeiros itens da lista.
+titulo: Como preservar pintura automotiva
+slug: como-preservar-pintura-automotiva
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-preservar-pintura-automotiva.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Você finalmente conseguiu comprar o carro dos sonhos, leva o veículo para casa e, depois disso, nada de estresse ou preocupação. Você vai a todos os lugares, economiza tempo nas rotinas diárias e, à noite, até esquece que deixou o [carro](https://www.embracon.com.br/blog/como-comprar-um-carro-seminovo-com-o-consorcio) na garagem. Esse seria o cenário ideal, não é mesmo? Mas o fato é que um carro exige muitos cuidados com a [manutenção](https://www.embracon.com.br/blog/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro), sendo que a pintura automotiva surge como um dos primeiros itens da lista.
 
 De forma geral, a lataria é um dos componentes que mais sofrem com os efeitos do tempo e dos agentes corrosivos do ambiente. A pior parte é que, por se tratar de um elemento que chama a atenção no automóvel, a pintura em mau estado é um aspecto que pode reduzir (e muito) o valor de [revenda do carro](https://www.embracon.com.br/blog/os-principais-cuidados-na-hora-de-vender-o-seu-carro).
 
@@ -99,4 +99,3 @@ Fora isso, se você viu uma folhinha, uma manchinha de barro ou até mesmo água
 Como se pode notar, a preservação da pintura de um carro não tem segredo nenhum. Tomando o cuidado certo em cada situação, sem exageros, a chance é que ninguém perceba a idade da pintura!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=pintura_automotiva&utm_campaign=publicacoes_blog)</figure>
-        

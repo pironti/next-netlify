@@ -1,14 +1,14 @@
 ---
-        titulo: Consumo consciente: conheça e saiba por que ele faz bem para o bolso
-        slug: conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O Brasil tem uma população habituada ao consumo. Na primeira década do milênio, o estímulo ao mercado de consumo interno focou a inclusão de famílias que antes estavam fora do radar das empresas. No entanto, apenas recentemente os brasileiros estão aprendendo o que é consumo consciente.
+titulo: Consumo consciente: conheça e saiba por que ele faz bem para o bolso
+slug: conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-o-consumo-consciente-e-saiba-por-que-ele-faz-bem-para-o-seu-bolso.jpg
+meta_summary: 
+date: 06/10/2021
+---
+O Brasil tem uma população habituada ao consumo. Na primeira década do milênio, o estímulo ao mercado de consumo interno focou a inclusão de famílias que antes estavam fora do radar das empresas. No entanto, apenas recentemente os brasileiros estão aprendendo o que é consumo consciente.
 
 De acordo com uma pesquisa divulgada pelo Serviço de Proteção ao Crédito (SPC) e pela Confederação Nacional de Dirigentes Lojistas (CNDL), apenas três em cada dez brasileiros podem ser considerados consumidores conscientes.
 
@@ -125,4 +125,3 @@ Adotar boas práticas de consumo é bom para você, para as pessoas que vivem co
 Se você gostou, ajude a disseminar o **consumo consciente**. Compartilhe este artigo nas redes sociais e assine a nossa newsletter.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

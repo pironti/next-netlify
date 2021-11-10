@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para comprar eletrodomésticos para a casa nova
-        slug: dicas-para-comprar-eletrodomesticos-para-a-casa-nova
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-comprar-eletrodomesticos-para-a-casa-nova.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Mudar de casa é [sempre uma aventura](https://www.embracon.com.br/blog/8-motivos-para-voce-morar-perto-do-trabalho) - uma aventura que, dependendo da empolgação, pode levar a altos custos.
+titulo: Dicas para comprar eletrodomésticos para a casa nova
+slug: dicas-para-comprar-eletrodomesticos-para-a-casa-nova
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-comprar-eletrodomesticos-para-a-casa-nova.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Mudar de casa é [sempre uma aventura](https://www.embracon.com.br/blog/8-motivos-para-voce-morar-perto-do-trabalho) - uma aventura que, dependendo da empolgação, pode levar a altos custos.
 
 Além de todos os custos relativos à mudança, incluindo [reforma no ambiente e decoração](https://www.embracon.com.br/blog/consorcio-de-servicos-para-reformas-e-decoracao), é preciso pensar em todos os eletrodomésticos que você irá utilizar no dia a dia.
 
@@ -87,4 +87,3 @@ Mantenha-se [firme ao seu planejamento](https://www.embracon.com.br/blog/planeja
 Para dicas de como se organizar financeiramente, [veja nosso guia de montar uma planilha de gastos](https://www.embracon.com.br/blog/como-criar-uma-planilha-de-planejamento-financeiro).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Não existe promessa de contemplação em consórcio
-        slug: nao-existe-promessa-de-contemplacao-em-consorcio
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/nao-existe-promessa-de-contemplacao-em-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Grande parte das pessoas considera a compra de um bem de alto valor por meio do consórcio já pensando na contemplação. Afinal, é bastante atrativa a opção de não precisar pagar entrada, [não pagar juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e, se possível, ter uma previsibilidade de quando será contemplado com o bem.
+titulo: Não existe promessa de contemplação em consórcio
+slug: nao-existe-promessa-de-contemplacao-em-consorcio
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/nao-existe-promessa-de-contemplacao-em-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Grande parte das pessoas considera a compra de um bem de alto valor por meio do consórcio já pensando na contemplação. Afinal, é bastante atrativa a opção de não precisar pagar entrada, [não pagar juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) e, se possível, ter uma previsibilidade de quando será contemplado com o bem.
 
 Porém, antes mesmo de prosseguir com a [aquisição da sua carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), é importante saber: nenhuma administradora de consórcio pode garantir quando você será contemplado. Isso é parte da [lei do consórcio](https://www.embracon.com.br/blog/o-que-e-a-lei-do-consorcio-e-qual-a-sua-importancia), que é garantida pelo Banco Central do Brasil (Bacen), responsável por regular o setor.
 
@@ -185,4 +185,3 @@ Com organização, paciência e disciplina, o consórcio pode ajudar na realiza�
 > Comece desde já a materializar este sonho; [faça uma simulação de consórcio](https://www.embracon.com.br/) e aproveite as inúmeras vantagens do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

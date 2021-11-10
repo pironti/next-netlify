@@ -1,14 +1,14 @@
 ---
-        titulo: O que é necessário avaliar no Contrato de Consórcio?
-        slug: o-que-e-necessario-avaliar-no-contrato-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-necessario-avaliar-no-contrato-de-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Para a maioria das pessoas, por mais que existam condições mais flexíveis, não é fácil [comprar um carro](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana) ou realizar o sonho da [casa própria](https://www.embracon.com.br/imoveis/consorcio-da-casa-propria). Um dos fatores predominantes é a dificuldade em poupar dinheiro para finalizar a compra de um bem que demanda uma [grande quantia em dinheiro](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento).
+titulo: O que é necessário avaliar no Contrato de Consórcio?
+slug: o-que-e-necessario-avaliar-no-contrato-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-necessario-avaliar-no-contrato-de-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Para a maioria das pessoas, por mais que existam condições mais flexíveis, não é fácil [comprar um carro](https://www.embracon.com.br/blog/como-comprar-um-carro-com-r-100-00-por-semana) ou realizar o sonho da [casa própria](https://www.embracon.com.br/imoveis/consorcio-da-casa-propria). Um dos fatores predominantes é a dificuldade em poupar dinheiro para finalizar a compra de um bem que demanda uma [grande quantia em dinheiro](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento).
 
 Caso você não tenha condições de fazer um pagamento à vista, uma excelente opção é **fazer um consórcio**, que se caracteriza por se encaixar em qualquer orçamento, uma vez que você pode escolher o número de parcelas e [não paga juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
 
@@ -95,4 +95,3 @@ Se tiver interesse e quiser mais informações sobre [consórcios](https://www.e
 > [Faça um consórcio](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

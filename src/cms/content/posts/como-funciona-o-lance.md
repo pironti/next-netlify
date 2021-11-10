@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o lance?
-        slug: como-funciona-o-lance
-        categoria: Lance
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-lance.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O [lance](https://www.embracon.com.br/conhecaoconsorcio/como-ofertar-um-lance) é um valor que você pode ofertar para aumentar suas chances de contemplação. Ele só é pago caso a contemplação seja confirmada. Pode também ser utilizado para diminuir o número de parcelas ou diluir o valor das parcelas restantes.
+titulo: Como funciona o lance?
+slug: como-funciona-o-lance
+categoria: Lance
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-lance.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O [lance](https://www.embracon.com.br/conhecaoconsorcio/como-ofertar-um-lance) é um valor que você pode ofertar para aumentar suas chances de contemplação. Ele só é pago caso a contemplação seja confirmada. Pode também ser utilizado para diminuir o número de parcelas ou diluir o valor das parcelas restantes.
 
 O lance não interfere na participação do consorciado no sorteio das assembleias. Conheça os[ tipos de lance](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio).
 
@@ -221,4 +221,3 @@ Pronto, seu lance foi ofertado.
 > E agora, está pensando em fazer um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_funciona_o_lance&utm_campaign=publicacoes_blog)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_funciona_o_lance&utm_campaign=publicacoes_blog)</figure>‍
-        

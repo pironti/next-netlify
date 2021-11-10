@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda o que é e como fazer uma oferta de lance em consórcio
-        slug: como-fazer-oferta-de-lance-em-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-oferta-de-lance-em-consorcio.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quando alguém decide participar de um grupo de consórcio, é óbvio que existe uma grande ansiedade em receber a tão sonhada [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito). Contudo, nem sempre o cotista consegue esse documento na velocidade que deseja. Por isso, quem não deseja contar apenas com a sorte, é possível acelerar o processo de contemplação. Basta fazer [**uma oferta de lance**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-o-lance).
+titulo: Entenda o que é e como fazer uma oferta de lance em consórcio
+slug: como-fazer-oferta-de-lance-em-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-oferta-de-lance-em-consorcio.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Quando alguém decide participar de um grupo de consórcio, é óbvio que existe uma grande ansiedade em receber a tão sonhada [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito). Contudo, nem sempre o cotista consegue esse documento na velocidade que deseja. Por isso, quem não deseja contar apenas com a sorte, é possível acelerar o processo de contemplação. Basta fazer [**uma oferta de lance**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-o-lance).
 
 Entretanto, é preciso tomar alguns cuidados antes de se fazer sua proposta. Afinal, além de ter que conhecer as regras do grupo, existe uma grande concorrência. Pior do que fazer um lance baixo é ofertar um valor maior do que o necessário, não é mesmo?
 
@@ -81,4 +81,3 @@ Caso você queira saber mais sobre consórcios, [que tal entrar em contato conos
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

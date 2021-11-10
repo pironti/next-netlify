@@ -1,14 +1,14 @@
 ---
-        titulo: Sabe a diferença entre consórcio e financiamento? A gente te conta!
-        slug: sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Digamos que você precisa [comprar uma casa](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), mas não tem o dinheiro para pagar à vista. Então, começa a ver as opções: é possível pedir para que um banco ajude a fazer essa transação, algo que é conhecido como financiamento.
+titulo: Sabe a diferença entre consórcio e financiamento? A gente te conta!
+slug: sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Digamos que você precisa [comprar uma casa](https://www.embracon.com.br/blog/quero-comprar-uma-casa-ou-carro-com-consorcio-por-onde-comecar), mas não tem o dinheiro para pagar à vista. Então, começa a ver as opções: é possível pedir para que um banco ajude a fazer essa transação, algo que é conhecido como financiamento.
 
 Por outro lado, você pode contar com uma modalidade que não cobra juros, nem valor de entrada, mas que leva um tempo até garantir a entrega do bem. Este é o caso do consórcio.
 
@@ -85,4 +85,3 @@ E aí, aprendeu a diferença entre consórcio e financiamento? Aproveite para co
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=diferenca_entre_consorcio_e_financiamento&utm_campaign=publicacoes_blog)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

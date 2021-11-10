@@ -1,14 +1,14 @@
 ---
-        titulo: Como organizar uma festa infantil?
-        slug: como-organizar-uma-festa-infantil
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-organizar-uma-festa-infantil.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Será que você sabe o que deve ser considerado na organização de uma festa infantil de aniversário? Desde a lista de convidados até os últimos preparativos, há muita coisa para planejar.
+titulo: Como organizar uma festa infantil?
+slug: como-organizar-uma-festa-infantil
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-organizar-uma-festa-infantil.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Será que você sabe o que deve ser considerado na organização de uma festa infantil de aniversário? Desde a lista de convidados até os últimos preparativos, há muita coisa para planejar.
 
 Algumas pessoas recomendam criar um cronograma e já começar o planejamento com cerca de 4 meses de antecedência. Mas, é possível organizar tudo em menos tempo — para isso, defina previamente um orçamento; anote tudo o que deverá ser feito (conforme as sugestões abaixo); procure fornecedores e estipule um prazo para finalizar cada tarefa.
 
@@ -75,4 +75,3 @@ Enfim, apresentamos neste artigo algumas dicas para organizar uma festa infantil
 E agora, já sabe como organizar uma festa infantil? Participar de um consórcio de serviços pode ser uma das formas de transformar esse evento em realidade. Se deseja ter acesso a outros conteúdos informativos como este, não perca mais tempo e [curta já a nossa página no Facebook](https://www.facebook.com/embracon/)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

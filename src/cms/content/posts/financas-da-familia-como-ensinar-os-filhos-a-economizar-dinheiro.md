@@ -1,14 +1,14 @@
 ---
-        titulo: Finanças da família: como ensinar os filhos a economizar dinheiro?
-        slug: financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        [Planejar as finanças](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) da família e ensinar as crianças a lidar com dinheiro da forma correta ajuda a formar adultos capazes de gerir sua vida financeira sem problemas. E a [economizar dinheiro](https://www.embracon.com.br/blog/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica) para o [orçamento familiar](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos) e para a realização de sonhos.
+titulo: Finanças da família: como ensinar os filhos a economizar dinheiro?
+slug: financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro.jpg
+meta_summary: 
+date: 04/10/2021
+---
+[Planejar as finanças](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) da família e ensinar as crianças a lidar com dinheiro da forma correta ajuda a formar adultos capazes de gerir sua vida financeira sem problemas. E a [economizar dinheiro](https://www.embracon.com.br/blog/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica) para o [orçamento familiar](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos) e para a realização de sonhos.
 
 Talvez você tenha amigos ou conhecidos que estejam ou já estiveram com problemas financeiros. Muitas vezes, isso acontece porque esses adultos, enquanto crianças, nunca foram estimulados a ter cuidado ou gerir seu próprio dinheiro da forma correta.
 
@@ -103,4 +103,3 @@ Seja por meio de jogos e brincadeiras com as crianças ou por atribuição de re
 Agora que você já sabe como incentivar seus filhos a [economizar dinheiro](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios), compartilhe este post nas suas redes sociais! Mostre a outros pais como eles também podem agir!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

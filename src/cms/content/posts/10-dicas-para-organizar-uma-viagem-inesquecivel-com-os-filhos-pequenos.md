@@ -1,14 +1,14 @@
 ---
-        titulo: 10 dicas para organizar uma viagem inesquecível com os filhos pequenos
-        slug: 10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Os planos de todo mundo estão um pouco parados por conta do pandemia do coronavírus. Mas já parou para refletir que esse tempo extra é um ótimo momento para [planejar uma viagem de férias](https://www.embracon.com.br/consorcio-servicos) com a família? [Viajar com os filhos](https://www.embracon.com.br/blog/4-motivos-para-investir-em-intercambio-para-os-filhos), especialmente os menores, exige alguns cuidados extras, mas é possível organizar todos os detalhes necessários.
+titulo: 10 dicas para organizar uma viagem inesquecível com os filhos pequenos
+slug: 10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/10-dicas-para-organizar-uma-viagem-inesquecivel-com-os-filhos-pequenos.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Os planos de todo mundo estão um pouco parados por conta do pandemia do coronavírus. Mas já parou para refletir que esse tempo extra é um ótimo momento para [planejar uma viagem de férias](https://www.embracon.com.br/consorcio-servicos) com a família? [Viajar com os filhos](https://www.embracon.com.br/blog/4-motivos-para-investir-em-intercambio-para-os-filhos), especialmente os menores, exige alguns cuidados extras, mas é possível organizar todos os detalhes necessários.
 
 Um ponto super positivo é que viajar com os filhos fortalece a convivência familiar, os laços entre pais e filhos, e traz recordações para a vida inteira. Então, esse momento merece ser pensado e planejado com muito carinho.
 
@@ -77,4 +77,3 @@ Pode ser um alívio ou bem traumática tanto para os pequenos quanto para os adu
 > Se você deseja [planejar a viagem em família](https://www.embracon.com.br/consorcio-servicos), saiba que a Embracon pode te ajudar! [Faça uma simulaçã](https://www.embracon.com.br/consorcio-servicos)o no site!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>> Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/) e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
-        

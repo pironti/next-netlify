@@ -1,14 +1,14 @@
 ---
-        titulo: Como gerar renda com um imóvel?
-        slug: como-gerar-renda-com-um-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-gerar-renda-com-um-imovel.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Por muitos anos o [investimento em imóvel](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) se traduziu como uma das formas mais seguras e garantidas de se ter alta rentabilidade. Não é à toa que muitas pessoas, no passado, investiram em terrenos ou na compra de diversas casas e apartamentos para ter uma [renda complementar](https://www.embracon.com.br/blog/7-dicas-de-como-conseguir-uma-renda-extra).
+titulo: Como gerar renda com um imóvel?
+slug: como-gerar-renda-com-um-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-gerar-renda-com-um-imovel.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Por muitos anos o [investimento em imóvel](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) se traduziu como uma das formas mais seguras e garantidas de se ter alta rentabilidade. Não é à toa que muitas pessoas, no passado, investiram em terrenos ou na compra de diversas casas e apartamentos para ter uma [renda complementar](https://www.embracon.com.br/blog/7-dicas-de-como-conseguir-uma-renda-extra).
 
 Imóvel é sinônimo de garantia, por se tratar de um bem de alto valor que só tende a valorizar com o passar dos anos. É claro que muitas ‘apostas’ podem ser feitas: [comprar terreno](https://www.embracon.com.br/blog/comprar-um-terreno-veja-em-quais-situacoes-vale-a-pena) em um local distante, a fim de esperar que ele prospere ou até mesmo deixar um imóvel para alugar em uma cidade distante, por exemplo, são algumas das formas de se gerar renda - e que iremos explicar com detalhes ao longo deste artigo.
 
@@ -163,4 +163,3 @@ Se o valor da carta de crédito for maior que o bem, é possível utilizar até 
 Com o consórcio de imóveis, você tem a possibilidade de ampliar o seu patrimônio, seja no investimento de uma casa para morar ou alugar ou até mesmo com a [compra do segundo imóvel](https://www.embracon.com.br/blog/segundo-imovel-vale-a-pena). Portanto, invista desde já na sua segurança a longo prazo e [faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis), para desfrutar de todas as vantagens de uma modalidade que realiza sonhos dos brasileiros há mais de 50 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

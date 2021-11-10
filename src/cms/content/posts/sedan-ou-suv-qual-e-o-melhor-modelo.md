@@ -1,14 +1,14 @@
 ---
-        titulo: Sedan ou SUV: qual é o melhor modelo?
-        slug: sedan-ou-suv-qual-e-o-melhor-modelo
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/sedan-ou-suv-qual-e-o-melhor-modelo.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        **Se você está querendo comprar um** [**carro novo**](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) **e costuma viajar bastante com a sua família, a escolha entre sedan ou SUV é quase certa, especialmente por serem veículos espaçosos, com bons motores e que trazem muito conforto para os passageiros.** Contudo, nem sempre é fácil optar por um modelo.
+titulo: Sedan ou SUV: qual é o melhor modelo?
+slug: sedan-ou-suv-qual-e-o-melhor-modelo
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/sedan-ou-suv-qual-e-o-melhor-modelo.jpg
+meta_summary: 
+date: 04/10/2021
+---
+**Se você está querendo comprar um** [**carro novo**](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) **e costuma viajar bastante com a sua família, a escolha entre sedan ou SUV é quase certa, especialmente por serem veículos espaçosos, com bons motores e que trazem muito conforto para os passageiros.** Contudo, nem sempre é fácil optar por um modelo.
 
 Por isso, preparamos este post. Nele, você vai conhecer as principais características de cada modelo, suas vantagens, desvantagens e algumas dicas que vão ajudá-lo a acertar na escolha. Continue com a gente!
 
@@ -100,4 +100,3 @@ Uma boa dica é levar a sua família junto e verificar como o veículo acomoda a
 Não há nada pior do que adquirir um bem e perceber que ele não atende às suas necessidades. Por isso, coloque todos os prós e contras na ponta do lápis, siga nossas dicas e faça a escolha certa entre **sedan ou SUV**. Com toda certeza, você vai evitar dores de cabeça.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

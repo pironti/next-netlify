@@ -1,14 +1,14 @@
 ---
-        titulo: Apartamento studio: vale a pena?
-        slug: apartamento-studio-vale-a-pena
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/apartamento-studio-vale-a-pena.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Ao longo dos anos foram criados diferentes tipos de moradia. No começo, havia as casas, que passaram a ficar cada vez mais compactas para atender a diferentes tipos de necessidade. Nas grandes cidades, os [apartamentos ganharam força](https://www.embracon.com.br/blog/como-escolher-o-tamanho-ideal-de-apartamento) por diversos motivos: eles podem proporcionar um fator de segurança e abrigam mais pessoas em um mesmo terreno, favorecendo o crescimento populacional.
+titulo: Apartamento studio: vale a pena?
+slug: apartamento-studio-vale-a-pena
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/apartamento-studio-vale-a-pena.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Ao longo dos anos foram criados diferentes tipos de moradia. No começo, havia as casas, que passaram a ficar cada vez mais compactas para atender a diferentes tipos de necessidade. Nas grandes cidades, os [apartamentos ganharam força](https://www.embracon.com.br/blog/como-escolher-o-tamanho-ideal-de-apartamento) por diversos motivos: eles podem proporcionar um fator de segurança e abrigam mais pessoas em um mesmo terreno, favorecendo o crescimento populacional.
 
 Mas, se antes os apartamentos costumavam ter um tamanho relativamente grande, [como se fossem casas](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce), com o passar dos anos essa tendência foi mudando. Assim, surgiram outros conceitos de apartamentos, incluindo o studio.
 
@@ -64,4 +64,3 @@ Com o valor da carta de crédito, você tem poder de compra à vista do seu imó
 [Faça uma simulação de consórcio de imóveis](https://www.embracon.com.br/consorcio-de-imoveis) e comece o quanto antes a investir em um apartamento tipo studio ou qualquer outro tipo de imóvel.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

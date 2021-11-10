@@ -1,14 +1,14 @@
 ---
-        titulo: O que é o SPC/Serasa e como ele influencia na sua vida financeira?
-        slug: o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Muitas pessoas, ao se deparar com o nome SPC/Serasa, já ficam assustadas: afinal, geralmente a empresa está associada ao endividamento, um problema bastante corrente hoje no Brasil.
+titulo: O que é o SPC/Serasa e como ele influencia na sua vida financeira?
+slug: o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-o-spc-serasa-e-como-ele-influencia-na-sua-vida-financeira.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Muitas pessoas, ao se deparar com o nome SPC/Serasa, já ficam assustadas: afinal, geralmente a empresa está associada ao endividamento, um problema bastante corrente hoje no Brasil.
 
 Com a [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), esse problema tem se agravado ainda mais. De acordo com a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), só em 2020 [mais de 66% dos brasileiros fecharam o ano com algum tipo de endividamento](https://agenciabrasil.ebc.com.br/economia/noticia/2021-01/numero-de-endividados-no-pais-chega-maior-patamar-em-11-anos), atingindo o maior patamar em mais de 10 anos. Entre os motivos citados, as maiores fontes de dívida são [cartão de crédito](https://www.embracon.com.br/blog/divida-de-cartao-de-credito-como-sair-dela-e-nao-entrar-mais) (78,7%), carnê (16,8%), financiamento de carro (10,7%), financiamento de casa (9,5%) e crédito para uso pessoal (8,5%).
 
@@ -170,4 +170,3 @@ Portanto, acompanhe o seu sistema de pontuação e mantenha-se organizado com as
 Quer uma dica para começar? Leia nosso post sobre [como iniciar o seu planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

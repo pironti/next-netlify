@@ -1,14 +1,14 @@
 ---
-        titulo: Guardar dinheiro x Compra programada
-        slug: guardar-dinheiro-x-compra-programada
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guardar-dinheiro-x-compra-programada.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Infelizmente esses últimos meses não foram nada fáceis financeiramente falando. Tivemos um impacto mundial com a crise do [coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), que abalou as estruturas financeiras de muitos países, além de vivermos a possibilidade de ficarmos doentes ou mesmo de perder entes queridos.
+titulo: Guardar dinheiro x Compra programada
+slug: guardar-dinheiro-x-compra-programada
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guardar-dinheiro-x-compra-programada.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Infelizmente esses últimos meses não foram nada fáceis financeiramente falando. Tivemos um impacto mundial com a crise do [coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), que abalou as estruturas financeiras de muitos países, além de vivermos a possibilidade de ficarmos doentes ou mesmo de perder entes queridos.
 
 O Brasil, por exemplo, passou por muitos apertos financeiros. A [moeda ](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida)foi desvalorizada, a alimentação ficou mais cara e muitas pessoas voltaram à linha da pobreza.
 
@@ -84,4 +84,3 @@ Somando essa possível redução obtida com a negociação de [forma à vista](h
 Quer mais dicas de finanças pessoais? Então confira nossas dicas de [como montar o seu planejamento financeiro anual](https://www.embracon.com.br/blog/faca-um-planejamento-financeiro-anual).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

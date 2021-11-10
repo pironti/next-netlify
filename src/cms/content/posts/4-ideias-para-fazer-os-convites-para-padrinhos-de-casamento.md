@@ -1,14 +1,14 @@
 ---
-        titulo: 4 ideias para fazer os convites para padrinhos de casamento
-        slug: 4-ideias-para-fazer-os-convites-para-padrinhos-de-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-ideias-para-fazer-os-convites-para-padrinhos-de-casamento.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Idealizar o convite para padrinhos de [casamento](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona) nem sempre é uma tarefa fácil para os noivos, não é mesmo? Afinal, você quer fazer algo que fuja do clichê, mostre [bom gosto](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento), seja criativo e tenha, de fato, um valor sentimental para convidar as pessoas que vão compartilhar cada momento especial do [casório](https://www.embracon.com.br/blog/6-tendencias-de-casamento-que-voce-precisa-conhecer) ao seu lado.
+titulo: 4 ideias para fazer os convites para padrinhos de casamento
+slug: 4-ideias-para-fazer-os-convites-para-padrinhos-de-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-ideias-para-fazer-os-convites-para-padrinhos-de-casamento.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Idealizar o convite para padrinhos de [casamento](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona) nem sempre é uma tarefa fácil para os noivos, não é mesmo? Afinal, você quer fazer algo que fuja do clichê, mostre [bom gosto](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento), seja criativo e tenha, de fato, um valor sentimental para convidar as pessoas que vão compartilhar cada momento especial do [casório](https://www.embracon.com.br/blog/6-tendencias-de-casamento-que-voce-precisa-conhecer) ao seu lado.
 
 Contudo, colocar tudo isso em prática requer muito mais [planejamento](https://www.embracon.com.br/blog/fornecedores-para-casamentos-escolha-bem-e-negocie-os-precos) do que o esperado. Por essa razão, preparamos um post com algumas [ideias](https://www.embracon.com.br/blog/4-conselhos-para-escolher-o-menu-de-festa-de-casamento) de como personalizar o convite para você se inspirar e descomplicar essa tarefa. Acompanhe!
 
@@ -55,4 +55,3 @@ Aproveite e compartilhe este post com seus amigos nas redes sociais. Assim, aque
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

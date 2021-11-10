@@ -1,14 +1,14 @@
 ---
-        titulo: Por que viajar para Dubai? Confira aqui os 4 principais motivos
-        slug: por-que-viajar-para-dubai-confira-aqui-os-4-principais-motivos
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-viajar-para-dubai-confira-aqui-os-4-principais-motivos.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Que tal **viajar para Dubai**, conhecer a maior cidade dos Emirados Árabes Unidos e um dos locais mais fascinantes do mundo? Esse é um ótimo destino para quem procura por diversão em família. Ou, até mesmo, quem busca aquele merecido descanso após meses de trabalho árduo.
+titulo: Por que viajar para Dubai? Confira aqui os 4 principais motivos
+slug: por-que-viajar-para-dubai-confira-aqui-os-4-principais-motivos
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-viajar-para-dubai-confira-aqui-os-4-principais-motivos.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Que tal **viajar para Dubai**, conhecer a maior cidade dos Emirados Árabes Unidos e um dos locais mais fascinantes do mundo? Esse é um ótimo destino para quem procura por diversão em família. Ou, até mesmo, quem busca aquele merecido descanso após meses de trabalho árduo.
 
 Vamos conhecer alguns dos motivos de porque viajar para Dubai? Continue com a leitura deste texto e veja 4!
 
@@ -51,4 +51,3 @@ Como você deve ter percebido, viajar para Dubai é uma experiência grandiosa, 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

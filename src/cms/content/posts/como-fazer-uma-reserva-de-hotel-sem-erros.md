@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer uma reserva de hotel sem erros
-        slug: como-fazer-uma-reserva-de-hotel-sem-erros
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-uma-reserva-de-hotel-sem-erros.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Viajar é sempre uma experiência incrível, não é mesmo? Graças a essa atividade nós podemos conhecer novas pessoas e entrar em contato com culturas diferentes. Apesar de todas essas vantagens, tem uma coisa que dificulta bastante uma viagem: a reserva de hotel.
+titulo: Como fazer uma reserva de hotel sem erros
+slug: como-fazer-uma-reserva-de-hotel-sem-erros
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-uma-reserva-de-hotel-sem-erros.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Viajar é sempre uma experiência incrível, não é mesmo? Graças a essa atividade nós podemos conhecer novas pessoas e entrar em contato com culturas diferentes. Apesar de todas essas vantagens, tem uma coisa que dificulta bastante uma viagem: a reserva de hotel.
 
 Por mais burocrática e chata que seja essa parte, a escolha e a reserva de um bom hotel é fundamental para a[ viagem.](https://www.embracon.com.br/blog/consorcio-de-viagens-embracon-vantagens) Se você não tomar os devidos cuidados, pode acabar tendo que lidar com situações bem desconfortáveis.
 
@@ -55,4 +55,3 @@ Dê preferência a sites maiores e mais conhecidos, que garantem segurança no p
 Para continuar recebendo nossas dicas, lembre-se de assinar nossa newsletter. Com ela você recebe informações exclusivas diretamente no seu e-mail.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

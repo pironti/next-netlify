@@ -1,14 +1,14 @@
 ---
-        titulo: 5 motivos para você viajar para Portugal o quanto antes
-        slug: 5-motivos-para-voce-viajar-para-portugal-o-quanto-antes
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Depois de muito trabalho, uma das melhores coisas a se fazer é relaxar e aproveitar os prazeres mais simples da vida com a família. Um [destino internacional](https://www.embracon.com.br/blog/saiba-como-montar-um-roteiro-de-viagem-em-7-passos), além de proporcionar tudo isso, é uma ótima forma de[ intercâmbio](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos), principalmente para os jovens. Pensando nisso, que tal viajar para Portugal e conhecer mais sobre essa cultura magnificação longo deste texto vamos mostrar 5 motivos para você se programar e viajar para Portugal o quanto antes. Continue com a gente e não perca!
+titulo: 5 motivos para você viajar para Portugal o quanto antes
+slug: 5-motivos-para-voce-viajar-para-portugal-o-quanto-antes
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Depois de muito trabalho, uma das melhores coisas a se fazer é relaxar e aproveitar os prazeres mais simples da vida com a família. Um [destino internacional](https://www.embracon.com.br/blog/saiba-como-montar-um-roteiro-de-viagem-em-7-passos), além de proporcionar tudo isso, é uma ótima forma de[ intercâmbio](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos), principalmente para os jovens. Pensando nisso, que tal viajar para Portugal e conhecer mais sobre essa cultura magnificação longo deste texto vamos mostrar 5 motivos para você se programar e viajar para Portugal o quanto antes. Continue com a gente e não perca!
 
 > Conheça o Consórcio de Viagem
 
@@ -56,4 +56,3 @@ Entendeu o porquê de viajar para Portugal o quanto antes? E esses são apenas a
 Ah, mas antes, não se esqueça de compartilhar este conteúdo em suas redes sociais. Afinal, esse belo país tem de ser conhecido por todos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

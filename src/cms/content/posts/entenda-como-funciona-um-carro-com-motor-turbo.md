@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como funciona um carro com motor turbo
-        slug: entenda-como-funciona-um-carro-com-motor-turbo
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-funciona-um-carro-com-motor-turbo.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Assim como os veículos 1.0 em um passado não tão distante, o carro com motor turbo tem se popularizado bastante ultimamente, caindo nas graças de muitos brasileiros. E não à toa: seja para a sua [família](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos), seja para você, esses [automóveis](https://www.embracon.com.br/consorcio-de-carros) têm características muito importantes.
+titulo: Entenda como funciona um carro com motor turbo
+slug: entenda-como-funciona-um-carro-com-motor-turbo
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-funciona-um-carro-com-motor-turbo.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Assim como os veículos 1.0 em um passado não tão distante, o carro com motor turbo tem se popularizado bastante ultimamente, caindo nas graças de muitos brasileiros. E não à toa: seja para a sua [família](https://www.embracon.com.br/blog/aprenda-como-montar-um-orcamento-familiar-em-5-passos), seja para você, esses [automóveis](https://www.embracon.com.br/consorcio-de-carros) têm características muito importantes.
 
 Quer saber quais são elas? Então, continue a leitura para entender um pouco mais sobre os diferenciais, vantagens e alguns [modelos mais baratos de carro](https://www.embracon.com.br/blog/afinal-quais-sao-os-carros-mais-economicos-do-mercado) com motor turbo!
 
@@ -48,4 +48,3 @@ Então, está convencido de que os carros turbo são uma boa opção? Sobrou alg
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Moto](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb047da694e1574185fc313_CTA-MOTO.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=motocicletas)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

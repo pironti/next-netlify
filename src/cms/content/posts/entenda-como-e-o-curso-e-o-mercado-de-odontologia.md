@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como é o curso e o mercado de Odontologia
-        slug: entenda-como-e-o-curso-e-o-mercado-de-odontologia
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-e-o-curso-e-o-mercado-de-odontologia.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        [Fazer uma faculdade ](https://www.embracon.com.br/blog/como-funciona-o-consorcio-embracon-para-pagar-faculdade)de Odontologia é uma ótima escolha para quem quer exercer um papel importante na sociedade e se preocupa com a qualidade de vida das pessoas. É[ uma carreira](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira) que tem evoluído bastante e possui atuação em diversos segmentos.Tudo bem que a [faculdade é um passo importante](https://www.embracon.com.br/blog/como-funciona-e-por-que-contratar-um-coach-de-carreira) para garantir a segurança no futuro. No entanto, pesquisar sobre a área também é fundamental para não errar na hora da escolha. Por isso, preparamos este artigo para você entender o que é o curso, como funciona o mercado e o qual o perfil profissional para atuar nessa área. Confira!
+titulo: Entenda como é o curso e o mercado de Odontologia
+slug: entenda-como-e-o-curso-e-o-mercado-de-odontologia
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-e-o-curso-e-o-mercado-de-odontologia.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+[Fazer uma faculdade ](https://www.embracon.com.br/blog/como-funciona-o-consorcio-embracon-para-pagar-faculdade)de Odontologia é uma ótima escolha para quem quer exercer um papel importante na sociedade e se preocupa com a qualidade de vida das pessoas. É[ uma carreira](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira) que tem evoluído bastante e possui atuação em diversos segmentos.Tudo bem que a [faculdade é um passo importante](https://www.embracon.com.br/blog/como-funciona-e-por-que-contratar-um-coach-de-carreira) para garantir a segurança no futuro. No entanto, pesquisar sobre a área também é fundamental para não errar na hora da escolha. Por isso, preparamos este artigo para você entender o que é o curso, como funciona o mercado e o qual o perfil profissional para atuar nessa área. Confira!
 
 Como é o curso de odontologia?
 ------------------------------
@@ -94,4 +94,3 @@ Fato. Todo profissional da área da saúde corre risco de contrair doenças tran
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

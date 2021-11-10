@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona um consórcio de imóveis no Brasil
-        slug: como-funciona-um-consorcio-de-imoveis-no-brasil
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-um-consorcio-de-imoveis-no-brasil.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O [consórcio imobiliário](https://www.embracon.com.br/imoveis/o-que-e-consorcio-imobiliario) é uma opção de crédito direcionado para quem deseja comprar um imóvel de forma parcelada e sem juros, para manter o planejamento financeiro.
+titulo: Como funciona um consórcio de imóveis no Brasil
+slug: como-funciona-um-consorcio-de-imoveis-no-brasil
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-um-consorcio-de-imoveis-no-brasil.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O [consórcio imobiliário](https://www.embracon.com.br/imoveis/o-que-e-consorcio-imobiliario) é uma opção de crédito direcionado para quem deseja comprar um imóvel de forma parcelada e sem juros, para manter o planejamento financeiro.
 
 Ainda assim, entender [como funciona um consórcio](https://www.embracon.com.br/blog/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio) de imóveis é um passo fundamental a ser seguido por você que pretende simplificar a realização do sonho da [casa própria](https://www.embracon.com.br/imoveis/consorcio-da-casa-propria) ou tem a intenção de investir na ampliação do próprio patrimônio.
 
@@ -191,4 +191,3 @@ Agora que você já sabe como funciona o **consórcio de imóveis no Brasil**, p
 > A Embracon, por exemplo, é uma empresa baseada no compromisso com os clientes, já reconhecida no mercado há mais de 30 anos, especialista no ramo de consórcios no Brasil, o que a torna a melhor opção para quem deseja fazer um consórcio de imóvel. [Faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

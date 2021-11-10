@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena fazer consórcio de imóvel?
-        slug: vale-a-pena-fazer-consorcio-de-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-fazer-consorcio-de-imovel.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Comprar sua casa própria ou [aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e aproveitar um imóvel de alto padrão é o desejo de milhões de brasileiros. Mas [comprar um imóvel](https://www.embracon.com.br/blog/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel) requer alto investimento, e nem todo mundo está disposto a arcar com juros e parcelas e ignorar o financiamento.
+titulo: Vale a pena fazer consórcio de imóvel?
+slug: vale-a-pena-fazer-consorcio-de-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-fazer-consorcio-de-imovel.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Comprar sua casa própria ou [aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e aproveitar um imóvel de alto padrão é o desejo de milhões de brasileiros. Mas [comprar um imóvel](https://www.embracon.com.br/blog/saiba-o-que-levar-em-consideracao-antes-de-comprar-um-imovel) requer alto investimento, e nem todo mundo está disposto a arcar com juros e parcelas e ignorar o financiamento.
 
 Foi nessa intenção que o consórcio surgiu com uma solução que permitiu os brasileiros a [conquistar um imóvel](https://www.embracon.com.br/blog/compre-seu-apartamento-com-o-consorcio-de-imoveis) e coordenar esse investimento com aluguel e consequentemente acabou ajudando nas despesas mensais.
 
@@ -148,4 +148,3 @@ Já ficou mais do que claro que realmente ***vale a pena fazer um consórcio de 
 Para ter ainda mais certeza de que vale a pena fazer um consórcio de imóvel, consulte o site da Embracon, administradora de consórcios, e faça uma [simulação](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=). Com ela você saberá exatamente o que investir e em até quanto tempo terá seu investimento de volta em bens ou serviços de sua preferência.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

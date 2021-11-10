@@ -1,14 +1,14 @@
 ---
-        titulo: Como conquistar a independência financeira morando sozinho
-        slug: como-conquistar-a-independencia-financeira-morando-sozinho
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-conquistar-a-independencia-financeira-morando-sozinho.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Sair da casa dos pais pode ser uma das etapas mais desafiadoras para um jovem. Geralmente, esse momento é acompanhado pela [faculdade](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo), por uma [mudança de cidade](https://www.embracon.com.br/blog/busca-de-novas-cidades-para-mais-qualidade-de-vida) ou país, por um [casamento ](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona)ou apenas para conquistar a própria independência. E como se preparar para isso? Quais são os planejamentos necessários para não passar por dificuldades e conseguir realizar essa transição sem dívidas e dificuldades?
+titulo: Como conquistar a independência financeira morando sozinho
+slug: como-conquistar-a-independencia-financeira-morando-sozinho
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-conquistar-a-independencia-financeira-morando-sozinho.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Sair da casa dos pais pode ser uma das etapas mais desafiadoras para um jovem. Geralmente, esse momento é acompanhado pela [faculdade](https://www.embracon.com.br/blog/entenda-qual-e-a-importancia-da-faculdade-para-o-curriculo), por uma [mudança de cidade](https://www.embracon.com.br/blog/busca-de-novas-cidades-para-mais-qualidade-de-vida) ou país, por um [casamento ](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona)ou apenas para conquistar a própria independência. E como se preparar para isso? Quais são os planejamentos necessários para não passar por dificuldades e conseguir realizar essa transição sem dívidas e dificuldades?
 
 Fizemos uma lista com as dicas mais importantes para você se planejar para morar sozinho e alcançar sua [independência financeira](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal). Confira a seguir:
 
@@ -65,4 +65,3 @@ Um dos motivos que mais encarecem um imóvel é a sua localização. Por isso é
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 ‍
-        

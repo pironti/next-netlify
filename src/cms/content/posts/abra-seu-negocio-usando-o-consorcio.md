@@ -1,14 +1,14 @@
 ---
-        titulo: Abra seu negócio usando o consórcio
-        slug: abra-seu-negocio-usando-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/abra-seu-negocio-usando-o-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quem nunca quis ser o seu próprio patrão? Conseguir trabalhar da forma que realmente acredita, sem ter que prestar contas para alguém do que está fazendo pode parecer um sonho, não é mesmo?
+titulo: Abra seu negócio usando o consórcio
+slug: abra-seu-negocio-usando-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/abra-seu-negocio-usando-o-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quem nunca quis ser o seu próprio patrão? Conseguir trabalhar da forma que realmente acredita, sem ter que prestar contas para alguém do que está fazendo pode parecer um sonho, não é mesmo?
 
 O fato é que [ser um empreendedor é um desafio maior do que muita gente imagina](https://www.embracon.com.br/blog/use-o-consorcio-para-empreender). E não apenas pelo fato de ter que ser responsável por tudo o que é feito em sua empresa. Nos primeiros anos, você pode ter bastante dificuldade para ter um bom volume de clientes, [manter fluxo de caixa](https://www.embracon.com.br/blog/o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo) e manter tudo pago, para funcionar de forma sustentável.
 
@@ -119,4 +119,3 @@ Toda administradora de consórcio possui requisitos, restrições, taxas, encarg
 Não importa quais sejam os seus objetivos de negócio, a [Embracon](https://www.embracon.com.br/) possui um consórcio de serviços que podem atender às suas necessidades, além de fornecer a mais avançada estrutura, serviços e suporte para garantir que você alcance seus objetivos sem se preocupar antes, durante e depois .
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

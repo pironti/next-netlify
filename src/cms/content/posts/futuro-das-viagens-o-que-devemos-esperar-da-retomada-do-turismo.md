@@ -1,14 +1,14 @@
 ---
-        titulo: Futuro das viagens: o que devemos esperar da retomada do turismo
-        slug: futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O que devemos esperar da retomada do turismo? Este, com certeza, é o principal questionamento tanto das empresas e destinos turísticos como dos viajantes que, após mais de um ano de pandemia da covid-19, têm muitas dúvidas sobre o futuro das viagens.
+titulo: Futuro das viagens: o que devemos esperar da retomada do turismo
+slug: futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/futuro-das-viagens-o-que-devemos-esperar-da-retomada-do-turismo.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O que devemos esperar da retomada do turismo? Este, com certeza, é o principal questionamento tanto das empresas e destinos turísticos como dos viajantes que, após mais de um ano de pandemia da covid-19, têm muitas dúvidas sobre o futuro das viagens.
 
 A verdade é que, apesar de algumas reaberturas de fronteiras e pontos turísticos, o cenário ainda é incerto. Enquanto alguns destinos avançam na vacinação em massa, outros estão muito distantes de conseguirem a imunização de suas populações. E, em meio a esse desarranjo, o trânsito de turistas continua prejudicado.
 
@@ -79,4 +79,3 @@ Apesar de todas as incertezas em relação ao fim da pandemia da covid-19, é pe
 Quer ler todo o estudo da Travel Media PR sobre o futuro das viagens no pós-pandemia? [Confira na íntegra aqui](https://guiaviajarmelhor.com.br/wp-content/uploads/2020/08/O-Futuro-e-o-Presente-das-Viagens-Pos-Pandemia.pdf) e descubra tudo o que devemos esperar da retomada do turismo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

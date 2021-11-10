@@ -1,14 +1,14 @@
 ---
-        titulo: Guia da contemplação de consórcio
-        slug: guia-da-contemplacao-de-consorcio
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-da-contemplacao-de-consorcio.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        A partir do momento que uma pessoa decide adquirir um bem ou serviço por meio do consórcio, é importante se programar muito bem, pois se trata de uma compra a longo prazo. Sendo assim, você precisará considerar que [a contemplação pode ser feita entre o primeiro e o último mês do plano do contrato](https://www.embracon.com.br/blog/nao-existe-promessa-de-contemplacao-em-consorcio), sendo impossível determinar quando isso acontecerá.
+titulo: Guia da contemplação de consórcio
+slug: guia-da-contemplacao-de-consorcio
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-da-contemplacao-de-consorcio.jpg
+meta_summary: 
+date: 19/10/2021
+---
+A partir do momento que uma pessoa decide adquirir um bem ou serviço por meio do consórcio, é importante se programar muito bem, pois se trata de uma compra a longo prazo. Sendo assim, você precisará considerar que [a contemplação pode ser feita entre o primeiro e o último mês do plano do contrato](https://www.embracon.com.br/blog/nao-existe-promessa-de-contemplacao-em-consorcio), sendo impossível determinar quando isso acontecerá.
 
 Quais são os tipos de consórcio? 
 ---------------------------------
@@ -139,4 +139,3 @@ Uma característica muito importante do consórcio é a flexibilidade de uso do 
 Enfim, para quem sonha em [economizar dinheiro](https://www.embracon.com.br/blog/4-aplicativos-de-financas-para-te-ajudar-a-economizar-mais-dinheiro) e comprar coisas boas e está procurando a maneira mais fácil de fazer isso, o Consórcio [Embracon](https://www.embracon.com.br/a-embracon) é sem dúvida uma boa opção. Faça sua [simulação](https://www.embracon.com.br/servicos/consorcio-simulacao) direto no [site](https://www.embracon.com.br/a-embracon) da empresa e aproveite a chance de realizar seu sonho sem juros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

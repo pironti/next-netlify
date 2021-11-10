@@ -1,14 +1,14 @@
 ---
-        titulo: O que é possível fazer com o FGTS?
-        slug: o-que-e-possivel-fazer-com-o-fgts
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-possivel-fazer-com-o-fgts.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O FGTS, ou Fundo de Garantia do Tempo de Serviço, é um dos fundos mais conhecidos de todo o Brasil. Isso porque todo trabalhador registrado em carteira automaticamente tem uma conta criada no banco da Caixa para essa finalidade.
+titulo: O que é possível fazer com o FGTS?
+slug: o-que-e-possivel-fazer-com-o-fgts
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-possivel-fazer-com-o-fgts.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O FGTS, ou Fundo de Garantia do Tempo de Serviço, é um dos fundos mais conhecidos de todo o Brasil. Isso porque todo trabalhador registrado em carteira automaticamente tem uma conta criada no banco da Caixa para essa finalidade.
 
 A cada mês, um percentual do salário é automaticamente depositado pelo empregador, para garantir que o trabalhador possa [construir seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) e consiga utilizá-lo no futuro em diversas situações.
 
@@ -215,4 +215,3 @@ Caso você tenha um financiamento com alguma instituição financeira, [pode uti
 > Portanto, aproveite o seu saldo do FGTS e as facilidades do consórcio para investir agora mesmo no seu imóvel. [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=o_que_e_possivel_fazer_com_o_fgts&utm_campaign=publicacoes_blog) e antecipe desde já a construção do seu sonho e do sonho de toda a sua família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb5e77abc38c34aef6f090_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=o_que_e_possivel_fazer_com_o_fgts&utm_campaign=publicacoes_blog)</figure>‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Imóveis usados têm garantia no consórcio?
-        slug: imoveis-usados-tem-garantia-no-consorcio
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/imoveis-usados-tem-garantia-no-consorcio.png
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        [Comprar um imóvel usado ou novo](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel), envolve um planejamento de meses, às vezes anos. Afinal, o maior sonho dos brasileiros é obter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) e, devido ao alto valor de uma casa ou de um apartamento, conquistar esse sonho pode levar mais tempo do que se imagina.
+titulo: Imóveis usados têm garantia no consórcio?
+slug: imoveis-usados-tem-garantia-no-consorcio
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/imoveis-usados-tem-garantia-no-consorcio.png
+meta_summary: 
+date: 07/10/2021
+---
+[Comprar um imóvel usado ou novo](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel), envolve um planejamento de meses, às vezes anos. Afinal, o maior sonho dos brasileiros é obter a [casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) e, devido ao alto valor de uma casa ou de um apartamento, conquistar esse sonho pode levar mais tempo do que se imagina.
 
 Quando se trata de um [imóvel usado](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar), é preciso tomar algumas precauções. Por mais que o valor saia mais em conta, é preciso avaliar muito bem o imóvel, para evitar contratempos.
 
@@ -62,4 +62,3 @@ Ficou interessado em [investir na casa própria já construída](https://www.emb
 > Faça uma simulação de [Consórcio de Imóveis.](https://embracon.com.br/consorcio-de-imoveis)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb03fbb82cd6e7f72131c87_CTA-CASA2.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

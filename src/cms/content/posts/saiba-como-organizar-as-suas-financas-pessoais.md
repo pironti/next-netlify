@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como organizar as suas finanças pessoais
-        slug: saiba-como-organizar-as-suas-financas-pessoais
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-organizar-as-suas-financas-pessoais.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Que é importante ter as suas [finanças pessoais muito bem organizadas](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para que se consiga conquistar seus objetivos muitos já devem saber. Mas, quando se observa a relação do brasileiro com o seu bolso na prática, o que parece ser óbvio nem sempre é colocado em prática.
+titulo: Saiba como organizar as suas finanças pessoais
+slug: saiba-como-organizar-as-suas-financas-pessoais
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-organizar-as-suas-financas-pessoais.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Que é importante ter as suas [finanças pessoais muito bem organizadas](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para que se consiga conquistar seus objetivos muitos já devem saber. Mas, quando se observa a relação do brasileiro com o seu bolso na prática, o que parece ser óbvio nem sempre é colocado em prática.
 
 Isso porque o brasileiro tem uma [relação complicada com o dinheiro](https://www.embracon.com.br/blog/guardar-poupar-ou-investir-qual-a-diferenca-entre-os-termos), mesmo em momentos difíceis, como a [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia).
 
@@ -211,4 +211,3 @@ Depois disso, você entra em um grupo e pode ser sorteado com o bem. Caso queira
 Com o consórcio, você pode se organizar financeiramente para a compra de um bem de alto valor, sem ter que comprometer seus rendimentos mensais. Converse com toda a família, escolha o sonho que deseja realizar e [faça uma simulação](https://www.embracon.com.br/), para conferir as vantagens de uma modalidade que, há décadas, ajuda milhões de brasileiros a conquistarem seus objetivos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

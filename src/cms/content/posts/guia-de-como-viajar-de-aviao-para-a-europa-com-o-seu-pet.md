@@ -1,14 +1,14 @@
 ---
-        titulo: Guia de como viajar de avião para a Europa com o seu pet
-        slug: guia-de-como-viajar-de-aviao-para-a-europa-com-o-seu-pet
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-de-como-viajar-de-aviao-para-a-europa-com-o-seu-pet.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Chegou a hora de você realizar a viagem dos seus sonhos, talvez aquele tão sonhado [ano sabático](https://www.embracon.com.br/blog/como-se-preparar-para-fazer-um-ano-sabatico) ou mesmo realizar o [sonho de estudar fora](https://www.embracon.com.br/blog/7-dicas-essenciais-para-organizar-um-intercambio). Mas aí você lembra: e o seu melhor amigo? Cada vez mais os [pets ](https://www.embracon.com.br/blog/qual-a-melhor-hora-de-ter-um-pet)estão viajando junto com os donos para o exterior.
+titulo: Guia de como viajar de avião para a Europa com o seu pet
+slug: guia-de-como-viajar-de-aviao-para-a-europa-com-o-seu-pet
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-de-como-viajar-de-aviao-para-a-europa-com-o-seu-pet.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Chegou a hora de você realizar a viagem dos seus sonhos, talvez aquele tão sonhado [ano sabático](https://www.embracon.com.br/blog/como-se-preparar-para-fazer-um-ano-sabatico) ou mesmo realizar o [sonho de estudar fora](https://www.embracon.com.br/blog/7-dicas-essenciais-para-organizar-um-intercambio). Mas aí você lembra: e o seu melhor amigo? Cada vez mais os [pets ](https://www.embracon.com.br/blog/qual-a-melhor-hora-de-ter-um-pet)estão viajando junto com os donos para o exterior.
 
 [O processo para liberar um animal em uma viagem não é simples, mas não é impossível.](https://www.embracon.com.br/blog/posso-levar-o-pet-numa-viagem-de-aviao) Para você entender melhor como funciona, fizemos um guia de como viajar para o exterior com o seu bichinho de estimação. Confira a seguir.
 
@@ -89,4 +89,3 @@ Mas não esqueça de sempre consultar a autoridade zoo sanitária do país de de
 > Tá pensando em fazer a viagem da sua vida? A Embracon te ajuda a realizar esse sonho, [faça uma simulação](https://www.embracon.com.br/consorcio) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

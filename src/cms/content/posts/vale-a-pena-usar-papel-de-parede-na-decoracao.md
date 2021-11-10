@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena usar papel de parede na decoração?
-        slug: vale-a-pena-usar-papel-de-parede-na-decoracao
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-usar-papel-de-parede-na-decoracao.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Ao decorar a própria casa, muitas pessoas encaram com desânimo o momento de pintar os cômodos — e não é para menos. Afinal, essa é uma tarefa que leva tempo, dá trabalho e, de acordo com o estado das paredes, demanda profissionais para fazer o serviço. Tudo isso só aumenta os gastos.
+titulo: Vale a pena usar papel de parede na decoração?
+slug: vale-a-pena-usar-papel-de-parede-na-decoracao
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-usar-papel-de-parede-na-decoracao.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Ao decorar a própria casa, muitas pessoas encaram com desânimo o momento de pintar os cômodos — e não é para menos. Afinal, essa é uma tarefa que leva tempo, dá trabalho e, de acordo com o estado das paredes, demanda profissionais para fazer o serviço. Tudo isso só aumenta os gastos.
 
 É justamente por isso que o papel de parede — conhecido pela praticidade e pelo ótimo custo-benefício — surge como uma grande tendência no design de interiores. Assim, reunimos neste post uma série de informações sobre ele. E, também, os motivos que fazem esse material ser uma excelente escolha para a [decoração do seu lar](https://www.embracon.com.br/blog/5-dicas-de-decoracao-de-sala-para-voce-fazer-hoje). Acompanhe a leitura!
 
@@ -51,4 +51,3 @@ Para esfregar e fazer movimentos circulares, use as mãos ou um pano de microfib
 Como você viu, vale muito a pena usar papel de parede ao decorar o seu imóvel. Ele ajuda a personalizar o seu lar, requer uma manutenção simples e ainda tem excelente custo-benefício. Por isso, invista nele sem medo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

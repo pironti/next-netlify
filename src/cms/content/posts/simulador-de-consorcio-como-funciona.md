@@ -1,14 +1,14 @@
 ---
-        titulo: Simulador de consórcio: como funciona
-        slug: simulador-de-consorcio-como-funciona
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/simulador-de-consorcio-como-funciona.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quer se livrar do aluguel e comprar um imóvel? Seu sonho é [comprar um carro](https://www.embracon.com.br/blog/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual) ou outro tipo de veículo? O consórcio pode ser uma boa escolha, já que com este serviço, você pode comprar casas, apartamentos, motocicletas e até barcos [sem juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
+titulo: Simulador de consórcio: como funciona
+slug: simulador-de-consorcio-como-funciona
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/simulador-de-consorcio-como-funciona.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quer se livrar do aluguel e comprar um imóvel? Seu sonho é [comprar um carro](https://www.embracon.com.br/blog/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual) ou outro tipo de veículo? O consórcio pode ser uma boa escolha, já que com este serviço, você pode comprar casas, apartamentos, motocicletas e até barcos [sem juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda).
 
 O [consórcio também é um bom modelo de investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento) por possuir algumas ferramentas que podem te ajudar na hora de fazer sua escolha, uma delas é o simulador de consórcio, que prevê as condições do seu investimento.
 
@@ -66,4 +66,3 @@ O simulador de consórcio é uma forma muito prática de saber se o plano seleci
 Faça sua [simulação ](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)com o consórcio Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

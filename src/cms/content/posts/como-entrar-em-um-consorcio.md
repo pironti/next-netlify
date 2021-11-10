@@ -1,14 +1,14 @@
 ---
-        titulo: Como entrar em um consórcio?
-        slug: como-entrar-em-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-entrar-em-um-consorcio.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O consórcio é uma modalidade de pagamento para investir em bens de alto valor que foi [criada no Brasil, ainda nos anos 1950](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio), quando o país começava a receber seus primeiros automóveis.
+titulo: Como entrar em um consórcio?
+slug: como-entrar-em-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-entrar-em-um-consorcio.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O consórcio é uma modalidade de pagamento para investir em bens de alto valor que foi [criada no Brasil, ainda nos anos 1950](https://www.embracon.com.br/blog/qual-e-a-origem-do-consorcio), quando o país começava a receber seus primeiros automóveis.
 
 Um de seus principais objetivos era possibilitar a [formação de grupos de pessoas](https://www.embracon.com.br/blog/como-funciona-um-grupo-de-consorcio) que têm uma mesma finalidade. Com isso, elas formavam um fundo em comum e, mensalmente, poderiam ser sorteadas com o bem, mantendo firme o compromisso de [continuar pagando o consórcio](https://www.embracon.com.br/blog/entenda-o-pagamento-do-bem-no-consorcio).
 
@@ -59,4 +59,3 @@ Caso o valor da mensalidade seja 30% superior aos rendimentos, é solicitada a i
 Como deu para perceber, o consórcio não exige muita burocracia para permitir a realização do seu sonho. [Faça uma simulação agora mesmo](https://www.embracon.com.br/) do bem que deseja comprar e conte com a flexibilidade de uma categoria que há mais de 50 anos ajuda os brasileiros a realizarem seu sonho com planejamento e facilidade.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

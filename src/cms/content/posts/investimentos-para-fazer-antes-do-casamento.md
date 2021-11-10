@@ -1,14 +1,14 @@
 ---
-        titulo: Investimentos para fazer antes do casamento
-        slug: investimentos-para-fazer-antes-do-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/investimentos-para-fazer-antes-do-casamento.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Para tornar especial o dia tão esperado e tão perfeito quanto o casal imaginava, é necessário planejar e, claro, reservar fundos para a [cerimônia e festa](https://www.embracon.com.br/blog/casamento-na-praia-guia-completo-para-uma-celebracao). Para isso, são necessários alguns ajustes, que devem ser feitos conjuntamente pelos noivos um bom tempo antes do grande dia. Em outras palavras, é imprescindível ter um bom [planejamento financeiro](https://www.embracon.com.br/blog/como-fazer-um-planejamento-financeiro-para-o-casamento), principalmente.
+titulo: Investimentos para fazer antes do casamento
+slug: investimentos-para-fazer-antes-do-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/investimentos-para-fazer-antes-do-casamento.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Para tornar especial o dia tão esperado e tão perfeito quanto o casal imaginava, é necessário planejar e, claro, reservar fundos para a [cerimônia e festa](https://www.embracon.com.br/blog/casamento-na-praia-guia-completo-para-uma-celebracao). Para isso, são necessários alguns ajustes, que devem ser feitos conjuntamente pelos noivos um bom tempo antes do grande dia. Em outras palavras, é imprescindível ter um bom [planejamento financeiro](https://www.embracon.com.br/blog/como-fazer-um-planejamento-financeiro-para-o-casamento), principalmente.
 
 Como fazer um bom planejamento? 
 --------------------------------
@@ -59,4 +59,3 @@ A principal vantagem é a não existência de juros. Também pode ser facilmente
 Gostou deste artigo? Temos mais conteúdos com [tendências de casamentos](https://www.embracon.com.br/blog/6-tendencias-de-casamento-que-voce-precisa-conhecer) e como se planejar no site da [Embracon](https://www.embracon.com.br/?utm_campaign=Google_Ads_-_generico_-_Pesquisa_consorcio&placement=brasil&utm_content=generico&utm_term=&utm_source=google_ads&utm_medium=cpc&device=c&campaignid=10818493385&adgroupid=120242371635&adid=506819830934&network=g&matchtype=b&gclid=CjwKCAjwlrqHBhByEiwAnLmYUHlIj9o_y-cTrLsbRjPV_HT4ONM9grDoLgfL0K39gGT-c50Hi9DKFhoCIFUQAvD_BwE).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

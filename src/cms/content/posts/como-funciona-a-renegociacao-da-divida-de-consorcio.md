@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a renegociação da dívida de consórcio?
-        slug: como-funciona-a-renegociacao-da-divida-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-renegociacao-da-divida-de-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O consórcio é uma forma de [planejamento a longo prazo](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para a compra de bens de alto valor, como casa, carro e diferentes tipos de serviços, por exemplo. E, quando falamos em longo prazo, pode acontecer algum [tipo de imprevisto](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia) que nos force a mudar de planos.
+titulo: Como funciona a renegociação da dívida de consórcio?
+slug: como-funciona-a-renegociacao-da-divida-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-renegociacao-da-divida-de-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O consórcio é uma forma de [planejamento a longo prazo](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para a compra de bens de alto valor, como casa, carro e diferentes tipos de serviços, por exemplo. E, quando falamos em longo prazo, pode acontecer algum [tipo de imprevisto](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia) que nos force a mudar de planos.
 
 Manter as [finanças pessoais](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro) em dia é importante antes de fechar o contrato de consórcio. E, quando falamos em saúde financeira, manter a [reserva de emergência](https://www.embracon.com.br/blog/reserva-financeira-como-preparar-a-sua) e estar com as contas sob controle são determinantes para agir da melhor forma quando as coisas apertarem.
 
@@ -73,4 +73,3 @@ Para evitar as opções mais rígidas de renegociar a sua dívida, vale a pena i
 > Se interessou por um consórcio? A gente te ajuda, [faça uma simulação](https://www.embracon.com.br/consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

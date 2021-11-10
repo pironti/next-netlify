@@ -1,14 +1,14 @@
 ---
-        titulo: Tire suas principais dúvidas sobre a faculdade de administração
-        slug: tire-suas-principais-duvidas-sobre-a-faculdade-de-administracao
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tire-suas-principais-duvidas-sobre-a-faculdade-de-administracao.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Talvez a **faculdade de administração** seja o curso mais conhecido no Brasil. Por isso, é a primeira opção de muitos jovens estudantes. No entanto, como é normal nessa etapa, muitos desconhecem o que de fato aprenderão durante essa jornada.
+titulo: Tire suas principais dúvidas sobre a faculdade de administração
+slug: tire-suas-principais-duvidas-sobre-a-faculdade-de-administracao
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tire-suas-principais-duvidas-sobre-a-faculdade-de-administracao.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Talvez a **faculdade de administração** seja o curso mais conhecido no Brasil. Por isso, é a primeira opção de muitos jovens estudantes. No entanto, como é normal nessa etapa, muitos desconhecem o que de fato aprenderão durante essa jornada.
 
 O fato é que, em tempos de recessão do mercado — em que uma política de redução de custos está em voga no mundo corporativo —, os profissionais formados em **administração** podem ser o diferencial competitivo de muitas empresas. Com os conhecimentos e as habilidades certas, eles estão cada vez mais sendo desejados pelas grandes organizações.
 
@@ -80,4 +80,3 @@ Achou o artigo interessante? Então assine a nossa newsletter e fique por dentro
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

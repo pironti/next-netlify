@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o clareamento dos dentes?
-        slug: como-funciona-o-clareamento-dos-dentes
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-clareamento-dos-dentes.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Hoje, podemos contar com diversos métodos para clareamento dos dentes, dos tradicionais cremes dentais com ação de clareadores a produtos específicos para a remoção de determinados tipos de manchas.
+titulo: Como funciona o clareamento dos dentes?
+slug: como-funciona-o-clareamento-dos-dentes
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-clareamento-dos-dentes.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Hoje, podemos contar com diversos métodos para clareamento dos dentes, dos tradicionais cremes dentais com ação de clareadores a produtos específicos para a remoção de determinados tipos de manchas.
 
 Tanto o trabalho feito pelo profissional no [consultório dentista](https://saude.ig.com.br/2017-03-20/dicas-para-manter-saude-bucal.html) quanto os métodos caseiros fazem uso de alvejantes. Nesses produtos (cremes, géis etc.), os princípios ativos mais usados são o peróxido de hidrogênio e o peróxido de carbamida.
 
@@ -70,4 +70,3 @@ Aproveite para receber mais dicas e orientações como essas em seu e-mail assin
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

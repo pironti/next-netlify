@@ -1,14 +1,14 @@
 ---
-        titulo: Alienação de bens: o que é e como funciona no consórcio?
-        slug: alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Muitas dúvidas surgem quando se fala de consórcio. Diferentemente do financiamento, em que você já tem o bem assim que fecha o contrato, [o consórcio é uma modalidade de investimento coletivo](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), em que diversas pessoas participam de um grupo e contribuem para o bem que selecionou em um fundo comum.
+titulo: Alienação de bens: o que é e como funciona no consórcio?
+slug: alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/alienacao-de-bens-o-que-e-e-como-funciona-no-consorcio.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Muitas dúvidas surgem quando se fala de consórcio. Diferentemente do financiamento, em que você já tem o bem assim que fecha o contrato, [o consórcio é uma modalidade de investimento coletivo](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), em que diversas pessoas participam de um grupo e contribuem para o bem que selecionou em um fundo comum.
 
 Esse fundo comum é sustentado pelas mensalidades que são pagas pelos consorciados. Por isso, é importante pagar as parcelas na data correta, para manter o bom funcionamento do grupo e, assim, todos tenham a segurança de ser contemplados até o fim do contrato.
 
@@ -208,4 +208,3 @@ Sempre que sua cota completa um ano, a administradora faz uma [correção da car
 > Converse com os seus familiares, faça um bom planejamento dos seus rendimentos mensais e compare: o consórcio é a melhor forma de investir em um bem de alto valor, a médio e longo prazo. [Faça uma simulação](https://www.embracon.com.br/consorcio) e confira as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

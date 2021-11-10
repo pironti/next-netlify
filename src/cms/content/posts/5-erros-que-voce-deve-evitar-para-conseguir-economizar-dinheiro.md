@@ -1,14 +1,14 @@
 ---
-        titulo: 5 erros que você deve evitar para conseguir economizar dinheiro
-        slug: 5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Economizar dinheiro é uma das tarefas mais difíceis que existe. Frequentemente escutamos pessoas falando sobre o assunto, explicando sua importância, mas sabemos como é complicado colocar essas propostas em prática, não é mesmo? O grande problema — ou solução — é que [precisamos economizar](https://www.embracon.com.br/blog/afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir) se quisermos alcançar nossos objetivos. Se isso é tão importante e benéfico, por que não conseguimos fazer? A resposta é simples: porque cometemos alguns erros que estragam com nossos planos. Neste texto, falaremos sobre cinco desses erros. Confira!
+titulo: 5 erros que você deve evitar para conseguir economizar dinheiro
+slug: 5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Economizar dinheiro é uma das tarefas mais difíceis que existe. Frequentemente escutamos pessoas falando sobre o assunto, explicando sua importância, mas sabemos como é complicado colocar essas propostas em prática, não é mesmo? O grande problema — ou solução — é que [precisamos economizar](https://www.embracon.com.br/blog/afinal-quais-sao-as-diferencas-entre-poupar-economizar-e-investir) se quisermos alcançar nossos objetivos. Se isso é tão importante e benéfico, por que não conseguimos fazer? A resposta é simples: porque cometemos alguns erros que estragam com nossos planos. Neste texto, falaremos sobre cinco desses erros. Confira!
 
 ### 1. Não estabelecer metas
 
@@ -35,4 +35,3 @@ Na psicologia existe um conceito muito interessante chamado “privação”. Se
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as causas da gordura localizada e como eliminá-la?
-        slug: quais-sao-as-causas-da-gordura-localizada-e-como-elimina-la
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-causas-da-gordura-localizada-e-como-elimina-la.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Com a preocupação pelo bem-estar físico dos brasileiros, é comum ver debates sobre as causas da [**gordura localizada**](https://www.embracon.com.br/blog/4-perguntas-e-respostas-sobre-a-lipoaspiracao). Afinal de contas, a presença e o seu constante crescimento podem indicar desordens no organismo e, até mesmo, problemas de saúde que precisam de atenção e cuidado médico.
+titulo: Quais são as causas da gordura localizada e como eliminá-la?
+slug: quais-sao-as-causas-da-gordura-localizada-e-como-elimina-la
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-causas-da-gordura-localizada-e-como-elimina-la.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Com a preocupação pelo bem-estar físico dos brasileiros, é comum ver debates sobre as causas da [**gordura localizada**](https://www.embracon.com.br/blog/4-perguntas-e-respostas-sobre-a-lipoaspiracao). Afinal de contas, a presença e o seu constante crescimento podem indicar desordens no organismo e, até mesmo, problemas de saúde que precisam de atenção e cuidado médico.
 
 Pensando nisso, reunimos os principais motivos que estimulam o aparecimento da gordura localizada e como eliminá-la de forma correta sem fazer mal ao seu corpo e à sua mente. Acompanhe!
 
@@ -66,4 +66,3 @@ Agora que você já sabe como a gordura localizada se forma e como eliminá-la d
 Curtiu o nosso post e quer saber mais sobre saúde e estética? Então, assine a nossa newsletter e veja como [um consórcio ](https://www.embracon.com.br/)pode ajudá-lo a se realizar em ambos os assuntos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Comece a guardar dinheiro hoje mesmo
-        slug: comece-a-guardar-dinheiro-hoje-mesmo
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comece-a-guardar-dinheiro-hoje-mesmo.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        Se você sonha em ter uma casa, fazer uma viagem, estudar ou outro projeto ambicioso, você precisa economizar dinheiro. As [reservas financeiras](https://www.embracon.com.br/blog/quando-usar-a-reserva-de-emergencia) garantirão estabilidade para planejar seu futuro com segurança. Isso torna mais fácil transformar desejos em realidade.
+titulo: Comece a guardar dinheiro hoje mesmo
+slug: comece-a-guardar-dinheiro-hoje-mesmo
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comece-a-guardar-dinheiro-hoje-mesmo.jpg
+meta_summary: 
+date: 19/10/2021
+---
+Se você sonha em ter uma casa, fazer uma viagem, estudar ou outro projeto ambicioso, você precisa economizar dinheiro. As [reservas financeiras](https://www.embracon.com.br/blog/quando-usar-a-reserva-de-emergencia) garantirão estabilidade para planejar seu futuro com segurança. Isso torna mais fácil transformar desejos em realidade.
 
 Sabemos que [economizar e guardar dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) não é tão simples quanto pensamos, principalmente quando vivemos em uma sociedade consumista como a nossa.
 
@@ -70,4 +70,3 @@ Finalmente, evite o consumismo. Não estamos dizendo que você deve comprar apen
 Além de guardar seu dinheiro, você também pode fazer [investimentos seguros](https://www.embracon.com.br/blog/investimentos-rentaveis), podendo recuperá-lo futuramente, seja em espécie ou em bens, ações e serviços. Como, por exemplo, o consórcio, onde você poderá investir seu dinheiro e tê-lo de volta a médio e longo prazo em forma de bens e serviços. Se esta for a melhor opção para investir o seu dinheiro, conheça a [Embracon](https://www.embracon.com.br/a-embracon), maior [administradora de consórcio do Brasil](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-uma-administradora-de-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

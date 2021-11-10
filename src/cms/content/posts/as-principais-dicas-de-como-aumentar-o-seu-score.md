@@ -1,14 +1,14 @@
 ---
-        titulo: As principais dicas de como aumentar o seu score
-        slug: as-principais-dicas-de-como-aumentar-o-seu-score
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/as-principais-dicas-de-como-aumentar-o-seu-score.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Você sabe o que significa aumentar o score? O score do Serasa funciona como um currículo financeiro. Mostra para o mercado que você é um bom pagador e que é possível liberar crédito para você. Esse score é montado de acordo com a sua pontualidade no[ pagamento de contas como água, gás, luz](https://www.embracon.com.br/blog/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica), telefone fixo. Além disso, manter o nome limpo é um dos passos mais importantes para um bom score.
+titulo: As principais dicas de como aumentar o seu score
+slug: as-principais-dicas-de-como-aumentar-o-seu-score
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/as-principais-dicas-de-como-aumentar-o-seu-score.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Você sabe o que significa aumentar o score? O score do Serasa funciona como um currículo financeiro. Mostra para o mercado que você é um bom pagador e que é possível liberar crédito para você. Esse score é montado de acordo com a sua pontualidade no[ pagamento de contas como água, gás, luz](https://www.embracon.com.br/blog/5-dicas-indispensaveis-para-voce-economizar-energia-eletrica), telefone fixo. Além disso, manter o nome limpo é um dos passos mais importantes para um bom score.
 
 Quanto mais tempo você ficar com o nome limpo e as contas pagas certinhas, mais pontos vai ganhando no score do Serasa e assim vai liberando a sua pontuação. Quanto mais alta for a sua pontuação, melhor avaliado pelo mercado você é, e mais negócios você consegue fazer, pedindo cartas de crédito, financiamentos, etc.
 
@@ -60,4 +60,3 @@ Não deixe de saber qual seu score
 > Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

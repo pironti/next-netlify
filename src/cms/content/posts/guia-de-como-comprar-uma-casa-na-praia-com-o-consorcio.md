@@ -1,14 +1,14 @@
 ---
-        titulo: Guia de como comprar uma casa na praia com o consórcio
-        slug: guia-de-como-comprar-uma-casa-na-praia-com-o-consorcio
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-de-como-comprar-uma-casa-na-praia-com-o-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ter a[ casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é considerado um dos maiores sonhos do brasileiro. E, até mesmo quando as pessoas realizam este sonho, a [compra de um segundo imóvel](https://www.embracon.com.br/blog/segundo-imovel-vale-a-pena) passa a ser o novo desejo de toda a família.
+titulo: Guia de como comprar uma casa na praia com o consórcio
+slug: guia-de-como-comprar-uma-casa-na-praia-com-o-consorcio
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-de-como-comprar-uma-casa-na-praia-com-o-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ter a[ casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é considerado um dos maiores sonhos do brasileiro. E, até mesmo quando as pessoas realizam este sonho, a [compra de um segundo imóvel](https://www.embracon.com.br/blog/segundo-imovel-vale-a-pena) passa a ser o novo desejo de toda a família.
 
 Um dos locais favoritos do brasileiro para a compra deste novo imóvel é a praia. Afinal, vivemos em um país tropical, com diversas cidades litorâneas que possuem paraísos particulares.
 
@@ -176,4 +176,3 @@ Com cotas de até R$ 500 mil, que podem ser divididas em até 240 mensalidades, 
 > [Faça uma simulação de consórcio](https://www.embracon.com.br/consorcio-de-imoveis) de imóveis e prepare-se para novos momentos inesquecíveis ao lado de quem você mais ama na sua nova casa de praia.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb5e77abc38c34aef6f090_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

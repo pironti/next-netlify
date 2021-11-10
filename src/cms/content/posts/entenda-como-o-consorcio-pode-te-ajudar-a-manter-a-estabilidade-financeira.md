@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como o consórcio pode te ajudar a manter a estabilidade financeira
-        slug: entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Cada vez mais os brasileiros têm se preocupado com as [finanças pessoais](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Por isso mesmo, tem aumentado o interesse por formas alternativas de fazer com que o [dinheiro renda mais](https://www.embracon.com.br/blog/o-que-muda-na-economia-com-o-novo-governo), para garantir o sustento da família e a [ampliação do patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui).
+titulo: Entenda como o consórcio pode te ajudar a manter a estabilidade financeira
+slug: entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-o-consorcio-pode-te-ajudar-a-manter-a-estabilidade-financeira.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Cada vez mais os brasileiros têm se preocupado com as [finanças pessoais](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Por isso mesmo, tem aumentado o interesse por formas alternativas de fazer com que o [dinheiro renda mais](https://www.embracon.com.br/blog/o-que-muda-na-economia-com-o-novo-governo), para garantir o sustento da família e a [ampliação do patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui).
 
 Existem diversas formas de aplicar o seu dinheiro de forma inteligente. Inclusive, se você quer manter a estabilidade financeira, pode muito bem considerar adquirir um [consórcio](https://www.embracon.com.br/consorcio).
 
@@ -50,4 +50,3 @@ Como você pôde ver, existem diferentes formas de manter a sua estabilidade fin
 > ‍[Faça uma simulação](https://www.embracon.com.br/) e confira as múltiplas vantagens de investir no consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

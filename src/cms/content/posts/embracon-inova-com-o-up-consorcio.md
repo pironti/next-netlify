@@ -1,14 +1,14 @@
 ---
-        titulo: Embracon lança Up, consórcio digital sem taxa e com recompra garantida
-        slug: embracon-inova-com-o-up-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/embracon-inova-com-o-up-consorcio.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Você é uma daquelas pessoas que acreditam que o consórcio tem juros? Ou não acha justo pagar a taxa contratual para as administradoras? Se respondeu sim para uma das perguntas, nós temos uma coisa para te dizer: [Up Consórcio](https://www.upconsorcios.com.br/blog/up-consorcio).
+titulo: Embracon lança Up, consórcio digital sem taxa e com recompra garantida
+slug: embracon-inova-com-o-up-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/embracon-inova-com-o-up-consorcio.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Você é uma daquelas pessoas que acreditam que o consórcio tem juros? Ou não acha justo pagar a taxa contratual para as administradoras? Se respondeu sim para uma das perguntas, nós temos uma coisa para te dizer: [Up Consórcio](https://www.upconsorcios.com.br/blog/up-consorcio).
 
 O lançamento da Embracon, empresa [especializada em consórcio](https://www.embracon.com.br/a-embracon) com mais de 30 anos de atuação, é um [consórcio](https://www.embracon.com.br/) simples, justo e sem pegadinhas.
 
@@ -47,4 +47,3 @@ O consórcio é um crédito planejado. Com o UP, você pode contratar para [comp
 Fala a verdade, o UP é muito disruptivo, não é mesmo? E chegou para movimentar um mercado tradicional que, talvez, tenha se acomodado ao longo das décadas. UP é a evolução do consórcio. E por todas as características que apresentamos, vale repetir que é a contribuição da Embracon para o seu [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle)! Quer saber mais? Então, [faz um Up](https://www.upconsorcios.com.br/)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

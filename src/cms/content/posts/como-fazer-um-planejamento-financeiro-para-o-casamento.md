@@ -1,14 +1,14 @@
 ---
-        titulo: Como fazer um planejamento financeiro para o casamento?
-        slug: como-fazer-um-planejamento-financeiro-para-o-casamento
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-fazer-um-planejamento-financeiro-para-o-casamento.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A celebração de um matrimônio é um momento marcante na vida dos noivos e de suas famílias, por isso continua sendo uma tradição. Para realizá-la, no entanto, é preciso ter jogo de cintura e fazer um planejamento financeiro para o **casamento**.
+titulo: Como fazer um planejamento financeiro para o casamento?
+slug: como-fazer-um-planejamento-financeiro-para-o-casamento
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-fazer-um-planejamento-financeiro-para-o-casamento.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+A celebração de um matrimônio é um momento marcante na vida dos noivos e de suas famílias, por isso continua sendo uma tradição. Para realizá-la, no entanto, é preciso ter jogo de cintura e fazer um planejamento financeiro para o **casamento**.
 
 Sendo assim, antes de iniciar a organização, os noivos precisam alinhar suas expectativas, pensar no tempo disponível e fazer uma lista de convidados provisória. Saber a quantidade de pessoas é o principal fator de gastos. A partir daí, têm a possibilidade de planejar cada passo tendo em vista essas questões já definidas.
 
@@ -74,4 +74,3 @@ Se você ficou interessado em conhecer um consórcio para casamentos, entre em c
 ‍
 
 ‍
-        

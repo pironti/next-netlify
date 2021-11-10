@@ -1,14 +1,14 @@
 ---
-        titulo: Confira 5 dicas para deixar qualquer ambiente aconchegante
-        slug: confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Você já percebeu como um [ambiente aconchegante](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui) tem até o poder de mudar nosso humor? Muitas vezes, basta entrarmos em um local agradável para que nossas frustrações fiquem para trás e só sobrem aqueles sentimentos gostosos de calma e relaxamento.
+titulo: Confira 5 dicas para deixar qualquer ambiente aconchegante
+slug: confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Você já percebeu como um [ambiente aconchegante](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui) tem até o poder de mudar nosso humor? Muitas vezes, basta entrarmos em um local agradável para que nossas frustrações fiquem para trás e só sobrem aqueles sentimentos gostosos de calma e relaxamento.
 
 O mais legal disso é que podemos deixar qualquer ambiente assim. Nossa [casa](https://www.embracon.com.br/blog/por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa), por exemplo, deveria ser um dos lugares mais aconchegantes para nós mesmos. É nela que descansamos, temos nossos momentos de lazer e aproveitamos ótimas coisas da vida.
 
@@ -64,4 +64,3 @@ Seguindo essas dicas, é possível transformar qualquer lugar em um ambiente aco
 Se você quer que as pessoas ao seu redor também se sintam mais confortáveis em seus lares, compartilhe este artigo nas suas redes sociais. Quem sabe não é disso que seus amigos precisam?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

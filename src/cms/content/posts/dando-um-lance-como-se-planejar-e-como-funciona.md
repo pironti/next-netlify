@@ -1,14 +1,14 @@
 ---
-        titulo: Dando um lance: como se planejar e como funciona
-        slug: dando-um-lance-como-se-planejar-e-como-funciona
-        categoria: Lance
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dando-um-lance-como-se-planejar-e-como-funciona.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Na maioria dos casos, quando uma [pessoa procura pelo consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio), uma das primeiras coisas que está interessada a saber é quando será contemplado com o seu bem. E, naturalmente, ela acaba se deparando com a possibilidade de lance.
+titulo: Dando um lance: como se planejar e como funciona
+slug: dando-um-lance-como-se-planejar-e-como-funciona
+categoria: Lance
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dando-um-lance-como-se-planejar-e-como-funciona.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Na maioria dos casos, quando uma [pessoa procura pelo consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio), uma das primeiras coisas que está interessada a saber é quando será contemplado com o seu bem. E, naturalmente, ela acaba se deparando com a possibilidade de lance.
 
 Antes de explicarmos como funciona esse tipo de modalidade, que é bem complexa e, dependendo do contexto, envolve muitas variáveis, vale a pena entender [o que é e como funciona o consórcio](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio).
 
@@ -176,4 +176,3 @@ Com o lance, você pode antecipar a aquisição do seu bem e, ainda por cima, te
 > ‍[Faça uma simulação desde já do seu consórcio](https://www.embracon.com.br/) e invista o quanto antes na realização do seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

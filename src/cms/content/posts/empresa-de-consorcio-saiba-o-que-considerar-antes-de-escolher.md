@@ -1,14 +1,14 @@
 ---
-        titulo: Empresa de consórcio: saiba o que considerar antes de escolher
-        slug: empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Escolher a melhor[ empresa de consórcio](https://www.embracon.com.br/) entre as diversas opções disponíveis no mercado é um ponto importante para fazer um negócio com condições diferenciadas e que proporcione vantagens para o consorciado.
+titulo: Empresa de consórcio: saiba o que considerar antes de escolher
+slug: empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/empresa-de-consorcio-saiba-o-que-considerar-antes-de-escolher.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Escolher a melhor[ empresa de consórcio](https://www.embracon.com.br/) entre as diversas opções disponíveis no mercado é um ponto importante para fazer um negócio com condições diferenciadas e que proporcione vantagens para o consorciado.
 
 Diante disso, antes de adquirir uma cota, é indicado realizar pesquisas e comparar com atenção o que cada [**empresa de consórcio**](https://www.embracon.com.br) oferece. Pode considerar pontos como credibilidade,[ tempo de atuação](https://www.embracon.com.br/a-embracon) e confiança conquistados ao longo do tempo no mercado.
 
@@ -113,4 +113,3 @@ Com uma boa pesquisa e uma análise criteriosa, é possível encontrar empresas 
 Se quiser saber mais sobre o tema e tirar dúvidas relevantes sobre consórcio, [entre em contato conosco](https://www.embracon.com.br/). Será um prazer atendê-lo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

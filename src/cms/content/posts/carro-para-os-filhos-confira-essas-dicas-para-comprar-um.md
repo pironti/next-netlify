@@ -1,14 +1,14 @@
 ---
-        titulo: Quer comprar um carro para os filhos? Confira essas dicas!
-        slug: carro-para-os-filhos-confira-essas-dicas-para-comprar-um
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/carro-para-os-filhos-confira-essas-dicas-para-comprar-um.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quando os filhos chegam perto de seus 18 anos, a maioria já fica ansiosa para conseguir sua carteira de motorista e começar a dirigir. Não é à toa, já que um carro é bem útil em quase todas as situações. E, convenhamos, pode valer a pena comprar [**carro para os filhos**](https://www.embracon.com.br/blog/afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia) se eles merecerem.
+titulo: Quer comprar um carro para os filhos? Confira essas dicas!
+slug: carro-para-os-filhos-confira-essas-dicas-para-comprar-um
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/carro-para-os-filhos-confira-essas-dicas-para-comprar-um.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quando os filhos chegam perto de seus 18 anos, a maioria já fica ansiosa para conseguir sua carteira de motorista e começar a dirigir. Não é à toa, já que um carro é bem útil em quase todas as situações. E, convenhamos, pode valer a pena comprar [**carro para os filhos**](https://www.embracon.com.br/blog/afinal-dar-um-carro-de-presente-para-o-filho-e-uma-boa-ou-ma-ideia) se eles merecerem.
 
 Claro, um carro não é algo que você compra na feira aleatoriamente, mas sim uma decisão planejada.
 
@@ -103,4 +103,3 @@ Com essas dicas, comprar **carro para os filhos** vai ser uma tarefa muito mais 
 Conhece mais pessoas que poderiam aproveitar nossas dicas? Então, compartilhe este artigo em suas redes sociais!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

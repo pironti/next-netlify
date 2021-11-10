@@ -1,14 +1,14 @@
 ---
-        titulo: O que é um sobrado?
-        slug: o-que-e-um-sobrado
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-um-sobrado.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Quando se fala de [morar em uma casa](https://www.embracon.com.br/blog/vantagens-de-morar-em-casa-pequena), o que vem à mente? Um local grande, com bom espaço de quintal e churrasqueira? Muito provavelmente um lugar aconchegante, que abriga todos os integrantes da família e, de sobra, possui espaço o suficiente para garantir a privacidade de cada um.
+titulo: O que é um sobrado?
+slug: o-que-e-um-sobrado
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-um-sobrado.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Quando se fala de [morar em uma casa](https://www.embracon.com.br/blog/vantagens-de-morar-em-casa-pequena), o que vem à mente? Um local grande, com bom espaço de quintal e churrasqueira? Muito provavelmente um lugar aconchegante, que abriga todos os integrantes da família e, de sobra, possui espaço o suficiente para garantir a privacidade de cada um.
 
 Ou seja, quando o assunto é casa, muito provavelmente [estamos falando de um sobrado](https://www.embracon.com.br/blog/tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce).
 
@@ -64,4 +64,3 @@ Depois de assinar o contrato de consórcio, você participa de um grupo e [pode 
 Portanto, conte com o consórcio para construir ou reformar o seu sobrado. [Faça uma simulação](https://www.embracon.com.br/) e conte desde já com uma categoria que realiza sonhos de brasileiros há mais de 50 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

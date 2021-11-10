@@ -1,14 +1,14 @@
 ---
-        titulo: Mini Wedding: o que é e como planejar o seu
-        slug: mini-wedding-o-que-e-e-como-planejar-o-seu
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/mini-wedding-o-que-e-e-como-planejar-o-seu.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-         O casamento é um dos dias mais especiais da sua vida. Mas ele não precisa necessariamente ser um [gasto gigantesco no seu orçamento](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios) e muito menos uma festa extravagante que não tem a ver com o estilo dos noivos. Para isso, nasceu o mini wedding, que tem como conceito uma festa para casais que desejam uma celebração mais intimista, com menos pessoas, mas sem perder o brilho da data.
+titulo: Mini Wedding: o que é e como planejar o seu
+slug: mini-wedding-o-que-e-e-como-planejar-o-seu
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/mini-wedding-o-que-e-e-como-planejar-o-seu.jpg
+meta_summary: 
+date: 29/09/2021
+---
+ O casamento é um dos dias mais especiais da sua vida. Mas ele não precisa necessariamente ser um [gasto gigantesco no seu orçamento](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios) e muito menos uma festa extravagante que não tem a ver com o estilo dos noivos. Para isso, nasceu o mini wedding, que tem como conceito uma festa para casais que desejam uma celebração mais intimista, com menos pessoas, mas sem perder o brilho da data.
 
 E você, sabe de onde nasceu o conceito de mini wedding? Há rumores que dizem que esse conceito surgiu na Europa, principalmente na Itália e em [Portugal](https://www.embracon.com.br/blog/5-motivos-para-voce-viajar-para-portugal-o-quanto-antes), quando as famílias começaram a realizar as festas de casamento nos seus próprios quintais. E por isso a lista de convidados acaba ficando mais restrita, mas a festa tem um charme a mais.
 
@@ -76,4 +76,3 @@ Planejar o casamento com tempo permite que você possa se planejar financeiramen
 > Ficou interessado? [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) com a Embracon e se prepare para o casamento dos seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Casamento](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 8 motivos para você morar perto do trabalho
-        slug: 8-motivos-para-voce-morar-perto-do-trabalho
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/8-motivos-para-voce-morar-perto-do-trabalho.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Quando se fala em mudar de casa, muita gente logo associa essa ideia à necessidade de ter mais espaço ou à vontade de reduzir os custos de manutenção do imóvel. No entanto, uma das razões que mais impulsiona essa vontade de trocar de endereço é o desejo de morar perto do [trabalho](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado).Isso porque cada vez mais as pessoas se preocupam em ter qualidade de vida. Logo, querem evitar transtornos com rotina corrida, [dificuldades de locomoção](https://www.embracon.com.br/blog/confira-5-vantagens-de-ter-uma-moto), atrasos no emprego causados por fatores externos e por aí vai.E é para mostrar todas as vantagens que essa decisão acarreta que listamos 8 motivos para considerá-la. Acompanhe!
+titulo: 8 motivos para você morar perto do trabalho
+slug: 8-motivos-para-voce-morar-perto-do-trabalho
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/8-motivos-para-voce-morar-perto-do-trabalho.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Quando se fala em mudar de casa, muita gente logo associa essa ideia à necessidade de ter mais espaço ou à vontade de reduzir os custos de manutenção do imóvel. No entanto, uma das razões que mais impulsiona essa vontade de trocar de endereço é o desejo de morar perto do [trabalho](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado).Isso porque cada vez mais as pessoas se preocupam em ter qualidade de vida. Logo, querem evitar transtornos com rotina corrida, [dificuldades de locomoção](https://www.embracon.com.br/blog/confira-5-vantagens-de-ter-uma-moto), atrasos no emprego causados por fatores externos e por aí vai.E é para mostrar todas as vantagens que essa decisão acarreta que listamos 8 motivos para considerá-la. Acompanhe!
 
 1. morar perto do trabalho ajuda a Reduzir despesas com locomoção diária
 ------------------------------------------------------------------------
@@ -59,4 +59,3 @@ Por último, ao **morar perto do trabalho** você pode, enfim, ter uma rotina de
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

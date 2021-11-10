@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas de como vender seu carro
-        slug: como-vender-seu-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-vender-seu-carro.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Se você já buscou por informações sobre como vender um carro, provavelmente percebeu que há várias maneiras de fazer isso. Essa grande quantidade de opções torna tudo um pouco mais complicado. Afinal, as dúvidas sobre qual forma escolher inevitavelmente surgirão.
+titulo: 7 dicas de como vender seu carro
+slug: como-vender-seu-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-vender-seu-carro.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Se você já buscou por informações sobre como vender um carro, provavelmente percebeu que há várias maneiras de fazer isso. Essa grande quantidade de opções torna tudo um pouco mais complicado. Afinal, as dúvidas sobre qual forma escolher inevitavelmente surgirão.
 
 Seja qual for a opção escolhida, há uma série de cuidados que precisam ser tomados para tornar a venda mais rápida e efetiva.
 
@@ -104,4 +104,3 @@ Essa documentação valoriza o carro para a venda, uma vez que deixa claro que o
 Se for colocar o carro à mostra em feiras, a sugestão é fazer isso em dias da semana ou nos dias de menor movimento. O objetivo é diminuir a quantidade de concorrentes.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

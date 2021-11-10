@@ -1,14 +1,14 @@
 ---
-        titulo: O que é e como funciona o consórcio para cirurgia?
-        slug: o-que-e-e-como-funciona-o-consorcio-para-cirurgia
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-o-consorcio-para-cirurgia.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        O [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) é uma modalidade que tem crescido exponencialmente nos últimos anos. Seja pela facilidade de adequar o pagamento a parcelas que cabem no bolso ou, ainda, pelo poder de negociação que este sistema de autofinanciamento promove, as pessoas estão cada vez mais em busca dos seus objetivos com o auxílio dessa poupança programada.
+titulo: O que é e como funciona o consórcio para cirurgia?
+slug: o-que-e-e-como-funciona-o-consorcio-para-cirurgia
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-o-consorcio-para-cirurgia.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+O [consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) é uma modalidade que tem crescido exponencialmente nos últimos anos. Seja pela facilidade de adequar o pagamento a parcelas que cabem no bolso ou, ainda, pelo poder de negociação que este sistema de autofinanciamento promove, as pessoas estão cada vez mais em busca dos seus objetivos com o auxílio dessa poupança programada.
 
 Quer saber mais como funciona o [consórcio para cirurgia](https://www.embracon.com.br/consorcio-servicos)? Você veio ao lugar certo! Aqui explicaremos, com detalhes, as principais dúvidas sobre essa modalidade. Acompanhe!
 
@@ -56,4 +56,3 @@ O que achou das informações que trouxemos neste texto? Caso tenham sido úteis
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

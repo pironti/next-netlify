@@ -1,14 +1,14 @@
 ---
-        titulo: Guia definitivo sobre finanças pessoais
-        slug: guia-definitivo-sobre-financas-pessoais
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-definitivo-sobre-financas-pessoais.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Embora algumas pessoas pensem que [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) é um tabu, outras acham difícil controlar o [orçamento](https://www.embracon.com.br/blog/bebe-chegando-prepare-o-orcamento-familiar) e fazer tudo até o final do mês. Também temos um terceiro grupo, formado por pessoas que não fazem nenhuma verificação, mas têm contas atualizadas - isso ainda é arriscado, não é?
+titulo: Guia definitivo sobre finanças pessoais
+slug: guia-definitivo-sobre-financas-pessoais
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-definitivo-sobre-financas-pessoais.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Embora algumas pessoas pensem que [dinheiro](https://www.embracon.com.br/blog/5-erros-que-voce-deve-evitar-para-conseguir-economizar-dinheiro) é um tabu, outras acham difícil controlar o [orçamento](https://www.embracon.com.br/blog/bebe-chegando-prepare-o-orcamento-familiar) e fazer tudo até o final do mês. Também temos um terceiro grupo, formado por pessoas que não fazem nenhuma verificação, mas têm contas atualizadas - isso ainda é arriscado, não é?
 
 Independentemente do seu perfil pessoal, ***controlar o seu orçamento*** é um aspecto fundamental para garantir a sua saúde [financeira](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) (e de toda a família, se for o caso). Além de escapar de uma situação tensa, é assim que você consegue planejar e ***atingir seus objetivos***.
 
@@ -287,4 +287,3 @@ Em suma, você está aberto a todos os tipos de riscos, sem economizar dinheiro 
 Se você gostou deste artigo, confira também [um guia para as finanças não saírem do controle](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle). Continue acompanhando o blog da [Embracon](https://www.embracon.com.br/consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

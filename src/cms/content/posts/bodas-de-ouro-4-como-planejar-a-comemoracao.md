@@ -1,14 +1,14 @@
 ---
-        titulo: Bodas de ouro: 4 dicas de como planejar a comemoração
-        slug: bodas-de-ouro-4-como-planejar-a-comemoracao
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/bodas-de-ouro-4-como-planejar-a-comemoracao.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Celebrar **bodas de ouro** é algo bastante raro na sociedade atual. Por isso mesmo, esse é um momento que merece ser comemorado da melhor maneira possível. No entanto, essa não é uma tarefa simples e, em razão disso, conhecer algumas dicas de como planejar a comemoração pode ser muito interessante.
+titulo: Bodas de ouro: 4 dicas de como planejar a comemoração
+slug: bodas-de-ouro-4-como-planejar-a-comemoracao
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/bodas-de-ouro-4-como-planejar-a-comemoracao.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Celebrar **bodas de ouro** é algo bastante raro na sociedade atual. Por isso mesmo, esse é um momento que merece ser comemorado da melhor maneira possível. No entanto, essa não é uma tarefa simples e, em razão disso, conhecer algumas dicas de como planejar a comemoração pode ser muito interessante.
 
 Qualquer filho ou outro familiar quer oferecer uma celebração bonita e inesquecível para um casal que permaneceu tanto tempo junto. Mas isso demanda boas escolhas em termos de decoração, escolha do local e outros detalhes importantes. Confira as dicas a seguir e descubra como fazer isso!
 
@@ -55,4 +55,3 @@ Seguindo essas dicas, você poderá oferecer uma celebração de bodas de ouro i
 > Faça uma simulação de [Consórcio de Festa](https://www.embracon.com.br/consorcio-servicos) da Embracon!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

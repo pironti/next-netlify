@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são os tratamentos para calvície disponíveis no mercado?
-        slug: quais-sao-os-tratamentos-para-calvicie-disponiveis-no-mercado
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-os-tratamentos-para-calvicie-disponiveis-no-mercado.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        A calvície é um problema comum entre os homens, mas também atinge determinado grupo de mulheres. É uma situação que afeta muito a autoestima das pessoas. Contudo, quanto antes for tratada, maiores as chances de sucesso. Portanto, os **tratamentos para calvície** são importantes e devem ser escolhido com cuidado.
+titulo: Quais são os tratamentos para calvície disponíveis no mercado?
+slug: quais-sao-os-tratamentos-para-calvicie-disponiveis-no-mercado
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-os-tratamentos-para-calvicie-disponiveis-no-mercado.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+A calvície é um problema comum entre os homens, mas também atinge determinado grupo de mulheres. É uma situação que afeta muito a autoestima das pessoas. Contudo, quanto antes for tratada, maiores as chances de sucesso. Portanto, os **tratamentos para calvície** são importantes e devem ser escolhido com cuidado.
 
 Atualmente, existem diversas formas de tratar a calvície. Para que a escolha seja bem sucedida, é importante, em primeiro lugar, ir a um profissional e identificar o tipo — se é genética ou causada por fatores como estresse, ansiedade, depressão, alimentação —, bem como o tratamento indicado para cada um dos casos.
 
@@ -75,4 +75,3 @@ Como você pôde ver, existem diversas opções com preços e métodos variados,
 Gostou deste texto? Então, compartilhe em suas redes sociais e ajude mais pessoas a conhecer as diversas opções de tratamento para calvície.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

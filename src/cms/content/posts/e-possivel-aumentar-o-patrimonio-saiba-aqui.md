@@ -1,14 +1,14 @@
 ---
-        titulo: É possível aumentar o patrimônio? Saiba aqui!
-        slug: e-possivel-aumentar-o-patrimonio-saiba-aqui
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-aumentar-o-patrimonio-saiba-aqui.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        **Muitas pessoas associam sucesso a grandes salários. É muito difícil ouvir uma pergunta a respeito do valor que um indivíduo tem em termos de patrimônio.**
+titulo: É possível aumentar o patrimônio? Saiba aqui!
+slug: e-possivel-aumentar-o-patrimonio-saiba-aqui
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-aumentar-o-patrimonio-saiba-aqui.jpg
+meta_summary: 
+date: 28/09/2021
+---
+**Muitas pessoas associam sucesso a grandes salários. É muito difícil ouvir uma pergunta a respeito do valor que um indivíduo tem em termos de patrimônio.**
 
 Aumentar o patrimônio líquido, ou seja, aquele que representa a verdadeira riqueza, é uma forma de dar um passo muito além da maioria e comprometer-se com o bom rendimento das finanças.
 
@@ -118,4 +118,3 @@ Isso vai te garantir mais ânimo para continuar focado em seu objetivo.
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=aumentar_o_patrimonio&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

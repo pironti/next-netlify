@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio com lance facilitado: o que é e como funciona?
-        slug: lance-facilitado-consorcio-o-que-e
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/lance-facilitado-consorcio-o-que-e.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é uma opção vantajosa, principalmente para quem pensa na possibilidade de [**ofertar lances**](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio). Na [Embracon](https://www.embracon.com.br/), também existe o consórcio com **lance facilitado**. De um lado, vários consumidores recorrem ao financiamento — e, diversas vezes, se arrependem com os juros elevados, que praticamente dobram o capital do bem adquirido.Por outro, o consórcio se apresenta como a melhor opção de compra. Isso porque tem a finalidade de formar um grupo de autofinanciamento de bens. Dessa forma, você consegue ter o seu carro [sem ter que pagar juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Cada participante adquire um número de cota e se responsabiliza em pagar todo mês as parcelas. Assim, forma o montante relativo ao bem que deseja adquirir.Continue lendo o post para entender melhor quando usar essa estratégia e facilitar a aquisição do seu produto ou serviço. Confira!
+titulo: Consórcio com lance facilitado: o que é e como funciona?
+slug: lance-facilitado-consorcio-o-que-e
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/lance-facilitado-consorcio-o-que-e.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é uma opção vantajosa, principalmente para quem pensa na possibilidade de [**ofertar lances**](https://www.embracon.com.br/blog/como-funcionam-os-tipos-de-lances-no-consorcio). Na [Embracon](https://www.embracon.com.br/), também existe o consórcio com **lance facilitado**. De um lado, vários consumidores recorrem ao financiamento — e, diversas vezes, se arrependem com os juros elevados, que praticamente dobram o capital do bem adquirido.Por outro, o consórcio se apresenta como a melhor opção de compra. Isso porque tem a finalidade de formar um grupo de autofinanciamento de bens. Dessa forma, você consegue ter o seu carro [sem ter que pagar juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Cada participante adquire um número de cota e se responsabiliza em pagar todo mês as parcelas. Assim, forma o montante relativo ao bem que deseja adquirir.Continue lendo o post para entender melhor quando usar essa estratégia e facilitar a aquisição do seu produto ou serviço. Confira!
 
 O que é consórcio com lance facilitado?
 ---------------------------------------
@@ -49,4 +49,3 @@ Caso a sua oferta seja a vencedora, você pode usá-la para pagar suas parcelas 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

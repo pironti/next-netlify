@@ -1,14 +1,14 @@
 ---
-        titulo: 4 coisas que você precisa saber antes de colocar silicone
-        slug: 4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A [prótese de silicone](https://www.embracon.com.br/blog/quais-sao-os-tipos-e-como-escolher-uma-protese-de-silicone) para seios continua sendo um dos itens mais procurados nos consultórios de [cirurgia plástica](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). No entanto, para **colocar silicone** é fundamental que se leve alguns fatores em consideração, principalmente a escolha de um bom profissional.A insatisfação com o tamanho dos seios, a baixa autoestima ou a reconstrução mamária são alguns dos motivos que levam as mulheres a recorrerem às [próteses de mama](https://www.embracon.com.br/blog/afinal-a-mamoplastia-e-estetica-ou-saude).Então, para que a cirurgia seja um sucesso, é importante considerar alguns pontos. Pensando nisso, preparamos este post para que você fique por dentro de tudo o que precisa saber antes de **colocar silicone**. Confira!
+titulo: 4 coisas que você precisa saber antes de colocar silicone
+slug: 4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-coisas-que-voce-precisa-saber-antes-de-colocar-silicone.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A [prótese de silicone](https://www.embracon.com.br/blog/quais-sao-os-tipos-e-como-escolher-uma-protese-de-silicone) para seios continua sendo um dos itens mais procurados nos consultórios de [cirurgia plástica](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). No entanto, para **colocar silicone** é fundamental que se leve alguns fatores em consideração, principalmente a escolha de um bom profissional.A insatisfação com o tamanho dos seios, a baixa autoestima ou a reconstrução mamária são alguns dos motivos que levam as mulheres a recorrerem às [próteses de mama](https://www.embracon.com.br/blog/afinal-a-mamoplastia-e-estetica-ou-saude).Então, para que a cirurgia seja um sucesso, é importante considerar alguns pontos. Pensando nisso, preparamos este post para que você fique por dentro de tudo o que precisa saber antes de **colocar silicone**. Confira!
 
 1. A escolha do cirurgião
 -------------------------
@@ -69,4 +69,3 @@ Para **colocar silicone** e ter bons resultados, é preciso seguir as dicas que 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Afinal, vale a pena fazer um consórcio para reformar a casa?
-        slug: afinal-vale-a-pena-fazer-um-consorcio-para-reformar-a-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/afinal-vale-a-pena-fazer-um-consorcio-para-reformar-a-casa.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        [Adquirir o imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) dos sonhos pode ser uma ação distante da realidade de muitos brasileiros. Da mesma forma, nem sempre os proprietários se mostram totalmente satisfeitos em seu lar.
+titulo: Afinal, vale a pena fazer um consórcio para reformar a casa?
+slug: afinal-vale-a-pena-fazer-um-consorcio-para-reformar-a-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/afinal-vale-a-pena-fazer-um-consorcio-para-reformar-a-casa.jpg
+meta_summary: 
+date: 04/10/2021
+---
+[Adquirir o imóvel](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) dos sonhos pode ser uma ação distante da realidade de muitos brasileiros. Da mesma forma, nem sempre os proprietários se mostram totalmente satisfeitos em seu lar.
 
 Não tão raramente, estão planejando alguma reforma para trazer mais conforto e beleza ao seu imóvel. Assim, o [consórcio para reformar casa](https://www.embracon.com.br/consorcio-servicos) se torna uma opção muito interessante.
 
@@ -105,4 +105,3 @@ Para concluir, o consórcio para reformar a casa se trata de um investimento com
 O que achou deste texto? Caso ele tenha sido útil, não deixe de assinar a nossa newsletter. Dessa forma você receberá novos conteúdos como este que te ajudarão a se beneficiar com as[ diversas possibilidades de um consórcio](https://www.youtube.com/watch?v=-FO8uWuI4xY)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

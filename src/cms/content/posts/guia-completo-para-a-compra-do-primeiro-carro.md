@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo para a compra do primeiro carro
-        slug: guia-completo-para-a-compra-do-primeiro-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-para-a-compra-do-primeiro-carro.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A segurança sempre foi um dos maiores motivos na hora de [comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha). Poder se deslocar com tranquilidade sem precisar depender do transporte público ou aplicativo, ganhou um novo peso em 2020. A [pandemia ](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia)fez com que as pessoas se sentissem mais inseguras em compartilhar espaços e mais gente começou a optar por adquirir o seu primeiro automóvel.
+titulo: Guia completo para a compra do primeiro carro
+slug: guia-completo-para-a-compra-do-primeiro-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-para-a-compra-do-primeiro-carro.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A segurança sempre foi um dos maiores motivos na hora de [comprar o primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha). Poder se deslocar com tranquilidade sem precisar depender do transporte público ou aplicativo, ganhou um novo peso em 2020. A [pandemia ](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia)fez com que as pessoas se sentissem mais inseguras em compartilhar espaços e mais gente começou a optar por adquirir o seu primeiro automóvel.
 
 Uma ótima opção para quem quer comprar o primeiro veículo, mas ainda não tem uma grande quantia de dinheiro para dar de entrada, é [fazer um consórcio](https://www.embracon.com.br/blog/vantagens-consorcio-automovel). Isso porque você tem um valor fixo para pagar sem precisar se preocupar com a entrada e, a qualquer momento, [você pode ser sorteado](https://www.embracon.com.br/blog/quais-sao-as-formas-de-contemplacao).
 
@@ -59,4 +59,3 @@ Já na hora de escolher um [modelo zero](https://www.embracon.com.br/blog/4-moti
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Automóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebda2b6735c676da2d9e861_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>> Se você deseja adquirir o seu primeiro carro, nós podemos te ajudar! [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) em nosso site e comece a tirar o seu sonho do papel ainda hoje!
 
 ‍
-        

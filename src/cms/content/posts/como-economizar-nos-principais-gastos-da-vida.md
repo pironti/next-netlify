@@ -1,14 +1,14 @@
 ---
-        titulo: Como economizar nos principais gastos da vida?
-        slug: como-economizar-nos-principais-gastos-da-vida
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-economizar-nos-principais-gastos-da-vida.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Quando falamos que precisamos mudar de vida, é comum cairmos no mesmo dilema: preciso economizar!
+titulo: Como economizar nos principais gastos da vida?
+slug: como-economizar-nos-principais-gastos-da-vida
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-economizar-nos-principais-gastos-da-vida.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Quando falamos que precisamos mudar de vida, é comum cairmos no mesmo dilema: preciso economizar!
 
 Por mais que a teoria seja simples - afinal, é basicamente [cortar alguns gastos e fazer com que sobre mais dinheiro no fim do mês](https://www.embracon.com.br/blog/as-dicas-mais-valiosas-para-sair-do-vermelho) - colocar este hábito em prática é mais difícil do que parece.
 
@@ -185,4 +185,3 @@ Caso esteja receoso de começar a sua jornada de investimentos, procure um espec
 Para dar os primeiros passos, confira nossas [opções recomendadas para quem quer começar a investir](https://www.embracon.com.br/blog/conheca-4-opcoes-para-quem-quer-comecar-a-investir).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=principais_gastos_da_vida&utm_campaign=publicacoes_blog)</figure>
-        

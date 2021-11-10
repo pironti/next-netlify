@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para autônomos e profissionais liberais
-        slug: consorcio-para-autonomos-e-profissionais-liberais
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-para-autonomos-e-profissionais-liberais.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ser um profissional autônomo, MEI e afins é uma excelente opção para quem quer finalmente sair do regime CLT, mas exige um bom [planejamento financeiro](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia).
+titulo: Consórcio para autônomos e profissionais liberais
+slug: consorcio-para-autonomos-e-profissionais-liberais
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-para-autonomos-e-profissionais-liberais.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ser um profissional autônomo, MEI e afins é uma excelente opção para quem quer finalmente sair do regime CLT, mas exige um bom [planejamento financeiro](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia).
 
 Fato é que na maioria das vezes não é fácil alcançar certos objetivos financeiros. Por isso, o [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) para autônomos deve ser um pouco diferente do que para um assalariado, afinal, custos com produção e mão de obra, por exemplo, impactam diretamente no fluxo de caixa.
 
@@ -222,4 +222,3 @@ O consórcio é mais humano, e atende todas as necessidades. Todos que participa
 > Por fim, não deixe de [fazer uma simulação com a Embracon](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_autonomos_profissionais_liberais&utm_campaign=publicacoes_blog) para verificar as ofertas e fazer o seu consórcio, calculando os melhores prazos e valores de parcelas, tudo de acordo com suas necessidades e sua capacidade de pagamento!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=consorcio_autonomos_profissionais_liberais&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Cerimônia e festa de casamento: juntos ou separados?
-        slug: cerimonia-e-festa-de-casamento-juntos-ou-separados
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/cerimonia-e-festa-de-casamento-juntos-ou-separados.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A tendência em cerimônia e festa de casamento é que sejam realizadas em um mesmo local. São vários os motivos para essa preferência, desde a facilidade de locomoção até a economia com gastos em [decoração](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento).
+titulo: Cerimônia e festa de casamento: juntos ou separados?
+slug: cerimonia-e-festa-de-casamento-juntos-ou-separados
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/cerimonia-e-festa-de-casamento-juntos-ou-separados.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+A tendência em cerimônia e festa de casamento é que sejam realizadas em um mesmo local. São vários os motivos para essa preferência, desde a facilidade de locomoção até a economia com gastos em [decoração](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento).
 
 Como em qualquer outra opção, sempre nos deparamos com vantagens e desvantagens que devem ser analisadas. Neste artigo, vamos comentar sobre os prós e contras dessa decisão e dar algumas [dicas para realizar uma celebração inesquecível](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento). Confira!
 
@@ -81,4 +81,3 @@ Gostou do artigo? Para saber mais e receber dicas incríveis no seu e-mail sobre
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5af8a9478969fba126198_CTA-Casamento%20(1).png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

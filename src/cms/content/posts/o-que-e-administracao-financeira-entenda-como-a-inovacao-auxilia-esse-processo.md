@@ -1,14 +1,14 @@
 ---
-        titulo:  O que é administração financeira? Entenda como a inovação auxilia esse processo
-        slug: o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        A administração financeira integra uma importante parte das empresas, sejam elas de pequeno ou grande porte. Muitos empreendedores buscam por auxílio para organizar e planejar suas ações nessa área, visando uma melhor lucratividade e mais estabilidade no longo prazo.
+titulo:  O que é administração financeira? Entenda como a inovação auxilia esse processo
+slug: o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-administracao-financeira-entenda-como-a-inovacao-auxilia-esse-processo.jpg
+meta_summary: 
+date: 27/09/2021
+---
+A administração financeira integra uma importante parte das empresas, sejam elas de pequeno ou grande porte. Muitos empreendedores buscam por auxílio para organizar e planejar suas ações nessa área, visando uma melhor lucratividade e mais estabilidade no longo prazo.
 
 O papel da administração financeira é muito confundido, a sua importância vai além do que imaginamos. É a partir dela que os gestores podem alocar de maneira eficiente os seus recursos para obter lucro e, em contrapartida, evitar desperdícios.
 
@@ -101,4 +101,3 @@ Você pode explorar essa dinâmica investindo em um[ hackathon](https://blog.aev
 Podemos observar que a administração financeira vai muito além de conferir o caixa, e pode ser pensada como um método para a solidificação de qualquer negócio, grande ou pequeno. Ela é quem vai garantir estabilidade, um alicerce sobre o qual você pode inovar e construir uma organização de sucesso!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=administracao_financeira&utm_campaign=publicacoes_blog)</figure>
-        

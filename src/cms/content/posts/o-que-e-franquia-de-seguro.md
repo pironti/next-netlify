@@ -1,14 +1,14 @@
 ---
-        titulo: O que é franquia de seguro?
-        slug: o-que-e-franquia-de-seguro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-franquia-de-seguro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A franquia de seguro é uma participação obrigatória do segurado em um sinistro, em outras palavras, é o preço que o segurado precisa pagar em determinados tipos de sinistro para conseguirem que a seguradora realize os reparos necessários. Esse é um assunto que ainda levanta muitos questionamentos, como: quando a cobrança pode ser realizada, quais são os modelos de franquia e se realmente é necessário arcar com esse custo em todas as situações.
+titulo: O que é franquia de seguro?
+slug: o-que-e-franquia-de-seguro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-franquia-de-seguro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A franquia de seguro é uma participação obrigatória do segurado em um sinistro, em outras palavras, é o preço que o segurado precisa pagar em determinados tipos de sinistro para conseguirem que a seguradora realize os reparos necessários. Esse é um assunto que ainda levanta muitos questionamentos, como: quando a cobrança pode ser realizada, quais são os modelos de franquia e se realmente é necessário arcar com esse custo em todas as situações.
 
 Neste artigo, vamos esclarecer o que é franquia de seguro, em que momento ela pode ser aplicada e, também, quais são os tipos, sendo elas: ampliada, básica e reduzida. Continue a leitura e entenda de uma vez por todas como funciona!
 
@@ -87,4 +87,3 @@ E aí, ficou alguma dúvida, agora que já esclarecemos o que é e como funciona
 > E pensando em investir em uma casa ou um carro novo? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=franquia_de_seguro&utm_campaign=publicacoes_blog) e veja os benefícios do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=franquia_de_seguro&utm_campaign=publicacoes_blog)</figure>
-        

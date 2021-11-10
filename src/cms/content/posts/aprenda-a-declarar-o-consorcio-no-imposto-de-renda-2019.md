@@ -1,14 +1,14 @@
 ---
-        titulo: Aprenda a declarar o consórcio no imposto de renda 2019
-        slug: aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é a melhor forma de você investir em um grande bem, como uma [casa](https://www.embracon.com.br/consorcio-de-imoveis), [apartamento](https://www.embracon.com.br/consorcio-de-imoveis), [automóvel](https://www.embracon.com.br/consorcio-de-carros) e até mesmo [serviços](https://www.embracon.com.br/consorcio-servicos). Entretanto, é preciso informar à Receita Federal os valores pagos nas mensalidades, para que não tenha problemas com o Fisco.
+titulo: Aprenda a declarar o consórcio no imposto de renda 2019
+slug: aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/aprenda-a-declarar-o-consorcio-no-imposto-de-renda-2019.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é a melhor forma de você investir em um grande bem, como uma [casa](https://www.embracon.com.br/consorcio-de-imoveis), [apartamento](https://www.embracon.com.br/consorcio-de-imoveis), [automóvel](https://www.embracon.com.br/consorcio-de-carros) e até mesmo [serviços](https://www.embracon.com.br/consorcio-servicos). Entretanto, é preciso informar à Receita Federal os valores pagos nas mensalidades, para que não tenha problemas com o Fisco.
 
 Por se tratar de bens com altos valores – e, muitas vezes, mensalidades elevadas – é preciso notificar a Receita, para que ela saiba o real destino de um percentual considerável de seus ganhos mensais.
 
@@ -97,4 +97,3 @@ Para mais informações acesse o [site da Receita Federal](https://www.receita.f
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

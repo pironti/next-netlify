@@ -1,14 +1,14 @@
 ---
-        titulo: Tipos de imóveis: qual é a melhor opção para você
-        slug: tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Por mais que pareça loucura, valores não são o fator mais importante na busca por um lugar para morar. Até porque existem [modalidades de crédito](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes) que podem te auxiliar nessa questão.
+titulo: Tipos de imóveis: qual é a melhor opção para você
+slug: tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tipos-de-imoveis-qual-e-a-melhor-opcao-para-voce.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Por mais que pareça loucura, valores não são o fator mais importante na busca por um lugar para morar. Até porque existem [modalidades de crédito](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes) que podem te auxiliar nessa questão.
 
 Vai muito além disso, é necessário analisar o perfil e as necessidades do futuro morador, bem como conhecer os tipos de imóveis que existem.
 
@@ -219,4 +219,3 @@ Outro ponto a ser analisado é o [contrato de adesão](https://www.embracon.com.
 Fazer parte de um grupo desse tipo é uma opção inteligente para quem deseja adquirir um bem desse tipo. E, de quebra, não pretende pagar as elevadas taxas de juros praticadas pelo mercado. Por isso, é essencial sanar todas as dúvidas sobre o consórcio de imóveis que possam existir. Assim, você consegue tomar uma decisão segura.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas para uma vida financeira mais feliz
-        slug: dicas-para-uma-vida-financeira-mais-feliz
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-para-uma-vida-financeira-mais-feliz.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ter uma [vida financeira saudável](https://www.embracon.com.br/blog/guia-de-como-manter-sua-saude-financeira-saudavel) é sinônimo de paz. Não estar preocupado com contas, gastos, e dívidas é capaz de fazer qualquer pessoa se sentir mais segura e até capaz de fazer planos palpáveis que incluem um futuro com mais estrutura e sonhos. Pensando nisso, juntamos algumas dicas para quem quer ter uma vida financeira mais saudável e mais feliz. Confira a seguir:
+titulo: Dicas para uma vida financeira mais feliz
+slug: dicas-para-uma-vida-financeira-mais-feliz
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-para-uma-vida-financeira-mais-feliz.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ter uma [vida financeira saudável](https://www.embracon.com.br/blog/guia-de-como-manter-sua-saude-financeira-saudavel) é sinônimo de paz. Não estar preocupado com contas, gastos, e dívidas é capaz de fazer qualquer pessoa se sentir mais segura e até capaz de fazer planos palpáveis que incluem um futuro com mais estrutura e sonhos. Pensando nisso, juntamos algumas dicas para quem quer ter uma vida financeira mais saudável e mais feliz. Confira a seguir:
 
 Metas
 -----
@@ -53,4 +53,3 @@ Não se esqueça da possibilidade de fazer um consórcio, você começa a poupar
 > Gostou das nossas dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon.[ Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

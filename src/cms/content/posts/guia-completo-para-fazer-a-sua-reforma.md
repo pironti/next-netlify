@@ -1,14 +1,14 @@
 ---
-        titulo: Guia completo para fazer a sua reforma
-        slug: guia-completo-para-fazer-a-sua-reforma
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-completo-para-fazer-a-sua-reforma.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quando as pessoas pensam na aquisição de uma [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce), muito provavelmente já o imaginam reformado.
+titulo: Guia completo para fazer a sua reforma
+slug: guia-completo-para-fazer-a-sua-reforma
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-completo-para-fazer-a-sua-reforma.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quando as pessoas pensam na aquisição de uma [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce), muito provavelmente já o imaginam reformado.
 
 Deixar o ambiente do jeito que você deseja: das [pinturas à decoração](https://www.embracon.com.br/blog/como-escolher-as-cores-de-tintas-para-os-ambientes-da-casa), além dos itens, cores, disposição dos móveis e, o melhor de tudo, com cara de novo, pronto para morar!
 
@@ -328,4 +328,3 @@ Por exemplo, digamos que você tenha feito um orçamento e descobriu que precisa
 E aí, ficou interessado em contar com o consórcio para fazer a reforma dos seus sonhos? [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e aproveite os benefícios de uma modalidade que não exige valor de entrada, não cobra juros e, o melhor de tudo, dá liberdade para que o consorciado determine o valor da carta de crédito e a quantidade de parcelas que deseja pagar.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

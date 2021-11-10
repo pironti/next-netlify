@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as maiores dúvidas sobre consórcio?
-        slug: quais-sao-as-maiores-duvidas-sobre-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-maiores-duvidas-sobre-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O consórcio é um investimento vantajoso e possui um processo bem simples. É uma excelente maneira de adquirir um bem parcelado [sem o pagamento de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). Ainda assim, grande parte das pessoas não conhecem os detalhes dessa modalidade e têm dúvidas sobre o consórcio.
+titulo: Quais são as maiores dúvidas sobre consórcio?
+slug: quais-sao-as-maiores-duvidas-sobre-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-maiores-duvidas-sobre-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O consórcio é um investimento vantajoso e possui um processo bem simples. É uma excelente maneira de adquirir um bem parcelado [sem o pagamento de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros). Ainda assim, grande parte das pessoas não conhecem os detalhes dessa modalidade e têm dúvidas sobre o consórcio.
 
 Alguns pontos costumam gerar mais confusão no momento de conhecer ou assinar o contrato desse serviço. Por esse motivo, preparamos um post para [tirar suas dúvidas](https://www.embracon.com.br/blog/9-duvidas-mais-comuns-sobre-consorcio). Vamos esclarecer de uma vez por todas essas perguntas, e você vai poder aproveitar todos os benefícios do consórcio.
 
@@ -227,4 +227,3 @@ Caso existam muitas reclamações referentes a distrato comercial ou outros prob
 > Para ter uma boa experiência de compra, você deve escolher uma instituição com condições de atender ao que você precisa. [Faça uma simulação!](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div></figure>
-        

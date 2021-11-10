@@ -1,14 +1,14 @@
 ---
-        titulo: Quer reformar sua casa? Nós temos 5 dicas para você se inspirar
-        slug: quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        De tempos em tempos nosso lar precisa de uma boa rejuvenescida. A pintura fica gasta, os móveis parecem não ter mais o brilho de alguns anos atrás e, em muitos casos, o próprio [ambiente](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante) se torna menos agradável.
+titulo: Quer reformar sua casa? Nós temos 5 dicas para você se inspirar
+slug: quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quer-reformar-sua-casa-nos-temos-5-dicas-para-voce-se-inspirar.jpg
+meta_summary: 
+date: 30/09/2021
+---
+De tempos em tempos nosso lar precisa de uma boa rejuvenescida. A pintura fica gasta, os móveis parecem não ter mais o brilho de alguns anos atrás e, em muitos casos, o próprio [ambiente](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante) se torna menos agradável.
 
 Em alguns casos, é preciso pilotar uma reforma para questão de segurança: trocar itens antigos, arrumar o encanamento e [fiação](https://www.embracon.com.br/blog/instalacoes-eletricas-quais-sao-os-principais-problemas-e-como-resolve-los), cuidar de locais que possam gerar infiltração…
 
@@ -60,4 +60,3 @@ De todas as possibilidades de serviços, o consórcio de reformas é o mais esco
 > Confira já as facilidades e [faça uma simulação no nosso site](https://www.embracon.com.br/consorcio-servicos).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para planejar uma festa de quinze anos
-        slug: 5-dicas-para-planejar-uma-festa-de-quinze-anos
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-planejar-uma-festa-de-quinze-anos.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        A festa de quinze anos ainda é uma tradição entre as adolescentes, e sua realização provoca um misto de ansiedade e alegria. Porém, antes do grande dia, é necessário colocar a mão na massa e organizar todos os detalhes, desde a lista de convidados até as lembrancinhas que serão distribuídas.
+titulo: 5 dicas para planejar uma festa de quinze anos
+slug: 5-dicas-para-planejar-uma-festa-de-quinze-anos
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-planejar-uma-festa-de-quinze-anos.jpg
+meta_summary: 
+date: 06/10/2021
+---
+A festa de quinze anos ainda é uma tradição entre as adolescentes, e sua realização provoca um misto de ansiedade e alegria. Porém, antes do grande dia, é necessário colocar a mão na massa e organizar todos os detalhes, desde a lista de convidados até as lembrancinhas que serão distribuídas.
 
 Apesar de muito trabalhosa, a organização de um baile de debutantes não é um bicho de sete cabeças. Com dedicação, é possível planejar uma ocasião inesquecível e muito divertida.
 
@@ -51,4 +51,3 @@ Como você pode ver, basta ter cuidado e se dedicar que tornará possível uma f
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça 4 dicas essenciais para quem quer montar um bar em casa
-        slug: conheca-4-dicas-essenciais-para-quem-quer-montar-um-bar-em-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-4-dicas-essenciais-para-quem-quer-montar-um-bar-em-casa.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Que tal montar um bar em casa? Basta alguém falar sobre decoração que logo pensamos em maneiras de como deixar o [lar mais personalizado e agradável](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante). Isso não só para nós, mas também para as nossas visitas, não é verdade? Afinal de contas, nada melhor do que recepcionar amigos e familiares em grandes estilo.
+titulo: Conheça 4 dicas essenciais para quem quer montar um bar em casa
+slug: conheca-4-dicas-essenciais-para-quem-quer-montar-um-bar-em-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-4-dicas-essenciais-para-quem-quer-montar-um-bar-em-casa.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Que tal montar um bar em casa? Basta alguém falar sobre decoração que logo pensamos em maneiras de como deixar o [lar mais personalizado e agradável](https://www.embracon.com.br/blog/confira-5-dicas-para-deixar-qualquer-ambiente-aconchegante). Isso não só para nós, mas também para as nossas visitas, não é verdade? Afinal de contas, nada melhor do que recepcionar amigos e familiares em grandes estilo.
 
 Não é à toa que uma das [principais tendências](https://www.embracon.com.br/blog/vai-reformar-a-cozinha-confira-as-tendencias) em alta no design de interiores se trata justamente de montar um bar em casa. Além de dar um toque de originalidade ao imóvel, ele estimula a interação social. O resultado, é o convite para descansar após um dia de trabalho puxado, celebrar datas importantes e comemorar conquistas pessoais e profissionais (seja sozinho, seja acompanhado).
 
@@ -41,4 +41,3 @@ Agora que você já está por dentro de como **montar um bar em casa**, já sabe
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

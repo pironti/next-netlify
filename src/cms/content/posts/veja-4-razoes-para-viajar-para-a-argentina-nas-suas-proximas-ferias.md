@@ -1,14 +1,14 @@
 ---
-        titulo: Veja 4 razões para viajar para a Argentina nas suas próximas férias
-        slug: veja-4-razoes-para-viajar-para-a-argentina-nas-suas-proximas-ferias
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/veja-4-razoes-para-viajar-para-a-argentina-nas-suas-proximas-ferias.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Assim como a Tailândia, Portugal ou Chile, **viajar para a Argentina** é uma experiência única que todos deviam ter um dia. O país tem uma série de atrativos e várias cidades têm o ar europeu, principalmente no inverno. O melhor de tudo isso é que não é preciso visto ou passaporte para cruzar a fronteira, apenas um RG atualizado.
+titulo: Veja 4 razões para viajar para a Argentina nas suas próximas férias
+slug: veja-4-razoes-para-viajar-para-a-argentina-nas-suas-proximas-ferias
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/veja-4-razoes-para-viajar-para-a-argentina-nas-suas-proximas-ferias.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Assim como a Tailândia, Portugal ou Chile, **viajar para a Argentina** é uma experiência única que todos deviam ter um dia. O país tem uma série de atrativos e várias cidades têm o ar europeu, principalmente no inverno. O melhor de tudo isso é que não é preciso visto ou passaporte para cruzar a fronteira, apenas um RG atualizado.
 
 Neste texto, vamos falar de alguns dos motivos para você viajar para a Argentina nas suas próximas[ férias em família](https://www.embracon.com.br/blog/como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui). Conheça os 4 principais!
 
@@ -51,4 +51,3 @@ Viajar para a Argentina é uma ótima forma de passar [bons momentos com a famí
 Que tal fazer uma [simulação de consórcio](http://www.embracon.com.br/consorcio) e garantir a sua próxima viagem?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Por que os pendentes estão em alta? Como usá-los na decoração da casa?
-        slug: por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Se existe uma tendência que voltou com tudo é usar **pendentes** na [decoração](https://www.embracon.com.br/blog/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica). Antigamente eles ficavam restritos à sala de jantar, mas hoje são utilizados em diversos outros ambientes. Afinal, além da sua utilidade principal, que é auxiliar na iluminação dos espaços, eles também são muito bonitos e podem transformar um local sem precisar de reforma.
+titulo: Por que os pendentes estão em alta? Como usá-los na decoração da casa?
+slug: por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-os-pendentes-estao-em-alta-e-como-usa-los-na-decoracao-da-casa.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Se existe uma tendência que voltou com tudo é usar **pendentes** na [decoração](https://www.embracon.com.br/blog/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica). Antigamente eles ficavam restritos à sala de jantar, mas hoje são utilizados em diversos outros ambientes. Afinal, além da sua utilidade principal, que é auxiliar na iluminação dos espaços, eles também são muito bonitos e podem transformar um local sem precisar de reforma.
 
 Quer saber como usá-los na [decoração da sua casa](https://www.embracon.com.br/blog/estilos-de-decoracao-conheca-os-principais-e-identifique-o-seu)? Então, continue acompanhando este artigo e descubra quais são os [melhores ambientes](https://www.embracon.com.br/blog/5-dicas-para-escolher-os-pisos-de-cada-ambiente-da-casa) para os pendentes e como escolher o melhor modelo para cada um.
 
@@ -67,4 +67,3 @@ Agora que você já sabe como utilizar as luminárias pendentes, pode transforma
 Gostou de saber como usar pendentes na [decoração da sua casa](https://www.embracon.com.br/blog/vale-a-pena-usar-papel-de-parede-na-decoracao)? Então curta a nossa [fanpage no Facebook](https://www.facebook.com/embracon/) e fique por dentro de outras novidades sobre o assunto!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

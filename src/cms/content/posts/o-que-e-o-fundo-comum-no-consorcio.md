@@ -1,14 +1,14 @@
 ---
-        titulo: O que é o fundo comum no consórcio?
-        slug: o-que-e-o-fundo-comum-no-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-o-fundo-comum-no-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O consórcio é a melhor opção para quem pretende investir em um bem ou serviço de alto valor. Você não precisa se preocupar com valor de entrada e [não paga juros nas parcelas](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Diferentemente de outras modalidades, você não sai com o bem na hora, mas tem a certeza de estar investindo em um valor justo pelo bem que deseja comprar.
+titulo: O que é o fundo comum no consórcio?
+slug: o-que-e-o-fundo-comum-no-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-o-fundo-comum-no-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O consórcio é a melhor opção para quem pretende investir em um bem ou serviço de alto valor. Você não precisa se preocupar com valor de entrada e [não paga juros nas parcelas](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda). Diferentemente de outras modalidades, você não sai com o bem na hora, mas tem a certeza de estar investindo em um valor justo pelo bem que deseja comprar.
 
 Isso porque a modalidade funciona como uma [espécie de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo): é você que define o valor da mensalidade que deseja pagar, a partir do bem que selecionou. O bem é representado pela [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), que tem poder de compra à vista quando você for contemplado.
 
@@ -66,4 +66,3 @@ Dessa forma, o fundo comum realmente ajuda o consorciado na realização de seu 
 Quer dicas de [como antecipar a sua contemplação? Confira nosso post especial sobre o assunto no blog da Embracon](https://www.embracon.com.br/blog/antecipar-um-consorcio-descubra-aqui).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

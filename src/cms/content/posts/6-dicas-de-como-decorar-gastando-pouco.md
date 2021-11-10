@@ -1,14 +1,14 @@
 ---
-        titulo: 6 dicas de como decorar gastando pouco
-        slug: 6-dicas-de-como-decorar-gastando-pouco
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/6-dicas-de-como-decorar-gastando-pouco.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Apesar de muitas pessoas acreditarem no oposto, um orçamento limitado não é motivo para os planos de decoração serem deixados de lado. Há uma infinidade de maneiras que podem ser ótimas alternativas para quem precisa decorar gastando pouco, sem que, para isso, seja necessário abrir mão de detalhes que valorizam o imóvel.
+titulo: 6 dicas de como decorar gastando pouco
+slug: 6-dicas-de-como-decorar-gastando-pouco
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/6-dicas-de-como-decorar-gastando-pouco.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Apesar de muitas pessoas acreditarem no oposto, um orçamento limitado não é motivo para os planos de decoração serem deixados de lado. Há uma infinidade de maneiras que podem ser ótimas alternativas para quem precisa decorar gastando pouco, sem que, para isso, seja necessário abrir mão de detalhes que valorizam o imóvel.
 
 Inspire-se com as dicas a seguir e inove na [decoração de sua casa ](https://www.embracon.com.br/blog/como-usar-prateleiras-na-decoracao-da-casa)ou [apartamento](https://www.embracon.com.br/blog/como-comprar-um-apartamento)!
 
@@ -59,4 +59,3 @@ Uma busca simples no Facebook, Youtube, WhatsApp — ou qualquer outra rede que 
 Achou interessante nossas dicas para decorar gastando pouco? Aproveite e confira também este post especial e saiba como [economizar com consórcios](https://www.embracon.com.br/blog/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher)!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

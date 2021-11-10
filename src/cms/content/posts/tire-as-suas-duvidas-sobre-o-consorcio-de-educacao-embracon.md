@@ -1,14 +1,14 @@
 ---
-        titulo: Tire as suas dúvidas sobre o consórcio de educação Embracon
-        slug: tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon.jpeg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Investir em um [**consórcio de educação**](https://www.embracon.com.br/consorcio-servicos) Embracon é uma ótima escolha para quem deseja dar continuidade aos estudos e se capacitar cada vez mais na profissão. Além do conhecido financiamento estudantil, também é possível fazer o pagamento da faculdade utilizando o [consórcio de serviços](https://www.embracon.com.br/blog/conheca-os-principais-consorcios-de-servicos-embracon). E o melhor: não há cobrança de juros como acontece no financiamento.
+titulo: Tire as suas dúvidas sobre o consórcio de educação Embracon
+slug: tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon.jpeg
+meta_summary: 
+date: 27/09/2021
+---
+Investir em um [**consórcio de educação**](https://www.embracon.com.br/consorcio-servicos) Embracon é uma ótima escolha para quem deseja dar continuidade aos estudos e se capacitar cada vez mais na profissão. Além do conhecido financiamento estudantil, também é possível fazer o pagamento da faculdade utilizando o [consórcio de serviços](https://www.embracon.com.br/blog/conheca-os-principais-consorcios-de-servicos-embracon). E o melhor: não há cobrança de juros como acontece no financiamento.
 
 Os planos desse tipo de consórcio funcionam como os consórcios de automóveis. O investidor vai escolher o valor total que precisa para pagar o curso (conhecido como [carta de crédito](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-carta-de-credito)), decidir a duração do plano e o valor da prestação que pode pagar.
 
@@ -94,4 +94,3 @@ Fazer um [planejamento ](https://www.embracon.com.br/blog/planeje-sua-vida-finan
 Ficou interessado e quer conhecer um pouco mais sobre o nosso consórcio de serviços? Então faça uma [simulação](https://www.embracon.com.br/consorcio-servicos) agora mesmo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

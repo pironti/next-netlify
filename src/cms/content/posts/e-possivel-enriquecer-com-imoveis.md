@@ -1,14 +1,14 @@
 ---
-        titulo: É possível enriquecer com imóveis?
-        slug: e-possivel-enriquecer-com-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-enriquecer-com-imoveis.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Seja residencial, comercial, [terrenos](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir) ou loteamentos, o mercado imobiliário é uma das formas de enriquecer mais tradicionais da história.
+titulo: É possível enriquecer com imóveis?
+slug: e-possivel-enriquecer-com-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-enriquecer-com-imoveis.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Seja residencial, comercial, [terrenos](https://www.embracon.com.br/blog/vale-a-pena-comprar-um-terreno-para-investir) ou loteamentos, o mercado imobiliário é uma das formas de enriquecer mais tradicionais da história.
 
 Esse tipo de [investimento](https://www.embracon.com.br/blog/o-consorcio-e-investimento) se mostra mais importante ainda se pretende ter mais conforto e praticidade no seu dia a dia. Se esse for o caso, essa opção é sem dúvidas muito boa. Ter uma propriedade nova numa zona com uma boa localização e perto do trabalho ou da universidade é ótimo, se não essencial para todos.
 
@@ -156,4 +156,3 @@ Também existem riscos relacionados à lucratividade. Conforme mencionado anteri
 Está mais do que provado que é possível sim ***enriquecer com imóveis***. Com o devido [planejamento](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle), você poderá conquistar muitas coisas. Temos outro artigo que pode ser do seu interesse: [Guia: Tudo o que você precisa saber sobre o consórcio imobiliário](https://www.embracon.com.br/blog/guia-completo-consorcio-imobiliario).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

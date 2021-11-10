@@ -1,14 +1,14 @@
 ---
-        titulo: Como economizar nas compras mensais?
-        slug: como-economizar-nas-compras-mensais
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-economizar-nas-compras-mensais.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Cada brasileiro possui um tipo de rotina diferente na [hora de fazer as compras para casa](https://www.embracon.com.br/blog/10-importantes-dicas-para-economizar-nas-compras-de-casa). Alguns preferem ir semanalmente ao mercado, enquanto outros compram de acordo com a necessidade: se alguma coisa acaba, repõe imediatamente, sem a necessidade de transportar carrinhos pelo supermercado.
+titulo: Como economizar nas compras mensais?
+slug: como-economizar-nas-compras-mensais
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-economizar-nas-compras-mensais.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Cada brasileiro possui um tipo de rotina diferente na [hora de fazer as compras para casa](https://www.embracon.com.br/blog/10-importantes-dicas-para-economizar-nas-compras-de-casa). Alguns preferem ir semanalmente ao mercado, enquanto outros compram de acordo com a necessidade: se alguma coisa acaba, repõe imediatamente, sem a necessidade de transportar carrinhos pelo supermercado.
 
 A [pandemia acabou popularizando uma nova forma de lidar com as compras](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia): é possível adquirir o que deseja sem sair de casa. Muitos supermercados possuem sites próprios, que permitem [comprar e receber todos os itens na comodidade de sua casa ou apartamento](https://www.embracon.com.br/blog/7-dicas-para-economizar-nas-compras-pela-internet-nessa-quarentena), ou até mesmo realizar a compra pela internet e buscar no local.
 
@@ -79,4 +79,3 @@ Não adianta comprar diversas coisas no mercado quando o preço está em conta. 
 E aí, gostou das nossas dicas para economizar nas compras mensais? Para que você mantenha a sua saúde financeira, [confira nosso guia completo para planejar o seu orçamento e conquistar seus objetivos.](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

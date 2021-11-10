@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona o consórcio de máquinas agrícolas e caminhões?
-        slug: como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Desde que o Brasil passou a contar com o sistema de consórcio para [comprar bens de alto valor](https://www.embracon.com.br/blog/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio), cada vez mais os brasileiros têm se organizado para investir na realização do sonho.
+titulo: Como funciona o consórcio de máquinas agrícolas e caminhões?
+slug: como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Desde que o Brasil passou a contar com o sistema de consórcio para [comprar bens de alto valor](https://www.embracon.com.br/blog/investimento-na-crise-o-consorcio-sempre-e-um-bom-negocio), cada vez mais os brasileiros têm se organizado para investir na realização do sonho.
 
 Por muitos anos, a modalidade ficou conhecida por facilitar a [compra de automóveis](https://www.embracon.com.br/blog/como-funciona-consorcio-de-automoveis-por-que-boa-opcao): dos primeiros grupos de consorciados formados nos anos 1960, acompanhando todo o crescimento do setor nos anos seguintes, até contemplar itens como eletrodomésticos e eletroeletrônicos (incluindo até videocassetes, quem lembra?), o consórcio foi percebido como uma ótima forma de investir em um bem sem ter que pagar à vista e, o melhor, sem pagar juros nas mensalidades.
 
@@ -182,4 +182,3 @@ Caso tenha interesse em adquirir mais de uma cota de consórcio, converse com a 
 > Portanto, [faça uma simulação](https://www.embracon.com.br/consorcio) e confira as vantagens de investir em um consórcio como pessoa jurídica. Você vai conseguir se planejar melhor para a compra de novos equipamentos, sem comprometer demais o fluxo de caixa da sua empresa.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

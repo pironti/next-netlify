@@ -1,14 +1,14 @@
 ---
-        titulo: 5 formas de aumentar seu patrimônio com o consórcio
-        slug: 5-formas-de-aumentar-seu-patrimonio-com-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-formas-de-aumentar-seu-patrimonio-com-o-consorcio.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Muita gente entende o consórcio como uma forma de realizar o seu sonho de forma planejada. Sem a necessidade de ter que pagar entrada, depender de instituições financeiras ou mesmo dos altos valores de parcelas, com [o consórcio é muito mais fácil começar a investir naquilo que você realmente deseja](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), como a compra de uma moto, carro, casa ou até mesmo realizar um tipo de serviço, como viagens, estudos, reforma, cirurgia e festas.
+titulo: 5 formas de aumentar seu patrimônio com o consórcio
+slug: 5-formas-de-aumentar-seu-patrimonio-com-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-formas-de-aumentar-seu-patrimonio-com-o-consorcio.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Muita gente entende o consórcio como uma forma de realizar o seu sonho de forma planejada. Sem a necessidade de ter que pagar entrada, depender de instituições financeiras ou mesmo dos altos valores de parcelas, com [o consórcio é muito mais fácil começar a investir naquilo que você realmente deseja](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), como a compra de uma moto, carro, casa ou até mesmo realizar um tipo de serviço, como viagens, estudos, reforma, cirurgia e festas.
 
 É por conta dessa flexibilidade que algumas pessoas se organizam para investir em mais de uma cota de consórcio ou vão [constituindo seu patrimônio aos poucos](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), a fim de garantir uma vida mais confortável no futuro - e, quem sabe, ter uma boa renda extra para somar à aposentadoria?
 
@@ -178,4 +178,3 @@ Esse interesse deve aquecer o mercado imobiliário e gerar oportunidades para qu
 > [Faça já uma simulação](https://www.embracon.com.br/consorcio-de-imoveis) de consórcio imobiliário e planeje o quanto antes a multiplicação dos seus rendimentos mensais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb5e77abc38c34aef6f090_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Termine sua casa com o consórcio de reforma
-        slug: termine-sua-casa-com-o-consorcio-de-reforma
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/termine-sua-casa-com-o-consorcio-de-reforma.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        [Ter a casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é o sonho da grande maioria dos brasileiros mas, mesmo quando ele é realizado, ainda existem muitas etapas até que se construa o lar do jeito que realmente gostaria.
+titulo: Termine sua casa com o consórcio de reforma
+slug: termine-sua-casa-com-o-consorcio-de-reforma
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/termine-sua-casa-com-o-consorcio-de-reforma.jpg
+meta_summary: 
+date: 07/10/2021
+---
+[Ter a casa própria](https://www.embracon.com.br/blog/como-conquistar-a-estabilidade-da-casa-propria) é o sonho da grande maioria dos brasileiros mas, mesmo quando ele é realizado, ainda existem muitas etapas até que se construa o lar do jeito que realmente gostaria.
 
 Quem teve a [experiência de construir a própria casa](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo) após a compra de um terreno, ou até mesmo passar por uma reforma total antes de se mudar de vez, sabe muito bem que o [processo de reforma](https://www.embracon.com.br/blog/guia-completo-de-como-reformar-a-sua-casa-inteira-com-o-consorcio) acaba levando mais tempo do que originalmente planejado.
 
@@ -64,4 +64,3 @@ Caso queira ter acesso a um valor ainda maior na hora de simular o consórcio, c
 Com preparo e planejamento, você pode contar com o consórcio para conduzir a reforma da sua casa sem ter que comprometer seus rendimentos mensais. [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e termine sua casa ou apartamento com uma reforma bem planejada.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulador](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

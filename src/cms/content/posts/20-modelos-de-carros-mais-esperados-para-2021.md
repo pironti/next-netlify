@@ -1,14 +1,14 @@
 ---
-        titulo: 20 modelos de carros mais esperados para 2021
-        slug: 20-modelos-de-carros-mais-esperados-para-2021
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/20-modelos-de-carros-mais-esperados-para-2021.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Em 2020, alguns dos[ lançamentos dos carros mais incríveis e esperados](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020), acabaram ofuscados pela pandemia do novo coronavírus. O mercado deu uma desacelerada principalmente porque o [poder de compra do brasileiro](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) diminuiu significativamente. Porém, 2021 está por perto, e com a iminência do fim da pandemia muitas promessas vão sair do papel e chegam ao Brasil.
+titulo: 20 modelos de carros mais esperados para 2021
+slug: 20-modelos-de-carros-mais-esperados-para-2021
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/20-modelos-de-carros-mais-esperados-para-2021.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Em 2020, alguns dos[ lançamentos dos carros mais incríveis e esperados](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020), acabaram ofuscados pela pandemia do novo coronavírus. O mercado deu uma desacelerada principalmente porque o [poder de compra do brasileiro](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) diminuiu significativamente. Porém, 2021 está por perto, e com a iminência do fim da pandemia muitas promessas vão sair do papel e chegam ao Brasil.
 
 Entre as novidades mais esperadas no mundo dos carros, com certeza, a tecnologia de motores turbo híbridos, que associam a bateria elétrica e combustão, é um dos pontos que mais tem gerado ansiedade do consumidor.
 
@@ -172,4 +172,3 @@ O próprio simulador de consórcio já mostra [quanto ficariam as mensalidades](
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Automóvel ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/embracon)e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

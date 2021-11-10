@@ -1,14 +1,14 @@
 ---
-        titulo: Como melhorar o currículo: quais são os melhores investimentos?
-        slug: como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos.jpeg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Pensando em dar uma [guinada na sua carreira](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui)? Está em busca de [novos conhecimentos](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon), mas ainda está em dúvidas sobre como melhorar o currículo? Então, saiba que você está no lugar certo, pois preparamos este artigo para falar justamente sobre isso.
+titulo: Como melhorar o currículo: quais são os melhores investimentos?
+slug: como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-melhorar-o-curriculo-quais-sao-os-melhores-investimentos.jpeg
+meta_summary: 
+date: 30/09/2021
+---
+Pensando em dar uma [guinada na sua carreira](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui)? Está em busca de [novos conhecimentos](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon), mas ainda está em dúvidas sobre como melhorar o currículo? Então, saiba que você está no lugar certo, pois preparamos este artigo para falar justamente sobre isso.
 
 A primeira observação a se fazer, nesse caso, é que sozinho, o diploma de um [curso superior](https://www.embracon.com.br/blog/como-funciona-o-consorcio-embracon-para-pagar-faculdade) não será o suficiente para que você consiga realmente se destacar em um mercado tão competitivo como o dos dias de hoje.
 
@@ -46,4 +46,3 @@ Em vista disso, a dica é simples: se prepare o máximo que puder e nunca deixe 
 Esperamos que você tenha gostado deste artigo sobre como melhorar o currículo. Se sim, deixe o seu comentário. Sua opinião é muito importante para nós!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

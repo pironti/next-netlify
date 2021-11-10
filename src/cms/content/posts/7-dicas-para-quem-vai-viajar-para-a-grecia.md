@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas para quem vai viajar para a Grécia
-        slug: 7-dicas-para-quem-vai-viajar-para-a-grecia
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-para-quem-vai-viajar-para-a-grecia.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Por ser um dos destinos mais cobiçados do mundo, [**viajar para a Grécia**](https://www.embracon.com.br/consorcio-servicos) requer um roteiro perfeito. O país conta com atrativos para vários tipos de turistas: é ideal para uma viagem romântica, para quem gosta de história e, também, para os mais aventureiros.
+titulo: 7 dicas para quem vai viajar para a Grécia
+slug: 7-dicas-para-quem-vai-viajar-para-a-grecia
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-para-quem-vai-viajar-para-a-grecia.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Por ser um dos destinos mais cobiçados do mundo, [**viajar para a Grécia**](https://www.embracon.com.br/consorcio-servicos) requer um roteiro perfeito. O país conta com atrativos para vários tipos de turistas: é ideal para uma viagem romântica, para quem gosta de história e, também, para os mais aventureiros.
 
 Além disso, é difícil encontrar alguém que não gostaria de passar o verão entre algumas das praias mais belas do planeta, não é? Mas qual é a melhor época para **visitar a Grécia**? Quais são as cidades obrigatórias e os pontos turísticos mais famosos?
 
@@ -92,4 +92,3 @@ Quer receber mais dicas de viagem? Assine a nossa newsletter e fique por dentro 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

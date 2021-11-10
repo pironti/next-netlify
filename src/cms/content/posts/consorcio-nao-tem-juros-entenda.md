@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio não tem juros: entenda!
-        slug: consorcio-nao-tem-juros-entenda
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-nao-tem-juros-entenda.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O consórcio pode ser usado para a compra de bens como [carros](https://www.embracon.com.br/consorcio-de-carros), motos,[ imóveis](https://www.embracon.com.br/consorcio-de-imoveis), entre outros. Essa modalidade de compra é uma alternativa interessante se comparada ao financiamento. Muitos se perguntam se o consórcio tem juros, e essa é a vantagem, pois não há incidência deles. Ao contrário das linhas de financiamento e crédito, que apresentam taxas bem elevadas.
+titulo: Consórcio não tem juros: entenda!
+slug: consorcio-nao-tem-juros-entenda
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-nao-tem-juros-entenda.jpg
+meta_summary: 
+date: 06/10/2021
+---
+O consórcio pode ser usado para a compra de bens como [carros](https://www.embracon.com.br/consorcio-de-carros), motos,[ imóveis](https://www.embracon.com.br/consorcio-de-imoveis), entre outros. Essa modalidade de compra é uma alternativa interessante se comparada ao financiamento. Muitos se perguntam se o consórcio tem juros, e essa é a vantagem, pois não há incidência deles. Ao contrário das linhas de financiamento e crédito, que apresentam taxas bem elevadas.
 
 É comum muitas pessoas terem [dúvidas ](https://www.embracon.com.br/blog/tire-todas-as-suas-duvidas-sobre-os-direitos-e-deveres-do-consorciado)em relação à [falta de cobrança de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros) no consórcio, porém ela é real. Apenas é cobrada uma taxa administrativa, com valor bem menor em relação aos acréscimos do mercado.
 
@@ -142,4 +142,3 @@ Quer saber mais sobre [consórcio para compra de veículos](https://www.embracon
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> ‍  
 >   
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

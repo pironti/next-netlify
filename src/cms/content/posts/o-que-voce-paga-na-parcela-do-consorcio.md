@@ -1,14 +1,14 @@
 ---
-        titulo: O que você paga na parcela do consórcio?
-        slug: o-que-voce-paga-na-parcela-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-voce-paga-na-parcela-do-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Quando se trata das [parcelas do consórcio](https://www.embracon.com.br/blog/antecipar-parcelas-do-consorcio-vale-a-pena), algumas pessoas ficam em dúvida de como fazer o cálculo. Mas não se preocupe, neste artigo, explicaremos tudo o que você precisa saber sobre o como as parcelas do consórcio são contabilizadas. Antes de tudo, vamos entender o que é o consórcio.
+titulo: O que você paga na parcela do consórcio?
+slug: o-que-voce-paga-na-parcela-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-voce-paga-na-parcela-do-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Quando se trata das [parcelas do consórcio](https://www.embracon.com.br/blog/antecipar-parcelas-do-consorcio-vale-a-pena), algumas pessoas ficam em dúvida de como fazer o cálculo. Mas não se preocupe, neste artigo, explicaremos tudo o que você precisa saber sobre o como as parcelas do consórcio são contabilizadas. Antes de tudo, vamos entender o que é o consórcio.
 
 O consórcio 
 ------------
@@ -49,4 +49,3 @@ Em um consórcio, todos os integrantes devem participar de maneira igual e respe
 Agora que você sabe como calcular as parcelas, faça uma [simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) no site da Embracon, administradora de consórcio, e saiba exatamente o quanto investir.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

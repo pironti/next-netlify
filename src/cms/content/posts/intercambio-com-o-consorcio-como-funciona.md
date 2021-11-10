@@ -1,14 +1,14 @@
 ---
-        titulo: Intercâmbio com o consórcio: como funciona?
-        slug: intercambio-com-o-consorcio-como-funciona
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/intercambio-com-o-consorcio-como-funciona.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A pandemia pode ter interrompido o sonho de muita gente que gostaria de fazer [intercâmbio para impulsionar o currículo](https://www.embracon.com.br/blog/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens).
+titulo: Intercâmbio com o consórcio: como funciona?
+slug: intercambio-com-o-consorcio-como-funciona
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/intercambio-com-o-consorcio-como-funciona.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A pandemia pode ter interrompido o sonho de muita gente que gostaria de fazer [intercâmbio para impulsionar o currículo](https://www.embracon.com.br/blog/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens).
 
 Com o objetivo de desenvolver uma língua ou, em alguns casos, somar a isso o desenvolvimento profissional, o intercâmbio se apresenta como uma das melhores formas de aproveitar os [estudos para conquistar seus objetivos](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon).
 
@@ -178,4 +178,3 @@ Para dicas de como se organizar melhor financeiramente para grandes decisões da
 > Vamos começar esse sonho? [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=intercambio_com_consorcio&utm_campaign=publicacoes_blog) agora mesmo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Intercâmbio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=intercambio_com_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

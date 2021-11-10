@@ -1,14 +1,14 @@
 ---
-        titulo: Assembleia de consórcio: entenda o que é e como funciona
-        slug: assembleia-de-consorcio-como-funciona
-        categoria: Assembleias
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/assembleia-de-consorcio-como-funciona.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O momento mais aguardado daqueles que [participam de um consórcio](https://www.embracon.com.br/conhecaoconsorcio/todas-as-cotas-participam-da-assembleia) é a [contemplação](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-contemplacao) que acontece durante as assembleias. Você sabe o que é uma assembleia de consórcio e como ela funciona? As assembleias fazem parte do dia a dia de todos os grupos de **consórcios**. Por isso, conhecer as suas particularidades garante que o consorciado — ou quem estiver interessado em participar de um grupo — entenda o seu funcionamento.
+titulo: Assembleia de consórcio: entenda o que é e como funciona
+slug: assembleia-de-consorcio-como-funciona
+categoria: Assembleias
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/assembleia-de-consorcio-como-funciona.jpg
+meta_summary: 
+date: 06/10/2021
+---
+O momento mais aguardado daqueles que [participam de um consórcio](https://www.embracon.com.br/conhecaoconsorcio/todas-as-cotas-participam-da-assembleia) é a [contemplação](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-contemplacao) que acontece durante as assembleias. Você sabe o que é uma assembleia de consórcio e como ela funciona? As assembleias fazem parte do dia a dia de todos os grupos de **consórcios**. Por isso, conhecer as suas particularidades garante que o consorciado — ou quem estiver interessado em participar de um grupo — entenda o seu funcionamento.
 
 Foi pensando nisso que preparamos este texto. Abordamos alguns detalhes sobre a [assembleia de um consórcio](https://www.embracon.com.br/conhecaoconsorcio/como-sao-realizados-os-sorteios-nas-assembleias) para orientar você. Continue acompanhando e fique por dentro do assunto!
 
@@ -96,4 +96,3 @@ Agora que você sabe o que é e como funciona uma assembleia de consórcio, não
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div></figure>‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

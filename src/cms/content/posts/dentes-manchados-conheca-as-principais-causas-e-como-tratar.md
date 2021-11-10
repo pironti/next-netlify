@@ -1,14 +1,14 @@
 ---
-        titulo: Dentes manchados: conheça as principais causas e como tratar
-        slug: dentes-manchados-conheca-as-principais-causas-e-como-tratar
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dentes-manchados-conheca-as-principais-causas-e-como-tratar.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Todos nós queremos nos sentir bem e confiantes. Quando se trata de nossa autoestima, **dentes manchados** são uma preocupação com motivo real. Afinal, estamos nos referindo ao nosso cartão de visitas. Sendo assim, todo o cuidado com eles vale a pena.
+titulo: Dentes manchados: conheça as principais causas e como tratar
+slug: dentes-manchados-conheca-as-principais-causas-e-como-tratar
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dentes-manchados-conheca-as-principais-causas-e-como-tratar.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Todos nós queremos nos sentir bem e confiantes. Quando se trata de nossa autoestima, **dentes manchados** são uma preocupação com motivo real. Afinal, estamos nos referindo ao nosso cartão de visitas. Sendo assim, todo o cuidado com eles vale a pena.
 
 Se você tem **dentes manchados**, entenda, neste post, o que pode causar isso. E, também, quais são os possíveis tratamentos para corrigir o problema.
 
@@ -65,4 +65,3 @@ Agora que você sabe mais sobre **dentes manchados** e como tratar, que tal acom
 > Faça uma simulação de [Consórcio de Cirurgias](https://www.embracon.com.br/consorcio-servicos)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

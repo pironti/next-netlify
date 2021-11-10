@@ -1,14 +1,14 @@
 ---
-        titulo: Motivos para investir em uma van
-        slug: motivos-para-investir-em-uma-van
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/motivos-para-investir-em-uma-van.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Comprar uma van garante ao proprietário uma série de possibilidades para gerar renda (seja extra ou principal), ou até mesmo começar um pequeno negócio, além de [aumentar seu patrimônio](https://www.embracon.com.br/blog/5-formas-de-aumentar-seu-patrimonio-com-o-consorcio) ou de sua empresa.
+titulo: Motivos para investir em uma van
+slug: motivos-para-investir-em-uma-van
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/motivos-para-investir-em-uma-van.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Comprar uma van garante ao proprietário uma série de possibilidades para gerar renda (seja extra ou principal), ou até mesmo começar um pequeno negócio, além de [aumentar seu patrimônio](https://www.embracon.com.br/blog/5-formas-de-aumentar-seu-patrimonio-com-o-consorcio) ou de sua empresa.
 
 Fora isso, existem outros motivos variados para fazer a aquisição desse bem com o propósito de retorno sobre o investimento, bem como existe uma forma que facilita ao comprador fazer a aquisição.
 
@@ -194,4 +194,3 @@ Independente da atividade realizada, o consórcio se mostra uma excelente opçã
 > [Faça sua simulação](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=investir_em_uma_van&utm_campaign=publicacoes_blog) conosco e tire todas as suas dúvidas!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=investir_em_uma_van&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona um grupo de consórcio?
-        slug: como-funciona-um-grupo-de-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-um-grupo-de-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Diferente das demais modalidades de pagamento, o consórcio conta com a contribuição de todos os integrantes para que possa funcionar perfeitamente. A partir do momento que você fecha o contrato e [se torna um consorciado](https://www.embracon.com.br/conhecaoconsorcio/quem-sao-os-consorciados), precisa pagar as mensalidades em dia para que possa participar do sistema como um todo.
+titulo: Como funciona um grupo de consórcio?
+slug: como-funciona-um-grupo-de-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-um-grupo-de-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Diferente das demais modalidades de pagamento, o consórcio conta com a contribuição de todos os integrantes para que possa funcionar perfeitamente. A partir do momento que você fecha o contrato e [se torna um consorciado](https://www.embracon.com.br/conhecaoconsorcio/quem-sao-os-consorciados), precisa pagar as mensalidades em dia para que possa participar do sistema como um todo.
 
 Na prática, trata-se de um [autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo): é você que escolhe o valor do bem que deseja comprar - representado pela carta de crédito - e a [quantidade de parcelas da sua cota](https://www.embracon.com.br/blog/11-coisas-que-voce-precisa-saber-sobre-a-parcela-do-consorcio). Claro que tudo isso depende do bem que você deseja comprar.
 
@@ -61,4 +61,3 @@ Além dos sorteios, é possível ser [contemplado por meio do lance](https://www
 Agora que você conhece como funcionam os grupos de consórcio, [faça agora mesmo uma simulação do bem que deseja comprar](https://www.embracon.com.br/) e invista o quanto antes no seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

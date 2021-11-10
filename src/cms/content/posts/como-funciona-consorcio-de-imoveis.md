@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba agora como funciona o consórcio de imóveis
-        slug: como-funciona-consorcio-de-imoveis
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 29/10/2021
-        ---
-        Com o relativo aumento nas taxas de juros de financiamentos imobiliários e a crise financeira que continua impactando o Brasil, milhares de pessoas estão buscando saber como funciona o consórcio de imóveis.
+titulo: Saiba agora como funciona o consórcio de imóveis
+slug: como-funciona-consorcio-de-imoveis
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 29/10/2021
+---
+Com o relativo aumento nas taxas de juros de financiamentos imobiliários e a crise financeira que continua impactando o Brasil, milhares de pessoas estão buscando saber como funciona o consórcio de imóveis.
 
 De acordo com a pesquisa da [Associação Brasileira de Administradoras de Consórcios (Abac)](http://abac.org.br/), de janeiro a setembro de 2017, quase 54 mil consorciados foram contemplados em consórcios de imóveis no Brasil. Diante desse número, é fácil notar que não ter dinheiro à vista não é motivo para não fazer a compra de um imóvel, não é mesmo?
 
@@ -242,4 +242,3 @@ Gostou de saber como funciona o consórcio de imóveis? Esperamos que você tenh
 Quer entender mais sobre o assunto? Entre em contato conosco. Podemos ajudá-lo a conquistar seu tão sonhado imóvel.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![simule-um-consórcio-de-imóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5cd048f452e8417d3fdbbbd1_Prancheta-1-300x129.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>
-        

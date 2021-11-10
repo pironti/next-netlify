@@ -1,14 +1,14 @@
 ---
-        titulo: Como as parcelas do consórcio são ajustadas?
-        slug: como-as-parcelas-do-consorcio-sao-ajustadas
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-as-parcelas-do-consorcio-sao-ajustadas.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O consórcio é uma das melhores modalidades para a compra de bens de alto valor porque, além de pagar parcelado [sem ter que se comprometer com entrada ou juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), é você que fica responsável por definir o valor da carta de crédito, que corresponde ao bem final, e a quantidade de parcelas.
+titulo: Como as parcelas do consórcio são ajustadas?
+slug: como-as-parcelas-do-consorcio-sao-ajustadas
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-as-parcelas-do-consorcio-sao-ajustadas.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O consórcio é uma das melhores modalidades para a compra de bens de alto valor porque, além de pagar parcelado [sem ter que se comprometer com entrada ou juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda), é você que fica responsável por definir o valor da carta de crédito, que corresponde ao bem final, e a quantidade de parcelas.
 
 Isso tudo é possível por conta de um mecanismo bem dinâmico para definir o valor de um consórcio: a [simulação](https://www.embracon.com.br/blog/simulacao-de-consorcio).
 
@@ -57,4 +57,3 @@ Para isso, vamos apresentar algumas dicas que podem ser valiosas ao determinar o
 O reajuste é inevitável, mas tem o benefício de impedir que o valor da sua carta de crédito fique defasado com o tempo e as oscilações da economia. [Para mais dicas de finanças pessoais, acompanhe o nosso blog](https://www.embracon.com.br/category/financas-pessoais).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

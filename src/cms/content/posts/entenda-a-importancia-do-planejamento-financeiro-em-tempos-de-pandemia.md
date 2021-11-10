@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda a importância do planejamento financeiro em tempos de pandemia
-        slug: entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        2020 foi um dos anos mais difíceis da história contemporânea. Como consequência da crise do [coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), que abalou o mundo inteiro, além de vivermos a possibilidade de ficarmos doentes ou mesmo de perder entes queridos, o Brasil passou por muitos apertos financeiros. A [moeda ](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida)foi desvalorizada, a alimentação ficou mais cara e muitas pessoas voltaram à linha da pobreza.
+titulo: Entenda a importância do planejamento financeiro em tempos de pandemia
+slug: entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+2020 foi um dos anos mais difíceis da história contemporânea. Como consequência da crise do [coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), que abalou o mundo inteiro, além de vivermos a possibilidade de ficarmos doentes ou mesmo de perder entes queridos, o Brasil passou por muitos apertos financeiros. A [moeda ](https://www.embracon.com.br/blog/entenda-como-a-variacao-da-moeda-estrangeira-pode-impactar-sua-vida)foi desvalorizada, a alimentação ficou mais cara e muitas pessoas voltaram à linha da pobreza.
 
 Infelizmente esse é um acontecimento que nunca conseguiríamos imaginar. Nem os economistas e analistas financeiros poderiam prever uma crise tão grande como essa e que impactou diretamente diversos setores da economia e da indústria. E foi uma forma de nos mostrar como é importante nos prepararmos para imprevistos durante a vida toda.
 
@@ -58,4 +58,3 @@ Não se esqueça da possibilidade de fazer um consórcio, você começa a poupar
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e descubra como é fácil tirar os sonhos do papel!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

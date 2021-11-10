@@ -1,14 +1,14 @@
 ---
-        titulo: Comprar uma casa na praia à vista
-        slug: comprar-uma-casa-na-praia-a-vista
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comprar-uma-casa-na-praia-a-vista.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Comprar uma casa na praia com o consórcio é uma excelente opção para adquirir o [primeiro imóvel](https://www.embracon.com.br/blog/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio) ou ampliar o patrimônio sem enfrentar a burocracia dos empréstimos. Mesmo assim, muitas pessoas ainda não têm certeza de como esse investimento funciona e têm dúvidas sobre ele - especialmente se o c[onsórcio de para comprar casa na praia](https://www.embracon.com.br/blog/saiba-como-comprar-apartamento-na-planta-com-consorcio) vale a pena.
+titulo: Comprar uma casa na praia à vista
+slug: comprar-uma-casa-na-praia-a-vista
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comprar-uma-casa-na-praia-a-vista.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Comprar uma casa na praia com o consórcio é uma excelente opção para adquirir o [primeiro imóvel](https://www.embracon.com.br/blog/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio) ou ampliar o patrimônio sem enfrentar a burocracia dos empréstimos. Mesmo assim, muitas pessoas ainda não têm certeza de como esse investimento funciona e têm dúvidas sobre ele - especialmente se o c[onsórcio de para comprar casa na praia](https://www.embracon.com.br/blog/saiba-como-comprar-apartamento-na-planta-com-consorcio) vale a pena.
 
 Neste artigo, explicaremos como funciona esse consórcio, quais são suas vantagens e desvantagens e se esse investimento é realmente uma boa escolha. Continue lendo para saber mais sobre o assunto e tomar a melhor decisão para seu bolso e futuro!
 
@@ -68,4 +68,3 @@ Ao escolher o gerenciamento de uma [administradora de consórcio](https://www.em
 Quer tirar todas as suas dúvidas sobre a carta de crédito imobiliária? A [Embracon](https://www.embracon.com.br/blog/como-escolher-uma-administradora-de-consorcio) é uma empresa com mais de 30 anos de história no mercado, especialmente no segmento de consórcios brasileiros. Estamos sempre prontos para ajudar você!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

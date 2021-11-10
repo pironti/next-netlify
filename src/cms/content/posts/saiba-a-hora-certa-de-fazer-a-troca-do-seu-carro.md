@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba a hora certa de fazer a troca do seu carro
-        slug: saiba-a-hora-certa-de-fazer-a-troca-do-seu-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-a-hora-certa-de-fazer-a-troca-do-seu-carro.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Depois de muitos passeios e viagens, a [alta quilometragem](https://www.embracon.com.br/blog/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro) do veículo costuma vir acompanhada de alguns problemas. Por mais que você cuide bem do seu carro, quanto mais velho ele fica, aumentam as chances de visitas indesejáveis ao mecânico.
+titulo: Saiba a hora certa de fazer a troca do seu carro
+slug: saiba-a-hora-certa-de-fazer-a-troca-do-seu-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-a-hora-certa-de-fazer-a-troca-do-seu-carro.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Depois de muitos passeios e viagens, a [alta quilometragem](https://www.embracon.com.br/blog/saiba-qual-a-importancia-de-realizar-as-revisoes-regulares-do-carro) do veículo costuma vir acompanhada de alguns problemas. Por mais que você cuide bem do seu carro, quanto mais velho ele fica, aumentam as chances de visitas indesejáveis ao mecânico.
 
 Antes que isso possa acontecer, vale a pena trocar de carro. Entretanto, não se trata de uma decisão fácil. A compra de um novo veículo exige planejamento: é preciso entender o quanto você pode pagar a mais por um novo carro – seja um seminovo ou zero km – e, principalmente, [de que forma investir](https://www.embracon.com.br/blog/entenda-como-comecar-a-investir-mesmo-com-pouco-dinheiro).
 
@@ -84,4 +84,3 @@ Esperamos que, depois de algumas dicas, você tenha um ótimo embasamento para d
 Então, para ajudar ainda mais na sua escolha, confira um guia para identificar e eliminar os [gastos desnecessários](https://www.embracon.com.br/blog/como-identificar-e-eliminar-gastos-desnecessarios), para não errar!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

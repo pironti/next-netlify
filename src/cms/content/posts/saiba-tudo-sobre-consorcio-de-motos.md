@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba tudo sobre consórcio de motos
-        slug: saiba-tudo-sobre-consorcio-de-motos
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-tudo-sobre-consorcio-de-motos.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Não importa a finalidade do uso, se para passeio, trabalho ou uma simples diversão nos finais de semana, as motocicletas estão ganhando espaço na garagem do brasileiro.
+titulo: Saiba tudo sobre consórcio de motos
+slug: saiba-tudo-sobre-consorcio-de-motos
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-tudo-sobre-consorcio-de-motos.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Não importa a finalidade do uso, se para passeio, trabalho ou uma simples diversão nos finais de semana, as motocicletas estão ganhando espaço na garagem do brasileiro.
 
 Mas como adquirir esse bem? Uma forma prática e muito econômica para quem se planeja é escolher um [consórcio de moto](https://www.embracon.com.br/blog/como-escolher-um-consorcio-de-moto).
 
@@ -195,4 +195,3 @@ Com este valor, você pode comprar o modelo que sempre quis. Mas, se o valor da 
 Escolha o seu consórcio de acordo com as características e o valor da sua motocicleta. Fique atento ao pagamento em dia das parcelas para participar dos sorteios mensais e, quem sabe, você pode adquirir sua moto antes mesmo do prazo planejado!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

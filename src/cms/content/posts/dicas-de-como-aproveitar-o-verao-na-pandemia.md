@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas de como aproveitar o verão na pandemia
-        slug: dicas-de-como-aproveitar-o-verao-na-pandemia
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-de-como-aproveitar-o-verao-na-pandemia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O [verão ](https://www.embracon.com.br/blog/5-lugares-para-conhecer-no-verao)começou oficialmente no dia 21 de dezembro. Nessa época, o Brasil é sinônimo de praias lotadas, [piscinas](https://www.embracon.com.br/blog/sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos), cachoeiras, [festas ](https://www.embracon.com.br/blog/entenda-como-funciona-um-consorcio-para-festas)e muita gente reunida. Mas dessa vez, será diferente. E, para evitar aglomerações, precisaremos fazer algumas mudanças no que já estamos acostumados. O chamado novo normal.
+titulo: Dicas de como aproveitar o verão na pandemia
+slug: dicas-de-como-aproveitar-o-verao-na-pandemia
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-de-como-aproveitar-o-verao-na-pandemia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O [verão ](https://www.embracon.com.br/blog/5-lugares-para-conhecer-no-verao)começou oficialmente no dia 21 de dezembro. Nessa época, o Brasil é sinônimo de praias lotadas, [piscinas](https://www.embracon.com.br/blog/sonha-em-ter-uma-piscina-em-casa-realize-esse-sonho-com-o-consorcio-de-servicos), cachoeiras, [festas ](https://www.embracon.com.br/blog/entenda-como-funciona-um-consorcio-para-festas)e muita gente reunida. Mas dessa vez, será diferente. E, para evitar aglomerações, precisaremos fazer algumas mudanças no que já estamos acostumados. O chamado novo normal.
 
 Sabemos que o momento como um todo é sensível, mas agora é importante preservar a saúde e fazer mais atividades em casa do que sair. Por isso, para quem quer se divertir e se refrescar nessa estação quente, mas tomar os cuidados pedidos pela Organização Mundial da Saúde (OMS) e do Ministério da Saúde, vem conferir algumas dicas que preparamos especialmente para vocês. Veja a seguir:
 
@@ -58,4 +58,3 @@ Agora que você sabe tudo sobre como aproveitar melhor o verão mesmo dentro de 
 > A Embracon pode te ajudar nessa missão. [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) com a gente e descubra todas as opções de pagamento que temos para realizar esse e muitos outros desejos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

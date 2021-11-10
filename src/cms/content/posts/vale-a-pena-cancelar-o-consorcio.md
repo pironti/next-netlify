@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena cancelar o consórcio?
-        slug: vale-a-pena-cancelar-o-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-cancelar-o-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Muita gente considera o consórcio na hora de comprar um bem de alto valor por [conta de sua flexibilidade](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio) e, claro, por [não ter que pagar entrada ou juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) - como acontece com o financiamento, por exemplo.
+titulo: Vale a pena cancelar o consórcio?
+slug: vale-a-pena-cancelar-o-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-cancelar-o-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Muita gente considera o consórcio na hora de comprar um bem de alto valor por [conta de sua flexibilidade](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio) e, claro, por [não ter que pagar entrada ou juros](https://www.embracon.com.br/blog/consorcio-nao-tem-juros-entenda) - como acontece com o financiamento, por exemplo.
 
 Com o consórcio, você não sai com o bem na hora porque se trata de um [autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo): ao selecionar a quantidade de mensalidades e o valor da carta de crédito, o consorciado precisa se comprometer com o pagamento na data correta, para que possa participar das assembleias, onde acontecem os sorteios e as ofertas de lance.
 
@@ -71,4 +71,3 @@ Como deu para perceber, o [cancelamento de consórcio](https://www.embracon.com.
 Caso tenha dúvidas sobre como pagar o consórcio da melhor forma, confira nossas [dicas de planejamento para o pagamento da sua cota](https://www.embracon.com.br/blog/entenda-o-que-e-e-como-funciona-uma-cota-de-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

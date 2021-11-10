@@ -1,14 +1,14 @@
 ---
-        titulo: 5 razões para aprender a falar Francês
-        slug: 5-razoes-para-aprender-a-falar-frances
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-razoes-para-aprender-a-falar-frances.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Conhecer um novo idioma é sempre um benefício. Seja para a vida pessoal, profissional e até mesmo para a saúde, exercitar o cérebro por meio do aprendizado em uma língua estrangeira é algo que só vem para acrescentar. Nesse contexto, aprender a falar francês é uma ótima opção.
+titulo: 5 razões para aprender a falar Francês
+slug: 5-razoes-para-aprender-a-falar-frances
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-razoes-para-aprender-a-falar-frances.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Conhecer um novo idioma é sempre um benefício. Seja para a vida pessoal, profissional e até mesmo para a saúde, exercitar o cérebro por meio do aprendizado em uma língua estrangeira é algo que só vem para acrescentar. Nesse contexto, aprender a falar francês é uma ótima opção.
 
 Geralmente, as pessoas costumam escolher o Inglês ou o Espanhol como segunda língua. Ao optar pelo francês, você acaba se destacando dos demais. No entanto, as vantagens não param por aí! Separamos 5 motivos para que você invista agora mesmo nessa formação, confira!
 
@@ -62,4 +62,3 @@ Compartilhe seus planos conosco! Deixe o seu comentário. Au revoir!
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb048b308e2cb691b1e8c13_CTA-VIAGEM.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como criar uma planilha de planejamento financeiro
-        slug: como-criar-uma-planilha-de-planejamento-financeiro
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-criar-uma-planilha-de-planejamento-financeiro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        A primeira coisa que é preciso saber antes mesmo de fazer um [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle): todos precisamos de controle. Precisamos saber de onde vem o dinheiro, quanto vem, com o que gastamos e onde gastamos. Esse é o primeiro passo para saber[ como usar melhor o seu dinheir](https://www.embracon.com.br/blog/autonomo-tambem-pode-guardar-dinheiro)o e, assim, conseguir realizar seus sonhos ou até mesmo separar uma boa quantia para investimentos.
+titulo: Como criar uma planilha de planejamento financeiro
+slug: como-criar-uma-planilha-de-planejamento-financeiro
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-criar-uma-planilha-de-planejamento-financeiro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+A primeira coisa que é preciso saber antes mesmo de fazer um [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle): todos precisamos de controle. Precisamos saber de onde vem o dinheiro, quanto vem, com o que gastamos e onde gastamos. Esse é o primeiro passo para saber[ como usar melhor o seu dinheir](https://www.embracon.com.br/blog/autonomo-tambem-pode-guardar-dinheiro)o e, assim, conseguir realizar seus sonhos ou até mesmo separar uma boa quantia para investimentos.
 
 Por muitos anos, os brasileiros recorreram ao caderninho de anotações, para anotar os gastos e identificar a melhor forma de separar o salário para pagar as contas de casa e ver o que pode ser guardado no fim do mês. Com a possibilidade de extrato bancário, mais e mais pessoas puderam se organizar melhor, controlando cada gasto sem ter que ficar guardando todos os comprovantes de débito e crédito.
 
@@ -199,4 +199,3 @@ Com uma planilha de planejamento financeiro, você consegue saber com antecedên
 > Para entender como funciona o consórcio, [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=planilha_de_planejamento_financeiro&utm_campaign=publicacoes_blog) e compare as vantagens com o financiamento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=planilha_de_planejamento_financeiro&utm_campaign=publicacoes_blog)</figure>‍
-        

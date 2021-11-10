@@ -1,14 +1,14 @@
 ---
-        titulo: Por que viajar para Cingapura? Entenda aqui os motivos!
-        slug: por-que-viajar-para-cingapura-entenda-aqui-os-motivos
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/por-que-viajar-para-cingapura-entenda-aqui-os-motivos.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Você já pensou em **viajar para Cingapura**? A grande maioria das pessoas só pensa nesse destino como temporário. Ou seja, uma espécie de escala de voo para outros locais. Porém, Cingapura é um dos melhores destinos da Ásia, e vale a pena ser mais do que uma escala e se tornar seu[ destino de viagem](https://www.embracon.com.br/blog/5-dicas-para-economizar-e-viajar-na-alta-temporada).Cingapura é uma cidade-Estado com aproximadamente 5 milhões de habitantes. Além disso, apresenta uma cultura bem diversificada e confortável para viajantes que desejam conhecer lugares lindos e diferentes. Caso você se preocupe com a comunicação, transporte e alimentação em Cingapura, não abandone este texto! Vamos apresentar agora os principais motivos para conhecer esse lugar impressionante!
+titulo: Por que viajar para Cingapura? Entenda aqui os motivos!
+slug: por-que-viajar-para-cingapura-entenda-aqui-os-motivos
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/por-que-viajar-para-cingapura-entenda-aqui-os-motivos.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Você já pensou em **viajar para Cingapura**? A grande maioria das pessoas só pensa nesse destino como temporário. Ou seja, uma espécie de escala de voo para outros locais. Porém, Cingapura é um dos melhores destinos da Ásia, e vale a pena ser mais do que uma escala e se tornar seu[ destino de viagem](https://www.embracon.com.br/blog/5-dicas-para-economizar-e-viajar-na-alta-temporada).Cingapura é uma cidade-Estado com aproximadamente 5 milhões de habitantes. Além disso, apresenta uma cultura bem diversificada e confortável para viajantes que desejam conhecer lugares lindos e diferentes. Caso você se preocupe com a comunicação, transporte e alimentação em Cingapura, não abandone este texto! Vamos apresentar agora os principais motivos para conhecer esse lugar impressionante!
 
 > [Faça um consórcio](https://www.embracon.com.br/consorcio-servicos) e realize a viagem dos seus sonhos!
 
@@ -52,4 +52,3 @@ Como a população de Cingapura é vasta — chineses, japoneses, indianos, mala
 Simule um consórcio Viajar para Cingapura é uma excelente opção para todas as idades, perfis de pessoas, classes sociais e momentos da vida. O local oferece opções atrativas para mochileiros, casais em[ viagens românticas ](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica)e, até mesmo, um [passeio em família](https://www.embracon.com.br/blog/confira-estas-4-dicas-financeiras-para-planejar-uma-viagem-em-familia) com as crianças. Afinal, são variadas as opções de atrações, comida, hospedagem e transporte.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

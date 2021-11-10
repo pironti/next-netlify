@@ -1,14 +1,14 @@
 ---
-        titulo: Financiamento, empréstimo ou consórcio: conheça todas as opções
-        slug: financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Uma coisa é mais do que certa: o acesso ao crédito vai sempre estar presente na sua vida durante todo o tempo em que habitar este planeta. Basta ter uma conta em banco, estar empregado ou simplesmente ter uma[ fonte de renda](https://www.embracon.com.br/blog/perda-de-renda-como-lidar), que você vai passar a receber ofertas para fazer empréstimos ou financiamentos.
+titulo: Financiamento, empréstimo ou consórcio: conheça todas as opções
+slug: financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Uma coisa é mais do que certa: o acesso ao crédito vai sempre estar presente na sua vida durante todo o tempo em que habitar este planeta. Basta ter uma conta em banco, estar empregado ou simplesmente ter uma[ fonte de renda](https://www.embracon.com.br/blog/perda-de-renda-como-lidar), que você vai passar a receber ofertas para fazer empréstimos ou financiamentos.
 
 Você sabia que os [investidores inteligentes](https://www.embracon.com.br/blog/guia-de-como-manter-sua-saude-financeira-saudavel) só pagam contas à vista quando a transação oferece uma vantagem considerável? Se não for assim, eles simplesmente utilizam o dinheiro para fins melhores, que trarão resultados mais significativos.
 
@@ -184,4 +184,3 @@ Agora que você já sabe tudo sobre empréstimo, financiamento e consórcio, já
 > Para saber mais sobre o consórcio e tomar uma decisão segura, [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=financiamento_emprestimo_ou_consorcio&utm_campaign=publicacoes_blog) e tire todas as suas dúvidas!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=financiamento_emprestimo_ou_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

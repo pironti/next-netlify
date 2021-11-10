@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher o carro ideal
-        slug: como-escolher-o-carro-ideal
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-o-carro-ideal.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Escolher o [***carro ideal***](https://www.embracon.com.br/blog/os-15-principais-carros-do-brasil) geralmente não é tão fácil. Afinal, esta é uma compra que costuma envolver grande parte do seu [orçamento mensal](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro) e afeta diretamente o seu estilo de vida diário. Portanto, é necessário conciliar desejos e necessidades para tomar a melhor decisão.
+titulo: Como escolher o carro ideal
+slug: como-escolher-o-carro-ideal
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-o-carro-ideal.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Escolher o [***carro ideal***](https://www.embracon.com.br/blog/os-15-principais-carros-do-brasil) geralmente não é tão fácil. Afinal, esta é uma compra que costuma envolver grande parte do seu [orçamento mensal](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro) e afeta diretamente o seu estilo de vida diário. Portanto, é necessário conciliar desejos e necessidades para tomar a melhor decisão.
 
 Você ainda tem muitas perguntas nesta fase de encontrar o carro perfeito pra você? Então, não deixe de conferir as dicas que estamos trazendo neste artigo agora para ajudá-lo a escolher o modelo que melhor atende às suas necessidades do dia a dia.
 
@@ -75,4 +75,3 @@ Para possuir o carro ideal, é preciso ***pesquisar*** para não ter nenhum tipo
 Agora que você já sabe qual o ***carro ideal para você***, conheça as opções de [consórcio de veículos](https://www.embracon.com.br/servicos/consorcio-para-veiculos) oferecidas pela [Embracon ](https://www.embracon.com.br/a-embracon)e adquira já seu veículo próprio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div></figure>
-        

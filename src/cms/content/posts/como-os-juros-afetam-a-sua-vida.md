@@ -1,14 +1,14 @@
 ---
-        titulo: Como os juros afetam a sua vida?
-        slug: como-os-juros-afetam-a-sua-vida
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-os-juros-afetam-a-sua-vida.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Falou em juros, muita gente já começa a ficar assustada. Os juros são um termo muito comum quando tomamos<a href=""> empréstimos em alguma instituição financeira</a> ou, por outro lado, quando estamos falando do rendimento do no dinheiro.
+titulo: Como os juros afetam a sua vida?
+slug: como-os-juros-afetam-a-sua-vida
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-os-juros-afetam-a-sua-vida.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Falou em juros, muita gente já começa a ficar assustada. Os juros são um termo muito comum quando tomamos<a href=""> empréstimos em alguma instituição financeira</a> ou, por outro lado, quando estamos falando do rendimento do no dinheiro.
 
 Goste ou não, os juros fazem parte de nossas vidas e influenciam no nosso [poder de compra](https://www.embracon.com.br/blog/entenda-a-importancia-da-taxa-selic-e-da-inflacao), na rentabilidade dos nossos investimentos e no pagamento de parcelas por uma compra, por exemplo.
 
@@ -79,4 +79,3 @@ Por isso mesmo, o consórcio se apresenta como a melhor forma de investir em um 
 > Portanto, comece desde já a investir no seu bem-estar e [faça uma simulação de consórcio.](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_os_juros_afetam_a_sua_vida&utm_campaign=publicacoes_blog)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=como_os_juros_afetam_a_sua_vida&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 3 coisas que você precisa saber sobre consórcio para cirurgia plástica
-        slug: 3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Você sabia que é possível fazer um [consórcio para cirurgia plástica](https://www.embracon.com.br/consorcio-servicos)? Pois é, enquanto muito se fala [dessa modalidade](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) para a compra de carros, motos ou imóveis, são poucos que a consideram quando o assunto se refere a finalidades que não sejam as tradicionais.Independentemente do motivo da intervenção — estético ou corretivo —, esse tipo de procedimento está diretamente relacionado à autoestima das pessoas. Por essa razão, exige tempo e planejamento no que diz respeito à sua realização.De qualquer forma, este artigo foi preparado para apresentar as 3 coisas que você precisa saber sobre o [consórcio para cirurgia plástica](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). Continue a leitura e confira!
+titulo: 3 coisas que você precisa saber sobre consórcio para cirurgia plástica
+slug: 3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/3-coisas-que-voce-precisa-saber-sobre-o-consorcio-para-cirurgia-plastica.jpg
+meta_summary: 
+date: 05/10/2021
+---
+Você sabia que é possível fazer um [consórcio para cirurgia plástica](https://www.embracon.com.br/consorcio-servicos)? Pois é, enquanto muito se fala [dessa modalidade](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) para a compra de carros, motos ou imóveis, são poucos que a consideram quando o assunto se refere a finalidades que não sejam as tradicionais.Independentemente do motivo da intervenção — estético ou corretivo —, esse tipo de procedimento está diretamente relacionado à autoestima das pessoas. Por essa razão, exige tempo e planejamento no que diz respeito à sua realização.De qualquer forma, este artigo foi preparado para apresentar as 3 coisas que você precisa saber sobre o [consórcio para cirurgia plástica](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). Continue a leitura e confira!
 
 1. O que é um consórcio?
 ------------------------
@@ -33,4 +33,3 @@ Por fim, mostraremos como participar de um consórcio para cirurgia plástica. A
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

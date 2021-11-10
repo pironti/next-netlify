@@ -1,14 +1,14 @@
 ---
-        titulo: É seguro viajar na pandemia?
-        slug: e-seguro-viajar-na-pandemia
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-seguro-viajar-na-pandemia.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Que viajar é um dos maiores prazeres da vida, todo mundo sabe. Conhecer novos lugares, explorar coisas que estão fora do nosso cotidiano, conversar com pessoas de culturas e hábitos diferentes dos nossos… São [tantas experiências que uma viagem pode proporcionar](https://www.embracon.com.br/blog/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina), que se furtar de tudo isso pode soar desesperador - principalmente para quem tem o hábito de viajar com frequência.
+titulo: É seguro viajar na pandemia?
+slug: e-seguro-viajar-na-pandemia
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-seguro-viajar-na-pandemia.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Que viajar é um dos maiores prazeres da vida, todo mundo sabe. Conhecer novos lugares, explorar coisas que estão fora do nosso cotidiano, conversar com pessoas de culturas e hábitos diferentes dos nossos… São [tantas experiências que uma viagem pode proporcionar](https://www.embracon.com.br/blog/a-viagem-dos-seus-sonhos-esta-mais-perto-do-que-voce-imagina), que se furtar de tudo isso pode soar desesperador - principalmente para quem tem o hábito de viajar com frequência.
 
 A [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia) restringiu esse hábito. Companhias aéreas e as redes de agências de viagem e hotelaria sentiram o baque, tanto que muitas delas tiveram que fechar por falta de caixa para aguentar tanto tempo essas restrições. Embora nossa capacidade de locomoção ainda exista, um percentual muito grande de pessoas preferiu ficar em casa no período de pandemia.
 
@@ -182,4 +182,3 @@ Com a aprovação da carta de crédito a partir de um lance, o valor que você o
 E então, já está preparado para programar a sua próxima viagem incrível após a pandemia? [Faça um consórcio de serviços](https://www.embracon.com.br/consorcio-servicos) e pesquise com toda a família o local ideal para passar as próximas férias ou aproveitar da melhor forma o ‘novo’ normal - sempre seguindo as recomendações para se proteger e proteger os outros, é claro!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

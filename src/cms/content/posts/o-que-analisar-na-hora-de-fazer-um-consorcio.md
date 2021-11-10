@@ -1,14 +1,14 @@
 ---
-        titulo: O que analisar na hora de fazer um consórcio
-        slug: o-que-analisar-na-hora-de-fazer-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-analisar-na-hora-de-fazer-um-consorcio.jpg
-        meta_summary: 
-        date: 20/10/2021
-        ---
-        Um [consórcio](https://www.embracon.com.br/blog/as-principais-vantagens-do-consorcio) é a reunião de forma coletiva, ou seja, em grupo. O objetivo é proporcionar aos seus membros a aquisição de bens ou serviços em igualdade de condições.
+titulo: O que analisar na hora de fazer um consórcio
+slug: o-que-analisar-na-hora-de-fazer-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-analisar-na-hora-de-fazer-um-consorcio.jpg
+meta_summary: 
+date: 20/10/2021
+---
+Um [consórcio](https://www.embracon.com.br/blog/as-principais-vantagens-do-consorcio) é a reunião de forma coletiva, ou seja, em grupo. O objetivo é proporcionar aos seus membros a aquisição de bens ou serviços em igualdade de condições.
 
 Para quem não tem pressa em colher os frutos, fazer consórcio é uma boa escolha, ou seja, estão dispostos a esperar para serem contemplados. Mas [você sabe o que precisa saber antes de contratar um consórcio](https://www.embracon.com.br/blog/o-que-voce-deve-considerar-antes-de-contratar-um-consorcio)?
 
@@ -90,4 +90,3 @@ Se você está participando de um consórcio de imóveis, por exemplo, você pod
 Não se esqueça, um consórcio é uma ótima oportunidade para fazer investimentos de longo prazo, então não perca tempo e faça sua [simulação](https://www.embracon.com.br/servicos/simulacao-de-consorcio) com o consórcio [Embracon](https://www.embracon.com.br/a-embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

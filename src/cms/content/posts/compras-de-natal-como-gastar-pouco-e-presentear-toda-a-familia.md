@@ -1,14 +1,14 @@
 ---
-        titulo: Compras de Natal: como gastar pouco e presentear toda a família?
-        slug: compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Quando dezembro se aproxima, todas as lojas e shopping centers se preparam para receber um grande volume de pessoas interessadas em presentear as pessoas de toda a família. Afinal, trata-se do melhor período para o comércio: seja por conta da decoração de Natal, com a compra massiva de presentes ou até mesmo pelas muitas promoções que surgem no período.
+titulo: Compras de Natal: como gastar pouco e presentear toda a família?
+slug: compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/compras-de-natal-como-gastar-pouco-e-presentear-toda-a-familia.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Quando dezembro se aproxima, todas as lojas e shopping centers se preparam para receber um grande volume de pessoas interessadas em presentear as pessoas de toda a família. Afinal, trata-se do melhor período para o comércio: seja por conta da decoração de Natal, com a compra massiva de presentes ou até mesmo pelas muitas promoções que surgem no período.
 
 Por mais que você queira [presentear o maior número de pessoas que conhece](https://www.embracon.com.br/blog/5-dicas-de-presentes-de-formatura-para-os-filhos), nem sempre isso é possível. Embora alguns brasileiros tenham o 13º salário para ajudar com as compras, presentes podem ser caros, principalmente quando você deixa tudo para a última hora.
 
@@ -80,4 +80,3 @@ E você, já montou a sua lista de presentes de Natal para a família? Caso quei
 > No nosso blog você também vai aprender tudo sobre consórcio e seus benefícios. Pensando em fazer um consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) com a gente.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como se programar financeiramente para a faculdade dos filhos?
-        slug: como-se-programar-financeiramente-para-a-faculdade-dos-filhos
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-se-programar-financeiramente-para-a-faculdade-dos-filhos.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        O curso universitário é, ainda hoje, um dos maiores investimentos que pode ser feito no Brasil. Graças a ele é possível alcançar uma boa posição no mercado e conseguir bons salários. Por isso é tão importante pensar na faculdade dos filhos!Mas não só pensar: é preciso planejar-se! A formação acadêmica não é barata (o Guia do Estudante fez uma[ média dos preços praticados no país](https://guiadoestudante.abril.com.br/universidades/quanto-custa-fazer-uma-faculdade/)). E, se você não começar desde cedo a se preparar para ela, será difícil ajudar seus filhos em sua formação.
+titulo: Como se programar financeiramente para a faculdade dos filhos?
+slug: como-se-programar-financeiramente-para-a-faculdade-dos-filhos
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-se-programar-financeiramente-para-a-faculdade-dos-filhos.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+O curso universitário é, ainda hoje, um dos maiores investimentos que pode ser feito no Brasil. Graças a ele é possível alcançar uma boa posição no mercado e conseguir bons salários. Por isso é tão importante pensar na faculdade dos filhos!Mas não só pensar: é preciso planejar-se! A formação acadêmica não é barata (o Guia do Estudante fez uma[ média dos preços praticados no país](https://guiadoestudante.abril.com.br/universidades/quanto-custa-fazer-uma-faculdade/)). E, se você não começar desde cedo a se preparar para ela, será difícil ajudar seus filhos em sua formação.
 
 Para facilitar esse processo, separamos algumas dicas que lhe ajudarão. Confira!
 
@@ -45,4 +45,3 @@ A forma como você poupará dinheiro para a faculdade dos filhos depende de vár
 Se você quiser continuar tendo acesso a dicas como essas, que tal assinar nossa newsletter? Por ela, você recebe informações, dicas e sugestões diretamente em seu e-mail!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

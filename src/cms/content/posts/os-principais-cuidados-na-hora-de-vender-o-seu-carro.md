@@ -1,14 +1,14 @@
 ---
-        titulo: Os principais cuidados na hora de vender o seu carro
-        slug: os-principais-cuidados-na-hora-de-vender-o-seu-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/os-principais-cuidados-na-hora-de-vender-o-seu-carro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Ano novo, carro novo! E na hora de [vender o seu carro antigo](https://www.embracon.com.br/blog/como-vender-seu-carro), existem dicas para que você valorize o seu usado da melhor maneira possível, e assim consiga o melhor preço. Além, claro, de fazer com que o comprador tenha a melhor experiência possível comprando o seu veículo.
+titulo: Os principais cuidados na hora de vender o seu carro
+slug: os-principais-cuidados-na-hora-de-vender-o-seu-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/os-principais-cuidados-na-hora-de-vender-o-seu-carro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Ano novo, carro novo! E na hora de [vender o seu carro antigo](https://www.embracon.com.br/blog/como-vender-seu-carro), existem dicas para que você valorize o seu usado da melhor maneira possível, e assim consiga o melhor preço. Além, claro, de fazer com que o comprador tenha a melhor experiência possível comprando o seu veículo.
 
 Mas o mais importante na hora de vender o seu carro, é que não podemos esquecer que você pode ficar exposto a possíveis golpes, por isso é importante tomar muitos cuidados nessa hora. Pensando nisso, preparamos uma lista com as principais precauções que você deve tomar nesse momento. Confira a seguir:
 
@@ -51,4 +51,3 @@ Por último, leve os [documentos ](https://www.embracon.com.br/blog/documentacao
 > Tá pensando em trocar o seu carro? O consórcio de carros da Embracon te ajuda. [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros) e veja os benefícios.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Carro](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>
-        

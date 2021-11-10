@@ -1,14 +1,14 @@
 ---
-        titulo: Seguro de consórcio: quando vale a pena?
-        slug: seguro-de-consorcio-quando-vale-a-pena
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/seguro-de-consorcio-quando-vale-a-pena.png
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Quando pensamos em comprar um bem de alto valor, muitas vezes somos surpreendidos com a quantidade de taxas. No caso de optar por um financiamento, por exemplo, são juros em cima de juros – além da exigência de entrada e de comprovação de renda, tornando o processo tão caro quanto burocrático.
+titulo: Seguro de consórcio: quando vale a pena?
+slug: seguro-de-consorcio-quando-vale-a-pena
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/seguro-de-consorcio-quando-vale-a-pena.png
+meta_summary: 
+date: 05/10/2021
+---
+Quando pensamos em comprar um bem de alto valor, muitas vezes somos surpreendidos com a quantidade de taxas. No caso de optar por um financiamento, por exemplo, são juros em cima de juros – além da exigência de entrada e de comprovação de renda, tornando o processo tão caro quanto burocrático.
 
 A ansiedade de comprar uma casa ou um imóvel pode levar muitos consumidores a ignorar a importância de contratar serviços adicionais. Este é o caso do seguro de consórcio, que gera muitas dúvidas nos consumidores antes mesmo de investir em um bem.
 
@@ -53,4 +53,3 @@ No entanto, você pode tirar as suas dúvidas de valores, cobertura e condiçõe
 Faça uma [simulação](https://www.embracon.com.br/blog/simulacao-de-consorcio) e invista de forma segura em [consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros),[ imóveis](https://www.embracon.com.br/consorcio-de-imoveis) ou [serviços](https://www.embracon.com.br/consorcio-servicos).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

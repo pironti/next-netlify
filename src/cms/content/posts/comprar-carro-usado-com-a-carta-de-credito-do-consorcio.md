@@ -1,14 +1,14 @@
 ---
-        titulo: Posso comprar um carro usado no consórcio?
-        slug: comprar-carro-usado-com-a-carta-de-credito-do-consorcio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comprar-carro-usado-com-a-carta-de-credito-do-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Todos já sabem que fazer [um consórcio é muito mais vantajoso](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta) do que investir em um financiamento. Afinal, não há incidência de juros nesse tipo de contratação. O que muitos têm dúvidas sobre essa [modalidade de compra](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é o que se pode fazer a partir da obtenção da carta de crédito. E um questionamento é bem recorrente: é possível comprar carro usado no consórcio? É sobre isso que vamos discutir neste texto.
+titulo: Posso comprar um carro usado no consórcio?
+slug: comprar-carro-usado-com-a-carta-de-credito-do-consorcio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comprar-carro-usado-com-a-carta-de-credito-do-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Todos já sabem que fazer [um consórcio é muito mais vantajoso](https://www.embracon.com.br/blog/sabe-a-diferenca-entre-consorcio-e-financiamento-a-gente-te-conta) do que investir em um financiamento. Afinal, não há incidência de juros nesse tipo de contratação. O que muitos têm dúvidas sobre essa [modalidade de compra](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é o que se pode fazer a partir da obtenção da carta de crédito. E um questionamento é bem recorrente: é possível comprar carro usado no consórcio? É sobre isso que vamos discutir neste texto.
 
 Mas antes de abordar o tema, lembramos que uma das principais dicas para adquirir um bom veículo usado é testá-lo antes de fechar a compra e pedir para um mecânico de confiança realizar uma vistoria cuidadosa nele. É importante ainda pesquisar para saber quais são os carros mais mal avaliados no mercado e, claro, os mais desejados pelos consumidores.
 
@@ -132,4 +132,3 @@ Viu só como é possível e vantajoso adquirir um[ carro usado no consórcio](ht
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=carro_usado_com_a_carta_de_credito&utm_campaign=publicacoes_blog)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

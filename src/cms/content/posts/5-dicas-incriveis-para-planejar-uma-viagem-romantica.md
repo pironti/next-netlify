@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas incríveis para planejar uma viagem romântica!
-        slug: 5-dicas-incriveis-para-planejar-uma-viagem-romantica
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-incriveis-para-planejar-uma-viagem-romantica.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Pensando em fazer algo que fuja da rotina e que, ao mesmo tempo, aumente a magia do seu relacionamento? Quer ampliar a chama do romance e por isso está em busca de uma oportunidade para enriquecer a vida a dois? Então faça uma viagem romântica!
+titulo: 5 dicas incríveis para planejar uma viagem romântica!
+slug: 5-dicas-incriveis-para-planejar-uma-viagem-romantica
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-incriveis-para-planejar-uma-viagem-romantica.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Pensando em fazer algo que fuja da rotina e que, ao mesmo tempo, aumente a magia do seu relacionamento? Quer ampliar a chama do romance e por isso está em busca de uma oportunidade para enriquecer a vida a dois? Então faça uma viagem romântica!
 
 Para a maioria das pessoas, não se discute o fato de que viajar é uma das melhores coisas da vida — e, quando a viagem é acompanhada pela pessoa amada, tudo fica ainda melhor! Neste artigo, reunimos 5 dicas para [planejar uma viagem](https://www.embracon.com.br/blog/viagem-economica-confira-nossas-dicas-para-viajar-com-pouco-dinheiro) romântica e aproveitá-la ao máximo. Não deixe de conferir!
 
@@ -87,4 +87,3 @@ O tempo de viagem e os roteiros devem ser programados com antecedência, o que e
 O que achou deste artigo? Gostou? Então compartilhe-o nas suas redes sociais para que os seus amigos também saibam como planejar uma viagem romântica incrível!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

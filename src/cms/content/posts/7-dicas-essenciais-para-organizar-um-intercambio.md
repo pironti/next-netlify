@@ -1,14 +1,14 @@
 ---
-        titulo: 7 dicas essenciais para organizar um intercâmbio
-        slug: 7-dicas-essenciais-para-organizar-um-intercambio
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-dicas-essenciais-para-organizar-um-intercambio.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O ano de 2020 fez com que todo mundo revisasse seus objetivos. Planos precisaram ser refeitos, viagens foram adiadas e ficamos em casa sem poder planejar nada. Mas ao mesmo tempo, essa é uma boa hora para respirar e pensar em todos os passos para realizar o sonho de fazer um intercâmbio.
+titulo: 7 dicas essenciais para organizar um intercâmbio
+slug: 7-dicas-essenciais-para-organizar-um-intercambio
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-dicas-essenciais-para-organizar-um-intercambio.jpg
+meta_summary: 
+date: 30/09/2021
+---
+O ano de 2020 fez com que todo mundo revisasse seus objetivos. Planos precisaram ser refeitos, viagens foram adiadas e ficamos em casa sem poder planejar nada. Mas ao mesmo tempo, essa é uma boa hora para respirar e pensar em todos os passos para realizar o sonho de fazer um intercâmbio.
 
 Para conhecer as melhores opções e começar o planejamento, é importante contratar uma agência de intercâmbio de confiança. Já que os custos de cada país variam muito, essa é a hora de decidir onde você quer ir, quanto tempo quer ficar e qual será o investimento necessário. Sabendo o valor que pretende investir no seu intercâmbio, você pode optar por um consórcio de viagens, que vai te ajudar a comprar seu intercâmbio à vista e aumentar suas chances de conseguir um bom desconto no pacote.
 
@@ -85,4 +85,3 @@ A [Irlanda ](https://www.embracon.com.br/blog/conheca-os-4-melhores-motivos-para
 > Se o intercâmbio é o seu grande sonho, comece a planejar conosco! [Faça uma simulação em nosso site](https://www.embracon.com.br/consorcio-servicos) e veja como fica fácil realizar seus objetivos com o consórcio da Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Viagem](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>‍
-        

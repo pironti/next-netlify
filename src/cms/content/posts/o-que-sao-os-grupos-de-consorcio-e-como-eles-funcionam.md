@@ -1,14 +1,14 @@
 ---
-        titulo: O que são os grupos de consórcio e como eles funcionam?
-        slug: o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O consórcio é uma modalidade de compra que funciona com base no compromisso de todos os envolvidos. [Diferente do financiamento](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes), por exemplo, em que a instituição financeira realiza a liberação do valor para a compra com cobrança de juros e valor de entrada, pelo consórcio você não paga por um valor exorbitante a mais pelo bem.
+titulo: O que são os grupos de consórcio e como eles funcionam?
+slug: o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-sao-os-grupos-de-consorcio-e-como-eles-funcionam.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O consórcio é uma modalidade de compra que funciona com base no compromisso de todos os envolvidos. [Diferente do financiamento](https://www.embracon.com.br/blog/financiamento-emprestimo-ou-consorcio-conheca-todas-as-opcoes), por exemplo, em que a instituição financeira realiza a liberação do valor para a compra com cobrança de juros e valor de entrada, pelo consórcio você não paga por um valor exorbitante a mais pelo bem.
 
 É por isso que, a cada ano que passa, o [consórcio atrai milhões de novas pessoas](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio). Afinal, é um modelo de compra planejada e bem flexível: o consorciado decide o [valor da carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios) para comprar o que deseja e pode até mesmo determinar a quantidade de parcelas que irá pagar.
 
@@ -73,4 +73,3 @@ O sorteio é a modalidade mais comum de contemplação. Todos os meses são real
 Para que o sistema de consórcio funcione plenamente, os grupos têm um papel crucial na organização e na contemplação das cartas de crédito. Continue lendo nosso blog e confira as [melhores práticas ao fazer um consórcio](https://www.embracon.com.br/blog/confira-5-melhores-praticas-para-pagar-um-consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simular Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

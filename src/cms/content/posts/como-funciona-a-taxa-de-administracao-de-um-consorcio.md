@@ -1,14 +1,14 @@
 ---
-        titulo: Como funciona a taxa de administração de um consórcio?
-        slug: como-funciona-a-taxa-de-administracao-de-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-funciona-a-taxa-de-administracao-de-um-consorcio.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Quando se trata de investir em um bem de alto valor, muitas pessoas consideram o [consórcio para conquistar o carro, casa ou serviço que tanto procura](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio).
+titulo: Como funciona a taxa de administração de um consórcio?
+slug: como-funciona-a-taxa-de-administracao-de-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-funciona-a-taxa-de-administracao-de-um-consorcio.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Quando se trata de investir em um bem de alto valor, muitas pessoas consideram o [consórcio para conquistar o carro, casa ou serviço que tanto procura](https://www.embracon.com.br/blog/confira-10-vantagens-indiscutiveis-do-consorcio).
 
 E aí se deparam com o seguinte dilema: tudo bem, não é preciso pagar juros ou dar entrada. Porém, existe o valor que deve ser pago, que é a taxa de administração. Isso não dá no mesmo do que pagar juros?
 
@@ -85,4 +85,3 @@ Para entender como ela influencia no cálculo do bem que você tanto deseja inve
 > [Entre no nosso site](https://www.embracon.com.br/) e veja quanto você pagaria de taxas pelo bem que tanto deseja. Você vai ver como o consórcio é uma forma bem mais vantajosa de investir em um bem!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Reforma de banheiro: 3 dicas para fazer sem muita bagunça!
-        slug: reforma-de-banheiro-3-dicas-para-fazer-sem-muita-bagunca
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/reforma-de-banheiro-3-dicas-para-fazer-sem-muita-bagunca.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        [**Reforma**](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa) **de banheiro**. Essas palavras podem causar dores de cabeça em várias pessoas só de imaginar a sujeira que pode causar. No entanto, é possível evitar toda essa bagunça atentando a alguns detalhes. Planejando tudo, essa obra poderá ser concluída rapidamente, sem grandes problemas e, o mais importante, sem causar muita desordem na casa.
+titulo: Reforma de banheiro: 3 dicas para fazer sem muita bagunça!
+slug: reforma-de-banheiro-3-dicas-para-fazer-sem-muita-bagunca
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/reforma-de-banheiro-3-dicas-para-fazer-sem-muita-bagunca.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+[**Reforma**](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa) **de banheiro**. Essas palavras podem causar dores de cabeça em várias pessoas só de imaginar a sujeira que pode causar. No entanto, é possível evitar toda essa bagunça atentando a alguns detalhes. Planejando tudo, essa obra poderá ser concluída rapidamente, sem grandes problemas e, o mais importante, sem causar muita desordem na casa.
 
 Para uma reforma de banheiro mais tranquila possível, confira estas 3 dicas. Boa leitura!
 
@@ -50,4 +50,3 @@ Apesar do que muito se pensa, é possível fazer uma [reforma](https://www.embra
 ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

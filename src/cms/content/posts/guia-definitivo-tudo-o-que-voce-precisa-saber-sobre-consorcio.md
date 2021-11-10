@@ -1,14 +1,14 @@
 ---
-        titulo: [Guia definitivo] Tudo o que você precisa saber sobre consórcio
-        slug: guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Já imaginou que maravilha seria não ter que pagar mais aluguel ou não depender do transporte público para se locomover?
+titulo: [Guia definitivo] Tudo o que você precisa saber sobre consórcio
+slug: guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-definitivo-tudo-o-que-voce-precisa-saber-sobre-consorcio.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Já imaginou que maravilha seria não ter que pagar mais aluguel ou não depender do transporte público para se locomover?
 
 Caso esse seja seu plano, já deve estar passando pelo processo de fazer a contabilidade para realizar o objetivo de ter casa e carro próprios, e quem sabe fazer um processo estético ou então se programar para a fazer aquele curso. Isso pode até parecer um sonho muito distante, mas na verdade pode realizá-lo agora mesmo.
 
@@ -413,4 +413,3 @@ Mantenha os seus gastos sob controle e projete as suas perspectivas financeiras 
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> ‍
-        

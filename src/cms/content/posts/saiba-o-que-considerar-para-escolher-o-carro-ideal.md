@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba o que considerar para escolher o carro ideal!
-        slug: saiba-o-que-considerar-para-escolher-o-carro-ideal
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-o-que-considerar-para-escolher-o-carro-ideal.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        [Comprar um automóvel](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar) é um momento significativo na vida de muitas pessoas. No entanto, para que a aquisição seja feita sem arrependimentos, é preciso planejar e ter em mente como escolher o carro ideal para o estilo de vida do comprador.
+titulo: Saiba o que considerar para escolher o carro ideal!
+slug: saiba-o-que-considerar-para-escolher-o-carro-ideal
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-o-que-considerar-para-escolher-o-carro-ideal.jpg
+meta_summary: 
+date: 06/10/2021
+---
+[Comprar um automóvel](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar) é um momento significativo na vida de muitas pessoas. No entanto, para que a aquisição seja feita sem arrependimentos, é preciso planejar e ter em mente como escolher o carro ideal para o estilo de vida do comprador.
 
 Com tantos[ modelos](https://www.embracon.com.br/blog/os-4-modelos-de-carro-mais-esperados-para-2020) e marcas disponíveis no mercado, é fácil fazer a escolha errada, especialmente quando se é um [motorista de primeira viagem](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha).
 
@@ -138,4 +138,3 @@ Se, ainda assim, você não quiser abrir mão de ter aquele carrão dos sonhos, 
 Gostou de saber o que considerar ao escolher o carro ideal? Quer ficar por dentro de mais conteúdos como este? Então assine a nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

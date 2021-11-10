@@ -1,14 +1,14 @@
 ---
-        titulo: É possível pagar a pós-graduação com o consórcio?
-        slug: e-possivel-pagar-a-pos-graduacao-com-o-consorcio
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-pagar-a-pos-graduacao-com-o-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Após a graduação, é comum que muitos [estudantes foquem em suas carreiras](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) antes de dar o próximo passo em seus estudos.
+titulo: É possível pagar a pós-graduação com o consórcio?
+slug: e-possivel-pagar-a-pos-graduacao-com-o-consorcio
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-pagar-a-pos-graduacao-com-o-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Após a graduação, é comum que muitos [estudantes foquem em suas carreiras](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) antes de dar o próximo passo em seus estudos.
 
 A vivência no mercado de trabalho é importante, especialmente em uma fase em que é preciso ter novos aprendizados e lidar com [diferentes situações antes de optar por uma especialização](https://www.embracon.com.br/blog/pensando-em-fazer-uma-pos-graduacao-aqui-estao-5-motivos-para-incentiva-lo).
 
@@ -63,4 +63,3 @@ Portanto, dê o quanto antes o primeiro passo para [garantir a sua pós-graduaç
 > [Faça uma simulação de consórcio de serviços](https://www.santander.com.br/creditos-e-financiamentos/para-veiculos-e-maquinas/consorcio-de-servicos) e invista na sua educação. O seu eu do futuro irá agradecer!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

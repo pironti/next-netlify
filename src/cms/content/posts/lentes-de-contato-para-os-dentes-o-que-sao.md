@@ -1,14 +1,14 @@
 ---
-        titulo: Lentes de contato para os dentes: o que são?
-        slug: lentes-de-contato-para-os-dentes-o-que-sao
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/lentes-de-contato-para-os-dentes-o-que-sao.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Tratamentos de estética são cada vez mais requisitados pelo grande público. Plásticas e implantes, por exemplo, estão entre os procedimentos cirúrgicos mais realizados anualmente. Nesse contexto, a estética bucal também ganha grande destaque, especialmente com as **lentes de contato para os dentes**, um método mais recente e inovador que tem ganhado destaque diante do público.
+titulo: Lentes de contato para os dentes: o que são?
+slug: lentes-de-contato-para-os-dentes-o-que-sao
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/lentes-de-contato-para-os-dentes-o-que-sao.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Tratamentos de estética são cada vez mais requisitados pelo grande público. Plásticas e implantes, por exemplo, estão entre os procedimentos cirúrgicos mais realizados anualmente. Nesse contexto, a estética bucal também ganha grande destaque, especialmente com as **lentes de contato para os dentes**, um método mais recente e inovador que tem ganhado destaque diante do público.
 
 Para aqueles que não o conhecem, o nome pode parecer estranho. Lentes de contato são geralmente associadas aos olhos, como maneira de corrigir a visão. E não aos dentes. Porém, na prática, esse tratamento é bem fácil de compreender e, dependendo do seu caso, é bem provável que você se interesse pelo uso dessa inovação.
 
@@ -49,4 +49,3 @@ Pacientes com o hábito de roer unhas e/ou que têm bruxismo também podem ter p
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

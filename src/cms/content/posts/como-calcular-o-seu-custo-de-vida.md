@@ -1,14 +1,14 @@
 ---
-        titulo: Como calcular o seu custo de vida?
-        slug: como-calcular-o-seu-custo-de-vida
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-calcular-o-seu-custo-de-vida.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O termo custo de vida é bastante utilizado no mundo das finanças. Porém, ele pode gerar algumas confusões, já que serve para designar coisas diferentes.
+titulo: Como calcular o seu custo de vida?
+slug: como-calcular-o-seu-custo-de-vida
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-calcular-o-seu-custo-de-vida.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O termo custo de vida é bastante utilizado no mundo das finanças. Porém, ele pode gerar algumas confusões, já que serve para designar coisas diferentes.
 
 Você pode falar sobre custo de vida ao abordar, por exemplo, a necessidade de entender[ quanto gastaria para morar em determinado lugar](https://www.embracon.com.br/blog/melhores-cidades-para-viver-com-valores-de-metro-quadrado). E, por outro lado, pode utilizar o termo custo de vida para entender seus [gastos mensais](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira) como um todo e, assim, conseguir se planejar da melhor forma em busca de suas conquistas.
 
@@ -100,4 +100,3 @@ Porém, não se esqueça que, com uma decisão desse tipo, seus rendimentos mens
 > Quer aprender mais sobre finanças pessoais e está interessado em um investimento? [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=calcular_o_seu_custo_de_vida&utm_campaign=publicacoes_blog) do consórcio e conheça as vantagens.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=calcular_o_seu_custo_de_vida&utm_campaign=publicacoes_blog)</figure>
-        

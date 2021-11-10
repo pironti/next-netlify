@@ -1,14 +1,14 @@
 ---
-        titulo: Confira 9 sinais de que é hora de trocar de carro
-        slug: confira-9-sinais-de-que-e-hora-de-trocar-de-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-9-sinais-de-que-e-hora-de-trocar-de-carro.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Você está há muito tempo com um veículo e [acha que já é hora de trocar de carro](https://www.embracon.com.br/blog/7-coisas-para-levar-em-consideracao-ao-escolher-um-carro)? É um fato que esse momento vai chegar e você terá que se despedir do seu parceiro de estrada.
+titulo: Confira 9 sinais de que é hora de trocar de carro
+slug: confira-9-sinais-de-que-e-hora-de-trocar-de-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-9-sinais-de-que-e-hora-de-trocar-de-carro.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Você está há muito tempo com um veículo e [acha que já é hora de trocar de carro](https://www.embracon.com.br/blog/7-coisas-para-levar-em-consideracao-ao-escolher-um-carro)? É um fato que esse momento vai chegar e você terá que se despedir do seu parceiro de estrada.
 
 Afinal, em algum momento não haverá como adiar [essa decisão](https://www.embracon.com.br/blog/7-coisas-para-levar-em-consideracao-ao-escolher-um-carro), uma vez que começam a surgir algumas despesas com manutenção, reparos na pintura e troca de peças.
 
@@ -114,4 +114,3 @@ Então, para ajudar ainda mais na sua escolha, confira um guia para identificar 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

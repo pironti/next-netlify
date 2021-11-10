@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça os procedimentos estéticos que você pode pagar com consórcio
-        slug: conheca-os-procedimentos-esteticos-que-voce-pode-pagar-com-consorcio
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-os-procedimentos-esteticos-que-voce-pode-pagar-com-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Já imaginou que o [***procedimento estético***](https://www.embracon.com.br/blog/procedimento-estetico-vantagens-e-desvantagens) com que você sonha há muitos anos pode finalmente ser realizado? Agora você pode realizar esse procedimento estético (como cirurgia plástica) com condições de pagamento muito mais acessíveis, sem ter que pagar mais por isso. Portanto, se você quer ter um novo visual e ***aumentar sua autoestima***, entenda como funciona e veja as vantagens que o [consórcio de serviços](https://www.embracon.com.br/blog/conheca-os-principais-consorcios-de-servicos-embracon) irá te proporcionar.
+titulo: Conheça os procedimentos estéticos que você pode pagar com consórcio
+slug: conheca-os-procedimentos-esteticos-que-voce-pode-pagar-com-consorcio
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-os-procedimentos-esteticos-que-voce-pode-pagar-com-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Já imaginou que o [***procedimento estético***](https://www.embracon.com.br/blog/procedimento-estetico-vantagens-e-desvantagens) com que você sonha há muitos anos pode finalmente ser realizado? Agora você pode realizar esse procedimento estético (como cirurgia plástica) com condições de pagamento muito mais acessíveis, sem ter que pagar mais por isso. Portanto, se você quer ter um novo visual e ***aumentar sua autoestima***, entenda como funciona e veja as vantagens que o [consórcio de serviços](https://www.embracon.com.br/blog/conheca-os-principais-consorcios-de-servicos-embracon) irá te proporcionar.
 
 Neste artigo, trouxemos os principais tipos de [procedimentos estéticos](https://www.embracon.com.br/blog/procedimentos-e-cirurgias-esteticas-mais-famosas-do-momento) que podem ser cobertos pelo consórcio.
 
@@ -122,4 +122,3 @@ Uma parte essencial do planejamento do procedimento estético é a avaliação d
 E aí, gostou das dicas?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c35f463546142e480f5c7a_CTA_SERVICOS.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

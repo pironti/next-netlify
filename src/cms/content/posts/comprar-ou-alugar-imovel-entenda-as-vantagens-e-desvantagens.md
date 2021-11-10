@@ -1,14 +1,14 @@
 ---
-        titulo: Comprar ou alugar imóvel? Entenda as vantagens e desvantagens
-        slug: comprar-ou-alugar-imovel-entenda-as-vantagens-e-desvantagens
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/comprar-ou-alugar-imovel-entenda-as-vantagens-e-desvantagens.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Ter um lugar para chamar de seu é o ***sonho*** de grande parte da população. No entanto, como existem tantos tipos de [casas ou apartamentos](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce), é fácil as pessoas se sentirem cada vez mais confusas em suas escolhas e quanto ao tipo de negócio a ser encerrado. É aqui que surge a questão: ***comprar ou alugar imovel***? Qual é a melhor escolha?
+titulo: Comprar ou alugar imóvel? Entenda as vantagens e desvantagens
+slug: comprar-ou-alugar-imovel-entenda-as-vantagens-e-desvantagens
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/comprar-ou-alugar-imovel-entenda-as-vantagens-e-desvantagens.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Ter um lugar para chamar de seu é o ***sonho*** de grande parte da população. No entanto, como existem tantos tipos de [casas ou apartamentos](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce), é fácil as pessoas se sentirem cada vez mais confusas em suas escolhas e quanto ao tipo de negócio a ser encerrado. É aqui que surge a questão: ***comprar ou alugar imovel***? Qual é a melhor escolha?
 
 É importante saber qual das opções melhor se [adapta a você e sua família](https://www.embracon.com.br/blog/como-fazer-um-orcamento-familiar-sem-erro) e qual o momento indicado para escolher cada uma delas. Gostaríamos de esclarecer algumas dessas dúvidas já que comprar ou alugar imóvel envolve dinheiro e tomar a ***decisão correta*** nessa hora é fundamental.
 
@@ -171,4 +171,3 @@ A adesão ao **consórcio é muito simples**. A primeira etapa é encontrar uma 
 Faça sua [simulação ](https://www.embracon.com.br/servicos/consorcio-simulacao)para adquirir seu imóvel através do [Consórcio Embracon](https://www.embracon.com.br/consorcio). A administradora já tem mais de 30 anos no mercado realizando o sonho de milhares de brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

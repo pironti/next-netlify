@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda o que é bichectomia e como funciona o procedimento
-        slug: entenda-o-que-e-bichectomia-e-como-funciona-o-procedimento
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-o-que-e-bichectomia-e-como-funciona-o-procedimento.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        A bichectomia é um [procedimento estético](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica) que se tornou muito popular nos últimos tempos. A [cirurgia](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia) consiste na retirada parcial ou até mesmo total das bolsas de gordura presentes nos cantos da boca — entre a mandíbula e o maxilar —, chamadas de "bolas de Bichat". O objetivo é reduzir o volume das bochechas. A cirurgia é indicada, principalmente, para quem tem o rosto em formato arredondado.
+titulo: Entenda o que é bichectomia e como funciona o procedimento
+slug: entenda-o-que-e-bichectomia-e-como-funciona-o-procedimento
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-o-que-e-bichectomia-e-como-funciona-o-procedimento.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+A bichectomia é um [procedimento estético](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica) que se tornou muito popular nos últimos tempos. A [cirurgia](https://www.embracon.com.br/blog/5-duvidas-sobre-o-consorcio-de-cirurgia) consiste na retirada parcial ou até mesmo total das bolsas de gordura presentes nos cantos da boca — entre a mandíbula e o maxilar —, chamadas de "bolas de Bichat". O objetivo é reduzir o volume das bochechas. A cirurgia é indicada, principalmente, para quem tem o rosto em formato arredondado.
 
 Apesar do seu apelo estético, a bichectomia também pode trazer melhora funcional. É recomendada, por exemplo, para o paciente que costumam morder a bochecha durante a mastigação.
 
@@ -54,4 +54,3 @@ Somente médicos cirurgiões plásticos e [dentistas](https://www.embracon.com.b
 A bichectomia é uma cirurgia relativamente simples, que pode reduzir as bochechas e, consequentemente, elevar a autoestima. Contudo, é preciso pesquisar e buscar indicações de um bom especialista para que ele avalie se o procedimento é indicado para você e, caso positivo, seja realizado de forma segura!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

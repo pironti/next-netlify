@@ -1,14 +1,14 @@
 ---
-        titulo: O que você deve considerar antes de contratar um consórcio
-        slug: o-que-voce-deve-considerar-antes-de-contratar-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-voce-deve-considerar-antes-de-contratar-um-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Acredito que você já ouviu falar do [consórcio](https://www.embracon.com.br/blog/o-consorcio-e-investimento). Mas, na prática, o que significa formar um consórcio? É uma forma de poupança conjunta para comprar bens móveis, imóveis e serviços por meio de recursos auto arrecadados através de [grupos](https://www.embracon.com.br/blog/como-funciona-um-grupo-de-consorcio) com os mesmos objetivos.
+titulo: O que você deve considerar antes de contratar um consórcio
+slug: o-que-voce-deve-considerar-antes-de-contratar-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-voce-deve-considerar-antes-de-contratar-um-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Acredito que você já ouviu falar do [consórcio](https://www.embracon.com.br/blog/o-consorcio-e-investimento). Mas, na prática, o que significa formar um consórcio? É uma forma de poupança conjunta para comprar bens móveis, imóveis e serviços por meio de recursos auto arrecadados através de [grupos](https://www.embracon.com.br/blog/como-funciona-um-grupo-de-consorcio) com os mesmos objetivos.
 
 Vale ressaltar que é um projeto de longo prazo e é mais adequado para quem não tem pressa em conseguir o que deseja, seja um carro, um imóvel, moto, viajar, etc. Por fim, no consórcio, cada membro do grupo é contemplado por sorteio ou lance, portanto não é uma compra imediata (a menos que a sorte esteja do seu lado e você alcance seu objetivo no primeiro mês).
 
@@ -164,4 +164,3 @@ O consórcio é uma forma ***segura e confiável de atingir objetivos***. Em tod
 Agora que você conhece o consórcio e seus [riscos](https://www.embracon.com.br/conhecaoconsorcio/quais-sao-os-riscos-de-nao-pagar-as-parcelas-do-consorcio), que tal [fazer uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=) para ver o valor que cabe no seu bolso?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Vale a pena guardar dinheiro na poupança?
-        slug: vale-a-pena-guardar-dinheiro-na-poupanca
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/vale-a-pena-guardar-dinheiro-na-poupanca.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Na maioria das vezes, quando se fala em guardar dinheiro, o brasileiro já associa à poupança. Isso porque, durante muitos anos, este produto ajudou milhões de pessoas a juntarem suas economias e atingirem seus objetivos.
+titulo: Vale a pena guardar dinheiro na poupança?
+slug: vale-a-pena-guardar-dinheiro-na-poupanca
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/vale-a-pena-guardar-dinheiro-na-poupanca.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Na maioria das vezes, quando se fala em guardar dinheiro, o brasileiro já associa à poupança. Isso porque, durante muitos anos, este produto ajudou milhões de pessoas a juntarem suas economias e atingirem seus objetivos.
 
 Porém, desde que a [poupança passou a ser largamente utilizada pelo brasileiro](https://www.embracon.com.br/blog/consorcio-ou-poupanca-quais-sao-as-diferencas-e-como-escolher), até os dias de hoje, muitas coisas mudaram.
 
@@ -82,4 +82,3 @@ De todas as formas, considere as opções existentes e comece a diversificar aos
 > [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=guardar_dinheiro_na_poupanca&utm_campaign=publicacoes_blog) e confira as múltiplas vantagens do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=guardar_dinheiro_na_poupanca&utm_campaign=publicacoes_blog)</figure>
-        

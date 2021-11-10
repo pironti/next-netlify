@@ -1,14 +1,14 @@
 ---
-        titulo: Perda de renda: como lidar?
-        slug: perda-de-renda-como-lidar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/perda-de-renda-como-lidar.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Com o agravamento da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitos brasileiros passaram por situações difíceis, incluindo a perda de renda.
+titulo: Perda de renda: como lidar?
+slug: perda-de-renda-como-lidar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/perda-de-renda-como-lidar.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Com o agravamento da [pandemia de Covid-19](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), muitos brasileiros passaram por situações difíceis, incluindo a perda de renda.
 
 Isso porque medidas extremas, como a necessidade de conter o coronavírus por meio do isolamento social, tiveram que ser adotadas no mundo inteiro, com o objetivo de proteger as vidas das pessoas, principalmente as mais afetadas, como os idosos e demais grupos de risco.
 
@@ -195,4 +195,3 @@ O importante é conseguir superar essa fase e manter-se otimista para novas opor
 > Para mais conteúdo sobre finanças pessoais, [continue navegando no nosso blog](https://www.embracon.com.br/category/financas-pessoais). Além disso, [faça uma simulação](https://www.embracon.com.br/consorcio) em nosso site e veja os benefícios de realizar um consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

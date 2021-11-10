@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são os próximos passos após a contemplação?
-        slug: quais-sao-os-proximos-passos-apos-a-contemplacao
-        categoria: Contemplação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-os-proximos-passos-apos-a-contemplacao.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Sempre que se fala em consórcio, muitas vezes surge o termo contemplação. Isso porque a[ contemplação é o momento mais esperado](https://www.embracon.com.br/blog/quais-sao-as-formas-de-contemplacao) de todo mundo que começa a fazer consórcio.
+titulo: Quais são os próximos passos após a contemplação?
+slug: quais-sao-os-proximos-passos-apos-a-contemplacao
+categoria: Contemplação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-os-proximos-passos-apos-a-contemplacao.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Sempre que se fala em consórcio, muitas vezes surge o termo contemplação. Isso porque a[ contemplação é o momento mais esperado](https://www.embracon.com.br/blog/quais-sao-as-formas-de-contemplacao) de todo mundo que começa a fazer consórcio.
 
 Após meses ou, em muitos casos, anos pagando pela sua cota para a conquista do seu bem, finalmente você tem acesso à tão sonhada [carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-a-carta-de-credito-de-consorcios), com o valor equivalente para o seu carro, casa, moto ou serviço.
 
@@ -191,4 +191,3 @@ Mas, se quiser adquirir uma nova cota com a sua em andamento, não deixe de proc
 > Agora que você conhece todos os detalhes da contemplação da cota, [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=passos_apos_contemplacao&utm_campaign=publicacoes_blog) com a Embracon.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=passos_apos_contemplacao&utm_campaign=publicacoes_blog)</figure>
-        

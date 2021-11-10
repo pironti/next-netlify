@@ -1,14 +1,14 @@
 ---
-        titulo: Como juntar dinheiro ainda este ano
-        slug: como-juntar-dinheiro-ainda-este-ano
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-juntar-dinheiro-ainda-este-ano.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Para aprender a economizar dinheiro, toda hora é a hora perfeita para começar, independentemente de você estar em uma crise ou não. Afinal, quem não quer [acabar com o mês no azul](https://www.embracon.com.br/blog/como-comecar-2021-com-a-conta-no-azul) e ainda conseguir manter as reservas de emergência? Mas qual é a melhor maneira de economizar dinheiro? A nossa relação com o dinheiro estende-se a outras áreas da vida. A busca por uma vida financeira equilibrada é esperar uma realidade melhor.
+titulo: Como juntar dinheiro ainda este ano
+slug: como-juntar-dinheiro-ainda-este-ano
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-juntar-dinheiro-ainda-este-ano.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Para aprender a economizar dinheiro, toda hora é a hora perfeita para começar, independentemente de você estar em uma crise ou não. Afinal, quem não quer [acabar com o mês no azul](https://www.embracon.com.br/blog/como-comecar-2021-com-a-conta-no-azul) e ainda conseguir manter as reservas de emergência? Mas qual é a melhor maneira de economizar dinheiro? A nossa relação com o dinheiro estende-se a outras áreas da vida. A busca por uma vida financeira equilibrada é esperar uma realidade melhor.
 
 Se aumentar a renda é um desafio que requer mais tempo e energia, a saída mais rápida é entender como ganhar dinheiro todos os dias. Para chegar a esse patamar e ter uma situação financeira mais segura e confortável, não há necessidade de exagerar no controle de custos. Na verdade, [o segredo está na organização](https://www.embracon.com.br/blog/7-dicas-para-comecar-a-sua-organizacao-financeira).
 
@@ -157,4 +157,3 @@ Especialistas em finanças pessoais enfatizam a importância de estabelecer uma 
 Caso você tenha recebido o valor do FGTS, abatimento do imposto de renda ou algum tipo de abono anual no trabalho, aproveite para economizar um grande percentual para acelerar suas reservas emergenciais. Se você acha que é melhor aumentar sua renda por mais de 6 meses, melhor ainda. No entanto, se você ainda tem um bom valor disponível, aproveite a oportunidade para fazê-lo pagar mais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c8f3fa93cd75bf3d9be854_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Conquiste seu carro zero km com um consórcio
-        slug: conquiste-seu-carro-zero-km-com-um-consorcio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conquiste-seu-carro-zero-km-com-um-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        O carro permanece como um dos maiores desejos dos brasileiros. Ao considerar a [compra de um novo modelo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), boa parte das pessoas procuram por simplicidade na hora de pagamento, sem ter que pagar por um valor a prazo com juros. Para isso, existe o [consórcio de automóveis](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon).
+titulo: Conquiste seu carro zero km com um consórcio
+slug: conquiste-seu-carro-zero-km-com-um-consorcio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conquiste-seu-carro-zero-km-com-um-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+O carro permanece como um dos maiores desejos dos brasileiros. Ao considerar a [compra de um novo modelo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo), boa parte das pessoas procuram por simplicidade na hora de pagamento, sem ter que pagar por um valor a prazo com juros. Para isso, existe o [consórcio de automóveis](https://www.embracon.com.br/blog/sobre-o-consorcio-de-veiculos-embracon).
 
 Quando se fala na compra de um [modelo zero km](https://www.embracon.com.br/blog/carro-novo-ou-seminovo-saiba-qual-e-mais-vantajoso-no-cenario-atual), muitas pessoas consideram o consórcio por já conhecerem suas vantagens. Além de não ter juros, como ocorre com o financiamento, não é preciso pagar por valor de entrada ou ter que contar com burocracia na hora de investir em um novo modelo.
 
@@ -62,4 +62,3 @@ Se o [valor da sua carta for maior que o bem](https://www.embracon.com.br/blog/e
 > E aí, já escolheu o carro dos seus sonhos? [Faça uma simulação de consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros) e aproveite a oportunidade de comprar por um valor justo um modelo novinho para a sua garagem.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/601846fbad97edb46ceff28e_CTA-Automoveis.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

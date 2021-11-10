@@ -1,14 +1,14 @@
 ---
-        titulo: 10 importantes dicas para economizar nas compras de casa
-        slug: 10-importantes-dicas-para-economizar-nas-compras-de-casa
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/10-importantes-dicas-para-economizar-nas-compras-de-casa.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        2020 está sendo um ano muito desafiador em diversos aspectos. Além de estarmos enfrentando uma [pandemia](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), o Brasil está em um momento econômico muito complicado e todo mundo foi afetado direta ou indiretamente de alguma forma.
+titulo: 10 importantes dicas para economizar nas compras de casa
+slug: 10-importantes-dicas-para-economizar-nas-compras-de-casa
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/10-importantes-dicas-para-economizar-nas-compras-de-casa.jpg
+meta_summary: 
+date: 30/09/2021
+---
+2020 está sendo um ano muito desafiador em diversos aspectos. Além de estarmos enfrentando uma [pandemia](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), o Brasil está em um momento econômico muito complicado e todo mundo foi afetado direta ou indiretamente de alguma forma.
 
 Dentro de uma casa de família, com certeza os maiores gastos mensais são as compras alimentares. De acordo com uma pesquisa realizada pelo IBGE, esses gastos representam mais de 22% do orçamento familiar. Esse mesmo estudo mostra que, quando somadas as [despesas com habitação, transporte e alimentação](https://www.embracon.com.br/blog/como-economizar-nas-contas-de-casa-em-tempos-de-crise-economica), elas chegam a comprometer quase 72% do orçamento - o que faz com que sobre muito pouco para outras necessidades.
 
@@ -89,4 +89,3 @@ No final da compra, antes de pagar, olhe com atenção a nota fiscal e caso voc�
 > Cuidar de casa e das finanças não é fácil, né? A Embracon te ajuda na hora de economizar e se organizar. [Faça uma simulação](https://www.embracon.com.br/consorcio) e veja as vantagens de fazer um consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

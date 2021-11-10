@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de imóveis em 2019: 6 razões para fazer esse investimento.
-        slug: consorcio-de-imoveis-em-2019-6-razoes
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-imoveis-em-2019-6-razoes.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Muitas pessoas têm o sonho de conquistar a [casa](https://www.embracon.com.br/blog/como-escolher-revestimentos-para-a-sua-casa) própria, principalmente, para se verem livres do aluguel. Porém, nem todos têm disciplina para guardar dinheiro todos os meses. Portanto, fazer um consórcio de imóveis em 2019 é a melhor solução para essas (e muitas outras) pessoas.
+titulo: Consórcio de imóveis em 2019: 6 razões para fazer esse investimento.
+slug: consorcio-de-imoveis-em-2019-6-razoes
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-imoveis-em-2019-6-razoes.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Muitas pessoas têm o sonho de conquistar a [casa](https://www.embracon.com.br/blog/como-escolher-revestimentos-para-a-sua-casa) própria, principalmente, para se verem livres do aluguel. Porém, nem todos têm disciplina para guardar dinheiro todos os meses. Portanto, fazer um consórcio de imóveis em 2019 é a melhor solução para essas (e muitas outras) pessoas.
 
 Fazer um consórcio para conquistar a casa própria é a melhor saída. Mas, infelizmente, poucos sabem que essa modalidade de compra é um dos caminhos mais procurados por garantir um [investimento seguro](https://www.embracon.com.br/blog/consorcio-de-imoveis-em-2019-6-razoes-para-fazer-esse-investimento).
 
@@ -55,4 +55,3 @@ Você pode usar o[ FGTS](https://www.embracon.com.br/blog/5-passos-para-voce-usa
 A administradora pode realizar esse processo ou sugerir uma instituição financeira para esse propósito desde que seja conveniada a ela. É fundamental estar sempre atento aos pré-requisitos, tirando dúvidas diretamente com a administradora.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb04ecd82cd6e55181d1097_CTA-CASA.png)</div>](https://www.embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

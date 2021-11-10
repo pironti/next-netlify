@@ -1,14 +1,14 @@
 ---
-        titulo: Guia de como manter sua saúde financeira saudável
-        slug: guia-de-como-manter-sua-saude-financeira-saudavel
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-de-como-manter-sua-saude-financeira-saudavel.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Nem sempre é fácil conquistar os nossos objetivos financeiros. Obstáculos e imprevistos no caminho sempre parecem querer nos distanciar daquela casa dos sonhos, ou da viagem que sempre quisemos fazer, mas com organização podemos superar essas dificuldades.
+titulo: Guia de como manter sua saúde financeira saudável
+slug: guia-de-como-manter-sua-saude-financeira-saudavel
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-de-como-manter-sua-saude-financeira-saudavel.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Nem sempre é fácil conquistar os nossos objetivos financeiros. Obstáculos e imprevistos no caminho sempre parecem querer nos distanciar daquela casa dos sonhos, ou da viagem que sempre quisemos fazer, mas com organização podemos superar essas dificuldades.
 
 [De acordo com a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)](https://valor.globo.com/brasil/noticia/2020/04/14/numero-de-endividados-bate-novo-recorde-em-abril-diz-cnc.ghtml), o número de famílias com dívidas em cheque pré-datado, cartão de crédito, cheque especial, carnê de loja, empréstimo pessoal, prestação de carro e seguro bateu novo recorde em abril de 2020, alcançando 66,6% da população.
 
@@ -334,4 +334,3 @@ Além disso, ele sabe quais os melhores preços, quais melhores bairros para pro
 > Gostou das dicas? Para ficar mais perto de realizar seus sonhos conte com a Embracon. [Faça um orçamento](https://www.embracon.com.br/consorcio) com um de nossos especialistas e realize seus desejos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: 10 motivos para fazer um consórcio de imóveis
-        slug: 10-motivos-para-fazer-um-consorcio-de-imoveis
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/10-motivos-para-fazer-um-consorcio-de-imoveis.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Realizar o sonho da casa própria está na lista de muitos brasileiros. Infelizmente, na maioria das vezes, não é tão fácil conseguir uma quantia significativa para fazer a aquisição imediata, assim como pode não estar nos planos de orçamento o pagamento de [juros tão altos](https://www.embracon.com.br/blog/como-os-juros-afetam-a-sua-vida).
+titulo: 10 motivos para fazer um consórcio de imóveis
+slug: 10-motivos-para-fazer-um-consorcio-de-imoveis
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/10-motivos-para-fazer-um-consorcio-de-imoveis.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Realizar o sonho da casa própria está na lista de muitos brasileiros. Infelizmente, na maioria das vezes, não é tão fácil conseguir uma quantia significativa para fazer a aquisição imediata, assim como pode não estar nos planos de orçamento o pagamento de [juros tão altos](https://www.embracon.com.br/blog/como-os-juros-afetam-a-sua-vida).
 
 Essa também é a sua realidade? E se disséssemos que existe uma alternativa ainda mais interessante e que cabe no seu bolso? Vamos te apresentar o[ consórcio de imóveis](https://www.embracon.com.br/blog/10-mitos-sobre-consorcio-de-imoveis).
 
@@ -92,4 +92,3 @@ O consórcio já é considerado, há anos, um investimento seguro e que traz um 
 Além disso, antes de fechar qualquer contrato, analise com muita atenção se o valor das parcelas estará dentro de seu orçamento mensal, levando em consideração o período escolhido. Dessa forma, você evita começar um plano que não terá condições de finalizar. Afinal de contas, o objetivo é conquistar a casa dos sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

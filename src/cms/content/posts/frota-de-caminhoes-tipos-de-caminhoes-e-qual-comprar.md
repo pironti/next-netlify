@@ -1,14 +1,14 @@
 ---
-        titulo: Frota de caminhões: tipos de caminhões e qual comprar
-        slug: frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Existem muitos tipos de [frotas e de caminhão](https://www.embracon.com.br/blog/frota-de-caminhoes-tudo-o-que-voce-precisa-saber-sobre-o-assunto) que atendem diferentes demandas do mercado de transporte de carga. O modelo ideal para cada transportadora ou pessoa depende de algumas variáveis ​​como o tipo de estrada - de terra ou rodovias asfaltadas, qual a distância percorrida pelo veículo, qual o tipo da carga transportada, entre outras.
+titulo: Frota de caminhões: tipos de caminhões e qual comprar
+slug: frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/frota-de-caminhoes-tipos-de-caminhoes-e-qual-comprar.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Existem muitos tipos de [frotas e de caminhão](https://www.embracon.com.br/blog/frota-de-caminhoes-tudo-o-que-voce-precisa-saber-sobre-o-assunto) que atendem diferentes demandas do mercado de transporte de carga. O modelo ideal para cada transportadora ou pessoa depende de algumas variáveis ​​como o tipo de estrada - de terra ou rodovias asfaltadas, qual a distância percorrida pelo veículo, qual o tipo da carga transportada, entre outras.
 
 Neste artigo, trazemos os ***tipos de frota e de caminhões*** para ajudá-lo a fazer a melhor escolha para você ou para o seu [negócio](https://www.embracon.com.br/blog/como-o-consorcio-pode-te-ajudar-na-hora-de-abrir-seu-negocio). Fique até o final e tome a melhor decisão.
 
@@ -287,4 +287,3 @@ Porém, deve-se levar em consideração que o veículo não pertence à você, p
 Agora você sabe tudo sobre a frota de caminhões. Caso seu desejo seja obter sua própria [frota de caminhões](https://www.embracon.com.br/blog/consorcio-para-frota-de-caminhoes), uma excelente opção é investir em um [consórcio de veículos pesados](https://www.embracon.com.br/carros/consorcio-de-caminhao). Confira as opções e faça sua simulação com o consórcio [Embracon](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/609ae880f3663b32254a9c64_EMBRACON_CTA_PESADOS_2.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

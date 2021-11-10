@@ -1,14 +1,14 @@
 ---
-        titulo: 7 razões para você viajar para a República Tcheca
-        slug: 7-razoes-para-voce-viajar-para-a-republica-tcheca
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/7-razoes-para-voce-viajar-para-a-republica-tcheca.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Alguns destinos europeus são bastante tradicionais e recebem milhares de turistas todos os anos. No entanto, o continente também conta com países menores e menos procurados que são verdadeiras joias para o turismo. Viajar para a República Tcheca, por exemplo, pode ser uma experiência única.
+titulo: 7 razões para você viajar para a República Tcheca
+slug: 7-razoes-para-voce-viajar-para-a-republica-tcheca
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/7-razoes-para-voce-viajar-para-a-republica-tcheca.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Alguns destinos europeus são bastante tradicionais e recebem milhares de turistas todos os anos. No entanto, o continente também conta com países menores e menos procurados que são verdadeiras joias para o turismo. Viajar para a República Tcheca, por exemplo, pode ser uma experiência única.
 
 Por lá, você encontra uma variedade de programações que atende aos mais diferentes gostos, especialmente na capital, Praga. É possível entrar em contato com a história medieval, realizar passeios em meio à natureza e aproveitar o melhor da vida noturna. Para você entender por que deveria investir em [uma viagem](https://www.embracon.com.br/blog/como-preparar-o-roteiro-de-viagem-romantica) à República Tcheca, confira abaixo os motivos que elencamos!
 
@@ -53,4 +53,3 @@ Depois de descobrir todos esses bons motivos para viajar para a República Tchec
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

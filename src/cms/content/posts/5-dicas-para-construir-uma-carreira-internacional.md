@@ -1,14 +1,14 @@
 ---
-        titulo: 5 dicas para construir uma carreira internacional
-        slug: 5-dicas-para-construir-uma-carreira-internacional
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-dicas-para-construir-uma-carreira-internacional.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Seja por status ou por diferencial de mercado, ter uma carreira internacional é o sonho de muitos brasileiros. A vivência no exterior aumenta as chances de um ótimo emprego, tendo em vista o know how e a fluência no idioma.
+titulo: 5 dicas para construir uma carreira internacional
+slug: 5-dicas-para-construir-uma-carreira-internacional
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-dicas-para-construir-uma-carreira-internacional.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Seja por status ou por diferencial de mercado, ter uma carreira internacional é o sonho de muitos brasileiros. A vivência no exterior aumenta as chances de um ótimo emprego, tendo em vista o know how e a fluência no idioma.
 
 Contudo, oportunidades como essa não acontecem todo dia, então, é preciso se preparar. Afinal, é um passo importante para a carreira e que, se bem planejado, pode conduzir a vida profissional para sempre.
 
@@ -69,4 +69,3 @@ Como você pôde perceber, estar por dentro do mercado é essencial para desenvo
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Realize o seu sonho com o [Consórcio de Serviços](https://www.embracon.com.br/consorcio-servicos) da Embracon!
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

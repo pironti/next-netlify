@@ -1,14 +1,14 @@
 ---
-        titulo: Parcela de consórcio tem juros?
-        slug: parcela-de-consorcio-tem-juros
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/parcela-de-consorcio-tem-juros.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é a melhor forma de adquirir bens como [casa](https://www.embracon.com.br/consorcio-de-imoveis) e [carro](https://www.embracon.com.br/consorcio-motos) ou contratar [serviços](https://www.embracon.com.br/consorcio-servicos) porque permite parcelar o valor de um jeito diferente.
+titulo: Parcela de consórcio tem juros?
+slug: parcela-de-consorcio-tem-juros
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/parcela-de-consorcio-tem-juros.png
+meta_summary: 
+date: 06/10/2021
+---
+O [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio) é a melhor forma de adquirir bens como [casa](https://www.embracon.com.br/consorcio-de-imoveis) e [carro](https://www.embracon.com.br/consorcio-motos) ou contratar [serviços](https://www.embracon.com.br/consorcio-servicos) porque permite parcelar o valor de um jeito diferente.
 
 Você não conquista o bem de imediato, como em um financiamento, por exemplo. Por outro lado, fica livre de pagar os altos índices de juros de outras modalidades de compra.
 
@@ -61,4 +61,3 @@ Por isso, o consórcio é a melhor forma de investir em um imóvel, automóvel o
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

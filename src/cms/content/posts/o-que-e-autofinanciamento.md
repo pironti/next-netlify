@@ -1,14 +1,14 @@
 ---
-        titulo: O que é autofinanciamento?
-        slug: o-que-e-autofinanciamento
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-autofinanciamento.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Muito provavelmente você já ouviu falar no termo [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel), não é mesmo?
+titulo: O que é autofinanciamento?
+slug: o-que-e-autofinanciamento
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-autofinanciamento.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Muito provavelmente você já ouviu falar no termo [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel), não é mesmo?
 
 Em resumo, trata-se de um **contrato entre o cliente e uma instituição financeira com um objetivo determinado**: receber uma quantia de dinheiro para a compra de um bem. Essa quantia deve ser ‘devolvida’ em um prazo determinado (por isso chama-se compra a prazo), em parcelas já acordadas com a instituição e com [acréscimo de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros).
 
@@ -72,4 +72,3 @@ O trabalho de intermediação da administradora é concentrado para que o autofi
 > Agora que você já sabe como funciona o autofinanciamento, que tal começar a se planejar para realizar o seu sonho? [Conheça tudo o que você pode comprar por meio do consórcio](https://www.embracon.com.br/blog/como-fazer-um-consorcio) e conte com as múltiplas vantagens da modalidade que já ajudou milhares de brasileiros.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

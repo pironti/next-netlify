@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba mais sobre a mastopexia
-        slug: saiba-mais-sobre-a-mastopexia
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-mais-sobre-a-mastopexia.png
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A mastopexia — também conhecida como "lifting de mama" e "mamoplastia" — é o procedimento estético que tem sido cada vez mais procurado pelas mulheres que desejam levantar os seios sem a necessidade de utilizar próteses de silicone.
+titulo: Saiba mais sobre a mastopexia
+slug: saiba-mais-sobre-a-mastopexia
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-mais-sobre-a-mastopexia.png
+meta_summary: 
+date: 04/10/2021
+---
+A mastopexia — também conhecida como "lifting de mama" e "mamoplastia" — é o procedimento estético que tem sido cada vez mais procurado pelas mulheres que desejam levantar os seios sem a necessidade de utilizar próteses de silicone.
 
 O objetivo dessa cirurgia é simples: deixar as mamas com um aspecto mais firme e juvenil, revertendo o caimento natural dos seios (ptose mamária) e os elevando até a sua posição original.
 
@@ -56,4 +56,3 @@ Por fim, não poderíamos deixar de falar do pós-operatório. Nos primeiros 15 
 Para a boa recuperação da mastopexia, a dica é só uma: respeitar absolutamente todas as orientações médicas. Isso inclui, por exemplo, as medicações prescritas e a utilização de sutiã.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

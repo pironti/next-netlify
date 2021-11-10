@@ -1,14 +1,14 @@
 ---
-        titulo: O que posso comprar com um consórcio?
-        slug: o-que-posso-comprar-com-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-posso-comprar-com-um-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quando pensamos na compra de bens de alto valor, sabemos que, na grande maioria das vezes, precisamos de algum tipo de liberação ou intermediação para a sua compra. Diferente de itens que utilizamos no dia a dia, que podem ser adquiridos com uma [compra à vista](https://www.embracon.com.br/blog/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado) ou com o uso do cartão de crédito, bens como casa, carro ou até mesmo diferentes tipos de serviço exigem maior tempo de pagamento.
+titulo: O que posso comprar com um consórcio?
+slug: o-que-posso-comprar-com-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-posso-comprar-com-um-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quando pensamos na compra de bens de alto valor, sabemos que, na grande maioria das vezes, precisamos de algum tipo de liberação ou intermediação para a sua compra. Diferente de itens que utilizamos no dia a dia, que podem ser adquiridos com uma [compra à vista](https://www.embracon.com.br/blog/saiba-quais-sao-os-pontos-positivos-e-negativos-de-pagar-a-vista-e-parcelado) ou com o uso do cartão de crédito, bens como casa, carro ou até mesmo diferentes tipos de serviço exigem maior tempo de pagamento.
 
 Como forma de viabilizar esse tipo de compra, as pessoas oferecem garantias em troca de empréstimo para instituições bancárias. Outra forma de prosseguir é se organizando de forma que não dependa de ninguém: juntando um bom dinheiro para conseguir pagar à vista, por exemplo.
 
@@ -88,4 +88,3 @@ Como pode-se ver, o consórcio oferece muitas possibilidades de compra, de forma
 > [Faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=comprar_com_um_consorcio&utm_campaign=publicacoes_blog) e desfrute de todas as suas vantagens, sem precisar comprometer seus rendimentos mensais.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=comprar_com_um_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

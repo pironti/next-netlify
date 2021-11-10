@@ -1,14 +1,14 @@
 ---
-        titulo: Garanta o lazer da família utilizando bem sua área externa da casa
-        slug: o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A área externa da casa é um lugar tranquilo e muito importante para o lazer da família, não é mesmo? É lá que as brincadeiras e confraternizações acontecem, que todos podem se divertir sem se preocupar com a sujeira que vai ser feita.
+titulo: Garanta o lazer da família utilizando bem sua área externa da casa
+slug: o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-nao-pode-faltar-na-area-externa-da-casa-para-garantir-o-lazer-da-familia.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A área externa da casa é um lugar tranquilo e muito importante para o lazer da família, não é mesmo? É lá que as brincadeiras e confraternizações acontecem, que todos podem se divertir sem se preocupar com a sujeira que vai ser feita.
 
 Apesar disso, a área externa não é mágica. Existem algumas coisas que precisam estar presentes para garantir um lazer completo para você e sua família. Então, comece a organizar suas finanças e invista na[ casa dos seus sonhos](https://www.embracon.com.br/blog/como-construir-a-casa-dos-sonhos-guia-completo)!
 
@@ -55,4 +55,3 @@ Como o tema é inovar, que tal receber dicas como estas diretamente em seu e-mai
 > Conheça o [Consórcio de Imóveis](https://www.embracon.com.br/consorcio-de-imoveis) da Embracon!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://embracon.com.br/consorcio?imovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=imoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

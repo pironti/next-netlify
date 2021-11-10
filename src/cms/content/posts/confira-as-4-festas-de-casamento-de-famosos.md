@@ -1,14 +1,14 @@
 ---
-        titulo: Confira as 4 festas de casamento de famosos mais marcantes!
-        slug: confira-as-4-festas-de-casamento-de-famosos
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/confira-as-4-festas-de-casamento-de-famosos.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Quem está começando a organizar seu próprio [matrimônio](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona) busca inspiração para fazer a melhor festa de casamento possível. Por isso, é interessante ficar de olho no casamento de famosos para saber quais são as principais [tendências do momento](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento).
+titulo: Confira as 4 festas de casamento de famosos mais marcantes!
+slug: confira-as-4-festas-de-casamento-de-famosos
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/confira-as-4-festas-de-casamento-de-famosos.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Quem está começando a organizar seu próprio [matrimônio](https://www.embracon.com.br/blog/consorcio-de-casamento-saiba-como-funciona) busca inspiração para fazer a melhor festa de casamento possível. Por isso, é interessante ficar de olho no casamento de famosos para saber quais são as principais [tendências do momento](https://www.embracon.com.br/blog/conheca-as-principais-tendencias-em-decoracao-de-casamento).
 
 Cada celebração é única e conta com detalhes especiais que podem inspirar sua [cerimônia](https://www.embracon.com.br/blog/cerimonia-e-festa-de-casamento-juntos-ou-separados). Sabendo disso, confira abaixo 4 casamentos de celebridades brasileiras que deram o que falar!
 
@@ -59,4 +59,3 @@ A lista de convidados contava com amigos e colegas de trabalho dos noivos, como 
 E então, o que achou dessas [festas de casamento](https://www.embracon.com.br/blog/dia-de-festa-5-coisas-que-nao-podem-faltar-no-seu-casamento) de famosos? Seja qual for o seu estilo ou o [tamanho do orçamento](https://www.embracon.com.br/blog/como-fazer-um-planejamento-financeiro-para-o-casamento), você certamente vai encontrar algumas boas inspirações nas celebridades.Quer mais dicas incríveis para o seu grande dia? Assine nossa newsletter e receba todos os novos conteúdos do blog diretamente no seu e-mail!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px"><div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div></figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

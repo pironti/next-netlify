@@ -1,14 +1,14 @@
 ---
-        titulo: Financiamento ou consórcio de carro? Saiba qual é a melhor opção!
-        slug: financiamento-ou-consorcio-de-carro
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/financiamento-ou-consorcio-de-carro.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Uma dúvida mais comum do que se imagina entre aqueles que estão pensando em adquirir um automóvel: financiamento ou consórcio de carro? Afinal, qual a melhor opção?
+titulo: Financiamento ou consórcio de carro? Saiba qual é a melhor opção!
+slug: financiamento-ou-consorcio-de-carro
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/financiamento-ou-consorcio-de-carro.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Uma dúvida mais comum do que se imagina entre aqueles que estão pensando em adquirir um automóvel: financiamento ou consórcio de carro? Afinal, qual a melhor opção?
 
 A resposta para essa pergunta depende do tempo pelo qual é possível esperar para ter o veículo, da quantia de dinheiro disponível no momento e qual o valor que cabe mensalmente no orçamento para comprá-lo.
 
@@ -109,4 +109,3 @@ Se quiser saber ainda mais e deseja conhecer os nossos planos, [entre em contato
 ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

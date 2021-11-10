@@ -1,14 +1,14 @@
 ---
-        titulo: Bebidas no casamento: como escolher e calcular a quantidade adequada?
-        slug: bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Definir as bebidas no casamento é uma etapa fundamental na hora de planejar a festa e a recepção. Afinal, estamos falando de uma conta que se não for bem-feita poderá provocar prejuízos e superar o orçamento previsto.
+titulo: Bebidas no casamento: como escolher e calcular a quantidade adequada?
+slug: bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/bebidas-no-casamento-como-escolher-e-calcular-a-quantidade-adequada.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Definir as bebidas no casamento é uma etapa fundamental na hora de planejar a festa e a recepção. Afinal, estamos falando de uma conta que se não for bem-feita poderá provocar prejuízos e superar o orçamento previsto.
 
 Além disso, há uma série de fatores que precisa ser considerada para que tudo corra bem, a exemplo do perfil dos convidados, o horário da festa, o momento em que a bebida será servida e até mesmo a estação do ano.
 
@@ -61,4 +61,3 @@ O diferencial é que você pagará apenas aquilo que for consumido e o que sobra
 Gostou de nossas dicas sobre como definir a quantidade de bebidas no casamento? Aproveite e compartilhe esse artigo com seus amigos em suas redes sociais!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

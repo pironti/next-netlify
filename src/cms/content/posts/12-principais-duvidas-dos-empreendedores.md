@@ -1,14 +1,14 @@
 ---
-        titulo: 12 principais dúvidas dos empreendedores
-        slug: 12-principais-duvidas-dos-empreendedores
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/12-principais-duvidas-dos-empreendedores.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Nos últimos anos, o Brasil tem passado por algumas dificuldades quando o assunto é [economia](https://www.embracon.com.br/blog/como-economizar-nos-principais-gastos-da-vida). Além da quebra de produção, isso fez com que muitas pessoas perdessem o seu emprego e procurassem novas alternativas para gerar renda, seja de forma complementar ou em busca de tirar todo o salário.
+titulo: 12 principais dúvidas dos empreendedores
+slug: 12-principais-duvidas-dos-empreendedores
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/12-principais-duvidas-dos-empreendedores.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Nos últimos anos, o Brasil tem passado por algumas dificuldades quando o assunto é [economia](https://www.embracon.com.br/blog/como-economizar-nos-principais-gastos-da-vida). Além da quebra de produção, isso fez com que muitas pessoas perdessem o seu emprego e procurassem novas alternativas para gerar renda, seja de forma complementar ou em busca de tirar todo o salário.
 
 Por conta disso, o tema [empreendedorismo tem sido cada vez mais comum](https://www.embracon.com.br/blog/use-o-consorcio-para-empreender) no mercado de trabalho. Claro que é um termo de muitas nuances.
 
@@ -192,4 +192,3 @@ Portanto, invista no que você realmente gosta, para que o trabalho não seja ex
 [Acompanhe o nosso blog](https://www.embracon.com.br/blog/) e confira mais dicas de finanças pessoais, para ter uma melhor saúde financeira.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

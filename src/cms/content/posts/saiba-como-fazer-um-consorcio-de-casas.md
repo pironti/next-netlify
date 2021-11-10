@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como fazer um consórcio de casas
-        slug: saiba-como-fazer-um-consorcio-de-casas
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-fazer-um-consorcio-de-casas.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O [***consórcio de casas***](https://www.embracon.com.br/blog/16-maiores-duvidas-sobre-o-consorcio-de-imoveis) nada mais é do que a compra de imóveis em conjunto. Em outras palavras, um [grupo](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-um-grupo-de-consorcio) de pessoas se reúne para o mesmo benefício, por exemplo, para comprar uma casa ou [apartamento](https://www.embracon.com.br/blog/compre-seu-apartamento-com-o-consorcio-de-imoveis), a fim de levantar uma certa quantia de dinheiro durante um período de tempo.
+titulo: Saiba como fazer um consórcio de casas
+slug: saiba-como-fazer-um-consorcio-de-casas
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-fazer-um-consorcio-de-casas.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O [***consórcio de casas***](https://www.embracon.com.br/blog/16-maiores-duvidas-sobre-o-consorcio-de-imoveis) nada mais é do que a compra de imóveis em conjunto. Em outras palavras, um [grupo](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-um-grupo-de-consorcio) de pessoas se reúne para o mesmo benefício, por exemplo, para comprar uma casa ou [apartamento](https://www.embracon.com.br/blog/compre-seu-apartamento-com-o-consorcio-de-imoveis), a fim de levantar uma certa quantia de dinheiro durante um período de tempo.
 
 Se comparada com o [financiamento tradicional](https://www.embracon.com.br/blog/entenda-quais-sao-as-6-maiores-desvantagens-do-financiamento), esta pode ser uma possibilidade mais favorável, pois um dos principais benefícios dos consórcios de casas é a possibilidade de pagar mensalidades sem cobrança de [juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros).
 
@@ -70,4 +70,3 @@ Esta é uma forma de prevenir fraudes e evitar perdas de dinheiro. Além disso, 
 Quer realizar o sonho da casa própria? Não perca tempo, faça sua [simulação](https://www.embracon.com.br/blog/simulacao-de-consorcio) com a Embracon e invista em um [consórcio de casas](https://www.embracon.com.br/consorcio-de-casas).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação do Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

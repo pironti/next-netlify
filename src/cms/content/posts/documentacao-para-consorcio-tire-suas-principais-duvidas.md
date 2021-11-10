@@ -1,14 +1,14 @@
 ---
-        titulo: Documentação para consórcio: tire suas principais dúvidas
-        slug: documentacao-para-consorcio-tire-suas-principais-duvidas
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/documentacao-para-consorcio-tire-suas-principais-duvidas.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        **Conseguir algum bem de alto valor, como um** [**imóvel**](https://www.embracon.com.br/consorcio-de-imoveis) **ou um carro novo, costuma sair muito caro para ser pago à vista. Ao mesmo tempo, o parcelamento da compra também não é tão agradável, pois os juros se acumulam em cada parcela.**
+titulo: Documentação para consórcio: tire suas principais dúvidas
+slug: documentacao-para-consorcio-tire-suas-principais-duvidas
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/documentacao-para-consorcio-tire-suas-principais-duvidas.jpg
+meta_summary: 
+date: 04/10/2021
+---
+**Conseguir algum bem de alto valor, como um** [**imóvel**](https://www.embracon.com.br/consorcio-de-imoveis) **ou um carro novo, costuma sair muito caro para ser pago à vista. Ao mesmo tempo, o parcelamento da compra também não é tão agradável, pois os juros se acumulam em cada parcela.**
 
 Uma das opções é buscar um [consórcio](https://www.embracon.com.br/blog/o-que-e-e-como-funciona-o-consorcio-em-andamento), que é a forma mais eficiente de investir em um [bem de alto valor](https://www.embracon.com.br/blog/vai-construir-uma-casa-descubra-quanto-vai-custar). Porém, é preciso conhecer toda a documentação que será solicitada.
 
@@ -140,4 +140,3 @@ Com essas informações sobre a documentação para consórcio, todo o processo 
 • 8 dicas para ajudar você na compra do primeiro imóvel
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

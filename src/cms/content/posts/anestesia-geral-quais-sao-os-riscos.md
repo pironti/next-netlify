@@ -1,14 +1,14 @@
 ---
-        titulo: Anestesia geral: quais são os riscos?
-        slug: anestesia-geral-quais-sao-os-riscos
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/anestesia-geral-quais-sao-os-riscos.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        [Um estudo](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2648.2010.05266.x) publicado na revista Journal of Advanced Nursing revelou que, aproximadamente, 85% das pessoas que realizam uma cirurgia de grande porte tem medo de morrer ou de não acordar mais devido à **anestesia geral**.
+titulo: Anestesia geral: quais são os riscos?
+slug: anestesia-geral-quais-sao-os-riscos
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/anestesia-geral-quais-sao-os-riscos.jpg
+meta_summary: 
+date: 01/10/2021
+---
+[Um estudo](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2648.2010.05266.x) publicado na revista Journal of Advanced Nursing revelou que, aproximadamente, 85% das pessoas que realizam uma cirurgia de grande porte tem medo de morrer ou de não acordar mais devido à **anestesia geral**.
 
 Pensando nisso, decidimos reunir, neste post, tudo o que você precisa saber sobre a **anestesia geral**, especialmente com relação aos reais riscos desse procedimento. Ficou interessado no assunto? Então acompanhe a leitura!
 
@@ -65,4 +65,3 @@ Além disso, também é importante que o paciente:
 Agora que você já sabe os reais riscos da anestesia geral e como reduzi-los, é só procurar por um bom anestesiologista, confiar no trabalho dele e ficar tranquilo!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

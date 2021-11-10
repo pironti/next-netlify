@@ -1,14 +1,14 @@
 ---
-        titulo: Guia para quem vai morar sozinho: organização financeira
-        slug: guia-para-quem-vai-morar-sozinho-organizacao-financeira
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/guia-para-quem-vai-morar-sozinho-organizacao-financeira.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Sempre chega aquele momento de "bater as asas" e deixar a casa dos pais, não é mesmo? Essa não é considerada uma tarefa tão fácil, principalmente se tratando do financeiro. Por este motivo, te daremos um **guia prático de como morar sozinho sem muito sofrimento.**
+titulo: Guia para quem vai morar sozinho: organização financeira
+slug: guia-para-quem-vai-morar-sozinho-organizacao-financeira
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/guia-para-quem-vai-morar-sozinho-organizacao-financeira.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Sempre chega aquele momento de "bater as asas" e deixar a casa dos pais, não é mesmo? Essa não é considerada uma tarefa tão fácil, principalmente se tratando do financeiro. Por este motivo, te daremos um **guia prático de como morar sozinho sem muito sofrimento.**
 
 Independente da pessoa, ou da idade, mudanças são sempre difíceis. Por isso, o planejamento tem que ser o primeiro item da lista. Sem [organização](https://www.embracon.com.br/blog/planeje-sua-vida-financeira-e-fique-sempre-no-azul), as coisas podem não ocorrer como você deseja.
 
@@ -106,4 +106,3 @@ A Embracon é reconhecida no mercado há mais de 30 anos, especialista no ramo d
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5feb5e77abc38c34aef6f090_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

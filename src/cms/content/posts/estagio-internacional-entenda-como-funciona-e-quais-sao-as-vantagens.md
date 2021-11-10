@@ -1,14 +1,14 @@
 ---
-        titulo: Estágio internacional: entenda como funciona e quais são as vantagens
-        slug: estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Com certeza seu filho já comentou sobre um intercâmbio estudantil voltado para estudos, principalmente de uma língua estrangeira. E o estágio internacional, você conhece? Essa pode ser uma oportunidade para o seu filho enriquecer o currículo, ter experiências únicas e conhecer o mundo profissional de uma nova perspectiva.
+titulo: Estágio internacional: entenda como funciona e quais são as vantagens
+slug: estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/estagio-internacional-entenda-como-funciona-e-quais-sao-as-vantagens.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Com certeza seu filho já comentou sobre um intercâmbio estudantil voltado para estudos, principalmente de uma língua estrangeira. E o estágio internacional, você conhece? Essa pode ser uma oportunidade para o seu filho enriquecer o currículo, ter experiências únicas e conhecer o mundo profissional de uma nova perspectiva.
 
 Para saber como fazer esse sonho se tornar realidade e descomplicar na hora do planejamento, continue a leitura deste post!
 
@@ -53,4 +53,3 @@ Gostou deste post? Viu como que[ intercâmbios](https://www.embracon.com.br/blog
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> [Consórcio de Serviços: Tudo o que você precisa saber sobre o assunto!](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto)
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: É possível desistir do consórcio?
-        slug: e-possivel-desistir-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-desistir-do-consorcio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Comprar um carro ou um imóvel novo não é sempre uma escolha fácil. Além de controlar as emoções e a ansiedade, o [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos) também é necessário. É pensando nisso que muita gente escolheu o [consórcio ](https://www.embracon.com.br/consorcio)- um modelo com parcelas pequenas e sem juros, com pequenos ajustes ao decorrer dos anos.
+titulo: É possível desistir do consórcio?
+slug: e-possivel-desistir-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-desistir-do-consorcio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Comprar um carro ou um imóvel novo não é sempre uma escolha fácil. Além de controlar as emoções e a ansiedade, o [planejamento financeiro](https://www.embracon.com.br/blog/planejamento-financeiro-para-iniciantes-os-primeiros-passos) também é necessário. É pensando nisso que muita gente escolheu o [consórcio ](https://www.embracon.com.br/consorcio)- um modelo com parcelas pequenas e sem juros, com pequenos ajustes ao decorrer dos anos.
 
 Embora essa abordagem seja uma opção financeiramente vantajosa, a natureza de longo prazo a ser considerada pode fazer as pessoas quererem desistir do consórcio. Mas é possível desistir? A resposta é sim, você pode desistir de um consórcio. Acompanhe abaixo alguns pontos importantes sobre o cancelamento do consórcio.
 
@@ -54,4 +54,3 @@ Alternativas para não desistir do consórcio
 Quem quer ingressar no consórcio precisa conhecer bem seus direitos. Embora esse tipo de crédito seja muito benéfico, é importante atentarmos aos detalhes da Lei do Consórcio e escolher uma empresa de confiança, como a [Embracon](https://www.embracon.com.br/a-embracon), para realizar seus sonhos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60f9712472ed955fc6a66c22_CTA_PRODUTOS.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

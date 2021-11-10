@@ -1,14 +1,14 @@
 ---
-        titulo: Quais os principais cuidados para realizar a manutenção da sua casa?
-        slug: quais-os-principais-cuidados-para-realizar-a-manutencao-da-sua-casa
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-os-principais-cuidados-para-realizar-a-manutencao-da-sua-casa.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Talvez nunca na história as pessoas tenham ficado tanto em casa como no momento da [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar). O isolamento social gerou consequências devastadoras para alguns tipos de negócio e forçou milhões de trabalhadores a se adaptarem para conseguir [trabalhar no modelo home office.](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado)
+titulo: Quais os principais cuidados para realizar a manutenção da sua casa?
+slug: quais-os-principais-cuidados-para-realizar-a-manutencao-da-sua-casa
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-os-principais-cuidados-para-realizar-a-manutencao-da-sua-casa.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Talvez nunca na história as pessoas tenham ficado tanto em casa como no momento da [pandemia de Covid-19](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar). O isolamento social gerou consequências devastadoras para alguns tipos de negócio e forçou milhões de trabalhadores a se adaptarem para conseguir [trabalhar no modelo home office.](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado)
 
 Com isso, mais pessoas passaram a ficar em casa: tanto quem trabalha quanto, principalmente, quem estuda. E isso tem feito com que o índice de acidentes domésticos aumentasse de forma vertiginosa.
 
@@ -78,4 +78,3 @@ Trata-se de um investimento que ajuda a manter o seu lar sempre novo e repaginad
 > Quer saber mais? [Faça uma simulação de consórcio de serviços](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=cuidados_para_realizar_a_manutencao_da_sua_casa&utm_campaign=publicacoes_blog) e prepare-se para renovar todo o seu lar.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos/?utm_source=blog&utm_medium=referral&utm_content=cuidados_para_realizar_a_manutencao_da_sua_casa&utm_campaign=publicacoes_blog)</figure>> ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: EAD: a educação a distância é para você?
-        slug: ead-a-educacao-a-distancia-e-para-voce
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/ead-a-educacao-a-distancia-e-para-voce.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Quem está procurando [novos cursos acadêmicos](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) para fazer – seja uma [faculdade](https://www.embracon.com.br/blog/tire-5-duvidas-sobre-a-faculdade-de-medicina), [pós-graduação](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) ou mesmo um curso de especialização – já se deparou com a sigla EAD.
+titulo: EAD: a educação a distância é para você?
+slug: ead-a-educacao-a-distancia-e-para-voce
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/ead-a-educacao-a-distancia-e-para-voce.png
+meta_summary: 
+date: 06/10/2021
+---
+Quem está procurando [novos cursos acadêmicos](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) para fazer – seja uma [faculdade](https://www.embracon.com.br/blog/tire-5-duvidas-sobre-a-faculdade-de-medicina), [pós-graduação](https://www.embracon.com.br/blog/confira-5-beneficios-de-fazer-um-consorcio-para-pos-graduacao) ou mesmo um curso de especialização – já se deparou com a sigla EAD.
 
 Com o número de brasileiros cada vez mais conectado à internet, o ensino a distância tornou-se uma alternativa viável para prosseguir nos estudos.
 
@@ -62,4 +62,3 @@ Se você já tem ideia do curso que deseja fazer e não quer se deslocar tanto, 
 > [Conheça 4 formas de pagar a faculdade!](https://www.embracon.com.br/blog/conheca-4-formas-de-pagar-a-faculdade)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

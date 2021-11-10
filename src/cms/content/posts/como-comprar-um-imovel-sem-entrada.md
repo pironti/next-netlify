@@ -1,14 +1,14 @@
 ---
-        titulo: Como comprar um imóvel sem entrada?
-        slug: como-comprar-um-imovel-sem-entrada
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comprar-um-imovel-sem-entrada.jpg
-        meta_summary: 
-        date: 09/11/2021
-        ---
-        Quer se livrar do [aluguel definitivamente](https://www.embracon.com.br/blog/como-sair-do-aluguel-definitivamente), mas não tem dinheiro suficiente para dar de entrada na [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce) dos seus sonhos?
+titulo: Como comprar um imóvel sem entrada?
+slug: como-comprar-um-imovel-sem-entrada
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comprar-um-imovel-sem-entrada.jpg
+meta_summary: 
+date: 09/11/2021
+---
+Quer se livrar do [aluguel definitivamente](https://www.embracon.com.br/blog/como-sair-do-aluguel-definitivamente), mas não tem dinheiro suficiente para dar de entrada na [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce) dos seus sonhos?
 
 É quase impossível encontrar uma financeira que ofereça as condições para a compra de um imóvel sem entrada, porque teoricamente, este seria um empréstimo de alto risco.
 
@@ -79,4 +79,3 @@ Nesta modalidade, é sem juros e sem entrada.
 Se interessou pelo consórcio? Faça uma simulação!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: É possível comprar um imóvel em outro Estado com consórcio?
-        slug: e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        O momento da contemplação de um consórcio de imóvel é uma situação única na vida da maioria das pessoas interessadas. Essa é a hora em que toda aquela ansiedade para receber a tão esperada notícia acaba e a conquista de um bem de valor está mais próximo do que nunca.
+titulo: É possível comprar um imóvel em outro Estado com consórcio?
+slug: e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-comprar-um-imovel-em-outro-estado-com-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+O momento da contemplação de um consórcio de imóvel é uma situação única na vida da maioria das pessoas interessadas. Essa é a hora em que toda aquela ansiedade para receber a tão esperada notícia acaba e a conquista de um bem de valor está mais próximo do que nunca.
 
 Só que existe uma pequena questão, depois de toda a euforia da contemplação, é comum surgir a seguinte dúvida: e agora, onde vou [comprar um imóvel](https://www.embracon.com.br/blog/qual-a-melhor-forma-de-comprar-o-primeiro-imovel)? Posso comprar na cidade e/ou estado que eu quiser?
 
@@ -84,4 +84,3 @@ Contudo, se você estiver com pendências com a Embracon, infelizmente não pode
 > Com a Embracon você tem as menores condições do mercado. [Simule](https://www.embracon.com.br/consorcio-de-imoveis), compare e compre. E o melhor: sem juros e sem entrada, pagando apenas parcelas mensais para realização do seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Procedimentos estéticos para emagrecer: quais são os melhores?
-        slug: procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        A busca pelo padrão de beleza ideal impulsiona o mercado para soluções e [**procedimentos estéticos para emagrecer**](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). Novas tecnologias surgem em uma grande variedade de tratamentos para redução de peso e medidas. Você sabe quais são os melhores?
+titulo: Procedimentos estéticos para emagrecer: quais são os melhores?
+slug: procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/procedimentos-esteticos-para-emagrecer-quais-sao-os-melhores.jpg
+meta_summary: 
+date: 01/10/2021
+---
+A busca pelo padrão de beleza ideal impulsiona o mercado para soluções e [**procedimentos estéticos para emagrecer**](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica). Novas tecnologias surgem em uma grande variedade de tratamentos para redução de peso e medidas. Você sabe quais são os melhores?
 
 Neste artigo vamos explicar os principais e mais eficazes métodos para reduzir as gorduras corporais. Você vai saber como se livrar do acúmulo de camada adiposa com tratamentos que realmente funcionam. Quando associados a bons hábitos, esses [procedimentos aceleram o emagrecimento](https://www.embracon.com.br/blog/4-perguntas-e-respostas-sobre-a-lipoaspiracao) e remodelam o corpo. Continue a leitura e escolha a melhor opção para você!
 
@@ -73,4 +73,3 @@ O que é preciso saber é que [procedimentos estéticos](https://www.embracon.co
 Agora que você já sabe quais são os melhores [procedimentos estéticos](https://www.embracon.com.br/consorcio-servicos) para emagrecer, o que acha de nos seguir nas redes sociais e ficar por dentro de outros artigos como este?
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

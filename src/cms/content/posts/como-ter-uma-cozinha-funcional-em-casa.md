@@ -1,14 +1,14 @@
 ---
-        titulo: Como ter uma cozinha funcional em casa
-        slug: como-ter-uma-cozinha-funcional-em-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-ter-uma-cozinha-funcional-em-casa.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Por muito tempo, [a cozinha](https://www.embracon.com.br/blog/vai-reformar-a-cozinha-confira-as-tendencias) foi vista como um cômodo privativo da casa, um local restrito apenas para o "cozinheiro da família". Porém, essa visão mudou há alguns anos e esse ambiente já é conhecido por muitos como o coração da casa. Por isso, o conceito da cozinha funcional ganhou bastante importância.
+titulo: Como ter uma cozinha funcional em casa
+slug: como-ter-uma-cozinha-funcional-em-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-ter-uma-cozinha-funcional-em-casa.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Por muito tempo, [a cozinha](https://www.embracon.com.br/blog/vai-reformar-a-cozinha-confira-as-tendencias) foi vista como um cômodo privativo da casa, um local restrito apenas para o "cozinheiro da família". Porém, essa visão mudou há alguns anos e esse ambiente já é conhecido por muitos como o coração da casa. Por isso, o conceito da cozinha funcional ganhou bastante importância.
 
 Apesar de não existir uma definição clara, podemos dizer que [cozinha funcional](https://www.embracon.com.br/blog/consorcio-para-reforma-embracon-por-que-e-uma-boa-opcao) é aquela que tem armários, objetos e eletrodomésticos organizados de forma que favoreça a circulação de pessoas e a otimização do espaço, tornando o local não só mais bonito, como mais prático e intuitivo.
 
@@ -54,4 +54,3 @@ Por isso, é importante aproveitar qualquer oportunidade para ganhar benefícios
 Em suma, é possível criar uma cozinha funcional na sua casa sem muita dor de cabeça. No geral, todos nós já temos os itens para facilitar e acertar no processo, só falta mesmo a disposição para a mudança. Por isso, analise todas as nossas dicas e monte uma cozinha que, além de linda, realmente facilite a rotina de toda a família.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

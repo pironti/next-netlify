@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de moto: bons motivos para fazer esse investimento
-        slug: consorcio-de-moto-bons-motivos-para-fazer-esse-investimento
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-moto-bons-motivos-para-fazer-esse-investimento.png
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Muitas pessoas têm o sonho de adquirir a [nova moto](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto) e acabam adiando por diversos[ motivos](https://www.embracon.com.br/blog/confira-5-vantagens-de-ter-uma-moto). Um dos principais é ficar preso às possibilidades do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). Com a alta cobrança de juros, o preço final das motocicletas muitas vezes chega ao dobro de seu valor original, dificultando a decisão de compra.
+titulo: Consórcio de moto: bons motivos para fazer esse investimento
+slug: consorcio-de-moto-bons-motivos-para-fazer-esse-investimento
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-moto-bons-motivos-para-fazer-esse-investimento.png
+meta_summary: 
+date: 06/10/2021
+---
+Muitas pessoas têm o sonho de adquirir a [nova moto](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto) e acabam adiando por diversos[ motivos](https://www.embracon.com.br/blog/confira-5-vantagens-de-ter-uma-moto). Um dos principais é ficar preso às possibilidades do [financiamento](https://www.embracon.com.br/blog/financiamento-ou-consorcio-o-que-e-melhor-na-compra-de-um-imovel). Com a alta cobrança de juros, o preço final das motocicletas muitas vezes chega ao dobro de seu valor original, dificultando a decisão de compra.
 
 Em alguns casos, as pessoas optam por [modelos mais baratos](https://www.embracon.com.br/blog/carros-mais-baratos-os-modelos-de-ate-r-40-mil), devido às dificuldades de pagar pela moto que realmente gostariam de ter.
 
@@ -103,4 +103,3 @@ Assine a nossa newsletter para receber mais dicas de como funciona o consórcio 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

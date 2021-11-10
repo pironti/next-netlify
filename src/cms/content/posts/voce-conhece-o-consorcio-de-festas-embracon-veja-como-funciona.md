@@ -1,14 +1,14 @@
 ---
-        titulo: Você conhece o consórcio de festas Embracon? Veja como funciona!
-        slug: voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        O [consórcio](https://www.embracon.com.br/consorcio-servicos) tem se popularizado cada vez mais no Brasil. Surge como uma forma de organização financeira e ótima alternativa quando comparado aos altos juros bancários do financiamento, por exemplo. Porém, essa modalidade de crédito não se restringe apenas para a compra de bens. Atualmente, há também o consórcio de serviços. Você já conhece o consórcio de festas Embracon? É sobre ele que falaremos agora!
+titulo: Você conhece o consórcio de festas Embracon? Veja como funciona!
+slug: voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+O [consórcio](https://www.embracon.com.br/consorcio-servicos) tem se popularizado cada vez mais no Brasil. Surge como uma forma de organização financeira e ótima alternativa quando comparado aos altos juros bancários do financiamento, por exemplo. Porém, essa modalidade de crédito não se restringe apenas para a compra de bens. Atualmente, há também o consórcio de serviços. Você já conhece o consórcio de festas Embracon? É sobre ele que falaremos agora!
 
 Está pensando em fazer uma festa de debutante, um casamento ou um aniversário? Então, o [**consórcio de serviços**](https://www.embracon.com.br/consorcio-servicos) é a melhor opção para você. Os grupos dessa modalidade têm crescido no mercado, pois os brasileiros estão percebendo que o ideal é se planejar para ter custos menores, além de dinheiro à vista para negociar o que desejam.
 
@@ -77,4 +77,3 @@ Ficou interessado e quer contratar um [**consórcio de festas Embracon**](https:
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

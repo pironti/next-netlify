@@ -1,14 +1,14 @@
 ---
-        titulo: Gastos de começo de ano, com o que devo me preocupar?
-        slug: gastos-de-comeco-de-ano-com-o-que-devo-me-preocupar
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/gastos-de-comeco-de-ano-com-o-que-devo-me-preocupar.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O final de um ano representa o encerramento de um ciclo. Assim, quando viramos para o novo ano, já pensamos nos planos para a nossa família: como se preparar para a[ compra de um novo carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao), iniciar o investimento para[ aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), quais os cursos a se fazer para dar uma turbinada no currículo, entre muitos outros desejos.
+titulo: Gastos de começo de ano, com o que devo me preocupar?
+slug: gastos-de-comeco-de-ano-com-o-que-devo-me-preocupar
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/gastos-de-comeco-de-ano-com-o-que-devo-me-preocupar.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O final de um ano representa o encerramento de um ciclo. Assim, quando viramos para o novo ano, já pensamos nos planos para a nossa família: como se preparar para a[ compra de um novo carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao), iniciar o investimento para[ aumentar o patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui), quais os cursos a se fazer para dar uma turbinada no currículo, entre muitos outros desejos.
 
 Isso porque o começo de ano representa o início de um novo ciclo. Um ciclo em que[ repensamos nossos objetivos](https://www.embracon.com.br/blog/como-planejar-se-financeiramente-para-comecar-a-conquistar-seus-objetivos-em-2021) e começamos a traçar uma forma de atingi-los.
 
@@ -176,4 +176,3 @@ Como a[ carta de crédito](https://www.embracon.com.br/blog/tudo-o-que-voce-prec
 > Para saber mais sobre os múltiplos benefícios do consórcio,[ faça uma simulação](https://www.embracon.com.br/consorcio) e mantenha o planejamento dos seus gastos, para não ser pego de surpresa (mais uma vez) no ano seguinte.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>‍
-        

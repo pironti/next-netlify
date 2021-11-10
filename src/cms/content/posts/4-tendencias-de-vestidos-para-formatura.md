@@ -1,14 +1,14 @@
 ---
-        titulo: 4 tendências de vestidos para formatura
-        slug: 4-tendencias-de-vestidos-para-formatura
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-tendencias-de-vestidos-para-formatura.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Qual mulher não sonha com o vestido de formatura? Depois de tantos anos <a href="">cursando a faculdade</a>, nada mais justo do que comemorar em grande estilo. A [festa ](https://blog.embracon.com.br/consorcio/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona)é a celebração de muitos dias de estudo e marca o início da[ jornada profissional](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira). Mas qual vestido usar nesta noite tão especial? Existem modelos curtos, longos, com diferentes tipos de tecidos, cortes e cores. A escolha deve levar em conta o tipo físico, o estilo e o conforto da formanda. Continue a leitura e escolha o seu vestido de formatura para brilhar na noite, ficar na memória e nas fotos, claro! Confira quatro tendências e como escolher o vestido de formatura que é a sua cara.
+titulo: 4 tendências de vestidos para formatura
+slug: 4-tendencias-de-vestidos-para-formatura
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-tendencias-de-vestidos-para-formatura.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Qual mulher não sonha com o vestido de formatura? Depois de tantos anos <a href="">cursando a faculdade</a>, nada mais justo do que comemorar em grande estilo. A [festa ](https://blog.embracon.com.br/consorcio/voce-conhece-o-consorcio-de-festas-embracon-veja-como-funciona)é a celebração de muitos dias de estudo e marca o início da[ jornada profissional](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira). Mas qual vestido usar nesta noite tão especial? Existem modelos curtos, longos, com diferentes tipos de tecidos, cortes e cores. A escolha deve levar em conta o tipo físico, o estilo e o conforto da formanda. Continue a leitura e escolha o seu vestido de formatura para brilhar na noite, ficar na memória e nas fotos, claro! Confira quatro tendências e como escolher o vestido de formatura que é a sua cara.
 
 > Saiba mais: [5 dicas para construir uma carreira internacional.](https://www.embracon.com.br/blog/5-dicas-para-construir-uma-carreira-internacional)
 
@@ -66,4 +66,3 @@ Leve e transparente, fica lindo em modelos drapeados ou esvoaçantes. Normalment
 É um tecido delicado que valoriza modelos curtos ou longos. Confere elegância ao vestido e romantismo ao look. Pode ser feito um vestido todo de renda ou ser usado como sobreposição em tecido acetinado. Além disso, cai bem em detalhes no decote, mangas ou nas costas.Como você viu, sobram opções para que o seu vestido de formatura seja único e exalte toda a sua beleza. Diante de tantas alternativas, escolha o modelo que a deixe confortável e segura para curtir esse momento inesquecível. E agora que você já sabe como escolher o vestido de formatura ideal, o que acha de nos acompanhar pelas redes sociais? Assim, você fica por dentro de artigos como este.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

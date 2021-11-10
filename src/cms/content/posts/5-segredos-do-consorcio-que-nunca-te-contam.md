@@ -1,14 +1,14 @@
 ---
-        titulo: 5 segredos do consórcio que nunca te contam
-        slug: 5-segredos-do-consorcio-que-nunca-te-contam
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/5-segredos-do-consorcio-que-nunca-te-contam.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        É natural que muitas pessoas tenham dúvidas na hora de [considerar o consórcio para a compra de um bem de alto valor.](https://www.embracon.com.br/blog/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros)
+titulo: 5 segredos do consórcio que nunca te contam
+slug: 5-segredos-do-consorcio-que-nunca-te-contam
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/5-segredos-do-consorcio-que-nunca-te-contam.jpg
+meta_summary: 
+date: 28/09/2021
+---
+É natural que muitas pessoas tenham dúvidas na hora de [considerar o consórcio para a compra de um bem de alto valor.](https://www.embracon.com.br/blog/guia-completo-aprenda-como-escolher-um-consorcio-sem-erros)
 
 Não funciona como uma compra a débito ou uso de cartão de crédito no dia a dia. Além do mais, você não sai com o bem de forma imediata, como acontece por meio do financiamento - que, como contrapartida, faz uma [cobrança de juros](https://www.embracon.com.br/blog/parcela-de-consorcio-tem-juros) que pode levar o valor final do bem para quase o dobro do seu valor a prazo original.
 
@@ -82,4 +82,3 @@ Caso esteja investindo em consórcio de imóveis, também é possível [solicita
 > E aí, ficou convencido das vantagens do consórcio? [Faça uma simulação](https://www.embracon.com.br/consorcio) agora e comece desde já a planejar a realização do seu próximo sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

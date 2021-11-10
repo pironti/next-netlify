@@ -1,14 +1,14 @@
 ---
-        titulo: 14 dicas de economia para colocar em prática
-        slug: 14-dicas-de-economia-para-colocar-em-pratica
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/14-dicas-de-economia-para-colocar-em-pratica.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        É fato que o brasileiro tem se interessado cada vez mais quando o assunto é [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida). Ainda mais em [tempos de pandemia](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia), em que muitos se viram diante da escassez de recursos, diminuição de salários, entre outras surpresas, o uso inteligente do dinheiro é uma forma não só de lidar, mas até mesmo se preparar para momentos difíceis que possam surgir no futuro.
+titulo: 14 dicas de economia para colocar em prática
+slug: 14-dicas-de-economia-para-colocar-em-pratica
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/14-dicas-de-economia-para-colocar-em-pratica.jpg
+meta_summary: 
+date: 28/09/2021
+---
+É fato que o brasileiro tem se interessado cada vez mais quando o assunto é [educação financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida). Ainda mais em [tempos de pandemia](https://www.embracon.com.br/blog/entenda-a-importancia-do-planejamento-financeiro-em-tempos-de-pandemia), em que muitos se viram diante da escassez de recursos, diminuição de salários, entre outras surpresas, o uso inteligente do dinheiro é uma forma não só de lidar, mas até mesmo se preparar para momentos difíceis que possam surgir no futuro.
 
 Uma [pesquisa realizada pelo Instituto Locomotiva](https://valorinveste.globo.com/educacao-financeira/noticia/2020/11/23/pandemia-fez-brasileiro-sofrer-com-financas-mas-inspirou-a-pensar-mais-no-futuro.ghtml) no final de 2020 revelou que 8 em cada 10 brasileiros dizem ter objetivos financeiros principalmente para pagar as dívidas e formar uma [reserva de emergência](https://www.embracon.com.br/blog/reserva-financeira-como-preparar-a-sua).
 
@@ -197,4 +197,3 @@ O consórcio também se apresenta como uma boa forma de investir naquilo que rea
 > [Faça uma simulação](https://www.embracon.com.br/consorcio) agora e confira as vantagens do consórcio.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

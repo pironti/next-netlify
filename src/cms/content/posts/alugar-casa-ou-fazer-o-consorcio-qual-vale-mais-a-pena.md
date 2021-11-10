@@ -1,14 +1,14 @@
 ---
-        titulo: Alugar casa ou fazer o consórcio? Qual vale mais a pena
-        slug: alugar-casa-ou-fazer-o-consorcio-qual-vale-mais-a-pena
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/alugar-casa-ou-fazer-o-consorcio-qual-vale-mais-a-pena.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        Moradia é um tema muito caro ao brasileiro. Seja para a [compra da primeira casa](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) ou para aumentar o seu patrimônio, cada vez mais a compra do imóvel tem se destacado entre os maiores desejos do brasileiro.
+titulo: Alugar casa ou fazer o consórcio? Qual vale mais a pena
+slug: alugar-casa-ou-fazer-o-consorcio-qual-vale-mais-a-pena
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/alugar-casa-ou-fazer-o-consorcio-qual-vale-mais-a-pena.jpg
+meta_summary: 
+date: 28/09/2021
+---
+Moradia é um tema muito caro ao brasileiro. Seja para a [compra da primeira casa](https://www.embracon.com.br/blog/8-dicas-compra-primeiro-imovel) ou para aumentar o seu patrimônio, cada vez mais a compra do imóvel tem se destacado entre os maiores desejos do brasileiro.
 
 Em 2020, ano em que [o mundo se viu diante da pandemia](https://www.embracon.com.br/blog/35-coisas-para-fazer-quando-a-pandemia-passar), esse desejo parece ter sido reforçado. De acordo com a [pesquisa Raio-X FipeZap](https://valorinveste.globo.com/produtos/imoveis/noticia/2020/08/19/intencao-de-compra-de-imoveis-e-a-maior-desde-2014-aponta-fipezap.ghtml), 2020 foi o ano em que o brasileiro mostrou maior percentual de intenção de compra em imóveis desde 2014. Essa intenção de compra atingiu 36% das pessoas. E, dos compradores em potencial, 88% afirmaram que gostaria de investir em imóvel para moradia.
 
@@ -326,4 +326,3 @@ Seja para a compra de uma casa ou apartamento mais confortável para sua famíli
 [Faça uma simulação agora](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=alugar_casa_ou_fazer_o_consorcio&utm_campaign=publicacoes_blog) e comece, desde já, a investir no seu imóvel de uma forma que realmente vale a pena!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Imoveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60132e1bddf33b7df7a71a73_CTA-Imoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=alugar_casa_ou_fazer_o_consorcio&utm_campaign=publicacoes_blog)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Alugar carro é um bom negócio?
-        slug: alugar-carro-e-um-bom-negocio
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/alugar-carro-e-um-bom-negocio.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        ***Alugar carro*** pode tornar sua vida mais fácil, seja para [alguma viagem](https://www.embracon.com.br/blog/como-realizar-o-sonho-da-viagem-internacional), passeio ou emergência, em alguns casos. No entanto, é necessário tomar algumas medidas cautelares antes de ir diretamente à empresa de locação para assinar o contrato. Prestar atenção em todo o processo de locação pode ajudá-lo a evitar problemas futuros e até despesas desnecessárias.
+titulo: Alugar carro é um bom negócio?
+slug: alugar-carro-e-um-bom-negocio
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/alugar-carro-e-um-bom-negocio.jpg
+meta_summary: 
+date: 23/09/2021
+---
+***Alugar carro*** pode tornar sua vida mais fácil, seja para [alguma viagem](https://www.embracon.com.br/blog/como-realizar-o-sonho-da-viagem-internacional), passeio ou emergência, em alguns casos. No entanto, é necessário tomar algumas medidas cautelares antes de ir diretamente à empresa de locação para assinar o contrato. Prestar atenção em todo o processo de locação pode ajudá-lo a evitar problemas futuros e até despesas desnecessárias.
 
 Quando é um bom momento para alugar carro? 
 -------------------------------------------
@@ -73,4 +73,3 @@ Em contrapartida, quem nunca sonhou em ter seu ***veículo próprio***, do seu j
 Faça a [simulação](https://www.embracon.com.br/servicos/simulacao-de-consorcio) para possuir seu ***veículo próprio*** com a [Embracon](https://www.embracon.com.br/a-embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

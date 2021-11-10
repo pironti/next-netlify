@@ -1,14 +1,14 @@
 ---
-        titulo: É possível utilizar um carro usado para dar um lance em um consórcio?
-        slug: e-possivel-utilizar-um-carro-usado-para-dar-um-lance-em-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/e-possivel-utilizar-um-carro-usado-para-dar-um-lance-em-um-consorcio.jpg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Trocar de automóvel é o sonho de muita gente, mas esperar ser contemplado, às vezes, é angustiante. Porém, você sabia que é possível usar seu **carro usado para dar** [**um lance**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-o-lance) em um consórcio?
+titulo: É possível utilizar um carro usado para dar um lance em um consórcio?
+slug: e-possivel-utilizar-um-carro-usado-para-dar-um-lance-em-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/e-possivel-utilizar-um-carro-usado-para-dar-um-lance-em-um-consorcio.jpg
+meta_summary: 
+date: 08/10/2021
+---
+Trocar de automóvel é o sonho de muita gente, mas esperar ser contemplado, às vezes, é angustiante. Porém, você sabia que é possível usar seu **carro usado para dar** [**um lance**](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-o-lance) em um consórcio?
 
 Pois é, nem todo mundo sabe disso, mas o carro usado serve como uma segurança na hora que você entra no consórcio. Ele tem seu valor de mercado e você pode usá-lo para dar um lance. E, assim, conseguir o tão sonhado automóvel novo sem ter que esperar muito para isso.
 
@@ -66,4 +66,3 @@ Viu como é fácil usar seu **carro usado** para dar um [lance](https://www.embr
 Para saber mais sobre o[ consórcio de veículos Embracon](https://www.embracon.com.br/consorcio-de-carros) ou tirar suas dúvidas sobre usar seu carro para dar um lance, [entre em contato conosco](https://www.embracon.com.br/fale-conosco)! Nossa equipe está esperando para ajudá-lo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba quais são as tendências de reforma e decoração mais utilizados em 2020
-        slug: saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        O ano de 2020 já está quase no final. Neste ano tão atípico, fomos forçados a repensar a vida, rever todos nossos conceitos e ficam em nossas casas por muito tempo. Isso fez com a procura de alguns[ itens de decoração](https://www.embracon.com.br/blog/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica) aumentassem em até quase 500%, segundo pesquisa da [OLX Brasil](https://emobile.com.br/site/varejo/cresce-interesse-por-itens-de-decoracao/). Com restrições para sair de casa, os espaços em que vivemos assumiram um novo significado. A decoração começa a parecer não apenas uma beleza estética e sim uma necessidade para [reconfigurar um lar](https://www.embracon.com.br/blog/como-usar-prateleiras-na-decoracao-da-casa) para várias pessoas.
+titulo: Saiba quais são as tendências de reforma e decoração mais utilizados em 2020
+slug: saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020.jpg
+meta_summary: 
+date: 30/09/2021
+---
+O ano de 2020 já está quase no final. Neste ano tão atípico, fomos forçados a repensar a vida, rever todos nossos conceitos e ficam em nossas casas por muito tempo. Isso fez com a procura de alguns[ itens de decoração](https://www.embracon.com.br/blog/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica) aumentassem em até quase 500%, segundo pesquisa da [OLX Brasil](https://emobile.com.br/site/varejo/cresce-interesse-por-itens-de-decoracao/). Com restrições para sair de casa, os espaços em que vivemos assumiram um novo significado. A decoração começa a parecer não apenas uma beleza estética e sim uma necessidade para [reconfigurar um lar](https://www.embracon.com.br/blog/como-usar-prateleiras-na-decoracao-da-casa) para várias pessoas.
 
 A busca por mais [conforto e beleza](https://www.embracon.com.br/blog/armarios-planejados-como-usa-los-na-decoracao-e-quais-sao-as-vantagens) para todos os cantos foi formando as novas metas de decoração de 2020. A sorte? As tendências são fáceis, econômicas e muito práticas.
 
@@ -77,4 +77,3 @@ Acha que chegou a hora de dar uma reformulada na sua casa? O [consórcio de serv
 > [Faça uma simulação ](https://www.embracon.com.br/consorcio)em nosso site e conheça todos os planos disponíveis para o seu bolso!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>‍
-        

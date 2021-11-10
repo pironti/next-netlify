@@ -1,14 +1,14 @@
 ---
-        titulo: Tudo o que você precisa saber sobre o anel de debutante
-        slug: tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante
-        categoria: Festas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Existem muitos passos importantes e que não devem ser esquecidos em uma festa de 15 anos. Entre eles, é claro, está o anel de debutante. Além de deixar o seu *look* mais bonito e brilhante, essa joia é recebida pela aniversariante por meio das mãos de seu pai ou seu padrinho.
+titulo: Tudo o que você precisa saber sobre o anel de debutante
+slug: tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante
+categoria: Festas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tudo-o-que-voce-precisa-saber-sobre-o-anel-de-debutante.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Existem muitos passos importantes e que não devem ser esquecidos em uma festa de 15 anos. Entre eles, é claro, está o anel de debutante. Além de deixar o seu *look* mais bonito e brilhante, essa joia é recebida pela aniversariante por meio das mãos de seu pai ou seu padrinho.
 
 Dessa forma, ele desempenha o papel de um ritual de passagem da infância e adolescência para a vida adulta, ou do lado menina para o lado mulher. Essa é uma tradição antiga, pois crianças não podiam usar joias - somente às moças adultas.
 
@@ -59,4 +59,3 @@ Separamos algumas dicas para auxiliar ao pai da debutante sobre como não errar 
 Em resumo, nesse momento tão singular das meninas que mudam seu ciclo de adolescente para mulher perante a sociedade. Assim, nada melhor do que presenteá-la com um lindo anel de debutante. Dessa forma, mais uma etapa se inicia de forma positiva. E, ainda, os laços entre os familiares ficarão ainda mais estreitos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

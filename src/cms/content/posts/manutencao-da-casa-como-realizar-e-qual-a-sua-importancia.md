@@ -1,14 +1,14 @@
 ---
-        titulo: Manutenção da casa: como realizar e qual a sua importância
-        slug: manutencao-da-casa-como-realizar-e-qual-a-sua-importancia
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/manutencao-da-casa-como-realizar-e-qual-a-sua-importancia.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        2020 foi um ano atípico! Com a[ pandemia do coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), as pessoas precisaram repensar a própria vida e suas casas. Em um primeiro momento, os grandes escritórios precisaram achar resoluções para um novo normal. Equipes inteiras foram[ alocadas em casa](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado) e todo o cotidiano que estávamos acostumados precisou ser revisto.
+titulo: Manutenção da casa: como realizar e qual a sua importância
+slug: manutencao-da-casa-como-realizar-e-qual-a-sua-importancia
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/manutencao-da-casa-como-realizar-e-qual-a-sua-importancia.jpg
+meta_summary: 
+date: 28/09/2021
+---
+2020 foi um ano atípico! Com a[ pandemia do coronavírus](https://www.embracon.com.br/blog/habitos-de-consumo-antes-durante-e-pos-pandemia), as pessoas precisaram repensar a própria vida e suas casas. Em um primeiro momento, os grandes escritórios precisaram achar resoluções para um novo normal. Equipes inteiras foram[ alocadas em casa](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado) e todo o cotidiano que estávamos acostumados precisou ser revisto.
 
 Todo esse movimento resultou em grandes questões pessoais que precisaram ser revistas. Entre as grandes incertezas que nasceram nesse momento foi: será que[ minha casa está confortável e segura](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui) o suficiente para mim e para minha família, ou será que ela está precisando de uma manutenção?
 
@@ -57,4 +57,3 @@ Agora que você já leu todas essas dicas e já está entendendo tudo sobre como
 > [Faça um orçamento](https://www.embracon.com.br/consorcio) com a gente e descubra todas as opções de financiamento que temos para realizar esse desejo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

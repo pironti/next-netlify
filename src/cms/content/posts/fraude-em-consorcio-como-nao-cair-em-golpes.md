@@ -1,14 +1,14 @@
 ---
-        titulo: Fraude em consórcio: como não cair em golpes?
-        slug: fraude-em-consorcio-como-nao-cair-em-golpes
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/fraude-em-consorcio-como-nao-cair-em-golpes.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        O consórcio é uma modalidade de compra que tem sido muito utilizada, principalmente devido ao fato de não sofrer a incidência de juros, como acontece nos financiamentos. Nele, o consorciado entra em um grupo, começa a pagar os boletos e precisa ser contemplado para que receba a carta de crédito para adquirir o seu bem.
+titulo: Fraude em consórcio: como não cair em golpes?
+slug: fraude-em-consorcio-como-nao-cair-em-golpes
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/fraude-em-consorcio-como-nao-cair-em-golpes.jpg
+meta_summary: 
+date: 04/10/2021
+---
+O consórcio é uma modalidade de compra que tem sido muito utilizada, principalmente devido ao fato de não sofrer a incidência de juros, como acontece nos financiamentos. Nele, o consorciado entra em um grupo, começa a pagar os boletos e precisa ser contemplado para que receba a carta de crédito para adquirir o seu bem.
 
 Contudo, como em todos os setores que envolvem transações, golpes podem ocorrer. Por isso, é importante saber que há fraude em consórcio e quais são as mais comuns.
 
@@ -119,4 +119,3 @@ E aí, ficou interessado e quer investir em um consórcio para adquirir o seu be
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>‍
 
 > Que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

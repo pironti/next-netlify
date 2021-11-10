@@ -1,14 +1,14 @@
 ---
-        titulo: Investimentos rentáveis
-        slug: investimentos-rentaveis
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/investimentos-rentaveis.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Qualquer que seja o tipo de investidor, independentemente do patamar de conhecimento sobre o tema, querem saber qual é a bola da vez no mercado financeiro. Os cenários mudam, mas a grande questão é: afinal, qual o melhor investimento para 2021?
+titulo: Investimentos rentáveis
+slug: investimentos-rentaveis
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/investimentos-rentaveis.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Qualquer que seja o tipo de investidor, independentemente do patamar de conhecimento sobre o tema, querem saber qual é a bola da vez no mercado financeiro. Os cenários mudam, mas a grande questão é: afinal, qual o melhor investimento para 2021?
 
 Essas perguntas são mais complicadas de responder agora com a pandemia do novo coronavírus que criou um cenário de incerteza no[ curto e no médio prazo](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo), em meio à desaceleração da economia mundial. A perspectiva não é clara – mas tem como se orientar e não se perder nesse período de turbulência.
 
@@ -171,4 +171,3 @@ Resumindo, pode-se perceber, após tantas vantagens apresentadas, que o consórc
 > E aí, ficou interessado em investir por meio de um consórcio? Então, [faça uma simulação](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=investimentos_rentaveis&utm_campaign=publicacoes_blog) agora mesmo e conheça os nossos serviços. Somos uma empresa reconhecida e com tradição no mercado de consórcios!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=investimentos_rentaveis&utm_campaign=publicacoes_blog)</figure>> 
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Como é feito o pagamento da parcela do consórcio?
-        slug: como-e-feito-o-pagamento-da-parcela-do-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-e-feito-o-pagamento-da-parcela-do-consorcio.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Sempre que o assunto é [consórcio de veículo](https://www.embracon.com.br/consorcio-de-carros) ou de [imóvel ](https://www.embracon.com.br/consorcio-de-imoveis)inúmeras dúvidas aparecem. Principalmente quando se trata do [pagamento da parcela](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) do [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), uma vez que os interessados desejam entender as regras que, muitas vezes, acabam sendo complexas.
+titulo: Como é feito o pagamento da parcela do consórcio?
+slug: como-e-feito-o-pagamento-da-parcela-do-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-e-feito-o-pagamento-da-parcela-do-consorcio.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Sempre que o assunto é [consórcio de veículo](https://www.embracon.com.br/consorcio-de-carros) ou de [imóvel ](https://www.embracon.com.br/consorcio-de-imoveis)inúmeras dúvidas aparecem. Principalmente quando se trata do [pagamento da parcela](https://www.embracon.com.br/blog/como-calcular-as-parcelas-no-consorcio) do [consórcio](https://www.embracon.com.br/conhecaoconsorcio/o-que-e-consorcio), uma vez que os interessados desejam entender as regras que, muitas vezes, acabam sendo complexas.
 
 Algumas perguntas ficam sem resposta quando não se compreende muito bem o funcionamento dessa forma de [investir em um bem](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento).
 
@@ -145,4 +145,3 @@ Em suma, são muitas vantagens que vão fazer toda a diferença para aqueles que
 E aí, gostou deste post? Então, aproveite a visita e assine a nossa newsletter. Assim, você receberá em sua caixa de entrada todas as nossas atualizações!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as características do estilo de decoração clássica?
-        slug: quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A decoração clássica traz uma atmosfera luxuosa ao ambiente, já que é caracterizada por cores sofisticadas e objetos ornamentais. Se você quer deixar o ambiente elegante, essa é uma ótima opção.
+titulo: Quais são as características do estilo de decoração clássica?
+slug: quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-caracteristicas-do-estilo-de-decoracao-classica.jpg
+meta_summary: 
+date: 04/10/2021
+---
+A decoração clássica traz uma atmosfera luxuosa ao ambiente, já que é caracterizada por cores sofisticadas e objetos ornamentais. Se você quer deixar o ambiente elegante, essa é uma ótima opção.
 
 Contudo, é preciso conhecer os conceitos desse estilo para criar uma comunicação eficaz entre os elementos. O uso dos tons, da arquitetura e dos mobiliários são peças-chave para a mágica acontecer.
 
@@ -83,4 +83,3 @@ O que achou desse tipo de decoração?
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 > ‍
-        

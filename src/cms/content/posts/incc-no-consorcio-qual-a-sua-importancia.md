@@ -1,14 +1,14 @@
 ---
-        titulo: INCC no consórcio: qual a sua importância?
-        slug: incc-no-consorcio-qual-a-sua-importancia
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/incc-no-consorcio-qual-a-sua-importancia.jpg
-        meta_summary: 
-        date: 07/10/2021
-        ---
-        Em nossa vida financeira, é comum nos depararmos com diversos termos com os quais não sabemos como lidar. Um deles é o [INCC, ou Índice Nacional de Custo da Construção](https://www.embracon.com.br/blog/incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio).
+titulo: INCC no consórcio: qual a sua importância?
+slug: incc-no-consorcio-qual-a-sua-importancia
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/incc-no-consorcio-qual-a-sua-importancia.jpg
+meta_summary: 
+date: 07/10/2021
+---
+Em nossa vida financeira, é comum nos depararmos com diversos termos com os quais não sabemos como lidar. Um deles é o [INCC, ou Índice Nacional de Custo da Construção](https://www.embracon.com.br/blog/incc-e-ipca-por-que-eles-sao-tao-importantes-no-consorcio).
 
 Trata-se de um índice que permite o pleno acompanhamento da evolução dos preços de materiais, serviços e mão-de-obra relacionados à construção civil.
 
@@ -61,4 +61,3 @@ Assim, o reajuste por meio do INCC permite que as pessoas comprem o bem que real
 Ficou interessado em investir em seu novo imóvel? [Faça uma simulação de consórcio imobiliário](https://www.embracon.com.br/consorcio-de-imoveis) e comece desde já a realizar o sonho de uma nova casa ou apartamento.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

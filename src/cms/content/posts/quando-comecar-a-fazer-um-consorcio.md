@@ -1,14 +1,14 @@
 ---
-        titulo: Quando começar a fazer um consórcio?
-        slug: quando-comecar-a-fazer-um-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quando-comecar-a-fazer-um-consorcio.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Ao ouvir o termo [consórcio](https://www.embracon.com.br), o que vem à sua cabeça? A possibilidade de[ comprar um carro](https://www.embracon.com.br/consorcio-de-carros)? Investir em um bem dependendo de um [sorteio para ser contemplado](https://www.embracon.com.br/blog/assembleia-de-consorcio-como-funciona)? Uma das possibilidades de comprar carro nos anos 1990 para quem não tinha crédito?
+titulo: Quando começar a fazer um consórcio?
+slug: quando-comecar-a-fazer-um-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quando-comecar-a-fazer-um-consorcio.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Ao ouvir o termo [consórcio](https://www.embracon.com.br), o que vem à sua cabeça? A possibilidade de[ comprar um carro](https://www.embracon.com.br/consorcio-de-carros)? Investir em um bem dependendo de um [sorteio para ser contemplado](https://www.embracon.com.br/blog/assembleia-de-consorcio-como-funciona)? Uma das possibilidades de comprar carro nos anos 1990 para quem não tinha crédito?
 
 O consórcio é um [modelo de investir](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento) em bens de alto valor que foi ganhando cada vez mais importância com o passar dos anos.
 
@@ -58,4 +58,3 @@ Uma das novidades mais quentes do consórcio é a [possibilidade de investir em 
 > Já deu pra perceber que são inúmeras as vantagens de um consórcio. [Faça uma simulação](https://www.embracon.com.br/) e invista da melhor forma em bens a longo prazo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

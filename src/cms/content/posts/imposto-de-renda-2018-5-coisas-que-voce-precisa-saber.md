@@ -1,14 +1,14 @@
 ---
-        titulo: Imposto de Renda 2018: 5 coisas que você precisa saber
-        slug: imposto-de-renda-2018-5-coisas-que-voce-precisa-saber
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/imposto-de-renda-2018-5-coisas-que-voce-precisa-saber.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        **Começo de ano sempre traz um amontoado de contas. É preciso renovar a documentação do carro, comprar material escolar para os filhos, pagar o IPTU e por aí vai. Até o dia 30 de abril, mais um item vai pra lista: a declaração do Imposto de Renda 2018.**
+titulo: Imposto de Renda 2018: 5 coisas que você precisa saber
+slug: imposto-de-renda-2018-5-coisas-que-voce-precisa-saber
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/imposto-de-renda-2018-5-coisas-que-voce-precisa-saber.jpg
+meta_summary: 
+date: 28/09/2021
+---
+**Começo de ano sempre traz um amontoado de contas. É preciso renovar a documentação do carro, comprar material escolar para os filhos, pagar o IPTU e por aí vai. Até o dia 30 de abril, mais um item vai pra lista: a declaração do Imposto de Renda 2018.**
 
 Você provavelmente já fez alguma declaração de IRPF (Imposto de Renda de Pessoa Física) anteriormente, mas sempre existem pequenas mudanças e atualizações que o contribuinte precisa ficar de olho.
 
@@ -128,4 +128,3 @@ Compartilhe o texto nas suas redes sociais e lembre seus amigos para que eles ta
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> ‍
 
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

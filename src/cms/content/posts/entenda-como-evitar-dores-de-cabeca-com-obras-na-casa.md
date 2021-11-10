@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda como evitar dores de cabeça com obras na casa
-        slug: entenda-como-evitar-dores-de-cabeca-com-obras-na-casa
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-como-evitar-dores-de-cabeca-com-obras-na-casa.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        É inevitável: cedo ou tarde você vai reformar o seu lar, seja para renovar a decoração, seja para reparar algum problema do imóvel. Porém, para muita gente, só o fato de pensar nisso já gera estresse e muita preocupação. Isso porque obras na casa mudam a rotina da família, podem estourar o orçamento e o pior: o resultado final, às vezes, pode ficar aquém do desejado. Bastante coisa, não é mesmo?
+titulo: Entenda como evitar dores de cabeça com obras na casa
+slug: entenda-como-evitar-dores-de-cabeca-com-obras-na-casa
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-como-evitar-dores-de-cabeca-com-obras-na-casa.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+É inevitável: cedo ou tarde você vai reformar o seu lar, seja para renovar a decoração, seja para reparar algum problema do imóvel. Porém, para muita gente, só o fato de pensar nisso já gera estresse e muita preocupação. Isso porque obras na casa mudam a rotina da família, podem estourar o orçamento e o pior: o resultado final, às vezes, pode ficar aquém do desejado. Bastante coisa, não é mesmo?
 
 Foi pensando nisso que preparamos um post com algumas dicas essenciais para evitar dores de cabeça com esse assunto e minimizar ao máximo o aparecimento de problemas que tirem o seu sono. Confira!
 
@@ -46,4 +46,3 @@ Com as dicas que apresentamos ao longo do texto, será muito mais fácil planeja
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5f16f4dfc901ee48cff738d1_1.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

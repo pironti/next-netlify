@@ -1,14 +1,14 @@
 ---
-        titulo: O que analisar antes de comprar um imóvel
-        slug: o-que-analisar-antes-de-comprar-um-imovel
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-analisar-antes-de-comprar-um-imovel.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Comprar um imóvel é um [grande investimento](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) e demanda muito tempo de pesquisa e análise para garantir a melhor decisão.
+titulo: O que analisar antes de comprar um imóvel
+slug: o-que-analisar-antes-de-comprar-um-imovel
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-analisar-antes-de-comprar-um-imovel.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Comprar um imóvel é um [grande investimento](https://www.embracon.com.br/blog/investir-em-imoveis-onde-comecar) e demanda muito tempo de pesquisa e análise para garantir a melhor decisão.
 
 Desse modo, não se trata de uma decisão que se toma de um dia para o outro. É necessário ter muito planejamento e estar consciente para que tudo ocorra da melhor maneira possível, evitando problemas no futuro.
 
@@ -121,4 +121,3 @@ Esse é um das principais questões que levam ao aumento da demanda por locaçã
 > Quer adquirir o seu? Faça um consórcio de imóveis!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c37a08d54fda82598267b6_CTA_IMOVEL.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

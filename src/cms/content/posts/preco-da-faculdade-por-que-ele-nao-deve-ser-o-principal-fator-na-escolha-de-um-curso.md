@@ -1,14 +1,14 @@
 ---
-        titulo: Preço: por que não deve ser o principal na escolha da faculdade?
-        slug: preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        A escolha do curso universitário é um momento decisivo para qualquer jovem. Esse período funciona como um divisor de águas no qual a pessoa escolhe o que quer fazer no mercado de trabalho. Apesar disso, às vezes o preço da faculdade influencia na escolha.Isso é um grande erro, visto que o custo desse investimento não pode ser avaliado simplesmente pelo dinheiro que será usado. Existem diversos fatores que devem ser levados em consideração. Vamos falar um pouco sobre eles? Continue a leitura!
+titulo: Preço: por que não deve ser o principal na escolha da faculdade?
+slug: preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/preco-da-faculdade-por-que-ele-nao-deve-ser-o-principal-fator-na-escolha-de-um-curso.jpg
+meta_summary: 
+date: 04/10/2021
+---
+A escolha do curso universitário é um momento decisivo para qualquer jovem. Esse período funciona como um divisor de águas no qual a pessoa escolhe o que quer fazer no mercado de trabalho. Apesar disso, às vezes o preço da faculdade influencia na escolha.Isso é um grande erro, visto que o custo desse investimento não pode ser avaliado simplesmente pelo dinheiro que será usado. Existem diversos fatores que devem ser levados em consideração. Vamos falar um pouco sobre eles? Continue a leitura!
 
 preço da faculdade x reputação da instituição
 ---------------------------------------------
@@ -48,4 +48,3 @@ Como podemos ver, o preço da faculdade não é, de forma alguma, o fator mais i
 Conseguimos ajudar você com este conteúdo? Então, lembre-se de assinar nossa newsletter! Por ela você recebe materiais como este diretamente em seu e-mail.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

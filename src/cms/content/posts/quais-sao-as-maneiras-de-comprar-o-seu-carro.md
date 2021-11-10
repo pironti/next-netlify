@@ -1,14 +1,14 @@
 ---
-        titulo: Quais são as maneiras de comprar o seu carro?
-        slug: quais-sao-as-maneiras-de-comprar-o-seu-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-sao-as-maneiras-de-comprar-o-seu-carro.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A [compra de um automóvel](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro) ainda é um dos maiores desejos dos brasileiros. Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), muitos começaram a repensar a importância de se ter um bom veículo na garagem. Afinal, as medidas do isolamento social exigiram maior segurança por parte dos indivíduos que, embora tenham passado mais tempo em casa, ainda utilizam o carro para sair, seja a lazer, a trabalho ou simplesmente para resolver coisas de casa.
+titulo: Quais são as maneiras de comprar o seu carro?
+slug: quais-sao-as-maneiras-de-comprar-o-seu-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-sao-as-maneiras-de-comprar-o-seu-carro.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A [compra de um automóvel](https://www.embracon.com.br/blog/duvidas-frequentes-consorcio-de-carro) ainda é um dos maiores desejos dos brasileiros. Por conta da [pandemia de Covid-19](https://www.embracon.com.br/blog/como-guardar-dinheiro-em-tempos-de-pandemia), muitos começaram a repensar a importância de se ter um bom veículo na garagem. Afinal, as medidas do isolamento social exigiram maior segurança por parte dos indivíduos que, embora tenham passado mais tempo em casa, ainda utilizam o carro para sair, seja a lazer, a trabalho ou simplesmente para resolver coisas de casa.
 
 Uma pesquisa da ANFAVEA (Associação Nacional dos Fabricantes de Veículos Automotores) em parceria com o site Webmotors, [publicada em agosto de 2021](https://garagem360.com.br/75-dos-brasileiros-querem-trocar-de-carro-ainda-em-2021-diz-pesquisa/), revelou que 75% dos brasileiros ainda pretendem [trocar ou comprar um carro novo](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) ao longo do ano.
 
@@ -194,4 +194,3 @@ Como deu para perceber, o [consórcio é a melhor forma de investir em um carro]
 [Faça uma simulação](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=) e veja como é fácil determinar o valor de compra do seu veículo. Você irá economizar mais a longo prazo e contará com a experiência de uma administradora que realiza sonhos dos brasileiros há mais de 30 anos.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center"><div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div></figure>
-        

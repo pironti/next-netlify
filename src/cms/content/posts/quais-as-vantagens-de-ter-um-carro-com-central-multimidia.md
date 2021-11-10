@@ -1,14 +1,14 @@
 ---
-        titulo: Quais as vantagens de ter um carro com central multimídia?
-        slug: quais-as-vantagens-de-ter-um-carro-com-central-multimidia
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-as-vantagens-de-ter-um-carro-com-central-multimidia.jpg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Há pouco tempo, ela estava presente apenas nos [veículos mais caros e completos](https://www.embracon.com.br/blog/afinal-existe-consorcio-de-carros-importados), mas, atualmente, já é encontrada até mesmo nos [modelos mais baratos.](https://www.embracon.com.br/blog/carros-mais-baratos-os-modelos-de-ate-r-40-mil) Estamos falando da central multimídia, esse componente que deixou de ser um simples acessório e virou o sonho de consumo de muita gente.
+titulo: Quais as vantagens de ter um carro com central multimídia?
+slug: quais-as-vantagens-de-ter-um-carro-com-central-multimidia
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-as-vantagens-de-ter-um-carro-com-central-multimidia.jpg
+meta_summary: 
+date: 06/10/2021
+---
+Há pouco tempo, ela estava presente apenas nos [veículos mais caros e completos](https://www.embracon.com.br/blog/afinal-existe-consorcio-de-carros-importados), mas, atualmente, já é encontrada até mesmo nos [modelos mais baratos.](https://www.embracon.com.br/blog/carros-mais-baratos-os-modelos-de-ate-r-40-mil) Estamos falando da central multimídia, esse componente que deixou de ser um simples acessório e virou o sonho de consumo de muita gente.
 
 Quer saber um pouco mais sobre a central multimídia e todas as vantagens que ela traz? Então, continue com a gente e não perca!
 
@@ -55,4 +55,3 @@ A central multimídia deixou de ser [um luxo](https://www.embracon.com.br/blog/a
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

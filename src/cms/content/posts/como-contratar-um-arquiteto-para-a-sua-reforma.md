@@ -1,14 +1,14 @@
 ---
-        titulo: Como contratar um arquiteto para a sua reforma?
-        slug: como-contratar-um-arquiteto-para-a-sua-reforma
-        categoria: Decoração e Reformas
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-contratar-um-arquiteto-para-a-sua-reforma.jpeg
-        meta_summary: 
-        date: 06/10/2021
-        ---
-        Todos desejam morar em uma bela e confortável residência, não é mesmo? Entretanto, com o passar do tempo, é comum [ocorrer um desgaste natural do imóvel](https://www.embracon.com.br/blog/quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora), de forma a exigir a realização de [uma reforma](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui). Mesmo que o motivo dessa empreitada seja apenas estético, existe uma certeza: para que você não tenha dores de cabeça, será preciso contratar um arquiteto.
+titulo: Como contratar um arquiteto para a sua reforma?
+slug: como-contratar-um-arquiteto-para-a-sua-reforma
+categoria: Decoração e Reformas
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-contratar-um-arquiteto-para-a-sua-reforma.jpeg
+meta_summary: 
+date: 06/10/2021
+---
+Todos desejam morar em uma bela e confortável residência, não é mesmo? Entretanto, com o passar do tempo, é comum [ocorrer um desgaste natural do imóvel](https://www.embracon.com.br/blog/quando-reformar-a-casa-5-sinais-de-que-ja-chegou-a-hora), de forma a exigir a realização de [uma reforma](https://www.embracon.com.br/blog/quando-e-por-que-reformar-a-sua-casa-saiba-aqui). Mesmo que o motivo dessa empreitada seja apenas estético, existe uma certeza: para que você não tenha dores de cabeça, será preciso contratar um arquiteto.
 
 Apesar de muitas pessoas acreditarem estar [economizando](https://www.embracon.com.br/blog/como-juntar-dinheiro-para-reformar-a-casa) ao não contar com o apoio desse profissional, as vantagens proporcionadas por ele justificam o investimento. Um bom arquiteto desenvolve um projeto que atende às necessidades de seus clientes e proporciona economia em todas as etapas da obra.
 
@@ -61,4 +61,3 @@ Gostou de saber um pouco mais sobre a importância de contratar um arquiteto e o
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

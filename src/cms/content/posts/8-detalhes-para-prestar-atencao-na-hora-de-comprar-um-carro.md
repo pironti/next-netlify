@@ -1,14 +1,14 @@
 ---
-        titulo: 8 detalhes para prestar atenção na hora de comprar um carro
-        slug: 8-detalhes-para-prestar-atencao-na-hora-de-comprar-um-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/8-detalhes-para-prestar-atencao-na-hora-de-comprar-um-carro.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        A [compra de um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) é um momento de bastante empolgação. Muitas vezes temos em mente o modelo que desejamos comprar, pesquisamos o preço e temos uma vaga ideia do que é necessário para levarmos até a nossa garagem. Porém, pode acontecer de não encontrar o carro do jeito que você realmente gostaria, especialmente se [comprar um modelo seminovo](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar).
+titulo: 8 detalhes para prestar atenção na hora de comprar um carro
+slug: 8-detalhes-para-prestar-atencao-na-hora-de-comprar-um-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/8-detalhes-para-prestar-atencao-na-hora-de-comprar-um-carro.jpg
+meta_summary: 
+date: 24/09/2021
+---
+A [compra de um carro](https://www.embracon.com.br/blog/4-motivos-para-voce-comprar-um-carro-novo) é um momento de bastante empolgação. Muitas vezes temos em mente o modelo que desejamos comprar, pesquisamos o preço e temos uma vaga ideia do que é necessário para levarmos até a nossa garagem. Porém, pode acontecer de não encontrar o carro do jeito que você realmente gostaria, especialmente se [comprar um modelo seminovo](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar).
 
 Assim como se passa bastante tempo pagando pelo seu carro, também se passa bastante tempo utilizando seu veículo: para fazer [compras de casa](https://www.embracon.com.br/blog/10-importantes-dicas-para-economizar-nas-compras-de-casa), ir ao trabalho, viajar periodicamente ou visitar os parentes e amigos aos fins de semana.
 
@@ -79,4 +79,3 @@ Portanto, aproveite os benefícios de uma modalidade que já realizou o sonho de
 > [Faça uma simulação de consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros) e utilize a carta de crédito para a compra de um modelo zero km ou um seminovo.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

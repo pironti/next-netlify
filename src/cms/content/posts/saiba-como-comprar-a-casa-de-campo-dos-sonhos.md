@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como comprar a casa de campo dos sonhos
-        slug: saiba-como-comprar-a-casa-de-campo-dos-sonhos
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-comprar-a-casa-de-campo-dos-sonhos.jpg
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        Vivendo a nova realidade percebemos que o **contato com a natureza** pode fazer toda a diferença no dia a dia. Estar em uma casa com mais espaço, [aconchegante](https://www.embracon.com.br/blog/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020), com ambientes próprios para descanso e para receber amigos é uma meta para muita gente - tanto que com a pandemia, muitos se isolaram no interior das cidades ou mesmo na praia.
+titulo: Saiba como comprar a casa de campo dos sonhos
+slug: saiba-como-comprar-a-casa-de-campo-dos-sonhos
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-comprar-a-casa-de-campo-dos-sonhos.jpg
+meta_summary: 
+date: 30/09/2021
+---
+Vivendo a nova realidade percebemos que o **contato com a natureza** pode fazer toda a diferença no dia a dia. Estar em uma casa com mais espaço, [aconchegante](https://www.embracon.com.br/blog/saiba-quais-sao-as-tendencias-de-reforma-e-decoracao-mais-utilizados-em-2020), com ambientes próprios para descanso e para receber amigos é uma meta para muita gente - tanto que com a pandemia, muitos se isolaram no interior das cidades ou mesmo na praia.
 
 Existem muitas vantagens em uma **casa de campo** e a primeira delas, com certeza, é estar **longe do trânsito e do caos das grandes cidades**, em cidades mais tranquilas e com mais natureza. Ser proprietário de uma casa de campo faz inclusive com que você sempre tenha um lugar com o seu jeito para passar as férias, feriados e finais de semana, sem ter que se preocupar com valores e diárias de hotéis e pousadas.
 
@@ -59,4 +59,3 @@ Ficou animado com a possibilidade de ter uma casa de campo para chamar de sua? C
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Não esqueça de nos seguir nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter ](https://twitter.com/Embracon)e [LinkedIn](https://www.linkedin.com/company/embracon-administradora-de-cons-rcio-ltda./), além de um canal incrível no [YouTube](https://www.youtube.com/embracon).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Imóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb47cfe6bacb1bbd4d5bdc7_CTA-Imoveis.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>‍
-        

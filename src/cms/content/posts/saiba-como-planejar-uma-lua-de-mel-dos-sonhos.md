@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como planejar uma lua de mel dos sonhos
-        slug: saiba-como-planejar-uma-lua-de-mel-dos-sonhos
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/saiba-como-planejar-uma-lua-de-mel-dos-sonhos.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Saber como planejar uma lua de mel dos sonhos é essencial, afinal, é o momento que se inicia a vida do casal. Torná-lo inesquecível é uma ótima maneira de começar essa nova fase com o pé direito!
+titulo: Saiba como planejar uma lua de mel dos sonhos
+slug: saiba-como-planejar-uma-lua-de-mel-dos-sonhos
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/saiba-como-planejar-uma-lua-de-mel-dos-sonhos.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Saber como planejar uma lua de mel dos sonhos é essencial, afinal, é o momento que se inicia a vida do casal. Torná-lo inesquecível é uma ótima maneira de começar essa nova fase com o pé direito!
 
 Para que tudo aconteça dentro das expectativas, é importante fazer um planejamento coeso. É preciso estar por dentro de cada detalhe e trabalhar sempre dentro da realidade do casal.
 
@@ -63,4 +63,3 @@ Depois de decidir sobre os pontos mais importantes, garanta todas as reservas ne
 Essas são algumas dicas essenciais de como planejar uma lua de mel. Não se esqueça de que o planejamento a dois é sempre o mais recomendado. Também vale conversar com os amigos e parentes mais próximos, pois sempre é possível conseguir boas dicas ou mesmo um apoio para as despesas da viagem. Analise as informações deste post e planeje-se!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

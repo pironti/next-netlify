@@ -1,14 +1,14 @@
 ---
-        titulo: Saiba como identificar e eliminar os gastos desnecessários
-        slug: como-identificar-e-eliminar-gastos-desnecessarios
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-identificar-e-eliminar-gastos-desnecessarios.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Economia é uma palavra que vem ganhando cada vez mais importância na[ rotina financeira](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) das famílias brasileiras. Uma das ações mais assertivas para economizar é identificar e eliminar gastos desnecessários do seu [orçamento](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal).
+titulo: Saiba como identificar e eliminar os gastos desnecessários
+slug: como-identificar-e-eliminar-gastos-desnecessarios
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-identificar-e-eliminar-gastos-desnecessarios.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Economia é uma palavra que vem ganhando cada vez mais importância na[ rotina financeira](https://www.embracon.com.br/blog/planejamento-financeiro-um-guia-para-as-financas-nao-sairem-de-controle) das famílias brasileiras. Uma das ações mais assertivas para economizar é identificar e eliminar gastos desnecessários do seu [orçamento](https://www.embracon.com.br/blog/como-organizar-as-financas-do-casal).
 
 **‍**Independentemente da sua [situação financeira](https://www.embracon.com.br/blog/financas-da-familia-como-ensinar-os-filhos-a-economizar-dinheiro), sempre é possível melhorar sua gestão financeira para que, no final do mês, sobre aquele dinheiro para um [investimento ](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento)ou para ter mais segurança com as contas realmente necessárias.
 
@@ -125,4 +125,3 @@ Com os devidos ajustes, é possível juntar dinheiro ao [cortar gastos desnecess
 Gostou das nossas dicas? Quer ajudar seus amigos e familiares a economizarem também? Compartilhe este post em suas redes sociais favoritas!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

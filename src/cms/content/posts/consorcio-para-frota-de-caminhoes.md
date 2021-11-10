@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio para frota de caminhões
-        slug: consorcio-para-frota-de-caminhoes
-        categoria: Pesados
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-para-frota-de-caminhoes.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Tem interesse em ter sua própria frota de caminhões? Geralmente os empreendedores que usam frotas em suas empresas vivem buscando soluções em relação a esse tipo de operacionalidade. Afinal, seria interessante terceirizar o serviço ou atuar com veículos próprios?
+titulo: Consórcio para frota de caminhões
+slug: consorcio-para-frota-de-caminhoes
+categoria: Pesados
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-para-frota-de-caminhoes.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Tem interesse em ter sua própria frota de caminhões? Geralmente os empreendedores que usam frotas em suas empresas vivem buscando soluções em relação a esse tipo de operacionalidade. Afinal, seria interessante terceirizar o serviço ou atuar com veículos próprios?
 
 Conforme as pesquisas apontam, a soma final dos juros de financiamento de caminhões pode chegar a 15% ao ano. Dentro desse cenário, o [consórcio de caminhões](https://www.embracon.com.br/blog/como-funciona-o-consorcio-de-maquinas-agricolas-e-caminhoes) tem sido uma ótima opção para solucionar o problema.
 
@@ -114,4 +114,3 @@ E então, está esperando o que para aproveitar essa estratégia e utilizar o co
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_frota_de_caminhoes&utm_campaign=publicacoes_blog), vamos te apresentar todos os passos necessários para esse investimento!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/6058f873a0df67add1b7c900_EMBRACON_CTA_PESADOS_1.png)</div>](https://www.embracon.com.br/consorcio-de-veiculos-pesados/?utm_source=blog&utm_medium=referral&utm_content=consorcio_para_frota_de_caminhoes&utm_campaign=publicacoes_blog)</figure>
-        

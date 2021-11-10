@@ -1,14 +1,14 @@
 ---
-        titulo: Quando a cirurgia plástica é a melhor opção?
-        slug: quando-a-cirurgia-plastica-e-a-melhor-opcao
-        categoria: Saúde e Estética
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quando-a-cirurgia-plastica-e-a-melhor-opcao.jpg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        A tecnologia tem permitido uma série de mudanças que não eram possíveis há alguns anos. Hoje em dia, é possível [mudar de carro](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), de computador e, até mesmo, de aparência. A cirurgia plástica é, sem dúvidas, um dos grandes adventos do século XXI e mobiliza um mercado substancial.
+titulo: Quando a cirurgia plástica é a melhor opção?
+slug: quando-a-cirurgia-plastica-e-a-melhor-opcao
+categoria: Saúde e Estética
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quando-a-cirurgia-plastica-e-a-melhor-opcao.jpg
+meta_summary: 
+date: 05/10/2021
+---
+A tecnologia tem permitido uma série de mudanças que não eram possíveis há alguns anos. Hoje em dia, é possível [mudar de carro](https://www.embracon.com.br/blog/confira-9-sinais-de-que-e-hora-de-trocar-de-carro), de computador e, até mesmo, de aparência. A cirurgia plástica é, sem dúvidas, um dos grandes adventos do século XXI e mobiliza um mercado substancial.
 
 Sabe em quais situações a [cirurgia plástica](https://www.embracon.com.br/blog/por-que-fazer-um-consorcio-de-cirurgia-plastica) pode se mostrar a melhor opção? Continue a leitura deste post e veja quando e como [realizar uma intervenção cirúrgica](https://www.embracon.com.br/blog/saiba-quais-sao-as-cirurgias-plasticas-mais-realizadas-no-brasil).
 
@@ -47,4 +47,3 @@ A cirurgia plástica é um assunto que pode ser controverso e polêmico. Mas ess
 > Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
 
 ‍
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça 5 formas para pagar uma viagem e escolha a melhor para você
-        slug: conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce.jpeg
-        meta_summary: 
-        date: 05/10/2021
-        ---
-        Você trabalha o ano inteiro, enfrenta as dificuldades do serviço, vence o estresse e, por isso, merece as férias dos seus sonhos. Mas lugares distantes ou badalados, na alta temporada, podem custar bem caro. Assim, o bom é ir conhecendo as alternativas existentes para pagar uma viagem e começar a se planejar com antecedência.
+titulo: Conheça 5 formas para pagar uma viagem e escolha a melhor para você
+slug: conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-5-formas-para-pagar-uma-viagem-e-escolha-a-melhor-para-voce.jpeg
+meta_summary: 
+date: 05/10/2021
+---
+Você trabalha o ano inteiro, enfrenta as dificuldades do serviço, vence o estresse e, por isso, merece as férias dos seus sonhos. Mas lugares distantes ou badalados, na alta temporada, podem custar bem caro. Assim, o bom é ir conhecendo as alternativas existentes para pagar uma viagem e começar a se planejar com antecedência.
 
 Se tem uma coisa que ninguém quer nas férias, feriados prolongados ou finais de semana é se estressar por causa de dinheiro. Já pensou não poder pagar por uma atração turística ou por uma hospedagem em boas acomodações?
 
@@ -69,4 +69,3 @@ O que achou do consórcio de viagens? Ficou alguma dúvida ou interesse por mais
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

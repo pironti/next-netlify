@@ -1,14 +1,14 @@
 ---
-        titulo: Tesouro Direto: guia rápido com tudo o que você precisa saber
-        slug: tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        O Tesouro Direto é uma das [opções de investimento](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira) que mais tem atraído os poupadores brasileiros. Com a queda no rendimento da tradicional caderneta de poupança e a incerteza do mercado de ações, os títulos públicos oferecem uma opção viável para investidores que buscam aliar rentabilidade e baixo risco.
+titulo: Tesouro Direto: guia rápido com tudo o que você precisa saber
+slug: tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/tesouro-direto-guia-rapido-com-tudo-o-que-voce-precisa-saber.jpg
+meta_summary: 
+date: 23/09/2021
+---
+O Tesouro Direto é uma das [opções de investimento](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira) que mais tem atraído os poupadores brasileiros. Com a queda no rendimento da tradicional caderneta de poupança e a incerteza do mercado de ações, os títulos públicos oferecem uma opção viável para investidores que buscam aliar rentabilidade e baixo risco.
 
 Mesmo com o avanço das opções de [investimento](https://www.embracon.com.br/blog/8-motivos-que-comprovam-que-consorcio-e-investimento), o brasileiro mantém perfil conservador nesse assunto.
 
@@ -159,4 +159,3 @@ No entanto, é necessário ficar atento às taxas, imposto e prazos dos títulos
 Gostou das dicas? Para receber mais informações sobre educação [financeira](https://www.embracon.com.br/blog/entenda-a-importancia-da-educacao-financeira-na-sua-vida),[ investimentos](https://www.embracon.com.br/blog/como-investir-em-curto-medio-e-longo-prazo) e aplicações no **Tesouro Direto**, assine nossa newsletter.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Institucional](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://embracon.com.br/consorcio?utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=institucional)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

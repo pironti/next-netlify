@@ -1,14 +1,14 @@
 ---
-        titulo: Consórcio de serviços: saiba tudo sobre a modalidade
-        slug: consorcio-de-servicos-saiba-tudo-sobre-a-modalidade
-        categoria: Serviços
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/consorcio-de-servicos-saiba-tudo-sobre-a-modalidade.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        Você já ouviu falar na categoria de [consórcio de serviços](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto)? Com ele, você pode investir em experiências diferentes, contando com toda a tradição de uma das modalidades mais procuradas para quem quer investir em bens de alto valor.
+titulo: Consórcio de serviços: saiba tudo sobre a modalidade
+slug: consorcio-de-servicos-saiba-tudo-sobre-a-modalidade
+categoria: Serviços
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/consorcio-de-servicos-saiba-tudo-sobre-a-modalidade.jpg
+meta_summary: 
+date: 23/09/2021
+---
+Você já ouviu falar na categoria de [consórcio de serviços](https://www.embracon.com.br/blog/consorcio-de-servicos-tudo-o-que-voce-precisa-saber-sobre-o-assunto)? Com ele, você pode investir em experiências diferentes, contando com toda a tradição de uma das modalidades mais procuradas para quem quer investir em bens de alto valor.
 
 Se você quer planejar as suas próximas férias, preparar o intercâmbio ou até mesmo pensar na festa de aniversário dos seus filhos, pode contar com toda a mecânica do consórcio para realizar não apenas os seus, mas os [sonhos de toda a sua família](https://www.embracon.com.br/blog/como-escolher-um-destino-de-ferias-com-a-familia-confira-aqui).
 
@@ -290,4 +290,3 @@ Com planejamento e calma, o [consórcio de serviços é a melhor forma de invest
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) e comece desde já a organizar as suas próximas férias, realizar o sonho de fazer um intercâmbio, reformar toda a sua casa, pagar por um procedimento estético ou, quem sabe, até mesmo planejar o seu casamento!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio de Serviço](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fd8f470a78fd6793e95b16f_CTA-Servicos.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

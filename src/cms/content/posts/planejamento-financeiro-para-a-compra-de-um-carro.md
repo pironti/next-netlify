@@ -1,14 +1,14 @@
 ---
-        titulo: Planejamento financeiro para a compra de um carro
-        slug: planejamento-financeiro-para-a-compra-de-um-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/planejamento-financeiro-para-a-compra-de-um-carro.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A [compra de um carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao) envolve muitas coisas: organização financeira, disciplina e, claro, até mesmo o fator emocional. Cada um tem um gosto diferente para a compra do modelo que deseja colocar na garagem de [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce).
+titulo: Planejamento financeiro para a compra de um carro
+slug: planejamento-financeiro-para-a-compra-de-um-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/planejamento-financeiro-para-a-compra-de-um-carro.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A [compra de um carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao) envolve muitas coisas: organização financeira, disciplina e, claro, até mesmo o fator emocional. Cada um tem um gosto diferente para a compra do modelo que deseja colocar na garagem de [casa ou apartamento](https://www.embracon.com.br/blog/casa-ou-apartamento-qual-a-melhor-escolha-para-voce).
 
 Claro que todos têm um sonho quando se trata de modelos de automóveis. Mas, será que você está disposto a fazer o que for preciso para a compra do seu carro? A que necessidade ele atende: emocional ou possui uma função em específico, seja para [passeio ou a trabalho](https://www.embracon.com.br/blog/carro-de-passeio-como-escolher-a-melhor-opcao)?
 
@@ -70,4 +70,3 @@ Após passar pela [análise de crédito](https://www.embracon.com.br/blog/como-f
 Portanto, não adie a decisão de ter um veículo novo na garagem. [Faça uma simulação de consórcio de automóveis](https://www.embracon.com.br/consorcio-de-carros) e inicie o quanto antes a realização do seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

@@ -1,14 +1,14 @@
 ---
-        titulo: Aumentar o patrimônio investindo em consórcio
-        slug: aumentar-o-patrimonio-investindo-em-consorcio
-        categoria: Consórcio
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/aumentar-o-patrimonio-investindo-em-consorcio.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Sem sombra de dúvidas o consórcio é mesmo um[ investimento](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira) versátil. Isso porque ajuda as pessoas a construírem patrimônio de forma planejada, também é possível realizar uma festa de formatura, aquela viagem tão sonhada ou, até mesmo, reformar sua casa —, e ainda tem mais, você sabia que ainda é possível [aumentar seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) com o consórcio?
+titulo: Aumentar o patrimônio investindo em consórcio
+slug: aumentar-o-patrimonio-investindo-em-consorcio
+categoria: Consórcio
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/aumentar-o-patrimonio-investindo-em-consorcio.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Sem sombra de dúvidas o consórcio é mesmo um[ investimento](https://www.embracon.com.br/blog/quais-sao-os-melhores-tipos-de-investimentos-atualmente-confira) versátil. Isso porque ajuda as pessoas a construírem patrimônio de forma planejada, também é possível realizar uma festa de formatura, aquela viagem tão sonhada ou, até mesmo, reformar sua casa —, e ainda tem mais, você sabia que ainda é possível [aumentar seu patrimônio](https://www.embracon.com.br/blog/e-possivel-aumentar-o-patrimonio-saiba-aqui) com o consórcio?
 
 Exatamente isso! Muitas pessoas têm utilizado essa modalidade para aumentar seus rendimentos.
 
@@ -249,4 +249,3 @@ Se restou alguma dúvida sobre como fazer um consórcio, não deixe de fazer con
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=aumentar_o_patrimonio_investindo_em_consorcio&utm_campaign=publicacoes_blog)</figure>‍  
 
 ----
-        

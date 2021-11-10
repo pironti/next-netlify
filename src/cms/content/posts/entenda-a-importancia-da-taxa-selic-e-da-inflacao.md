@@ -1,14 +1,14 @@
 ---
-        titulo: Entenda a importância da taxa Selic e da inflação
-        slug: entenda-a-importancia-da-taxa-selic-e-da-inflacao
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/entenda-a-importancia-da-taxa-selic-e-da-inflacao.png
-        meta_summary: 
-        date: 30/09/2021
-        ---
-        No nosso dia a dia nos deparamos com muitas situações que dependem do andamento da economia: o preço da carne mais caro, aumento no valor do combustível, juros mais altos de empréstimos…
+titulo: Entenda a importância da taxa Selic e da inflação
+slug: entenda-a-importancia-da-taxa-selic-e-da-inflacao
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/entenda-a-importancia-da-taxa-selic-e-da-inflacao.png
+meta_summary: 
+date: 30/09/2021
+---
+No nosso dia a dia nos deparamos com muitas situações que dependem do andamento da economia: o preço da carne mais caro, aumento no valor do combustível, juros mais altos de empréstimos…
 
 Esses e outros índices dependem de diferentes variáveis econômicas. Da mesma forma que produtos importados de outros países ficam mais caros quando o real é desvalorizado, outros fatores são influenciados por conta de índices importantes.
 
@@ -74,4 +74,3 @@ Entendeu como funciona a taxa Selic e a inflação no nosso país? Assine a noss
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45e9683dae375ec3b51d9_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>> Siga nosso [Facebook](https://pt-br.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/?hl=pt-br) e [LinkedIn](https://www.linkedin.com/company/1018875/admin/).
 
 ‍
-        

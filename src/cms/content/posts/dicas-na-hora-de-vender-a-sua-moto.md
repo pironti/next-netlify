@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas na hora de vender a sua moto
-        slug: dicas-na-hora-de-vender-a-sua-moto
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-na-hora-de-vender-a-sua-moto.jpg
-        meta_summary: 
-        date: 19/10/2021
-        ---
-        O número de segmentos de [motocicletas](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto) usadas é impressionante nos últimos anos. Embora as vendas de motocicletas novas tenham se aproximado de 1 milhão em 2020, cerca de 2,9 milhões de motocicletas usadas mudaram de mãos durante o mesmo período.
+titulo: Dicas na hora de vender a sua moto
+slug: dicas-na-hora-de-vender-a-sua-moto
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-na-hora-de-vender-a-sua-moto.jpg
+meta_summary: 
+date: 19/10/2021
+---
+O número de segmentos de [motocicletas](https://www.embracon.com.br/blog/5-vantagens-consorcio-de-moto) usadas é impressionante nos últimos anos. Embora as vendas de motocicletas novas tenham se aproximado de 1 milhão em 2020, cerca de 2,9 milhões de motocicletas usadas mudaram de mãos durante o mesmo período.
 
 Por razões de preço ou gosto pessoal, muitos motociclistas escolhem [motocicletas usadas](https://www.embracon.com.br/blog/faca-o-consorcio-de-moto-e-realize-seu-sonho). No entanto, ao contrário da zero km, comprar ou vender motos usadas ​​requer uma documentação mais cuidadosa.
 
@@ -186,4 +186,3 @@ Não se esqueça, a internet pode ser uma grande aliada na hora de [vender moto]
 Se seu desejo é comprar uma moto, você pode investir em um [consórcio de automóveis](https://www.embracon.com.br/servicos/consorcio-automoveis), visite o site da Embracon, administradora de consórcio, faça sua simulação.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c90f92300eb1260193256e_CTA_MOTO.png)</div>](https://www.embracon.com.br/consorcio-motos/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

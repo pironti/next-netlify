@@ -1,14 +1,14 @@
 ---
-        titulo: Organize suas finanças antes de comprar seu primeiro carro
-        slug: organize-suas-financas-antes-de-comprar-seu-primeiro-carro
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/organize-suas-financas-antes-de-comprar-seu-primeiro-carro.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Existem diversos motivos que levam uma pessoa a [comprar um carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao). Seja pela liberdade de poder se mover, realizar mais viagens pelas estradas ou até mesmo para o trabalho, o automóvel foi e continua sendo um dos bens mais queridos pelo brasileiro.
+titulo: Organize suas finanças antes de comprar seu primeiro carro
+slug: organize-suas-financas-antes-de-comprar-seu-primeiro-carro
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/organize-suas-financas-antes-de-comprar-seu-primeiro-carro.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Existem diversos motivos que levam uma pessoa a [comprar um carro](https://www.embracon.com.br/blog/pensando-em-comprar-um-carro-saiba-o-que-levar-em-consideracao). Seja pela liberdade de poder se mover, realizar mais viagens pelas estradas ou até mesmo para o trabalho, o automóvel foi e continua sendo um dos bens mais queridos pelo brasileiro.
 
 Quando se trata da compra do [primeiro carro](https://www.embracon.com.br/blog/primeiro-carro-como-acertar-na-escolha), então, é difícil não considerar o lado emocional. Nosso primeiro veículo é marcante: é com ele que serão feitas as primeiras aventuras, em que serão coletados aprendizados importantes para, no futuro, trocar por outros modelos. Porque uma coisa é saber o que fazer com o carro. Outra, totalmente diferente, é vivenciar isso na prática.
 
@@ -85,4 +85,3 @@ Com preparo, pesquisa e paciência, você vai conseguir investir no seu primeiro
 > Portanto, [faça já uma simulação](https://www.embracon.com.br/consorcio-de-carros) de consórcio de automóveis e junte-se a milhões de brasileiros que já realizaram o sonho do primeiro carro, seja seminovo ou zero km.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Automóvel ](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros)</figure>
-        

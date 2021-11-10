@@ -1,14 +1,14 @@
 ---
-        titulo: Dicas de viagem para a América do Sul
-        slug: dicas-de-viagem-para-a-america-do-sul
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/dicas-de-viagem-para-a-america-do-sul.jpg
-        meta_summary: 
-        date: 28/09/2021
-        ---
-        O tão amado[ ato de viajar](https://www.embracon.com.br/blog/jeitos-criativos-de-economizar-dinheiro-para-viajar) está voltando a fazer parte da nossa realidade. Depois de meses sem muitas perspectivas, agora já está começando a ser possível começar a planejar viagens pelo mundo. E convenhamos que o mundo tem muitos lugares incríveis para serem conhecidos. E que tal começar o roteiro para uma viagem pela[ América do Sul](https://www.embracon.com.br/blog/os-melhores-destinos-de-viagem-na-america-do-sul) para conhecer melhor países tão incríveis como Argentina, Chile e Uruguai.
+titulo: Dicas de viagem para a América do Sul
+slug: dicas-de-viagem-para-a-america-do-sul
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/dicas-de-viagem-para-a-america-do-sul.jpg
+meta_summary: 
+date: 28/09/2021
+---
+O tão amado[ ato de viajar](https://www.embracon.com.br/blog/jeitos-criativos-de-economizar-dinheiro-para-viajar) está voltando a fazer parte da nossa realidade. Depois de meses sem muitas perspectivas, agora já está começando a ser possível começar a planejar viagens pelo mundo. E convenhamos que o mundo tem muitos lugares incríveis para serem conhecidos. E que tal começar o roteiro para uma viagem pela[ América do Sul](https://www.embracon.com.br/blog/os-melhores-destinos-de-viagem-na-america-do-sul) para conhecer melhor países tão incríveis como Argentina, Chile e Uruguai.
 
 Pensando em quem tem essa vontade de estar mais próximo dos nossos hermanos, montamos uma lista com dicas para quem quer viajar pela América do Sul. São tantos mistérios e cidades com realidades completamente diferentes do que estamos acostumados, que vale a pena montar um cronograma de viagem só para a América do Sul. Confira a seguir:
 
@@ -45,4 +45,3 @@ Gostou? Agora é só fazer as malas e contar com a ajuda da Embracon para aprove
 > [Faça uma simulação](https://www.embracon.com.br/consorcio-servicos) em nosso site e conheça todas as opções para você realizar a viagem dos seus sonhos!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fe236bb81aec9ae07d248cb_CTA-Viagem.png)</div>](https://www.embracon.com.br/consorcio-servicos)</figure>
-        

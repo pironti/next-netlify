@@ -1,14 +1,14 @@
 ---
-        titulo: 4 razões para investir em um curso de língua estrangeira
-        slug: 4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua
-        categoria: 
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua.jpg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Todos nós já sabemos que é importante investir em um [segundo idioma](https://www.embracon.com.br/blog/entenda-a-importancia-de-aprender-a-falar-ingles) (ou terceiro, quarto...), certo? Entretanto, você sabe exatamente quais são as razões para investir em um curso de idiomas? Geralmente pensamos em nosso currículo e em viajar e conhecer outras culturas. Porém, aprender uma nova língua nos proporciona muitos outros benefícios, como a melhoria da capacidade cognitiva.Conhecer outra língua é como ter uma segunda alma, já que até mesmo a forma de raciocinar muda de um idioma para o outro. Interessante, não é? Neste artigo, abordamos alguns dos motivos para investir em um curso de idiomas.
+titulo: 4 razões para investir em um curso de língua estrangeira
+slug: 4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua
+categoria: 
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/4-razoes-para-investir-em-um-curso-de-idiomas-e-aprender-uma-nova-lingua.jpg
+meta_summary: 
+date: 04/10/2021
+---
+Todos nós já sabemos que é importante investir em um [segundo idioma](https://www.embracon.com.br/blog/entenda-a-importancia-de-aprender-a-falar-ingles) (ou terceiro, quarto...), certo? Entretanto, você sabe exatamente quais são as razões para investir em um curso de idiomas? Geralmente pensamos em nosso currículo e em viajar e conhecer outras culturas. Porém, aprender uma nova língua nos proporciona muitos outros benefícios, como a melhoria da capacidade cognitiva.Conhecer outra língua é como ter uma segunda alma, já que até mesmo a forma de raciocinar muda de um idioma para o outro. Interessante, não é? Neste artigo, abordamos alguns dos motivos para investir em um curso de idiomas.
 
 Quer saber mais sobre o assunto? Então confira!
 
@@ -50,4 +50,3 @@ Investir em um curso de idiomas serve como auxílio para as suas funções cereb
 Como você pôde perceber, há inúmeras razões para investir em um curso de idiomas e aprender uma nova língua. Seja para sua jornada pessoal ou profissional, isso pode trazer oportunidades únicas, como ser promovido em sua empresa ou conhecer profundamente uma nova cultura.Lembrando que, caso a sua situação financeira atual não permita o investimento imediato em algum curso, é interessante considerar participar de um [consórcio](https://www.embracon.com.br/blog/tire-as-suas-duvidas-sobre-o-consorcio-de-educacao-embracon).E então, gostou deste artigo? Percebeu a importância de investir em um curso de idiomas? Caso queira ter acesso a mais conteúdos informativos como este, assine já a nossa newsletter!
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

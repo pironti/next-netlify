@@ -1,14 +1,14 @@
 ---
-        titulo: Como escolher uma casa de praia perfeita
-        slug: como-escolher-uma-casa-de-praia-perfeita
-        categoria: Imóveis
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-escolher-uma-casa-de-praia-perfeita.jpg
-        meta_summary: 
-        date: 29/09/2021
-        ---
-        Ter uma [casa na praia](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio) significa mais do que apenas relaxar nos finais de semana. Com cada vez mais pessoas[ trabalhando em esquema home office](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado), uma casa na praia significa também poder passar dias acordando cedinho e com a chance de dar uma corridinha na praia. E por que não uma água de coco na hora do almoço? Ou mesmo passar o mês inteiro de férias aproveitando o [seu segundo lar](https://www.embracon.com.br/blog/segunda-casa-o-consorcio-pode-te-ajudar) com a sua família.
+titulo: Como escolher uma casa de praia perfeita
+slug: como-escolher-uma-casa-de-praia-perfeita
+categoria: Imóveis
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-escolher-uma-casa-de-praia-perfeita.jpg
+meta_summary: 
+date: 29/09/2021
+---
+Ter uma [casa na praia](https://www.embracon.com.br/blog/tudo-sobre-o-consorcio) significa mais do que apenas relaxar nos finais de semana. Com cada vez mais pessoas[ trabalhando em esquema home office](https://www.embracon.com.br/blog/home-office-5-dicas-para-manter-o-cantinho-de-trabalho-organizado), uma casa na praia significa também poder passar dias acordando cedinho e com a chance de dar uma corridinha na praia. E por que não uma água de coco na hora do almoço? Ou mesmo passar o mês inteiro de férias aproveitando o [seu segundo lar](https://www.embracon.com.br/blog/segunda-casa-o-consorcio-pode-te-ajudar) com a sua família.
 
 As vantagens de ter um imóvel na praia não param apenas no lazer. Mas ser proprietário de uma casa ou apartamento na regiões litorâneas do Brasil tem também um ótimo custo-benefício. Isso porque eles estão sempre valorizando.
 
@@ -59,4 +59,3 @@ Além disso, ele sabe quais os melhores preços, quais [melhores bairros para pr
 > Ter uma casa na praia é o seu sonho? Então não espere mais, comece a pesquisar e conte com a Embracon para te ajudar a realizar.[ Faça uma simulação](https://www.embracon.com.br/consorcio-de-imoveis) em nosso site e saiba quais melhores opções para você.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio Imóvel](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5ebc30b41bf0862933922aad_CTA-Casamento2.png)</div>](https://www.embracon.com.br/consorcio-de-imoveis)</figure>
-        

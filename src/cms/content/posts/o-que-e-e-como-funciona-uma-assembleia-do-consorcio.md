@@ -1,14 +1,14 @@
 ---
-        titulo: O que é e como funciona uma assembleia do consórcio?
-        slug: o-que-e-e-como-funciona-uma-assembleia-do-consorcio
-        categoria: Assembleias
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-uma-assembleia-do-consorcio.jpg
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Quem deseja comprar um bem de alto valor, como um carro, uma casa, apartamento, moto ou até mesmo realizar diversos tipos de serviços, pode contar com a [facilidade do consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio), uma modalidade que facilita no parcelamento da compra, sem a necessidade de cobrar entrada ou juros.
+titulo: O que é e como funciona uma assembleia do consórcio?
+slug: o-que-e-e-como-funciona-uma-assembleia-do-consorcio
+categoria: Assembleias
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/o-que-e-e-como-funciona-uma-assembleia-do-consorcio.jpg
+meta_summary: 
+date: 24/09/2021
+---
+Quem deseja comprar um bem de alto valor, como um carro, uma casa, apartamento, moto ou até mesmo realizar diversos tipos de serviços, pode contar com a [facilidade do consórcio](https://www.embracon.com.br/blog/afinal-o-que-e-o-consorcio), uma modalidade que facilita no parcelamento da compra, sem a necessidade de cobrar entrada ou juros.
 
 Sem burocracia, você pode começar a pagar pelo consórcio após [realizar a simulação do bem](https://www.embracon.com.br/blog/simulacao-de-consorcio), ler e assinar o contrato. Você não sai com o bem de imediato, como acontece com outras possibilidades de pagamento, porque o consórcio se trata de uma [modalidade de autofinanciamento](https://www.embracon.com.br/blog/autofinanciamento-o-que-e-e-como-um-consorcio-pode-ajuda-lo).
 
@@ -71,4 +71,3 @@ A carta de crédito dá poder de compra à vista ao consorciado. Isso dá uma [g
 > Portanto, aproveite desde já as facilidades do consórcio. [Faça uma simulação](https://www.embracon.com.br/) e invista desde já na realização do seu sonho.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

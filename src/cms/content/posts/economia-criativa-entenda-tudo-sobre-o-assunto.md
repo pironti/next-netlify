@@ -1,14 +1,14 @@
 ---
-        titulo: Economia criativa: entenda tudo sobre o assunto
-        slug: economia-criativa-entenda-tudo-sobre-o-assunto
-        categoria: Finanças Pessoais
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/economia-criativa-entenda-tudo-sobre-o-assunto.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Economia criativa é o conjunto de negócios e atividades que estão baseados na criatividade, sempre ancorados na cultura e no capital intelectual, mas que se ramificam para outras áreas de atuação.
+titulo: Economia criativa: entenda tudo sobre o assunto
+slug: economia-criativa-entenda-tudo-sobre-o-assunto
+categoria: Finanças Pessoais
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/economia-criativa-entenda-tudo-sobre-o-assunto.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Economia criativa é o conjunto de negócios e atividades que estão baseados na criatividade, sempre ancorados na cultura e no capital intelectual, mas que se ramificam para outras áreas de atuação.
 
 Diferentemente de indústrias tradicionais, a economia criativa leva em consideração os ciclos de criação, produção e distribuição de bens baseados no intelectual.
 
@@ -271,4 +271,3 @@ Mas, como lidar com todas essas transformações? E como a economia criativa dev
 > E está pensando em maneira de economizar e lidar com o dinheiro? O consórcio é uma possibilidade, [faça uma simulação.](https://www.embracon.com.br/consorcio)
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fdbc07117281b4a6c947f86_CTA-Generico.png)</div>](https://www.embracon.com.br/consorcio)</figure>
-        

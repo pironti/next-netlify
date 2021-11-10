@@ -1,14 +1,14 @@
 ---
-        titulo: Motos: confira os modelos mais novos do mercado
-        slug: motos-confira-os-modelos-mais-novos-do-mercado
-        categoria: Moto
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/motos-confira-os-modelos-mais-novos-do-mercado.jpeg
-        meta_summary: 
-        date: 08/10/2021
-        ---
-        Após alguns anos de queda, as vendas de motocicleta voltaram a apresentar bons índices. O ano de 2018 apresentou crescimento de 10% a mais de vendas comparado ao ano anterior, segundo dados da Fenabrave (Federação Nacional da Distribuição de Veículos Automotores).
+titulo: Motos: confira os modelos mais novos do mercado
+slug: motos-confira-os-modelos-mais-novos-do-mercado
+categoria: Moto
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/motos-confira-os-modelos-mais-novos-do-mercado.jpeg
+meta_summary: 
+date: 08/10/2021
+---
+Após alguns anos de queda, as vendas de motocicleta voltaram a apresentar bons índices. O ano de 2018 apresentou crescimento de 10% a mais de vendas comparado ao ano anterior, segundo dados da Fenabrave (Federação Nacional da Distribuição de Veículos Automotores).
 
 Por conta disso, as montadoras estão animadas para trazer novos modelos de moto ao mercado brasileiro.
 
@@ -65,4 +65,3 @@ No Brasil, o preço sugerido é de R$ 18.990.
 E aí, já sabe [qual moto deve comprar em 2019](https://www.embracon.com.br/blog/o-que-e-como-funciona-o-consorcio-de-carros-e-motos)? Se ainda estiver em dúvidas de como começar a pagar, considere o [consórcio de motocicletas](https://www.embracon.com.br/consorcio-motos). Basta selecionar o valor da carta de crédito e a quantidade de parcelas no nosso [simulador](https://www.embracon.com.br/consorcio).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Motocicletas](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb047da694e1574185fc313_CTA-MOTO.png)</div>](https://embracon.com.br/consorcio?motocicleta&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=motocicletas)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

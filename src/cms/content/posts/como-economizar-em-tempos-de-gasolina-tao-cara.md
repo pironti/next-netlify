@@ -1,14 +1,14 @@
 ---
-        titulo: Como economizar em tempos de gasolina tão cara?
-        slug: como-economizar-em-tempos-de-gasolina-tao-cara
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-economizar-em-tempos-de-gasolina-tao-cara.jpg
-        meta_summary: 
-        date: 27/09/2021
-        ---
-        Antes mesmo de pegar o [carro para sair a passeio](https://www.embracon.com.br/blog/carro-de-passeio-como-escolher-a-melhor-opcao) ou trabalhar, muitas pessoas já começam a pensar: ‘minha nossa, o preço da gasolina está muito caro!’.
+titulo: Como economizar em tempos de gasolina tão cara?
+slug: como-economizar-em-tempos-de-gasolina-tao-cara
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-economizar-em-tempos-de-gasolina-tao-cara.jpg
+meta_summary: 
+date: 27/09/2021
+---
+Antes mesmo de pegar o [carro para sair a passeio](https://www.embracon.com.br/blog/carro-de-passeio-como-escolher-a-melhor-opcao) ou trabalhar, muitas pessoas já começam a pensar: ‘minha nossa, o preço da gasolina está muito caro!’.
 
 Motivos não faltam para esse espanto. Somente no primeiro trimestre de 2021, o preço da gasolina passou por 6 reajustes no total, levando até mesmo à intervenção política no comando da Petrobras, empresa responsável por petróleos e combustíveis no país.
 
@@ -81,4 +81,3 @@ Como deu para perceber, manter o carro sempre em manutenção, ter uma direção
 Quer mais dicas sobre veículos? Confira nosso [guia completo de como comprar um seminovo](https://www.embracon.com.br/blog/carro-seminovo-guia-completo-para-comprar).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação Consórcio](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5fea4661d50eaf1d49237525_CTA-Automoveis2.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

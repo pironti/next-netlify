@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça os melhores SUVs do mercado
-        slug: conheca-os-melhores-suvs-do-mercado
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-os-melhores-suvs-do-mercado.jpg
-        meta_summary: 
-        date: 23/09/2021
-        ---
-        A [categoria de SUVs](https://www.embracon.com.br/blog/7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv) tem crescido nos últimos anos, o que levanta dúvidas sobre as principais características desse [tipo de carro](https://www.embracon.com.br/blog/consorcio-de-carro-compre-seu-automovel-sem-juros). Nos últimos anos, diversos lançamentos neste segmento ajudaram a popularizar os SUVs, mas também existem quem argumenta que apenas veículos robustos e duráveis ​​podem ser definidos como utilitários esportivos. Há tração nas quatro rodas.
+titulo: Conheça os melhores SUVs do mercado
+slug: conheca-os-melhores-suvs-do-mercado
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-os-melhores-suvs-do-mercado.jpg
+meta_summary: 
+date: 23/09/2021
+---
+A [categoria de SUVs](https://www.embracon.com.br/blog/7-dicas-para-escolher-entre-uma-caminhonete-ou-um-suv) tem crescido nos últimos anos, o que levanta dúvidas sobre as principais características desse [tipo de carro](https://www.embracon.com.br/blog/consorcio-de-carro-compre-seu-automovel-sem-juros). Nos últimos anos, diversos lançamentos neste segmento ajudaram a popularizar os SUVs, mas também existem quem argumenta que apenas veículos robustos e duráveis ​​podem ser definidos como utilitários esportivos. Há tração nas quatro rodas.
 
 O que são os SUVs? 
 -------------------
@@ -346,4 +346,3 @@ Você também pode fazer uma simulação para analisar as condições do seu con
 Confira também algumas dicas de como escolher o SUV ideal para sua família em [nosso site](https://www.embracon.com.br/blog/sedan-ou-suv-qual-e-o-melhor-modelo).
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center">[<div>![Simulação](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/60c3753af7d2dead79dcd468_CTA_AUTO.png)</div>](https://www.embracon.com.br/consorcio-de-carros/?utm_source=blog&utm_medium=referral&utm_content=)</figure>
-        

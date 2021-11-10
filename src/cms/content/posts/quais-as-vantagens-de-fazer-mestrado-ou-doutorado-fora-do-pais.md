@@ -1,14 +1,14 @@
 ---
-        titulo: Quais as vantagens de fazer mestrado ou doutorado fora do país
-        slug: quais-as-vantagens-de-fazer-mestrado-ou-doutorado-fora-do-pais
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/quais-as-vantagens-de-fazer-mestrado-ou-doutorado-fora-do-pais.jpeg
-        meta_summary: 
-        date: 04/10/2021
-        ---
-        Não há como discordar: estudar no exterior — seja fazendo um mestrado ou um doutorado fora do país — é uma oportunidade única para ampliar a sua bagagem cultural, ter diferentes vivências sociais e, ainda, se qualificar profissionalmente.
+titulo: Quais as vantagens de fazer mestrado ou doutorado fora do país
+slug: quais-as-vantagens-de-fazer-mestrado-ou-doutorado-fora-do-pais
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/quais-as-vantagens-de-fazer-mestrado-ou-doutorado-fora-do-pais.jpeg
+meta_summary: 
+date: 04/10/2021
+---
+Não há como discordar: estudar no exterior — seja fazendo um mestrado ou um doutorado fora do país — é uma oportunidade única para ampliar a sua bagagem cultural, ter diferentes vivências sociais e, ainda, se qualificar profissionalmente.
 
 Porém, esse é um assunto que gera muitos questionamentos. Especialmente no que diz respeito a como funciona, aos requisitos e aos custos que envolvem uma pós-graduação internacional. Por essa razão, preparamos este artigo especial para falar sobre o assunto. Acompanhe e tire suas dúvidas!
 
@@ -58,4 +58,3 @@ E então, gostou de saber mais a respeito de como funciona uma pós-graduação 
 > ‍
 
 ‍
-        

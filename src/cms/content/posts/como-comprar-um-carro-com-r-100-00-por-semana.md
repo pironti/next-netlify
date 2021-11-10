@@ -1,14 +1,14 @@
 ---
-        titulo: Como comprar um carro com R$ 100 por semana
-        slug: como-comprar-um-carro-com-r-100-00-por-semana
-        categoria: Carros
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-comprar-um-carro-com-r-100-00-por-semana.png
-        meta_summary: 
-        date: 24/09/2021
-        ---
-        Juntar dinheiro não é tarefa fácil, mas quando se pensa nas possibilidades em aberto quando se poupa... Há muito o que repensar. Por exemplo: você sabia que, com pouco mais de R$ 100 por semana, é possível comprar um carro?
+titulo: Como comprar um carro com R$ 100 por semana
+slug: como-comprar-um-carro-com-r-100-00-por-semana
+categoria: Carros
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-comprar-um-carro-com-r-100-00-por-semana.png
+meta_summary: 
+date: 24/09/2021
+---
+Juntar dinheiro não é tarefa fácil, mas quando se pensa nas possibilidades em aberto quando se poupa... Há muito o que repensar. Por exemplo: você sabia que, com pouco mais de R$ 100 por semana, é possível comprar um carro?
 
 Entre as diversas opções, o [consórcio](https://www.embracon.com.br/conhecaoconsorcio/entenda-o-consorcio) é o que mais se encaixa, porque proporciona uma maneira facilitada e econômica de você programar a compra do veículo seminovo ou o tão desejado zero km.
 
@@ -43,4 +43,3 @@ Após seguir todos esses passos, o simulador vai te mostrar os planos e parcelas
 Definido o objetivo, avalie as formas de traçar o orçamento mensal para encaixar as parcelas do consórcio, sem comprometer a sua renda.Fonte: [InfoMoney](https://www.infomoney.com.br/blogs/carros/o-mundo-sobre-muitas-rodas/post/7633025/o-bilionario-mercado-de-consorcios) / ABAC
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Automóveis](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb9b3515c6a1e441b77172e_CTA-Automoveis.png)</div>](https://embracon.com.br/consorcio?automovel&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=automoveis)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

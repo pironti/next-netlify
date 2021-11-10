@@ -1,14 +1,14 @@
 ---
-        titulo: Conheça os 6 melhores motivos para você viajar para Marrocos
-        slug: conheca-os-6-melhores-motivos-para-voce-viajar-para-marrocos
-        categoria: Viagens
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/conheca-os-6-melhores-motivos-para-voce-viajar-para-marrocos.jpg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Se você está se planejando para [conhecer um outro país](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos) durante suas férias, que tal viajar para Marrocos? Apesar de ser um [destino ](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil)ainda pouco explorado pelos turistas brasileiros, o país oferece experiências inesquecíveis que fazem valer muito a pena o investimento.Localizado no norte do continente Africano, o Marrocos é um país predominantemente de cultura árabe, o que já é um grande atrativo para quem adora conhecer diferentes formas de viver. Sua geografia também é um diferencial, já que suas paisagens são bem destoantes das que encontramos no Brasil, especialmente tratando-se das regiões desérticas.Para saber mais sobre o Marrocos e entender por que você deve planejar uma visita ao país, confira abaixo 6 motivos!
+titulo: Conheça os 6 melhores motivos para você viajar para Marrocos
+slug: conheca-os-6-melhores-motivos-para-voce-viajar-para-marrocos
+categoria: Viagens
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/conheca-os-6-melhores-motivos-para-voce-viajar-para-marrocos.jpg
+meta_summary: 
+date: 01/10/2021
+---
+Se você está se planejando para [conhecer um outro país](https://www.embracon.com.br/blog/por-que-fazer-um-intercambio-veja-7-bons-motivos) durante suas férias, que tal viajar para Marrocos? Apesar de ser um [destino ](https://www.embracon.com.br/blog/top-5-destinos-de-ferias-escolha-sua-proxima-viagem-pelo-brasil)ainda pouco explorado pelos turistas brasileiros, o país oferece experiências inesquecíveis que fazem valer muito a pena o investimento.Localizado no norte do continente Africano, o Marrocos é um país predominantemente de cultura árabe, o que já é um grande atrativo para quem adora conhecer diferentes formas de viver. Sua geografia também é um diferencial, já que suas paisagens são bem destoantes das que encontramos no Brasil, especialmente tratando-se das regiões desérticas.Para saber mais sobre o Marrocos e entender por que você deve planejar uma visita ao país, confira abaixo 6 motivos!
 
 1. Ter um baixo custo
 ---------------------
@@ -51,4 +51,3 @@ Não são somente os Estados Unidos que abrigam grandes estúdios de cinema. O M
 ‍
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb5b2406ca2aefcd4c088e3_CTA-Viagem.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        

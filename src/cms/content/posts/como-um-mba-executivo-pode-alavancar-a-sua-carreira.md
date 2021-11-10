@@ -1,14 +1,14 @@
 ---
-        titulo: Como um MBA executivo pode alavancar a sua carreira
-        slug: como-um-mba-executivo-pode-alavancar-a-sua-carreira
-        categoria: Educação
-        tags:
-            - tag-1
-        thumbnail: /public/cms-content/media/como-um-mba-executivo-pode-alavancar-a-sua-carreira.jpeg
-        meta_summary: 
-        date: 01/10/2021
-        ---
-        Com o mercado de trabalho cada vez mais concorrido, ser graduado não é mais suficiente para garantir a solidez profissional. Nem para ter uma vantagem competitiva. Por isso, investir em um [**MBA executivo**](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) não é mais uma opção, mas uma necessidade para tornar o currículo mais completo e aumentar as chances de impulsionar a carreira.
+titulo: Como um MBA executivo pode alavancar a sua carreira
+slug: como-um-mba-executivo-pode-alavancar-a-sua-carreira
+categoria: Educação
+tags:
+- tag-1
+thumbnail: /public/cms-content/media/como-um-mba-executivo-pode-alavancar-a-sua-carreira.jpeg
+meta_summary: 
+date: 01/10/2021
+---
+Com o mercado de trabalho cada vez mais concorrido, ser graduado não é mais suficiente para garantir a solidez profissional. Nem para ter uma vantagem competitiva. Por isso, investir em um [**MBA executivo**](https://www.embracon.com.br/blog/quais-carreiras-estarao-em-alta-nos-proximos-anos-descubra-aqui) não é mais uma opção, mas uma necessidade para tornar o currículo mais completo e aumentar as chances de impulsionar a carreira.
 
 Se especializar por meio de um MBA vai muito além de um [diferencial para a carreira](https://www.embracon.com.br/blog/7-sinais-de-que-e-hora-de-investir-em-atualizacao-na-carreira): é aumentar o poder de fogo para encarar a concorrência do mercado e chegar ao topo com novas habilidades e novos entendimentos.
 
@@ -66,4 +66,3 @@ O **MBA executivo** é uma excelente ferramenta para quem deseja impulsionar sua
 Por fim, temos que considerar que está crescendo a tendência da chamada ultra especialização. Este é um modelo de profissional que tem uma concentração de habilidades cada vez mais densa. Sendo assim, começar agora e encontrar caminhos para enriquecer o conhecimento profissional pode significar um futuro muito promissor.
 
 <figure class="w-richtext-figure-type-image w-richtext-align-center" style="max-width:310px">[<div>![Consórcio de Serviços](https://uploads-ssl.webflow.com/5cc70a3a0871f750442da9d5/5eb45fa0d7815a36452bb464_CTA-Servicos.png)</div>](https://embracon.com.br/consorcio?servico&utm_source=blog&utm_medium=referral&utm_campaign=inbound_cta&utm_content=servicos)</figure>> Gostou do nosso post? E que tal saber mais sobre as nossas novidades em tempo real? Siga-nos nas redes sociais e veja tudo na sua timeline. Estamos no [Facebook](https://www.facebook.com/embracon/), [Instagram](https://www.instagram.com/embraconoficial/), [Twitter](https://twitter.com/embracon) e [LinkedIn](https://www.linkedin.com/company/1018875/), além de um canal incrível no [YouTube](https://www.youtube.com/channel/UCL-Y0mv9zc73Iek48NLUBzQ).
-        
