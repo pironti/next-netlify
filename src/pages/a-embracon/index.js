@@ -27,7 +27,7 @@ function Produto() {
   return (
     <>
       <Template>
-        <HeaderSimples header={header}/> 
+        <HeaderSimples header={header} className="bg-brand"/> 
         <QuemSomos />
         <BannerParceiros />
         <QuemSomosMissao />
