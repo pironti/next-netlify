@@ -17,6 +17,7 @@ function Home() {
         
         <NossaSede />
         <BannerSimulacao />
+        <BannerDepoimento />
         <NossosProdutos titulo="Conheça nossos produtos"/>
         <BannerParceiros />
         <VoceSabia />

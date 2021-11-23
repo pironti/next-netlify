@@ -1,12 +1,11 @@
 import Image from "next/image"
 
-
 function BlogHomeButton({ post }) {
   return (
     <div className="md:w-1/3">
       <div className="bg-white m-4 rounded-xl shadow pb-8">
-          <div>
-              <img className="w-full" src={post.imagem} alt={post.titulo}/>
+          <div className="w-full">
+              <Image className="w-full" src={post.imagem} alt={post.titulo} layout='fill'/>
           </div>
         <div className="text-2xl font-black text-gray-900 px-4 mt-4">
           {post.titulo}
