@@ -9,27 +9,25 @@ import BannerPrincipalProduto from "../../components/BannerPrincipalProduto";
 import Vantagens from "../../components/BannerVantagens";
 
 const produto = {
-  nome : "Consórcio de Imóveis",
-  descricao : "Compre um imóvel novo, uma sala comercial ou reforme sua casa",
-  imagem : "/images/produto/bannerProduto.png"
-}
+  nome: "Consórcio de Imóveis",
+  descricao: "Compre um imóvel novo, uma sala comercial ou reforme sua casa",
+  imagem: "/images/produto/bannerProduto.png",
+};
 
 function Produto() {
-
-  const titulo = "Conheça as vantagens do " + produto.nome + " Embracon"
+  const titulo = "Conheça as vantagens do " + produto.nome + " Embracon";
 
   return (
-    <>
+    <main>
       <Template>
-        <BannerPrincipalProduto produto={produto}/> 
-        <BannerConhecaConsorcio produto={produto}/>
+        <BannerPrincipalProduto produto={produto} />
+        <BannerConhecaConsorcio produto={produto} />
         <BannerSimulacao />
         <Vantagens titulo={titulo} />
 
         <NossosProdutos titulo={titulo} />
-
       </Template>
-    </>
+    </main>
   );
 }
 

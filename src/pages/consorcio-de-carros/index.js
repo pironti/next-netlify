@@ -15,21 +15,19 @@ const produto = {
 }
 
 function Produto() {
-
-  const titulo = "Conheça as vantagens do " + produto.nome + " Embracon"
+  const titulo = "Conheça as vantagens do " + produto.nome + " Embracon";
 
   return (
-    <>
+    <main>
       <Template>
-        <BannerPrincipalProduto produto={produto}/> 
-        <BannerConhecaConsorcio produto={produto}/>
+        <BannerPrincipalProduto produto={produto} />
+        <BannerConhecaConsorcio produto={produto} />
         <BannerSimulacao />
         <Vantagens titulo={titulo} />
 
         <NossosProdutos titulo={titulo} />
-
       </Template>
-    </>
+    </main>
   );
 }
 
