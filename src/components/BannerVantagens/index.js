@@ -37,12 +37,12 @@ const ajudas = [
   },
 ];
 
-function Vantagens() {
+function Vantagens({titulo}) {
   return (
     <ContainerBase>
       <div className=".nossos-produtos-title mx-auto mt-8 md:pt-8 text-center pr-8 pl-8">
         <p className="font-extrabold text-4xl md:text-4xl ">
-          Conheça as vantagens do Consórcio de Carros Embracon
+          {titulo}
         </p>
       </div>
       

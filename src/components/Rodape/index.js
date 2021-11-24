@@ -1,6 +1,6 @@
 function Rodape() {
   return (
-    <footer className="bg-white mt-16" aria-labelledby="footer-heading">
+    <footer className="bg-gray-500 mt-16" aria-labelledby="footer-heading">
       <h2 id="footer-heading" className="sr-only">
         Footer
       </h2>

@@ -1,4 +1,7 @@
-function NossaSede() {
+import Image from "next/image";
+import imgBanner from "../../../public/images/home/nossaSede.png"
+
+function  NossaSede() {
   return (
     <div className="">
 
@@ -6,7 +9,7 @@ function NossaSede() {
 
         <div className=" grid gap-5 lg:grid-cols-2 lg:max-w-none">
           <div className="flex flex-col p-8 md:p-16">
-            <img src="/images/home/nossaSede.png" className="mx-auto shadow-md"/>
+            <Image src={imgBanner} className="mx-auto shadow-md"/>
           </div>
           <div className="flex flex-col pr-8 pl-8 pb-8 md:p-16">
             <p className="text-3xl font-black text-gray-900 sm:text-4xl">

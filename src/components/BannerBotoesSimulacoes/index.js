@@ -5,22 +5,27 @@ const produtos = [
   {
     nome: "Consórcio de Imóveis",
     imagem: "/images/icoHome.svg",
+    href: "/consorcio-de-imoveis"
   },
   {
     nome: "Consórcio de Veículos",
     imagem: "/images/icoCarro.svg",
+    href: "/consorcio-de-carros"
   },
   {
     nome: "Consórcio de Pesados",
     imagem: "/images/icoCaminhao.svg",
+    href: "/consorcio-de-veiculos-pesados"
   },
   {
     nome: "Consórcio de Motos",
     imagem: "/images/icoMoto.svg",
+    href: "/consorcio-motos"
   },
   {
     nome: "Consórcio de Serviços",
     imagem: "/images/icoAviao.svg",
+    href: "/consorcio-servicos"
   }
 ];
 

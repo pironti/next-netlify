@@ -1,7 +1,8 @@
+import BlogHomeButton from "../../components/Blog/BlogHomeButton";
 import ContainerBase from "../../components/ContainerBase";
 import NuvemTag from "../../components/NuvemTag";
 import Template from "../../components/Template";
-import BlogHomeButton from "../../components/Blog/BlogHomeButton";
+import { useRouter } from "next/router";
 
 const posts = [
   {
@@ -62,9 +63,21 @@ const posts = [
   },
 ];
 
-function Blog() {
+function Blog({ categoria }) {
+  const router = useRouter();
+
+  console.log(router);
+
+  const titulo = router.query.categoria;
+
   return (
     <Template>
+      <ContainerBase>
+        <div className="p-8">
+          <h1 className="text-4xl font-bold mb-4">{titulo}</h1>
+        </div>
+      </ContainerBase>
+
       <ContainerBase>
         <div class="flex flex-wrap">
           {posts.map((post, index) => (

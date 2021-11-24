@@ -1,5 +1,7 @@
 import BannerBotoesSimulacoes from "../BannerBotoesSimulacoes";
 import SimulacaoItem from "../SimulacaoItem";
+import Image from "next/image";
+import imgBanner from "../../../public/images/home/bannerPrincipalBg.png"
 
 function BannerPrincipal() {
   return (
@@ -9,9 +11,9 @@ function BannerPrincipal() {
       <div className="max-w-7xl mx-auto z-30">
         <div className="relative sm:overflow-hidden z-50">
           <div className="absolute inset-0 ">
-            <img
+            <Image
               className="h-full w-full object-cover bg-gradient-to-r from-black"
-              src="/images/home/bannerPrincipalBg.png"
+              src={imgBanner}
             />
             <div
               className="absolute inset-0 bg-gradient-to-t from-black"

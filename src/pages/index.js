@@ -14,7 +14,6 @@ function Home() {
     <>
       <Template>
         <BannerPrincipal /> 
-        
         <NossaSede />
         <BannerSimulacao />
         <BannerDepoimento />

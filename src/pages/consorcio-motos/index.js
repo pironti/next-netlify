@@ -9,8 +9,8 @@ import BannerPrincipalProduto from "../../components/BannerPrincipalProduto";
 import Vantagens from "../../components/BannerVantagens";
 
 const produto = {
-  nome : "Consórcio de Carros",
-  descricao : "Simule o seu Consórcio de Carros Online",
+  nome : "Consórcio de Motos",
+  descricao : "Compre sua moto e use até 10% da carta de crédito para customização",
   imagem : "/images/produto/bannerProduto.png"
 }
 

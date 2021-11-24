@@ -5,26 +5,31 @@ const nossosProdutos = [
     nome: "Consórcio de Automóveis",
     desc: "Realize seu sonho com o Consórcio de Automóveis Embracon.",
     imge: "/images/home/nossosProdutosCarros.png",
+    href: "/consorcio-de-carros"
   },
   {
     nome: "Consórcio de Imóveis",
     desc: "Realize seu sonho com o Consórcio de Imóveis Embracon.",
     imge: "/images/home/nossosProdutosImoveis.png",
+    href: "/consorcio-de-imoveis"
   },
   {
     nome: "Consórcio de Motocicletas",
     desc: "Realize seu sonho com o Consórcio de Motocicletas Embracon.",
     imge: "/images/home/nossosProdutosMotos.png",
+    href: "/consorcio-motos"
   },
   {
     nome: "Consórcio de Serviços",
     desc: "Realize seu sonho com o Consórcio de Serviços Embracon.",
     imge: "/images/home/nossosProdutosServicos.png",
+    href: "/consorcio-servicos"
   },
   {
     nome: "Consórcio de Veículos Pesados",
     desc: "Realize seu sonho com o Consórcio de Veículos Pesados Embracon.",
     imge: "/images/home/nossosProdutosCaminhoes.png",
+    href: "/consorcio-de-veiculos-pesados"
   }
 ];
 
@@ -46,3 +51,4 @@ function NossosProdutos({titulo}) {
 }
 
 export default NossosProdutos;
+

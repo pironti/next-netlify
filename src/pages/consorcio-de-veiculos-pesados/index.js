@@ -9,8 +9,8 @@ import BannerPrincipalProduto from "../../components/BannerPrincipalProduto";
 import Vantagens from "../../components/BannerVantagens";
 
 const produto = {
-  nome : "Consórcio de Carros",
-  descricao : "Simule o seu Consórcio de Carros Online",
+  nome : "Consórcio de Veículos Pesados Embracon",
+  descricao : "Programe a compra do seu caminhão, ônibus ou máquinas e equipamentos com planos especiais que cabem no seu orçamento.",
   imagem : "/images/produto/bannerProduto.png"
 }
 

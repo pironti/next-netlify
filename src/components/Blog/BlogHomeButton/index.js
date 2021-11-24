@@ -5,7 +5,7 @@ function BlogHomeButton({ post }) {
     <div className="md:w-1/3">
       <div className="bg-white m-4 rounded-xl shadow pb-8">
           <div className="w-full">
-              <Image className="w-full" src={post.imagem} alt={post.titulo} layout='fill'/>
+              <img className="w-full" src={post.imagem} alt={post.titulo}/>
           </div>
         <div className="text-2xl font-black text-gray-900 px-4 mt-4">
           {post.titulo}
