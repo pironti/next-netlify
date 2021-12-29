@@ -1,3 +1,4 @@
+import Router from "next/router";
 import { useState } from "react";
 
 function MenuPrincipal() {
@@ -5,12 +6,46 @@ function MenuPrincipal() {
   const [dropDownIndex, setdropDownIndex] = useState(0)
   const [showDropDown, setshowDropPDown] = useState(false)
 
-  const dropdowns = {
-    aEmbracom: ['História', 'Parceiros', 'Governança', 'Simulador de Consórcio', 'Demonstração Financeira', 'Devolução de Grupos Encerrados'],
-    consorcio: ['Consórcio de Imóveis', 'Consórcio de Veículos', 'Consórcio de Pesados', 'Consórcio de Motos', 'Consórcio de  Serviços'],
-    entenda: ['Consórcio', 'Contemplação', 'Cotas', 'Lance', 'Pagamento'],
-    faleConosco: ['Unidades e Filiais', 'Fale Conosco', 'Trabalhe Conosco', 'Acessoria de Imprensa', 'Vendedores Autorizados']
-  }
+  const menus = [
+    {
+      title: 'A Embracom', index: 0, dropdowns: [
+        { title: 'História', route: '' },
+        { title: 'Parceiros', route: '' },
+        { title: 'Governança', route: '' },
+        { title: 'Simulador de Consórcio', route: '' },
+        { title: 'Demonstração Financeira', route: '' },
+        { title: 'Devolução de Grupos Encerrados', route: '' }
+      ]
+    },
+    {
+      title: 'Consórcio', index: 1, dropdowns: [
+        { title: 'Consórcio de Imóveis', route: '/consorcio-de-imoveis/', image: '/images/navbar/icoImoveis.svg' },
+        { title: 'Consórcio de Veículos', route: '/consorcio-de-carros/', image: '/images/navbar/icoVeiculos.svg' },
+        { title: 'Consórcio de Pesados', route: '/consorcio-de-veiculos-pesados/', image: '/images/navbar/icoPesados.svg' },
+        { title: 'Consórcio de Motos', route: '/consorcio-motos/', image: '/images/navbar/icoMotos.svg' },
+        { title: 'Consórcio de Serviços', route: '/consorcio-servicos/', image: '/images/navbar/icoServicos.svg' }
+      ]
+    },
+    {
+      title: 'Entenda o Consórcio', index: 2, dropdowns: [
+        { title: 'Consórcio', route: '' },
+        { title: 'Contemplação', route: '' },
+        { title: 'Cotas', route: '' },
+        { title: 'Lance', route: '' },
+        { title: 'Pagamento', route: '' }
+      ]
+    },
+    { title: 'Blog', index: 3, route: '', },
+    {
+      title: 'Fale Conosco', index: 4, dropdowns: [
+        { title: 'Unidades e Filiais', route: '' },
+        { title: 'Fale Conosco', route: '' },
+        { title: 'Trabalhe Conosco', route: '' },
+        { title: 'Acessoria de Imprensa', route: '' },
+        { title: 'Vendedores Autorizados', route: '' },
+      ]
+    }
+  ]
 
   return (
     <div>
@@ -49,89 +84,57 @@ function MenuPrincipal() {
                 />
               </svg>
             </button>
+            <div>
+              <ul>
+                {/* {dropdowns.map((menu, index) => {
+                  <li key={index}><a>{menu.desc}</a>+</li>
+                })} */}
+              </ul>
+            </div>
           </div>
           <nav className="hidden md:flex space-x-10">
             <div>
-              <div class="lg:inline-flex lg:w-auto mt-2 lg:mt-0">
-                <ul class="flex lg:flex-row">
-                  <li x-data="{dropdownOpen:false}">
-                    <button href="#"
-                      className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900"
-                      data-collapse-toggle="aEmbracomDropDown"
-                      onClick={() => { setdropDownIndex(0); setshowDropPDown(true); if (showDropDown && dropDownIndex == 0) setshowDropPDown(false) }}
-                    >
-                      A Embraconn
-                    </button>
-                    {dropDownIndex == 0 && showDropDown ?
-                      <div class="lg:absolute bg-white rounded-lg z-50 mt-16 shadow-md"
-                        id="aEmbracomDropDown"
+              <div className="lg:inline-flex lg:w-auto mt-2 lg:mt-0">
+                <ul className="flex lg:flex-row">
+                  {menus.map((menu, index) =>
+                    <li key={index}>
+                      <button href="#"
+                        className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900"
+                        data-collapse-toggle="aEmbracomDropDown"
+                        onClick={() => {
+                          menu.route ?
+                            Router.push(menu.route)
+                            : setdropDownIndex(menu.index); setshowDropPDown(true); if (showDropDown && dropDownIndex == menu.index) setshowDropPDown(false)
+                        }}
                       >
-                        <ul class="space-y-2 py-2 pr-2">
-                          {dropdowns.aEmbracom.map((e, i) => <li><a href="#" class="flex p-1.5 mx-3 font-medium text-black rounded-md hover:bg-gray-100 hover:text-black">{e}</a></li>)}
-                        </ul>
-                      </div>
-                      : null}
-                  </li>
-                  <li>
-                    <button href="#"
-                      className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900"
-                      data-collapse-toggle="aEmbracomDropDown"
-                      onClick={() => { setdropDownIndex(1); setshowDropPDown(true); if (showDropDown && dropDownIndex == 1) setshowDropPDown(false) }}
-                    >
-                      Consórcio
-                    </button>
-                    {dropDownIndex == 1 && showDropDown ?
-                      <div class="lg:absolute bg-white rounded-lg z-50 mt-16 shadow-md"
-                        id="aEmbracomDropDown"
-                      >
-                        <ul class="space-y-2 py-2 pr-2">
-                          {dropdowns.consorcio.map((e, i) => <li><a href="#" class="flex p-1.5 mx-3 font-medium text-black rounded-md hover:bg-gray-100 hover:text-black">{e}</a></li>)}
-                        </ul>
-                        <div class="bg-gray-100 p-4 rounded-lg font-bold px-20 hover:bg-gray-200">
-                          Conheça Sobre o Consórcio
-                        </div>
-                      </div>
-                      : null}
-                  </li>
-                  <li>
-                    <button href="#"
-                      className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900"
-                      data-collapse-toggle="aEmbracomDropDown"
-                      onClick={() => { setdropDownIndex(2); setshowDropPDown(true); if (showDropDown && dropDownIndex == 2) setshowDropPDown(false) }}
-                    >
-                      Entenda o Consórcio
-                    </button>
-                    {dropDownIndex == 2 && showDropDown ?
-                      <div class="lg:absolute bg-white rounded-lg z-50 mt-16 shadow-md"
-                        id="aEmbracomDropDown"
-                      >
-                        <ul class="space-y-2 py-2 pr-2">
-                          {dropdowns.entenda.map((e, i) => <li><a href="#" class="flex p-1.5 mx-3 font-medium text-black rounded-md hover:bg-gray-100 hover:text-black">{e}</a></li>)}
-                        </ul>
-                      </div>
-                      : null}
-                  </li>
-                  <li>
-                    <a href="#" className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900">Blog</a>
-                  </li>
-                  <li>
-                    <button href="#"
-                      className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900"
-                      data-collapse-toggle="aEmbracomDropDown"
-                      onClick={() => { setdropDownIndex(4); setshowDropPDown(true); if (showDropDown && dropDownIndex == 4) setshowDropPDown(false) }}
-                    >
-                      Fale Conosco
-                    </button>
-                    {dropDownIndex == 4 && showDropDown ?
-                      <div class="lg:absolute bg-white rounded-lg z-50 mt-16 shadow-md"
-                        id="aEmbracomDropDown"
-                      >
-                        <ul class="space-y-2 py-2 pr-2">
-                        {dropdowns.faleConosco.map((e, i) => <li><a href="#" class="flex p-1.5 mx-3 font-medium text-black rounded-md hover:bg-gray-100 hover:text-black">{e}</a></li>)}
-                       </ul>
-                      </div>
-                      : null}
-                  </li>
+                        {menu.title}
+                      </button>
+                      {
+                        menu.dropdowns ?
+                          dropDownIndex == menu.index && showDropDown ?
+                            <div className="lg:absolute bg-white rounded-lg z-50 mt-16 shadow-md"
+                              id="aEmbracomDropDown"
+                            >
+                              <ul className="space-y-2 py-2 pr-2">
+                                {menu.dropdowns.map((dropdown, index) =>
+                                  <li key={index}
+                                    onClick={() => Router.push(dropdown.route)}
+                                  >
+                                    <a href="#" className="flex p-1.5 mx-3 font-medium text-black rounded-md hover:bg-gray-100 hover:text-black">
+                                      {dropdown.image ?
+                                        <img src={dropdown.image} className="pr-4" />
+                                        : null}
+                                      {dropdown.title}
+                                    </a>
+                                  </li>
+                                )}
+                              </ul>
+                            </div>
+                            : null
+                          : null
+                      }
+                    </li>
+                  )}
                 </ul>
               </div>
             </div>
