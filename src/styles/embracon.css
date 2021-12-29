@@ -1,0 +1,40 @@
+.banner-simulacao-bg {
+    background: #CE181E; 
+    padding: 0px;
+}
+
+.banner-simulacao-h1 {
+    color: white;
+    width: 100%;
+    font-size: 32px;
+}
+
+.banner-simulacao-h2 {
+    color: white;
+    font-size: 20px; 
+}
+
+.banner-simulacao-button {
+    color: #CE181E;
+}
+
+.nossos-produtos-banner {
+    width: 1500px;
+}
+
+.nossos-produtos-title{
+    font-family: Inter;
+}
+
+.banner-principal-bg {
+    height: 500px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 19.79%, #030303 100%), url("/images/home/bannerPrincipalBg.png");
+}
+
+.wrapper{
+	display: flex;
+	overflow-x: auto;
+}
+.wrapper::-webkit-scrollbar{
+	width:0;
+}

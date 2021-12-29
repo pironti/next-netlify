@@ -1,3 +1,35 @@
 categorias:
-  - slug: cat-1
-    name: ldkf
+  - slug: financas-pessoais
+    name: Finanças Pessoais
+  - slug: consorcio
+    name: Consórcio
+  - slug: decoracao-e-reformas
+    name: Decoração e Reformas
+  - slug: imoveis
+    name: Imóveis
+  - slug: moto
+    name: Moto
+  - slug: carros
+    name: Carros
+  - slug: saude-e-estetica
+    name: Saúde e Estética
+  - slug: contemplacao
+    name: Contemplação
+  - slug: pesados
+    name: Pesados
+  - slug: viagens
+    name: Viagens
+  - slug: festas
+    name: Festas
+  - slug: assembleias
+    name: Assembleias
+  - slug: educacao
+    name: Educação
+  - slug: servicos
+    name: Serviços
+  - slug: lance
+    name: Lance
+  - slug: cotas
+    name: Cotas
+  - slug: pagamento
+    name: Pagamento

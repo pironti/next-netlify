@@ -1,15 +1,28 @@
-import Default from "../componets/layouts/default"
-import Script from 'next/script'
+import BannerSimulacao from "../components/BannerSimulacao";
+import NossosProdutos from "../components/NossosProdutos";
+import NossaSede from "../components/NossaSede";
+import Template from "../components/Template";
+import BannerPrincipal from "../components/BannerPrincipal";
+import BannerParceiros from "../components/BannerParceiros";
+import VoceSabia from "../components/VoceSabia";
+import BannerDepoimento from "../components/BannerDepoimentos";
+import BannerBotoesSimulacoes from "../components/BannerBotoesSimulacoes"
 
-export default function Index() {
+//<<BannerBotoesSimulacoes /> />
+function Home() {
   return (
-    'oi'
-  )
+    <>
+      <Template>
+        <BannerPrincipal /> 
+        <NossaSede />
+        <BannerSimulacao />
+        <BannerDepoimento />
+        <NossosProdutos titulo="Conheça nossos produtos"/>
+        <BannerParceiros />
+        <VoceSabia />
+      </Template>
+    </>
+  );
 }
-Index.getLayout = function getLayout(page) {
-  return (
-    <Default> 
-      {page}
-    </Default>
-  )
-}
+
+export default Home;
