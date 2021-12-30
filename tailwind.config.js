@@ -11,4 +11,8 @@ module.exports = {
   plugins: [
     require('@tailwindcss/typography'),
   ],
+  screens: {
+    'xsm': '240px',
+    // => @media (min-width: 240px) { ... }
+  }
 }

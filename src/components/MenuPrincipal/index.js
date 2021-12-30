@@ -5,6 +5,20 @@ function MenuPrincipal() {
 
   const [dropDownIndex, setdropDownIndex] = useState(0)
   const [showDropDown, setshowDropPDown] = useState(false)
+  const [showMobileMenu, setshowMobileMenu] = useState(false)
+
+  function select(menu, event) {
+    menu.route ?
+      Router.push(menu.route)
+      : setdropDownIndex(menu.index); setshowDropPDown(true); if (showDropDown && dropDownIndex == menu.index) setshowDropPDown(false)
+    if (menu.index == 3) setshowDropPDown(false)
+  }
+
+  function handleShowMobileMenu() {
+    setshowMobileMenu(!showMobileMenu)
+    setshowMobileMenu(!showMobileMenu)
+    setshowDropPDown(false)
+  }
 
   const menus = [
     {
@@ -35,7 +49,7 @@ function MenuPrincipal() {
         { title: 'Pagamento', route: '' }
       ]
     },
-    { title: 'Blog', index: 3, route: '', },
+    { title: 'Blog', index: 3, route: '/blog', },
     {
       title: 'Fale Conosco', index: 4, dropdowns: [
         { title: 'Unidades e Filiais', route: '' },
@@ -49,78 +63,76 @@ function MenuPrincipal() {
 
   return (
     <div>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
+      <div className="max-w-7xl mx-auto px-4 py-2 sm:px-6 lg:px-8 bg-white">
+        <div className="flex justify-between px-2  items-center md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <a href="#">
               <span className="sr-only">Workflow</span>
-              <img
-                className="w-auto"
-                src="/images/logo.svg"
-                alt=""
-              />
+              <img className="w-auto" onClick={() => Router.push('/')} src="/images/logo.svg" alt="Embracon" />
             </a>
           </div>
-          <div className="-mr-2 -my-2 md:hidden">
-            <button
-              type="button"
-              className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
-              aria-expanded="false"
-            >
-              <span className="sr-only">Open menu</span>
-              <svg
-                className="h-6 w-6"
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                aria-hidden="true"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  d="M4 6h16M4 12h16M4 18h16"
-                />
-              </svg>
-            </button>
-            <div>
-              <ul>
-                {/* {dropdowns.map((menu, index) => {
-                  <li key={index}><a>{menu.desc}</a>+</li>
-                })} */}
-              </ul>
+          <div className="inline-flex items-center justify-end ml-2 w-96 md:hidden">
+            <a href="#" className="p-1.5 mr-1 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white text-sm shadow-md ">
+              Clientes
+            </a>
+            <div className="pl-2" >
+              <button className="w-10">
+                <img onClick={handleShowMobileMenu} src={showMobileMenu ? "/images/navbar/icoClose.svg" : "/images/navbar/icoMenu.svg"} />
+              </button>
+              {showMobileMenu ?
+                <div className="absolute sm:absolute xsm:absolute rounded-lg w-[250px] right-0 z-50 mt-10 shadow-lg bg-white mr-10">
+                  <ul className="divide-y">
+                    {menus.map((menu, index) =>
+                      <div key={index}>
+                        <button className="w-full text-left hover:bg-gray-100">
+                          <li key={index} className="p-2 font-semibold align-middle text-sm" onClick={() => select(menu, event)}>
+                            {menu.title.toUpperCase()}
+                            {menu.dropdowns ?
+                              <div className="float-right align-middle">
+                                <img src={dropDownIndex == menu.index && showDropDown ? "/images/navbar/icoLess.svg" : "/images/navbar/icoMore.svg"} width="12" className="pt-1.5" />
+                              </div>
+                              : null}
+
+                            <div className="border-b-3 border-gray-200 px-4"></div>
+                          </li>
+                        </button>
+                        {menu.dropdowns && showDropDown && dropDownIndex == menu.index ?
+                          <ul className="px-1">
+                            {menu.dropdowns.map((dropdown, index) =>
+                              <li key={index} className="font-normal text-sm py-1" onClick={() => Router.push(dropdown.route)}>
+                                <button className="w-full px-1 text-left rounded-md hover:bg-gray-100">{dropdown.title}</button>
+                              </li>
+                            )}
+                          </ul>
+                          : null}
+                      </div>
+                    )}
+                  </ul>
+                </div>
+                : null}
             </div>
           </div>
           <nav className="hidden md:flex space-x-10">
             <div>
-              <div className="lg:inline-flex lg:w-auto mt-2 lg:mt-0">
-                <ul className="flex lg:flex-row">
+              <div className="md:inline-flex lg:w-auto mt-2 lg:mt-0">
+                <ul className="md:inline-flex">
                   {menus.map((menu, index) =>
                     <li key={index}>
                       <button href="#"
-                        className="flex px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-900"
+                        className="flex px-4 py-2 md:text-xs text-base font-medium text-gray-500 hover:text-gray-900"
                         data-collapse-toggle="aEmbracomDropDown"
-                        onClick={() => {
-                          menu.route ?
-                            Router.push(menu.route)
-                            : setdropDownIndex(menu.index); setshowDropPDown(true); if (showDropDown && dropDownIndex == menu.index) setshowDropPDown(false)
-                        }}
+                        onClick={(event) => select(menu, event)}
                       >
                         {menu.title}
                       </button>
                       {
                         menu.dropdowns ?
                           dropDownIndex == menu.index && showDropDown ?
-                            <div className="lg:absolute bg-white rounded-lg z-50 mt-16 shadow-md"
-                              id="aEmbracomDropDown"
-                            >
-                              <ul className="space-y-2 py-2 pr-2">
+                            <div className={`absolute bg-white rounded-lg  z-50 mt-10 shadow-md`}>
+                              <ul className="space-y-2 py-2 ">
                                 {menu.dropdowns.map((dropdown, index) =>
-                                  <li key={index}
-                                    onClick={() => Router.push(dropdown.route)}
-                                  >
-                                    <a href="#" className="flex p-1.5 mx-3 font-medium text-black rounded-md hover:bg-gray-100 hover:text-black">
+                                  <li key={index} onClick={() => Router.push(dropdown.route)}>
+                                    <a href="#" className={`flex py-1.5 px-2 mx-3 font-medium min-w-[200px] text-black rounded-md hover:bg-gray-100 hover:text-black${menu.index == 2 ? " pr-20" : ""}`}>
                                       {dropdown.image ?
                                         <img src={dropdown.image} className="pr-4" />
                                         : null}
@@ -129,6 +141,13 @@ function MenuPrincipal() {
                                   </li>
                                 )}
                               </ul>
+                              {menu.index == 1 ?
+                                <li key={index} onClick={() => Router.push(dropdown.route)}>
+                                  <a href="#" className={`flex p-1.5 px-20 py-3 font-bold text-black rounded-md bg-gray-100 hover:bg-gray-200 hover:text-black`}>
+                                    Conheça Sobre o Consórcio
+                                  </a>
+                                </li>
+                                : null}
                             </div>
                             : null
                           : null
@@ -139,23 +158,15 @@ function MenuPrincipal() {
               </div>
             </div>
           </nav>
-          <div className="flex items-center justify-end md:flex-1 lg:w-0 flex">
-            <a
-              href="#"
-              className="invisible md:visible p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md w-auto flex space-x-4 mr-2"
-            >
-              <img
-                className="" src="/images/barcode.svg" alt=""
-              /> &nbsp;
+          {/* <div className="flex items-center justify-end md:flex-1 lg:w-0 flex">
+            <a href="#"className="invisible md:visible p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md w-auto flex space-x-4 mr-2">
+              <img className="" src="/images/barcode.svg" alt="" /> &nbsp;
               2ª via boleto
             </a>
-            <a
-              href="#"
-              className="invisible md:visible p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md "
-            >
+            <a href="#" className="invisible md:visible p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md ">
               Clientes
             </a>
-          </div>
+          </div> */}
         </div >
       </div >
     </div >
