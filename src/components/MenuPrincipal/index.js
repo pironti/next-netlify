@@ -68,7 +68,7 @@ function MenuPrincipal() {
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <a href="#">
               <span className="sr-only">Workflow</span>
-              <img className="w-auto" onClick={() => Router.push('/')} src="/images/logo.svg" alt="Embracon" />
+              <img className="w-20 lg:w-auto" onClick={() => Router.push('/')} src="/images/logo.svg" alt="Embracon" />
             </a>
           </div>
           <div className="inline-flex items-center justify-end ml-2 w-96 md:hidden">
@@ -119,7 +119,7 @@ function MenuPrincipal() {
                   {menus.map((menu, index) =>
                     <li key={index}>
                       <button href="#"
-                        className="flex px-4 py-2 md:text-xs text-base font-medium text-gray-500 hover:text-gray-900"
+                        className="flex px-1 md:px-3 py-2 text-md md:text-xs text-base font-medium text-gray-500 hover:text-gray-900 "
                         data-collapse-toggle="aEmbracomDropDown"
                         onClick={(event) => select(menu, event)}
                       >
@@ -158,15 +158,15 @@ function MenuPrincipal() {
               </div>
             </div>
           </nav>
-          {/* <div className="flex items-center justify-end md:flex-1 lg:w-0 flex">
-            <a href="#"className="invisible md:visible p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md w-auto flex space-x-4 mr-2">
+          <div className="hidden lg:inline-flex items-center justify-end md:flex-1 lg:w-0 flex">
+            <a href="#" className="p-1  lg:p-3 border-2 border-red-600 rounded-md bg-white text-red-600 shadow-md w-auto flex space-x-4 mr-2 md:text-xs">
               <img className="" src="/images/barcode.svg" alt="" /> &nbsp;
               2ª via boleto
             </a>
-            <a href="#" className="invisible md:visible p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md ">
+            <a href="#" className="p-1 lg:p-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md md:text-xs ">
               Clientes
             </a>
-          </div> */}
+          </div>
         </div >
       </div >
     </div >
