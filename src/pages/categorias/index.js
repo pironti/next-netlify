@@ -109,7 +109,7 @@ function CategoriasBlog() {
       </ContainerBase>
 
       <ContainerBase>
-        <div class="md:flex flex-wrap m-4">
+        <div className="md:flex flex-wrap m-4">
           {categorias.map((categoria, index) => (
             <BlogCategoraiButton
               key={index}

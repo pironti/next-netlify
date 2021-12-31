@@ -6,21 +6,9 @@ import imgBanner from "../../../public/images/home/bannerPrincipalBg.png"
 function BannerPrincipal() {
   return (
     <div className="z-20 relative">
-      <div className="absolute inset-x-0 bottom-0 h-1/2"></div>
-
       <div className="max-w-7xl mx-auto z-30">
-        <div className="relative sm:overflow-hidden z-50">
-          <div className="absolute inset-0 ">
-            <Image
-              className="h-full w-full object-cover bg-gradient-to-r from-black"
-              src={imgBanner}
-            />
-            <div
-              className="absolute inset-0 bg-gradient-to-t from-black"
-              aria-hidden="true"
-            ></div>
-          </div>
-          <div className="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 mt-10">
+        <div className="relative sm:overflow-hidden z-50">      
+          <div className="banner-principal-bg relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32">
             <h1 className="font-bold tracking-tight text-5xl sm:text-5xl lg:text-6xl md:ml-16">
               <span className="block text-4xl md:text-5xl text-center md:text-left text-white md:w-1/2 leading-tight mt-32 md:mt-4">
                 Simule e compre o seu consórcio online
@@ -37,8 +25,7 @@ function BannerPrincipal() {
             </h2>
           </div>
         </div>
-
-        <div className="relative px-4 md:px-16 h-28 md:-mt-32 z-50 mb-48">
+        <div className="relative px-4 md:px-16 z-50 -mt-20">
           <BannerBotoesSimulacoes />
         </div>
       </div>

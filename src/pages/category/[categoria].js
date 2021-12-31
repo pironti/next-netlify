@@ -79,7 +79,7 @@ function Blog({ categoria }) {
       </ContainerBase>
 
       <ContainerBase>
-        <div class="flex flex-wrap">
+        <div className="flex flex-wrap">
           {posts.map((post, index) => (
             <BlogHomeButton key={index} post={post}></BlogHomeButton>
           ))}

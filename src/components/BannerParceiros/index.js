@@ -30,22 +30,21 @@ const parceiros = [
   },
   {
     logo: "/images/parceiros/Cresol.png",
-  },
-  {
-    logo: "/images/parceiros/Logo-Banestes-Site.svg",
-  },
+  }
 ];
 
 function BannerParceiros() {
   return (
     <ContainerBase bgBase="bg-white">
       <div className="bg-white md:mt-12 text-center p-16 sr-only md:not-sr-only ">
-        <h1 className="font-bold text-2xl ml-4 mr-4">
+        <h1 className="font-bold text-2xl ml-4 mr-4 py-8">
           PARCEIROS EMBRACON / MARCAS ADMINISTRADAS
         </h1>
-        <div className="flex flex-wrap">
-          {parceiros.map((parceiro, index) => (
-            <img src={parceiro.logo} />
+        <div className="flex flex-wrap md:px-16 items-center sr-only md:not-sr-only">
+        {parceiros.map((parceiro, index) => (
+          <div key={index} className="p-4">
+            <img key={index} src={parceiro.logo} />
+            </div>
           ))}
         </div>
       </div>

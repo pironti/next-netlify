@@ -151,7 +151,7 @@ function Rodape() {
                   </h3>
                   <ul role="list" className="mt-2 space-y-1">
                     {menu.itens.map((item, index) =>
-                      <li keye={index}>
+                      <li key={index}>
                         <a href={''} onClick={() => Router.push(item.route || '')} className="text-sm font-extralight text-white hover:text-gray-100">
                           {item.title}
                         </a>
@@ -169,7 +169,7 @@ function Rodape() {
                   </h3>
                   <ul role="list" className="mt-2 space-y-1">
                     {menu.itens.map((item, index) =>
-                      <li keye={index}>
+                      <li key={index}>
                         <a href={item.route || ''} className="text-sm font-extralight text-white hover:text-gray-100">
                           {item.title}
                         </a>
@@ -187,7 +187,7 @@ function Rodape() {
                   </h3>
                   <ul role="list" className="mt-2 space-y-1">
                     {menu.itens.map((item, index) =>
-                      <li keye={index}>
+                      <li key={index}>
                         <a href={item.route || ''} className="text-sm font-extralight text-white hover:text-gray-100">
                           {item.title}
                         </a>

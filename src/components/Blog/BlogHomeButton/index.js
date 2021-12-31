@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 
 function BlogHomeButton({ post }) {
   return (
@@ -8,7 +9,9 @@ function BlogHomeButton({ post }) {
               <img className="w-full" src={post.imagem} alt={post.titulo}/>
           </div>
         <div className="text-2xl font-black text-gray-900 px-4 mt-4">
+          <Link href="blog/carro-automatico-vale-a-pena">
           {post.titulo}
+          </Link>
         </div>
         <div className="text-gray-900 px-4 mt-4">
             {post.texto}</div>

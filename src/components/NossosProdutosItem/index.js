@@ -31,7 +31,7 @@ function NossosProdutosItem({ produto }) {
                 </button>
               </Link>
               &nbsp;
-              <a target="_blank" href={produto.simu}>
+              <a href={produto.simu}>
                 <button
                   type="button"
                   className="md:mx-auto px-7 mx-auto py-3 border-2 border-red-600 border-transparent rounded-md bg-red-600 text-white shadow-md mt-6"

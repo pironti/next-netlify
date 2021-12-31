@@ -54,7 +54,7 @@ function QuemSomos() {
           <br />
           Com aproximadamente 3000 colaboradores, foi premiada por mais de 11
           anos consecutivos no ranking das 100 Melhores Empresas para Trabalhar
-          no País pelo "Great Place To Work", além de ser destaque em avaliações
+          no País pelo Great Place To Work, além de ser destaque em avaliações
           das áreas de gestão de pessoas por publicações respeitadas, como Valor
           Econômico, Revista Época e Revista Você S/A.
         </div>
