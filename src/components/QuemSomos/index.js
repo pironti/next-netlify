@@ -8,7 +8,7 @@ function QuemSomos() {
         segundo ranking do Banco Central. Com cerca de 90 filiais e mais de 600
         parceiros de vendas em todo o Brasil, há mais de 30 anos trabalhamos
         para realizar o seu sonho.
-        <div className=".nossos-produtos-title mx-auto md:mb-4 mt-8 text-center pr-8 pl-8 mb-8">
+        <div className="nossos-produtos-title mx-auto md:mb-4 mt-8 text-center pr-8 pl-8 mb-8">
           <p className="font-extrabold text-4xl md:text-4xl md:mb-8">
             Quem somos
           </p>
